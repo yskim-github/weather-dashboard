@@ -827,9 +827,19 @@ with tab_weather:
 # TAB 2: 270m 서리 조기경보 (XGBoost 앙상블)
 # -------------------------------------------------------------
 with tab_frost:
-    st.title("❄️ 전국 270m 농업기상 서리 조기경보 (XGBoost 앙상블)")
-    st.markdown("5km 동네예보 + 지형 GNN 270m 미세지형 예보 격자를 기반으로 270m 필지 단위 서리 위험을 3단계로 조기 판별합니다.")
-    st.markdown("---")
+    st.markdown(f"""
+    <div style="display: flex; align-items: baseline; justify-content: space-between; border-bottom: 2px solid rgba(128,128,128,0.2); padding-bottom: 8px; margin-bottom: 14px; margin-top: -6px;">
+        <div style="font-size: 1.35rem; font-weight: 800; color: #f1f5f9; display: flex; align-items: center; gap: 8px;">
+            <span>❄️ 전국 270m 농업기상 서리 조기경보</span>
+            <span style="font-size: 0.95rem; font-weight: 700; color: #38bdf8; background: rgba(56,189,248,0.12); padding: 2px 10px; border-radius: 6px; border: 1px solid rgba(56,189,248,0.3);">
+                XGBoost 앙상블
+            </span>
+        </div>
+        <div style="font-size: 0.85rem; color: #94a3b8;">
+            5km 동네예보 + 270m 미세지형 결합 필지별 위험 판별
+        </div>
+    </div>
+    """, unsafe_allow_html=True)
     
     fcol1, fcol2, fcol3 = st.columns([1.5, 1, 1.5])
     with fcol1:
@@ -858,7 +868,11 @@ with tab_frost:
     col_map_f, col_info_f = st.columns([1.2, 1])
     
     with col_map_f:
-        st.subheader("🗺️ 전국 270m 서리 조기경보 지도")
+        st.markdown(f"""
+        <div style="font-size: 1.05rem; font-weight: 700; color: #f1f5f9; height: 32px; display: flex; align-items: center; margin-bottom: 6px;">
+            🗺️ 270m 서리 조기경보 지도&nbsp;<span style="font-size: 0.85rem; font-weight: 600; color: #38bdf8; margin-left: 4px;">(D+{sel_lead_day})</span>
+        </div>
+        """, unsafe_allow_html=True)
         if os.path.exists(png_f_path):
             img_f = Image.open(png_f_path)
             st.image(img_f, use_container_width=True)
@@ -878,7 +892,11 @@ with tab_frost:
             st.info("우측 상단의 [⚡ 해당 날짜 서리 예측 생성/갱신] 버튼을 누르면 즉시 연산 및 지도가 생성됩니다.")
             
     with col_info_f:
-        st.subheader("📊 270m 서리 위험 통계 및 농가 대응 요령")
+        st.markdown("""
+        <div style="font-size: 1.05rem; font-weight: 700; color: #f1f5f9; height: 32px; display: flex; align-items: center; margin-bottom: 6px;">
+            📊 서리 위험 통계 & 대응 요령 <span style="font-size: 0.82rem; font-weight: 500; color: #94a3b8; margin-left: 6px;">(전국 134만 격자 필지)</span>
+        </div>
+        """, unsafe_allow_html=True)
         
         if os.path.exists(tiff_f_path):
             import tifffile as tiff
@@ -902,7 +920,7 @@ with tab_frost:
             <div class="metric-card">
                 <div class="metric-label">🚨 경고 (Warning)</div>
                 <div class="metric-value frost-warning">{p_warn:.1f}%</div>
-                <small>{n_warn:,}개 격자</small>
+                <div style="font-size: 0.72rem; color: #94a3b8; line-height: 1.1;">{n_warn:,}개 격자</div>
             </div>
             """, unsafe_allow_html=True)
         with m2:
@@ -910,7 +928,7 @@ with tab_frost:
             <div class="metric-card">
                 <div class="metric-label">⚠️ 주의 (Watch)</div>
                 <div class="metric-value frost-watch">{p_watch:.1f}%</div>
-                <small>{n_watch:,}개 격자</small>
+                <div style="font-size: 0.72rem; color: #94a3b8; line-height: 1.1;">{n_watch:,}개 격자</div>
             </div>
             """, unsafe_allow_html=True)
         with m3:
@@ -918,14 +936,18 @@ with tab_frost:
             <div class="metric-card">
                 <div class="metric-label">✅ 안전 (Safe)</div>
                 <div class="metric-value frost-safe">{p_safe:.1f}%</div>
-                <small>{n_safe:,}개 격자</small>
+                <div style="font-size: 0.72rem; color: #94a3b8; line-height: 1.1;">{n_safe:,}개 격자</div>
             </div>
             """, unsafe_allow_html=True)
             
         st.markdown("<div style='margin-bottom: 12px;'></div>", unsafe_allow_html=True)
         
         st.markdown("""
-        #### 📋 앙상블 판별 기준 및 대응 수칙
+        <div style="font-size: 0.95rem; font-weight: 700; color: #f1f5f9; margin-bottom: 6px;">
+            📋 앙상블 판별 기준 및 대응 수칙
+        </div>
+        """, unsafe_allow_html=True)
+        st.markdown("""
         * **🚨 경고 (둘 다 0)**:
           - **서리 발생 확실 (확률 90% 이상)**
           - **행동 요령**: 과수원 방상팬(송풍법) 및 미세살수기(살수빙결법) 전면 가동, 저온 취약 작물 보온 피복재 덮기
@@ -939,8 +961,14 @@ with tab_frost:
         st.info("💡 **모델 구성**: 270m GNN 최저기온(tmin), 풍속(ws), 습도(hu), 강수량(pre) + 5km 대기 운량(clo)을 `xgboost_model_A.pkl`과 `xgboost_model_B.pkl`에 입력하여 도출합니다.")
         
     st.markdown("---")
-    st.subheader("📍 주요 거점별 3일간(D+1~D+3) 서리 판별 & 270m 기상 예보 일괄 표출")
-    st.markdown("청주시 상당구 미원면, 국립농업과학원, 익산시 월성동 3개 지점의 **D+1(내일), D+2(모레), D+3(글피)** 270m 고해상도 수치예보 기상장 및 서리 예측 결과입니다.")
+    st.markdown("""
+    <div style="font-size: 1.05rem; font-weight: 700; color: #f1f5f9; height: 32px; display: flex; align-items: center; margin-top: 8px; margin-bottom: 4px;">
+        📍 주요 거점별 3일간(D+1~D+3) 서리 판별 & 270m 기상 예보 표출
+    </div>
+    <div style="font-size: 0.84rem; color: #94a3b8; margin-bottom: 10px;">
+        청주시 상당구 미원면, 국립농업과학원, 익산시 월성동 3개 지점의 <b>D+1(내일), D+2(모레), D+3(글피)</b> 270m 고해상도 수치예보 기상장 및 서리 예측 결과입니다.
+    </div>
+    """, unsafe_allow_html=True)
     
     df_pts = get_point_frost_weather_data(sel_frost_date)
     if df_pts is not None and not df_pts.empty:
@@ -954,9 +982,19 @@ with tab_frost:
 # TAB 3: 270m 미세지형 수치예보 기상장 (GNN 다운스케일링)
 # -------------------------------------------------------------
 with tab_forecast:
-    st.title("📡 270m 전국 미세지형 수치예보 격자장 (GNN 다운스케일링)")
-    st.markdown("기상청 5km 동네예보를 270m 수치표고모델(DEM), 경사도, 향, 동적 감률(Lapse rate)을 반영하여 134만개 격자로 공간 복원한 고해상도 예보장입니다.")
-    st.markdown("---")
+    st.markdown(f"""
+    <div style="display: flex; align-items: baseline; justify-content: space-between; border-bottom: 2px solid rgba(128,128,128,0.2); padding-bottom: 8px; margin-bottom: 14px; margin-top: -6px;">
+        <div style="font-size: 1.35rem; font-weight: 800; color: #f1f5f9; display: flex; align-items: center; gap: 8px;">
+            <span>📡 270m 미세지형 수치예보 격자장</span>
+            <span style="font-size: 0.95rem; font-weight: 700; color: #a855f7; background: rgba(168,85,247,0.12); padding: 2px 10px; border-radius: 6px; border: 1px solid rgba(168,85,247,0.3);">
+                GNN 공간 다운스케일링
+            </span>
+        </div>
+        <div style="font-size: 0.85rem; color: #94a3b8;">
+            기상청 5km 동네예보 → 270m DEM·지형물리 134만 격자 복원
+        </div>
+    </div>
+    """, unsafe_allow_html=True)
     
     fc_vars = ['Tmin', 'Tmax', 'Tavg', 'Precipitation', 'Humidity', 'Wind_10m', 'Solar_Rad', 'Sunshine']
     
@@ -989,7 +1027,11 @@ with tab_forecast:
     col_fc_map, col_fc_info = st.columns([1.2, 1])
     
     with col_fc_map:
-        st.subheader(f"🗺️ 270m 예보 격자도: {VAR_LABELS.get(sel_fc_var, sel_fc_var)}")
+        st.markdown(f"""
+        <div style="font-size: 1.05rem; font-weight: 700; color: #f1f5f9; height: 32px; display: flex; align-items: center; margin-bottom: 6px;">
+            🗺️ 270m 예보 격자도:&nbsp;<span style="color: #a855f7;">{VAR_LABELS.get(sel_fc_var, sel_fc_var)}</span>&nbsp;<span style="font-size: 0.85rem; font-weight: 600; color: #94a3b8; margin-left: 4px;">(D+{sel_fc_lead})</span>
+        </div>
+        """, unsafe_allow_html=True)
         if os.path.exists(fc_tiff_path):
             img_bytes, stats = render_forecast_map(fc_tiff_path, sel_fc_var)
             if img_bytes:
@@ -1009,7 +1051,11 @@ with tab_forecast:
             st.info("우측 상단의 [⚡ 270m 예보장 즉시 생성 (GNN)] 버튼을 누르면 5~10초 내에 8개 전 기상변수 예보 격자가 일괄 생성됩니다.")
             
     with col_fc_info:
-        st.subheader("📊 270m 예보장 전국 통계 지표")
+        st.markdown("""
+        <div style="font-size: 1.05rem; font-weight: 700; color: #f1f5f9; height: 32px; display: flex; align-items: center; margin-bottom: 6px;">
+            📊 270m 전국 통계 지표 <span style="font-size: 0.82rem; font-weight: 500; color: #94a3b8; margin-left: 6px;">(전국 134만 격자 필지)</span>
+        </div>
+        """, unsafe_allow_html=True)
         if os.path.exists(fc_tiff_path):
             _, stats = render_forecast_map(fc_tiff_path, sel_fc_var)
             unit_s = VAR_UNITS.get(sel_fc_var, '')
@@ -1019,30 +1065,31 @@ with tab_forecast:
                     st.markdown(f"""
                     <div class="metric-card">
                         <div class="metric-label">전국 최저값</div>
-                        <div class="metric-value">{stats['min']:.2f}</div>
-                        <small>{unit_s}</small>
+                        <div class="metric-value">{stats['min']:.2f} <span style="font-size: 0.82rem; font-weight: 400; color: #94a3b8;">{unit_s}</span></div>
                     </div>
                     """, unsafe_allow_html=True)
                 with f2:
                     st.markdown(f"""
                     <div class="metric-card">
                         <div class="metric-label">전국 평균값</div>
-                        <div class="metric-value">{stats['mean']:.2f}</div>
-                        <small>{unit_s}</small>
+                        <div class="metric-value">{stats['mean']:.2f} <span style="font-size: 0.82rem; font-weight: 400; color: #94a3b8;">{unit_s}</span></div>
                     </div>
                     """, unsafe_allow_html=True)
                 with f3:
                     st.markdown(f"""
                     <div class="metric-card">
                         <div class="metric-label">전국 최고값</div>
-                        <div class="metric-value">{stats['max']:.2f}</div>
-                        <small>{unit_s}</small>
+                        <div class="metric-value">{stats['max']:.2f} <span style="font-size: 0.82rem; font-weight: 400; color: #94a3b8;">{unit_s}</span></div>
                     </div>
                     """, unsafe_allow_html=True)
                     
             st.markdown("<div style='margin-bottom: 12px;'></div>", unsafe_allow_html=True)
-            st.markdown(f"""
-            #### 📌 GNN 공간 다운스케일링 원리
+            st.markdown("""
+            <div style="font-size: 0.95rem; font-weight: 700; color: #f1f5f9; margin-bottom: 6px;">
+                📌 GNN 공간 다운스케일링 원리
+            </div>
+            """, unsafe_allow_html=True)
+            st.markdown("""
             * **기상청 5km 동네예보 격자**: 전국 37,697개 격자 중 유효 4,292개 셀 입력
             * **270m 미세지형 복원**: 전국 1,341,592개 유효 필지(Land mask) 격자 예측
             * **물리 법칙 보호**: 동적 기온 감률 공식(`0.0098 - (RH/100)*0.0048`)을 적용하여 고도 및 상대습도에 따른 국지 냉기 침강(Cold air drainage) 및 야간 복사냉각 효과를 정밀하게 재현합니다.
