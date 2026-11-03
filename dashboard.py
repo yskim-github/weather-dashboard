@@ -169,11 +169,13 @@ def get_available_dates():
         if d.isdigit() and len(d) == 8:
             dates.add(d)
             
-    # 2. PNG 격자 지도
-    for f in glob.glob(os.path.join(OUTPUT_DIR, "png", "Tmax", "*", "Tmax_*.png")):
-        d = os.path.basename(f).replace("Tmax_", "").replace(".png", "")
-        if d.isdigit() and len(d) == 8:
-            dates.add(d)
+    # 2. PNG / WebP 격자 지도
+    for f in glob.glob(os.path.join(OUTPUT_DIR, "png", "Tmax", "*", "Tmax_*.*")):
+        fname = os.path.basename(f)
+        if fname.startswith("Tmax_") and (fname.endswith(".png") or fname.endswith(".webp")):
+            d = fname.replace("Tmax_", "").replace(".png", "").replace(".webp", "")
+            if d.isdigit() and len(d) == 8:
+                dates.add(d)
             
     # 3. TIFF 격자 원본
     for f in glob.glob(os.path.join(OUTPUT_DIR, "tiff", "Tmax", "*", "Tmax_*.tiff")):
@@ -474,12 +476,13 @@ with tab_weather:
             🗺️ 270m 공간 격자도:&nbsp;<span style="color: #4CAF50;">{VAR_LABELS.get(selected_var, selected_var)}</span>
         </div>
         """, unsafe_allow_html=True)
-        if os.path.exists(png_path):
-            img = Image.open(png_path)
+        webp_path = os.path.join(OUTPUT_DIR, "png", selected_var, year, f"{selected_var}_{selected_date}.webp")
+        img_path = webp_path if os.path.exists(webp_path) else (png_path if os.path.exists(png_path) else None)
+        if img_path:
+            img = Image.open(img_path)
             st.image(img, use_container_width=True)
         else:
-            st.warning(f"{selected_var} PNG 이미지를 찾을 수 없습니다.")
-            st.info(f"경로: `{png_path}`")
+            st.warning(f"선택하신 일자({selected_date})의 {selected_var} 시각화 지도를 찾을 수 없습니다.")
             
         if os.path.exists(tiff_path):
             file_size_mb = os.path.getsize(tiff_path) / (1024 * 1024)
