@@ -24,21 +24,31 @@ st.set_page_config(
 st.markdown("""
 <style>
     .metric-card {
-        background-color: rgba(255, 255, 255, 0.05);
-        padding: 16px;
-        border-radius: 10px;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        background-color: rgba(255, 255, 255, 0.04);
+        padding: 8px 10px;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
         text-align: center;
         border: 1px solid rgba(128, 128, 128, 0.2);
+        height: 74px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
     .metric-value {
-        font-size: 2.2rem;
-        font-weight: bold;
+        font-size: 1.32rem !important;
+        font-weight: 700 !important;
+        color: #f8fafc !important;
+        white-space: nowrap !important;
+        line-height: 1.2 !important;
     }
     .metric-label {
-        font-size: 0.95rem;
-        font-weight: 500;
-        opacity: 0.85;
+        font-size: 0.78rem !important;
+        font-weight: 500 !important;
+        color: #94a3b8 !important;
+        margin-bottom: 4px !important;
+        white-space: nowrap !important;
     }
     .frost-warning { color: #e74c3c; }
     .frost-watch { color: #f39c12; }
@@ -437,8 +447,19 @@ tab_weather, tab_frost, tab_forecast = st.tabs([
 # TAB 1: 기존 270m 기상 관측 보간 및 QC 대시보드
 # -------------------------------------------------------------
 with tab_weather:
-    st.title(f"🌍 270m 전국 기상 관측 보간 분석 - {selected_date[:4]}-{selected_date[4:6]}-{selected_date[6:]}")
-    st.markdown("---")
+    st.markdown(f"""
+    <div style="display: flex; align-items: baseline; justify-content: space-between; border-bottom: 2px solid rgba(128,128,128,0.2); padding-bottom: 8px; margin-bottom: 14px; margin-top: -6px;">
+        <div style="font-size: 1.35rem; font-weight: 800; color: #f1f5f9; display: flex; align-items: center; gap: 8px;">
+            <span>🌍 270m 전국 기상 관측 보간 분석</span>
+            <span style="font-size: 1.05rem; font-weight: 700; color: #4CAF50; background: rgba(76,175,80,0.12); padding: 2px 10px; border-radius: 6px; border: 1px solid rgba(76,175,80,0.3);">
+                {selected_date[:4]}-{selected_date[4:6]}-{selected_date[6:]}
+            </span>
+        </div>
+        <div style="font-size: 0.8rem; color: #94a3b8;">
+            해상도 270m · 지형 보정 · 물리 법칙(단일 동적 감률) 준수
+        </div>
+    </div>
+    """, unsafe_allow_html=True)
     
     col1, col2 = st.columns([1.2, 1])
     
@@ -448,7 +469,11 @@ with tab_weather:
     
     # 좌측: 270m 공간 격자도 & TIFF 다운로드
     with col1:
-        st.subheader(f"🗺️ 270m 공간 격자도: {VAR_LABELS.get(selected_var, selected_var)}")
+        st.markdown(f"""
+        <div style="font-size: 1.05rem; font-weight: 700; color: #f1f5f9; height: 32px; display: flex; align-items: center; margin-bottom: 6px;">
+            🗺️ 270m 공간 격자도:&nbsp;<span style="color: #4CAF50;">{VAR_LABELS.get(selected_var, selected_var)}</span>
+        </div>
+        """, unsafe_allow_html=True)
         if os.path.exists(png_path):
             img = Image.open(png_path)
             st.image(img, use_container_width=True)
@@ -469,7 +494,11 @@ with tab_weather:
             
     # 우측: 검증 지표 및 산점도
     with col2:
-        st.subheader("📊 검증 지표 (농진청 74개 Holdout 지점)")
+        st.markdown("""
+        <div style="font-size: 1.05rem; font-weight: 700; color: #f1f5f9; height: 32px; display: flex; align-items: center; margin-bottom: 6px;">
+            📊 검증 지표 (농진청 74개 Holdout 지점)
+        </div>
+        """, unsafe_allow_html=True)
         df_summary = load_daily_summary()
         df_val = load_validation_data(selected_date)
         
@@ -532,7 +561,7 @@ with tab_weather:
             </div>
             """, unsafe_allow_html=True)
             
-        st.markdown("<br>", unsafe_allow_html=True)
+        st.markdown("<div style='margin-bottom: 12px;'></div>", unsafe_allow_html=True)
         
         if not df_val.empty:
             true_col = f"True_{selected_var}"
@@ -890,7 +919,7 @@ with tab_frost:
             </div>
             """, unsafe_allow_html=True)
             
-        st.markdown("<br>", unsafe_allow_html=True)
+        st.markdown("<div style='margin-bottom: 12px;'></div>", unsafe_allow_html=True)
         
         st.markdown("""
         #### 📋 앙상블 판별 기준 및 대응 수칙
@@ -1008,7 +1037,7 @@ with tab_forecast:
                     </div>
                     """, unsafe_allow_html=True)
                     
-            st.markdown("<br>", unsafe_allow_html=True)
+            st.markdown("<div style='margin-bottom: 12px;'></div>", unsafe_allow_html=True)
             st.markdown(f"""
             #### 📌 GNN 공간 다운스케일링 원리
             * **기상청 5km 동네예보 격자**: 전국 37,697개 격자 중 유효 4,292개 셀 입력
