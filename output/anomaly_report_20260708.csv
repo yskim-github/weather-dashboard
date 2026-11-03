@@ -1,0 +1,35 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20260708,RDA,621100A001,김해시 전하동,TA_AVG,37.2,"Exceeds 3.5 Sigma (Mean: 26.3, Std: 1.3)",Statistical Outlier
+20260708,RDA,621100A001,김해시 전하동,TA_MAX,39.9,"Exceeds 3.5 Sigma (Mean: 29.0, Std: 2.0)",Statistical Outlier
+20260708,RDA,390874A001,제천시 봉양읍,TA_MIN,12.1,"Exceeds 3.5 Sigma (Mean: 23.7, Std: 1.3)",Statistical Outlier
+20260708,RDA,621100A001,김해시 전하동,TA_MIN,33.8,"Exceeds 3.5 Sigma (Mean: 23.7, Std: 1.3)",Statistical Outlier
+20260708,ASOS,169,169,WS_AVG,8.6,"Exceeds 3.5 Sigma (Mean: 2.1, Std: 1.5)",Statistical Outlier
+20260708,ASOS,185,185,WS_AVG,8.3,"Exceeds 3.5 Sigma (Mean: 2.1, Std: 1.5)",Statistical Outlier
+20260708,RDA,516821A001,곡성군 오곡면,WS_AVG,11.83,"Exceeds 3.5 Sigma (Mean: 2.1, Std: 1.5)",Statistical Outlier
+20260708,RDA,445891A001,화성시 장안면,HM_AVG,1.9,"Exceeds 3.5 Sigma (Mean: 84.5, Std: 14.0)",Statistical Outlier
+20260708,RDA,542805A001,구례군 구례읍,HM_AVG,3.0,"Exceeds 3.5 Sigma (Mean: 84.5, Std: 14.0)",Statistical Outlier
+20260708,RDA,536824B002,해남군 옥천면,HM_AVG,2.0,"Exceeds 3.5 Sigma (Mean: 84.5, Std: 14.0)",Statistical Outlier
+20260708,RDA,052546F018,사천시 송포동,HM_AVG,19.0,"Exceeds 3.5 Sigma (Mean: 84.5, Std: 14.0)",Statistical Outlier
+20260708,RDA,063501F011,서귀포 대정읍,HM_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 84.5, Std: 14.0)",Statistical Outlier
+20260708,RDA,063605F004,서귀포 신효동,HM_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 84.5, Std: 14.0)",Statistical Outlier
+20260708,AWS,924,924,TA_MAX,24.6,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 29.3),Spatial Outlier
+20260708,RDA,567801A002,진안군 진안읍,TA_MAX,22.9,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 30.0),Spatial Outlier
+20260708,ASOS,185,185,HM_AVG,96.9,Differs from 5 nearest neighbors by 26.1 (Neighbor Mean: 70.8),Spatial Outlier
+20260708,ASOS,259,259,HM_AVG,92.6,Differs from 5 nearest neighbors by 20.3 (Neighbor Mean: 72.3),Spatial Outlier
+20260708,ASOS,260,260,HM_AVG,93.0,Differs from 5 nearest neighbors by 20.3 (Neighbor Mean: 72.7),Spatial Outlier
+20260708,RDA,390874A001,제천시 봉양읍,HM_AVG,36.5,Differs from 5 nearest neighbors by 53.7 (Neighbor Mean: 90.2),Spatial Outlier
+20260708,RDA,063190F010,제주시 금악리,HM_AVG,92.8,Differs from 5 nearest neighbors by 21.1 (Neighbor Mean: 71.7),Spatial Outlier
+20260708,RDA,063532F013,서귀포 창천리,HM_AVG,96.9,Differs from 5 nearest neighbors by 26.7 (Neighbor Mean: 70.2),Spatial Outlier
+20260708,RDA,618803A001,부산시 강서구,HM_AVG,59.9,Differs from 5 nearest neighbors by 30.3 (Neighbor Mean: 90.2),Spatial Outlier
+20260708,RDA,467800A001,이천시 중리동,SI_DAY,11.15,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 3.0),Spatial Outlier
+20260708,RDA,415743A001,김포시 월곶면,SI_DAY,24.24,Differs from 5 nearest neighbors by 14.5 (Neighbor Mean: 9.8),Spatial Outlier
+20260708,RDA,520853A003,나주시 봉황면,SI_DAY,13.2,Differs from 5 nearest neighbors by 10.0 (Neighbor Mean: 3.2),Spatial Outlier
+20260708,RDA,445891A001,화성시 장안면,SI_DAY,13.55,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 5.0),Spatial Outlier
+20260708,RDA,390874A001,제천시 봉양읍,SI_DAY,31.49,Differs from 5 nearest neighbors by 27.9 (Neighbor Mean: 3.6),Spatial Outlier
+20260708,RDA,063240F009,제주시 오등동,SI_DAY,19.08,Differs from 5 nearest neighbors by 9.5 (Neighbor Mean: 9.6),Spatial Outlier
+20260708,ASOS,102,102,SS_DAY,6.5,Differs from 5 nearest neighbors by 4.3 (Neighbor Mean: 2.2),Spatial Outlier
+20260708,RDA,451873A001,평택시 오성면,SS_DAY,4.633333333333334,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 0.0),Spatial Outlier
+20260708,RDA,312831A001,금산군 금성면,SS_DAY,5.783333333333333,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 0.3),Spatial Outlier
+20260708,RDA,719862A001,성주군 대가면,SS_DAY,10.7,Differs from 5 nearest neighbors by 8.7 (Neighbor Mean: 2.0),Spatial Outlier
+20260708,RDA,040054B002,성주군 대천리,SS_DAY,0.6833333333333333,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 5.3),Spatial Outlier
+20260708,RDA,050124D004,거창군 동변리,SS_DAY,8.666666666666666,Differs from 5 nearest neighbors by 6.4 (Neighbor Mean: 2.2),Spatial Outlier

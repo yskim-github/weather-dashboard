@@ -1,0 +1,14 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20260701,ASOS,168,168,WS_AVG,4.9,"Exceeds 3.5 Sigma (Mean: 1.4, Std: 0.9)",Statistical Outlier
+20260701,ASOS,185,185,WS_AVG,7.0,"Exceeds 3.5 Sigma (Mean: 1.4, Std: 0.9)",Statistical Outlier
+20260701,RDA,536824B002,해남군 옥천면,HM_AVG,2.8,"Exceeds 3.5 Sigma (Mean: 81.4, Std: 12.3)",Statistical Outlier
+20260701,RDA,536806A001,해남군 삼산면,HM_AVG,96.0,Differs from 5 nearest neighbors by 21.9 (Neighbor Mean: 74.1),Spatial Outlier
+20260701,RDA,618803A001,부산시 강서구,HM_AVG,57.3,Differs from 5 nearest neighbors by 36.4 (Neighbor Mean: 93.7),Spatial Outlier
+20260701,RDA,467800A001,이천시 중리동,SI_DAY,27.65,Differs from 5 nearest neighbors by 9.6 (Neighbor Mean: 18.1),Spatial Outlier
+20260701,RDA,415743A001,김포시 월곶면,SI_DAY,30.17,Differs from 5 nearest neighbors by 12.7 (Neighbor Mean: 17.5),Spatial Outlier
+20260701,RDA,472830A001,남양주 진건읍,SI_DAY,27.03,Differs from 5 nearest neighbors by 8.6 (Neighbor Mean: 18.5),Spatial Outlier
+20260701,RDA,513842A001,영광군 군서면,SI_DAY,22.64,Differs from 5 nearest neighbors by 11.3 (Neighbor Mean: 11.3),Spatial Outlier
+20260701,RDA,482841A001,양주시 은현면,SS_DAY,0.0,Differs from 5 nearest neighbors by 6.3 (Neighbor Mean: 6.3),Spatial Outlier
+20260701,RDA,486831E011,연천군 신서면,SS_DAY,10.1,Differs from 5 nearest neighbors by 4.2 (Neighbor Mean: 5.9),Spatial Outlier
+20260701,AWS,599,599,RN_DAY,33.0,Differs from 5 nearest neighbors by 30.3 (Neighbor Mean: 2.7),Spatial Outlier
+20260701,AWS,675,675,RN_DAY,56.5,Differs from 5 nearest neighbors by 54.5 (Neighbor Mean: 2.0),Spatial Outlier

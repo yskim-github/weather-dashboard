@@ -1,0 +1,37 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20260622,RDA,390874A001,제천시 봉양읍,SI_DAY,39.74,Out of physical range (0~31.5),Range/Logic Error
+20260622,RDA,390874A001,제천시 봉양읍,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20260622,RDA,390874A001,제천시 봉양읍,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20260622,RDA,390874A001,제천시 봉양읍,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20260622,RDA,390874A001,제천시 봉양읍,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20260622,RDA,390874A001,제천시 봉양읍,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20260622,RDA,390874A001,제천시 봉양읍,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20260622,RDA,390874A001,제천시 봉양읍,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20260622,ASOS,169,169,WS_AVG,4.3,"Exceeds 3.5 Sigma (Mean: 1.1, Std: 0.7)",Statistical Outlier
+20260622,RDA,542805A001,구례군 구례읍,HM_AVG,3.0,"Exceeds 3.5 Sigma (Mean: 82.3, Std: 13.0)",Statistical Outlier
+20260622,RDA,536824B002,해남군 옥천면,HM_AVG,2.4,"Exceeds 3.5 Sigma (Mean: 82.3, Std: 13.0)",Statistical Outlier
+20260622,RDA,052546F018,사천시 송포동,HM_AVG,19.0,"Exceeds 3.5 Sigma (Mean: 82.3, Std: 13.0)",Statistical Outlier
+20260622,RDA,063240F009,제주시 오등동,HM_AVG,26.1,"Exceeds 3.5 Sigma (Mean: 82.3, Std: 13.0)",Statistical Outlier
+20260622,RDA,063501F011,서귀포 대정읍,HM_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 82.3, Std: 13.0)",Statistical Outlier
+20260622,RDA,063605F004,서귀포 신효동,HM_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 82.3, Std: 13.0)",Statistical Outlier
+20260622,RDA,621100A001,김해시 전하동,TA_AVG,25.8,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 21.2),Spatial Outlier
+20260622,RDA,621100A001,김해시 전하동,TA_MAX,28.5,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 23.8),Spatial Outlier
+20260622,ASOS,185,185,HM_AVG,95.4,Differs from 5 nearest neighbors by 26.6 (Neighbor Mean: 68.8),Spatial Outlier
+20260622,ASOS,259,259,HM_AVG,92.5,Differs from 5 nearest neighbors by 20.7 (Neighbor Mean: 71.8),Spatial Outlier
+20260622,RDA,063190F010,제주시 금악리,HM_AVG,97.4,Differs from 5 nearest neighbors by 29.0 (Neighbor Mean: 68.4),Spatial Outlier
+20260622,RDA,063532F013,서귀포 창천리,HM_AVG,94.0,Differs from 5 nearest neighbors by 25.5 (Neighbor Mean: 68.5),Spatial Outlier
+20260622,RDA,618803A001,부산시 강서구,HM_AVG,49.6,Differs from 5 nearest neighbors by 32.1 (Neighbor Mean: 81.7),Spatial Outlier
+20260622,RDA,467800A001,이천시 중리동,SI_DAY,22.63,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 14.6),Spatial Outlier
+20260622,RDA,482841A001,양주시 은현면,SI_DAY,10.9,Differs from 5 nearest neighbors by 8.8 (Neighbor Mean: 19.7),Spatial Outlier
+20260622,RDA,415743A001,김포시 월곶면,SI_DAY,27.93,Differs from 5 nearest neighbors by 12.8 (Neighbor Mean: 15.1),Spatial Outlier
+20260622,RDA,472830A001,남양주 진건읍,SI_DAY,23.64,Differs from 5 nearest neighbors by 8.3 (Neighbor Mean: 15.4),Spatial Outlier
+20260622,RDA,232941E001,평창군 진부면,SI_DAY,19.96,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 12.3),Spatial Outlier
+20260622,RDA,230802A001,영월군 영월읍,SI_DAY,11.86,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 19.7),Spatial Outlier
+20260622,RDA,445891A001,화성시 장안면,SI_DAY,22.03,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 13.8),Spatial Outlier
+20260622,RDA,027486F033,충주시 안림동,SI_DAY,11.56,Differs from 5 nearest neighbors by 8.9 (Neighbor Mean: 20.4),Spatial Outlier
+20260622,RDA,621100A001,김해시 전하동,SI_DAY,26.15,Differs from 5 nearest neighbors by 18.6 (Neighbor Mean: 7.6),Spatial Outlier
+20260622,ASOS,102,102,SS_DAY,10.4,Differs from 5 nearest neighbors by 6.4 (Neighbor Mean: 4.0),Spatial Outlier
+20260622,RDA,451873A001,평택시 오성면,SS_DAY,11.05,Differs from 5 nearest neighbors by 9.5 (Neighbor Mean: 1.5),Spatial Outlier
+20260622,RDA,269804A001,음성군 소이면,SS_DAY,10.083333333333334,Differs from 5 nearest neighbors by 7.5 (Neighbor Mean: 2.6),Spatial Outlier
+20260622,RDA,312831A001,금산군 금성면,SS_DAY,8.516666666666667,Differs from 5 nearest neighbors by 8.4 (Neighbor Mean: 0.2),Spatial Outlier
+20260622,RDA,350808A001,홍성군 홍성읍,SS_DAY,11.233333333333333,Differs from 5 nearest neighbors by 9.4 (Neighbor Mean: 1.9),Spatial Outlier

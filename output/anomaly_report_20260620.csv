@@ -1,0 +1,39 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20260620,RDA,520853A003,나주시 봉황면,SI_DAY,34.2,Out of physical range (0~31.5),Range/Logic Error
+20260620,RDA,520853A003,나주시 봉황면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20260620,RDA,520853A003,나주시 봉황면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20260620,RDA,520853A003,나주시 봉황면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20260620,RDA,520853A003,나주시 봉황면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20260620,RDA,520853A003,나주시 봉황면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20260620,RDA,520853A003,나주시 봉황면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20260620,RDA,520853A003,나주시 봉황면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20260620,RDA,621100A001,김해시 전하동,TA_AVG,28.9,"Exceeds 3.5 Sigma (Mean: 23.4, Std: 1.5)",Statistical Outlier
+20260620,RDA,363844A001,청주시 남일면,TA_MAX,44.3,"Exceeds 3.5 Sigma (Mean: 25.6, Std: 2.6)",Statistical Outlier
+20260620,AWS,426,426,TA_MIN,15.0,"Exceeds 3.5 Sigma (Mean: 20.8, Std: 1.2)",Statistical Outlier
+20260620,AWS,655,655,TA_MIN,15.3,"Exceeds 3.5 Sigma (Mean: 20.8, Std: 1.2)",Statistical Outlier
+20260620,AWS,658,658,TA_MIN,16.2,"Exceeds 3.5 Sigma (Mean: 20.8, Std: 1.2)",Statistical Outlier
+20260620,ASOS,168,168,WS_AVG,8.5,"Exceeds 3.5 Sigma (Mean: 2.5, Std: 1.6)",Statistical Outlier
+20260620,ASOS,185,185,WS_AVG,9.2,"Exceeds 3.5 Sigma (Mean: 2.5, Std: 1.6)",Statistical Outlier
+20260620,RDA,390874A001,제천시 봉양읍,HM_AVG,13.8,"Exceeds 3.5 Sigma (Mean: 87.7, Std: 12.5)",Statistical Outlier
+20260620,RDA,542805A001,구례군 구례읍,HM_AVG,3.0,"Exceeds 3.5 Sigma (Mean: 87.7, Std: 12.5)",Statistical Outlier
+20260620,RDA,536824B002,해남군 옥천면,HM_AVG,4.9,"Exceeds 3.5 Sigma (Mean: 87.7, Std: 12.5)",Statistical Outlier
+20260620,RDA,052546F018,사천시 송포동,HM_AVG,19.0,"Exceeds 3.5 Sigma (Mean: 87.7, Std: 12.5)",Statistical Outlier
+20260620,RDA,063501F011,서귀포 대정읍,HM_AVG,22.8,"Exceeds 3.5 Sigma (Mean: 87.7, Std: 12.5)",Statistical Outlier
+20260620,RDA,063605F004,서귀포 신효동,HM_AVG,25.3,"Exceeds 3.5 Sigma (Mean: 87.7, Std: 12.5)",Statistical Outlier
+20260620,AWS,960,960,TA_MAX,23.9,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 28.7),Spatial Outlier
+20260620,RDA,621100A001,김해시 전하동,TA_MAX,33.0,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 28.0),Spatial Outlier
+20260620,RDA,215821A001,양양군 양양읍,HM_AVG,73.6,Differs from 5 nearest neighbors by 21.4 (Neighbor Mean: 95.0),Spatial Outlier
+20260620,RDA,536806A001,해남군 삼산면,HM_AVG,95.4,Differs from 5 nearest neighbors by 24.9 (Neighbor Mean: 70.5),Spatial Outlier
+20260620,RDA,618803A001,부산시 강서구,HM_AVG,54.4,Differs from 5 nearest neighbors by 32.6 (Neighbor Mean: 87.0),Spatial Outlier
+20260620,ASOS,169,169,SI_DAY,19.65,Differs from 5 nearest neighbors by 11.3 (Neighbor Mean: 8.4),Spatial Outlier
+20260620,RDA,467800A001,이천시 중리동,SI_DAY,11.38,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 3.4),Spatial Outlier
+20260620,RDA,650821A001,통영시 광도면,SI_DAY,4.92,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 13.4),Spatial Outlier
+20260620,RDA,513842A001,영광군 군서면,SI_DAY,13.0,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 5.4),Spatial Outlier
+20260620,RDA,050415C005,밀양시 산내면,SI_DAY,5.28,Differs from 5 nearest neighbors by 9.1 (Neighbor Mean: 14.3),Spatial Outlier
+20260620,RDA,668812F002,남해군 이동면,SI_DAY,21.57,Differs from 5 nearest neighbors by 7.5 (Neighbor Mean: 14.1),Spatial Outlier
+20260620,RDA,667831A001,하동군 적량면,SI_DAY,0.01,Differs from 5 nearest neighbors by 13.9 (Neighbor Mean: 13.9),Spatial Outlier
+20260620,ASOS,169,169,SS_DAY,5.8,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 0.1),Spatial Outlier
+20260620,ASOS,189,189,SS_DAY,8.2,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 3.2),Spatial Outlier
+20260620,RDA,312831A001,금산군 금성면,SS_DAY,6.6,Differs from 5 nearest neighbors by 6.6 (Neighbor Mean: 0.0),Spatial Outlier
+20260620,RDA,350808A001,홍성군 홍성읍,SS_DAY,5.183333333333334,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 0.6),Spatial Outlier
+20260620,RDA,719862A001,성주군 대가면,SS_DAY,10.9,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 2.7),Spatial Outlier

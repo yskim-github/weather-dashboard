@@ -1,0 +1,19 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20260630,RDA,323814A001,부여군 규암면,TA_AVG,25.7,Tavg not between Tmax(23.3) and Tmin(21.0),Range/Logic Error
+20260630,AWS,320,320,TA_MIN,17.9,"Exceeds 3.5 Sigma (Mean: 20.2, Std: 1.7)",Statistical Outlier
+20260630,AWS,851,851,TA_MIN,13.3,"Exceeds 3.5 Sigma (Mean: 20.2, Std: 1.7)",Statistical Outlier
+20260630,ASOS,169,169,WS_AVG,5.1,"Exceeds 3.5 Sigma (Mean: 1.4, Std: 0.7)",Statistical Outlier
+20260630,ASOS,185,185,WS_AVG,4.1,"Exceeds 3.5 Sigma (Mean: 1.4, Std: 0.7)",Statistical Outlier
+20260630,RDA,052546F018,사천시 송포동,HM_AVG,19.0,"Exceeds 3.5 Sigma (Mean: 72.8, Std: 8.6)",Statistical Outlier
+20260630,AWS,310,310,TA_MAX,23.3,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 28.1),Spatial Outlier
+20260630,AWS,320,320,TA_MAX,24.6,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 27.7),Spatial Outlier
+20260630,RDA,323814A001,부여군 규암면,TA_MAX,23.3,Differs from 5 nearest neighbors by 8.7 (Neighbor Mean: 32.1),Spatial Outlier
+20260630,AWS,753,753,TA_MIN,11.9,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 23.7),Spatial Outlier
+20260630,RDA,026002D003,태백시 매봉산,TA_MIN,16.3,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 19.2),Spatial Outlier
+20260630,RDA,650821A001,통영시 광도면,SI_DAY,13.79,Differs from 5 nearest neighbors by 8.6 (Neighbor Mean: 22.4),Spatial Outlier
+20260630,RDA,027926A001,증평군 증평읍,SI_DAY,16.95,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 25.0),Spatial Outlier
+20260630,RDA,050115F027,거창군 주상면,SI_DAY,16.16,Differs from 5 nearest neighbors by 7.5 (Neighbor Mean: 23.7),Spatial Outlier
+20260630,ASOS,90,90,SS_DAY,4.8,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 9.3),Spatial Outlier
+20260630,RDA,027926A001,증평군 증평읍,SS_DAY,5.033333333333333,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 10.7),Spatial Outlier
+20260630,RDA,482841A001,양주시 은현면,SS_DAY,0.0,Differs from 5 nearest neighbors by 10.0 (Neighbor Mean: 10.0),Spatial Outlier
+20260630,AWS,681,681,RN_DAY,25.5,Differs from 5 nearest neighbors by 25.5 (Neighbor Mean: 0.0),Spatial Outlier
