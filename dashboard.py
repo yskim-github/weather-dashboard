@@ -95,29 +95,6 @@ st.markdown("""
         line-height: 1.2;
         margin-top: 2px;
     }
-
-    /* Top Navigation Tabs Styling & Font Size Increase */
-    div[data-testid="stTabs"] [data-baseweb="tab-list"] {
-        gap: 8px;
-        padding-bottom: 4px;
-    }
-    div[data-testid="stTabs"] button[data-baseweb="tab"] {
-        padding: 10px 22px !important;
-        border-radius: 8px 8px 0 0 !important;
-    }
-    div[data-testid="stTabs"] button[data-baseweb="tab"] p,
-    div[data-testid="stTabs"] button[data-baseweb="tab"] div,
-    button[data-baseweb="tab"] p {
-        font-size: 1.22rem !important;
-        font-weight: 700 !important;
-        line-height: 1.35 !important;
-        letter-spacing: -0.3px !important;
-    }
-    div[data-testid="stTabs"] button[aria-selected="true"] p,
-    div[data-testid="stTabs"] button[aria-selected="true"] div {
-        color: #4CAF50 !important;
-        font-weight: 800 !important;
-    }
 </style>
 """, unsafe_allow_html=True)
 
