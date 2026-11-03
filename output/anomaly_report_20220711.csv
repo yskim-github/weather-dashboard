@@ -1,0 +1,39 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20220711,RDA,469803A001,여주시 상거동,SI_DAY,37.12,Out of physical range (0~31.5),Range/Logic Error
+20220711,RDA,469803A001,여주시 상거동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220711,RDA,469803A001,여주시 상거동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220711,RDA,469803A001,여주시 상거동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220711,RDA,469803A001,여주시 상거동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220711,RDA,469803A001,여주시 상거동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220711,RDA,469803A001,여주시 상거동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220711,RDA,469803A001,여주시 상거동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220711,RDA,312831A001,금산군 금성면,SI_DAY,35.68,Out of physical range (0~31.5),Range/Logic Error
+20220711,RDA,312831A001,금산군 금성면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220711,RDA,312831A001,금산군 금성면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220711,RDA,312831A001,금산군 금성면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220711,RDA,312831A001,금산군 금성면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220711,RDA,312831A001,금산군 금성면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220711,RDA,312831A001,금산군 금성면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220711,RDA,312831A001,금산군 금성면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220711,RDA,597803A001,장수군 장수읍,TA_MAX,40.8,"Exceeds 3.5 Sigma (Mean: 29.8, Std: 1.6)",Statistical Outlier
+20220711,ASOS,169,169,WS_AVG,3.0,"Exceeds 3.5 Sigma (Mean: 0.9, Std: 0.6)",Statistical Outlier
+20220711,ASOS,185,185,WS_AVG,3.6,"Exceeds 3.5 Sigma (Mean: 0.9, Std: 0.6)",Statistical Outlier
+20220711,RDA,520943A002,나주시 문평면,HM_AVG,56.6,"Exceeds 3.5 Sigma (Mean: 88.1, Std: 8.1)",Statistical Outlier
+20220711,RDA,063527F012,서귀포 덕수리,HM_AVG,0.5,"Exceeds 3.5 Sigma (Mean: 88.1, Std: 8.1)",Statistical Outlier
+20220711,RDA,618803A001,부산시 강서구,HM_AVG,45.2,"Exceeds 3.5 Sigma (Mean: 88.1, Std: 8.1)",Statistical Outlier
+20220711,ASOS,185,185,HM_AVG,97.9,Differs from 5 nearest neighbors by 24.0 (Neighbor Mean: 73.9),Spatial Outlier
+20220711,RDA,063532F013,서귀포 창천리,HM_AVG,94.3,Differs from 5 nearest neighbors by 20.5 (Neighbor Mean: 73.8),Spatial Outlier
+20220711,ASOS,102,102,SI_DAY,28.09,Differs from 5 nearest neighbors by 8.3 (Neighbor Mean: 19.8),Spatial Outlier
+20220711,ASOS,112,112,SI_DAY,25.61,Differs from 5 nearest neighbors by 10.5 (Neighbor Mean: 15.1),Spatial Outlier
+20220711,ASOS,115,115,SI_DAY,1.83,Differs from 5 nearest neighbors by 8.3 (Neighbor Mean: 10.1),Spatial Outlier
+20220711,RDA,415743A001,김포시 월곶면,SI_DAY,7.93,Differs from 5 nearest neighbors by 11.2 (Neighbor Mean: 19.1),Spatial Outlier
+20220711,RDA,233852A002,정선군 임계면,SI_DAY,4.32,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 12.0),Spatial Outlier
+20220711,RDA,269811A001,철원군 동송읍,SI_DAY,7.34,Differs from 5 nearest neighbors by 9.4 (Neighbor Mean: 16.7),Spatial Outlier
+20220711,RDA,321916A001,계룡시 두마면,SI_DAY,7.78,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 15.6),Spatial Outlier
+20220711,RDA,355831A001,보령시 주교면,SI_DAY,24.51,Differs from 5 nearest neighbors by 13.4 (Neighbor Mean: 11.1),Spatial Outlier
+20220711,RDA,714902A001,청도군 화양읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 9.5 (Neighbor Mean: 9.5),Spatial Outlier
+20220711,ASOS,102,102,SS_DAY,11.4,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 6.3),Spatial Outlier
+20220711,ASOS,112,112,SS_DAY,10.2,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 4.9),Spatial Outlier
+20220711,RDA,486831E011,연천군 신서면,SS_DAY,0.0,Differs from 5 nearest neighbors by 6.9 (Neighbor Mean: 6.9),Spatial Outlier
+20220711,RDA,719862A001,성주군 대가면,SS_DAY,7.366666666666666,Differs from 5 nearest neighbors by 6.9 (Neighbor Mean: 0.5),Spatial Outlier
+20220711,RDA,038303A002,청도군 각북면,SS_DAY,8.333333333333334,Differs from 5 nearest neighbors by 7.2 (Neighbor Mean: 1.2),Spatial Outlier
