@@ -1,0 +1,40 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20231106,RDA,469803A001,여주시 상거동,SI_DAY,40.0,Out of physical range (0~31.5),Range/Logic Error
+20231106,RDA,469803A001,여주시 상거동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20231106,RDA,469803A001,여주시 상거동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20231106,RDA,469803A001,여주시 상거동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20231106,RDA,469803A001,여주시 상거동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20231106,RDA,469803A001,여주시 상거동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20231106,RDA,469803A001,여주시 상거동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20231106,RDA,469803A001,여주시 상거동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20231106,RDA,312831A001,금산군 금성면,SI_DAY,39.93,Out of physical range (0~31.5),Range/Logic Error
+20231106,RDA,312831A001,금산군 금성면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20231106,RDA,312831A001,금산군 금성면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20231106,RDA,312831A001,금산군 금성면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20231106,RDA,312831A001,금산군 금성면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20231106,RDA,312831A001,금산군 금성면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20231106,RDA,312831A001,금산군 금성면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20231106,RDA,312831A001,금산군 금성면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20231106,ASOS,102,102,TA_AVG,11.2,"Exceeds 3.5 Sigma (Mean: 17.2, Std: 1.6)",Statistical Outlier
+20231106,ASOS,185,185,WS_AVG,16.3,"Exceeds 3.5 Sigma (Mean: 4.2, Std: 2.0)",Statistical Outlier
+20231106,RDA,570802A001,익산시 함열읍,HM_AVG,32.5,"Exceeds 3.5 Sigma (Mean: 71.1, Std: 10.7)",Statistical Outlier
+20231106,RDA,520821F001,나주시 금천면,HM_AVG,0.4,"Exceeds 3.5 Sigma (Mean: 71.1, Std: 10.7)",Statistical Outlier
+20231106,RDA,520943A002,나주시 문평면,HM_AVG,0.4,"Exceeds 3.5 Sigma (Mean: 71.1, Std: 10.7)",Statistical Outlier
+20231106,RDA,750873A001,영주시 안정로,HM_AVG,0.6,"Exceeds 3.5 Sigma (Mean: 71.1, Std: 10.7)",Statistical Outlier
+20231106,RDA,618803A001,부산시 강서구,HM_AVG,25.0,"Exceeds 3.5 Sigma (Mean: 71.1, Std: 10.7)",Statistical Outlier
+20231106,ASOS,90,90,HM_AVG,57.3,Differs from 5 nearest neighbors by 20.8 (Neighbor Mean: 78.1),Spatial Outlier
+20231106,RDA,520853A003,나주시 봉황면,HM_AVG,80.2,Differs from 5 nearest neighbors by 37.5 (Neighbor Mean: 42.7),Spatial Outlier
+20231106,RDA,535873B003,나주시 산포면,HM_AVG,67.1,Differs from 5 nearest neighbors by 20.5 (Neighbor Mean: 46.6),Spatial Outlier
+20231106,RDA,525811A001,함평군 학교면,HM_AVG,72.2,Differs from 5 nearest neighbors by 26.9 (Neighbor Mean: 45.3),Spatial Outlier
+20231106,RDA,036614B005,안동시 북후면,HM_AVG,83.4,Differs from 5 nearest neighbors by 27.2 (Neighbor Mean: 56.2),Spatial Outlier
+20231106,RDA,750804A003,영주시 풍기읍,HM_AVG,80.4,Differs from 5 nearest neighbors by 22.2 (Neighbor Mean: 58.2),Spatial Outlier
+20231106,RDA,667831A001,하동군 적량면,HM_AVG,47.3,Differs from 5 nearest neighbors by 20.7 (Neighbor Mean: 68.0),Spatial Outlier
+20231106,RDA,017421F029,이천시 진암리,SI_DAY,6.74,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 14.6),Spatial Outlier
+20231106,RDA,476801A001,양평군 양평읍,SI_DAY,6.49,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 14.4),Spatial Outlier
+20231106,RDA,017414F020,이천시 장호원,SI_DAY,6.39,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 14.6),Spatial Outlier
+20231106,RDA,220844A001,원주시 흥업면,SI_DAY,0.0,Differs from 5 nearest neighbors by 12.4 (Neighbor Mean: 12.4),Spatial Outlier
+20231106,RDA,445891A001,화성시 장안면,SI_DAY,14.83,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 7.0),Spatial Outlier
+20231106,RDA,321916A001,계룡시 두마면,SI_DAY,4.98,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 13.5),Spatial Outlier
+20231106,RDA,355831A001,보령시 주교면,SI_DAY,24.64,Differs from 5 nearest neighbors by 15.2 (Neighbor Mean: 9.4),Spatial Outlier
+20231106,RDA,588802A001,무주군 무주읍,SI_DAY,3.49,Differs from 5 nearest neighbors by 8.6 (Neighbor Mean: 12.1),Spatial Outlier
+20231106,RDA,513842A001,영광군 군서면,SI_DAY,14.39,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 6.8),Spatial Outlier

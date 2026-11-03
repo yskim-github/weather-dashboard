@@ -1,0 +1,113 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20250722,RDA,415743A001,김포시 월곶면,SI_DAY,36.98,Out of physical range (0~31.5),Range/Logic Error
+20250722,RDA,415743A001,김포시 월곶면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,415743A001,김포시 월곶면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,415743A001,김포시 월곶면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,415743A001,김포시 월곶면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,415743A001,김포시 월곶면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,415743A001,김포시 월곶면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,415743A001,김포시 월곶면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,520853A003,나주시 봉황면,SS_DAY,18.783333333333335,Out of physical range (0~14.8),Range/Logic Error
+20250722,RDA,567801A002,진안군 진안읍,SI_DAY,39.93,Out of physical range (0~31.5),Range/Logic Error
+20250722,RDA,567801A002,진안군 진안읍,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,567801A002,진안군 진안읍,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,567801A002,진안군 진안읍,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,567801A002,진안군 진안읍,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,567801A002,진안군 진안읍,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,567801A002,진안군 진안읍,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,567801A002,진안군 진안읍,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,520892A001,나주시 공산면,SS_DAY,16.0,Out of physical range (0~14.8),Range/Logic Error
+20250722,RDA,513842A001,영광군 군서면,SI_DAY,39.48,Out of physical range (0~31.5),Range/Logic Error
+20250722,RDA,513842A001,영광군 군서면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,513842A001,영광군 군서면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,513842A001,영광군 군서면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,513842A001,영광군 군서면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,513842A001,영광군 군서면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,513842A001,영광군 군서면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,513842A001,영광군 군서면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,519822A001,화순군 한천면,SI_DAY,36.06,Out of physical range (0~31.5),Range/Logic Error
+20250722,RDA,519822A001,화순군 한천면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,519822A001,화순군 한천면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,519822A001,화순군 한천면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,519822A001,화순군 한천면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,519822A001,화순군 한천면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,519822A001,화순군 한천면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,519822A001,화순군 한천면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,063048F003,제주시 신엄리,SI_DAY,32.1,Out of physical range (0~31.5),Range/Logic Error
+20250722,RDA,063048F003,제주시 신엄리,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,063048F003,제주시 신엄리,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,063048F003,제주시 신엄리,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,063048F003,제주시 신엄리,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,063048F003,제주시 신엄리,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,063048F003,제주시 신엄리,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,063048F003,제주시 신엄리,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,695913A001,제주시 곽지리,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,695913A001,제주시 곽지리,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,695913A001,제주시 곽지리,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,695913A001,제주시 곽지리,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,695913A001,제주시 곽지리,SI_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,695913A001,제주시 곽지리,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,695913A001,제주시 곽지리,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,695913A001,제주시 곽지리,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20250722,RDA,269804A001,음성군 소이면,TA_AVG,15.5,"Exceeds 3.5 Sigma (Mean: 28.4, Std: 1.3)",Statistical Outlier
+20250722,RDA,699946A001,서귀포 하례리,TA_AVG,36.4,"Exceeds 3.5 Sigma (Mean: 28.4, Std: 1.3)",Statistical Outlier
+20250722,AWS,96,96,TA_MAX,26.8,"Exceeds 3.5 Sigma (Mean: 33.2, Std: 1.6)",Statistical Outlier
+20250722,AWS,662,662,TA_MAX,27.4,"Exceeds 3.5 Sigma (Mean: 33.2, Std: 1.6)",Statistical Outlier
+20250722,AWS,955,955,TA_MAX,27.3,"Exceeds 3.5 Sigma (Mean: 33.2, Std: 1.6)",Statistical Outlier
+20250722,AWS,959,959,TA_MAX,27.1,"Exceeds 3.5 Sigma (Mean: 33.2, Std: 1.6)",Statistical Outlier
+20250722,RDA,699946A001,서귀포 하례리,TA_MAX,40.0,"Exceeds 3.5 Sigma (Mean: 33.2, Std: 1.6)",Statistical Outlier
+20250722,AWS,105,105,TA_MIN,29.3,"Exceeds 3.5 Sigma (Mean: 24.3, Std: 1.4)",Statistical Outlier
+20250722,RDA,232803A001,평창군 여만리,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 24.3, Std: 1.4)",Statistical Outlier
+20250722,RDA,699946A001,서귀포 하례리,TA_MIN,33.5,"Exceeds 3.5 Sigma (Mean: 24.3, Std: 1.4)",Statistical Outlier
+20250722,ASOS,100,100,WS_AVG,4.0,"Exceeds 3.5 Sigma (Mean: 1.2, Std: 0.8)",Statistical Outlier
+20250722,ASOS,169,169,WS_AVG,4.4,"Exceeds 3.5 Sigma (Mean: 1.2, Std: 0.8)",Statistical Outlier
+20250722,ASOS,185,185,WS_AVG,4.5,"Exceeds 3.5 Sigma (Mean: 1.2, Std: 0.8)",Statistical Outlier
+20250722,RDA,215821A001,양양군 양양읍,WS_AVG,4.03,"Exceeds 3.5 Sigma (Mean: 1.2, Std: 0.8)",Statistical Outlier
+20250722,ASOS,105,105,HM_AVG,56.8,"Exceeds 3.5 Sigma (Mean: 80.9, Std: 5.7)",Statistical Outlier
+20250722,RDA,245825A002,삼척시 미로면,HM_AVG,58.2,"Exceeds 3.5 Sigma (Mean: 80.9, Std: 5.7)",Statistical Outlier
+20250722,ASOS,102,102,SI_DAY,17.91,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 26.1),Spatial Outlier
+20250722,ASOS,253,253,SI_DAY,16.27,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 24.5),Spatial Outlier
+20250722,RDA,467800A001,이천시 중리동,SI_DAY,25.76,Differs from 5 nearest neighbors by 8.8 (Neighbor Mean: 17.0),Spatial Outlier
+20250722,RDA,650821A001,통영시 광도면,SI_DAY,19.4,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 27.1),Spatial Outlier
+20250722,RDA,477802A001,가평군 가평읍,SI_DAY,0.12,Differs from 5 nearest neighbors by 19.8 (Neighbor Mean: 19.9),Spatial Outlier
+20250722,RDA,472830A001,남양주 진건읍,SI_DAY,27.35,Differs from 5 nearest neighbors by 7.5 (Neighbor Mean: 19.8),Spatial Outlier
+20250722,RDA,252805A001,인제군 인제읍,SI_DAY,12.6,Differs from 5 nearest neighbors by 7.5 (Neighbor Mean: 20.1),Spatial Outlier
+20250722,RDA,233852A002,정선군 임계면,SI_DAY,13.26,Differs from 5 nearest neighbors by 9.0 (Neighbor Mean: 22.3),Spatial Outlier
+20250722,RDA,269811A001,철원군 동송읍,SI_DAY,4.3,Differs from 5 nearest neighbors by 14.7 (Neighbor Mean: 19.0),Spatial Outlier
+20250722,RDA,027486F033,충주시 안림동,SI_DAY,8.72,Differs from 5 nearest neighbors by 10.0 (Neighbor Mean: 18.7),Spatial Outlier
+20250722,RDA,516821A001,곡성군 오곡면,SI_DAY,15.41,Differs from 5 nearest neighbors by 8.7 (Neighbor Mean: 24.1),Spatial Outlier
+20250722,RDA,526821A001,영암군 덕진면,SI_DAY,16.19,Differs from 5 nearest neighbors by 8.4 (Neighbor Mean: 24.6),Spatial Outlier
+20250722,RDA,667831A001,하동군 적량면,SI_DAY,17.48,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 25.1),Spatial Outlier
+20250722,RDA,063541F014,서귀포 하원동,SI_DAY,30.82,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 22.8),Spatial Outlier
+20250722,RDA,699946A001,서귀포 하례리,SI_DAY,2.35,Differs from 5 nearest neighbors by 25.7 (Neighbor Mean: 28.1),Spatial Outlier
+20250722,RDA,409911A001,옹진군 백령면,SI_DAY,17.45,Differs from 5 nearest neighbors by 8.7 (Neighbor Mean: 26.2),Spatial Outlier
+20250722,ASOS,102,102,SS_DAY,2.7,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 8.0),Spatial Outlier
+20250722,ASOS,184,184,SS_DAY,11.3,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 6.4),Spatial Outlier
+20250722,ASOS,185,185,SS_DAY,11.6,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 6.5),Spatial Outlier
+20250722,ASOS,188,188,SS_DAY,10.9,Differs from 5 nearest neighbors by 4.4 (Neighbor Mean: 6.5),Spatial Outlier
+20250722,ASOS,189,189,SS_DAY,11.1,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 6.4),Spatial Outlier
+20250722,ASOS,211,211,SS_DAY,2.6,Differs from 5 nearest neighbors by 4.4 (Neighbor Mean: 7.0),Spatial Outlier
+20250722,ASOS,236,236,SS_DAY,10.8,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 5.9),Spatial Outlier
+20250722,ASOS,272,272,SS_DAY,7.4,Differs from 5 nearest neighbors by 4.3 (Neighbor Mean: 3.1),Spatial Outlier
+20250722,RDA,456871A001,안성시 보개면,SS_DAY,0.0,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 7.9),Spatial Outlier
+20250722,RDA,482841A001,양주시 은현면,SS_DAY,0.0,Differs from 5 nearest neighbors by 6.7 (Neighbor Mean: 6.7),Spatial Outlier
+20250722,RDA,476801A001,양평군 양평읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 5.4),Spatial Outlier
+20250722,RDA,477802A001,가평군 가평읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 5.3),Spatial Outlier
+20250722,RDA,320862A001,논산시 광석면,SS_DAY,0.0,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 8.0),Spatial Outlier
+20250722,RDA,451873A001,평택시 오성면,SS_DAY,10.833333333333334,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 6.1),Spatial Outlier
+20250722,RDA,232803A001,평창군 여만리,SS_DAY,0.0,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 7.9),Spatial Outlier
+20250722,RDA,373805A001,옥천군 옥천읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 10.7 (Neighbor Mean: 10.7),Spatial Outlier
+20250722,RDA,032528A001,공주시 우성면,SS_DAY,0.0,Differs from 5 nearest neighbors by 8.6 (Neighbor Mean: 8.6),Spatial Outlier
+20250722,RDA,312831A001,금산군 금성면,SS_DAY,12.1,Differs from 5 nearest neighbors by 6.1 (Neighbor Mean: 6.0),Spatial Outlier
+20250722,RDA,516821A001,곡성군 오곡면,SS_DAY,0.0,Differs from 5 nearest neighbors by 10.1 (Neighbor Mean: 10.1),Spatial Outlier
+20250722,RDA,526821A001,영암군 덕진면,SS_DAY,0.0,Differs from 5 nearest neighbors by 12.7 (Neighbor Mean: 12.7),Spatial Outlier
+20250722,RDA,716823A001,군위군 효령면,SS_DAY,0.0,Differs from 5 nearest neighbors by 9.8 (Neighbor Mean: 9.8),Spatial Outlier
+20250722,RDA,755851A002,봉화군 봉성면,SS_DAY,8.533333333333333,Differs from 5 nearest neighbors by 4.2 (Neighbor Mean: 4.3),Spatial Outlier
+20250722,RDA,750873A002,영주시 안풍리,SS_DAY,0.0,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 4.6),Spatial Outlier
+20250722,RDA,750873A001,영주시 안정로,SS_DAY,0.0,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 4.6),Spatial Outlier
+20250722,RDA,757802A001,예천군 예천읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 4.9),Spatial Outlier
+20250722,RDA,051394A001,창원시 대산면,SS_DAY,0.0,Differs from 5 nearest neighbors by 9.7 (Neighbor Mean: 9.7),Spatial Outlier
+20250722,RDA,063352B012,제주시 세화리,SS_DAY,0.0,Differs from 5 nearest neighbors by 8.7 (Neighbor Mean: 8.7),Spatial Outlier
+20250722,RDA,699946A001,서귀포 하례리,SS_DAY,0.0,Differs from 5 nearest neighbors by 8.7 (Neighbor Mean: 8.7),Spatial Outlier
+20250722,RDA,618803A001,부산시 강서구,SS_DAY,12.366666666666667,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 7.9),Spatial Outlier
+20250722,AWS,643,643,RN_DAY,39.0,Differs from 5 nearest neighbors by 36.9 (Neighbor Mean: 2.1),Spatial Outlier

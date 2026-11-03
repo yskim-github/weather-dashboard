@@ -1,0 +1,45 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20240815,RDA,567801A002,진안군 진안읍,SI_DAY,34.98,Out of physical range (0~31.5),Range/Logic Error
+20240815,RDA,567801A002,진안군 진안읍,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240815,RDA,567801A002,진안군 진안읍,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240815,RDA,567801A002,진안군 진안읍,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240815,RDA,567801A002,진안군 진안읍,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240815,RDA,567801A002,진안군 진안읍,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240815,RDA,567801A002,진안군 진안읍,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240815,RDA,567801A002,진안군 진안읍,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240815,RDA,513842A001,영광군 군서면,SI_DAY,35.5,Out of physical range (0~31.5),Range/Logic Error
+20240815,RDA,513842A001,영광군 군서면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240815,RDA,513842A001,영광군 군서면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240815,RDA,513842A001,영광군 군서면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240815,RDA,513842A001,영광군 군서면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240815,RDA,513842A001,영광군 군서면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240815,RDA,513842A001,영광군 군서면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240815,RDA,513842A001,영광군 군서면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240815,RDA,054065A001,군산시 개정면,HM_AVG,51.7,"Exceeds 3.5 Sigma (Mean: 78.5, Std: 7.6)",Statistical Outlier
+20240815,RDA,667831A001,하동군 적량면,HM_AVG,22.5,"Exceeds 3.5 Sigma (Mean: 78.5, Std: 7.6)",Statistical Outlier
+20240815,RDA,063607F015,서귀포 남원읍,HM_AVG,41.6,"Exceeds 3.5 Sigma (Mean: 78.5, Std: 7.6)",Statistical Outlier
+20240815,AWS,466,466,TA_MAX,38.9,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 34.7),Spatial Outlier
+20240815,AWS,875,875,TA_MIN,15.9,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 21.4),Spatial Outlier
+20240815,RDA,137180A001,서울시 서초구,HM_AVG,97.9,Differs from 5 nearest neighbors by 23.2 (Neighbor Mean: 74.7),Spatial Outlier
+20240815,ASOS,112,112,SI_DAY,23.49,Differs from 5 nearest neighbors by 9.7 (Neighbor Mean: 13.8),Spatial Outlier
+20240815,ASOS,169,169,SI_DAY,26.07,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 17.6),Spatial Outlier
+20240815,ASOS,262,262,SI_DAY,15.51,Differs from 5 nearest neighbors by 9.9 (Neighbor Mean: 25.4),Spatial Outlier
+20240815,RDA,477802A001,가평군 가평읍,SI_DAY,12.98,Differs from 5 nearest neighbors by 10.6 (Neighbor Mean: 23.6),Spatial Outlier
+20240815,RDA,415743A001,김포시 월곶면,SI_DAY,0.07,Differs from 5 nearest neighbors by 18.8 (Neighbor Mean: 18.9),Spatial Outlier
+20240815,RDA,233852A001,정선군 정선읍,SI_DAY,12.27,Differs from 5 nearest neighbors by 10.6 (Neighbor Mean: 22.9),Spatial Outlier
+20240815,RDA,269811A001,철원군 동송읍,SI_DAY,8.97,Differs from 5 nearest neighbors by 12.4 (Neighbor Mean: 21.4),Spatial Outlier
+20240815,RDA,055640F028,장수군 개정리,SI_DAY,15.26,Differs from 5 nearest neighbors by 9.4 (Neighbor Mean: 24.7),Spatial Outlier
+20240815,RDA,597803A001,장수군 장수읍,SI_DAY,15.95,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 23.5),Spatial Outlier
+20240815,RDA,050115F027,거창군 주상면,SI_DAY,14.45,Differs from 5 nearest neighbors by 8.9 (Neighbor Mean: 23.3),Spatial Outlier
+20240815,RDA,627911A001,밀양시 상남면,SI_DAY,11.11,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 19.3),Spatial Outlier
+20240815,RDA,699946A001,서귀포 하례리,SI_DAY,0.0,Differs from 5 nearest neighbors by 17.6 (Neighbor Mean: 17.6),Spatial Outlier
+20240815,RDA,409871A001,옹진군 영흥면,SI_DAY,24.31,Differs from 5 nearest neighbors by 8.9 (Neighbor Mean: 15.4),Spatial Outlier
+20240815,ASOS,102,102,SS_DAY,11.8,Differs from 5 nearest neighbors by 4.4 (Neighbor Mean: 7.4),Spatial Outlier
+20240815,ASOS,108,108,SS_DAY,4.1,Differs from 5 nearest neighbors by 4.2 (Neighbor Mean: 8.3),Spatial Outlier
+20240815,ASOS,169,169,SS_DAY,12.3,Differs from 5 nearest neighbors by 6.2 (Neighbor Mean: 6.1),Spatial Outlier
+20240815,ASOS,189,189,SS_DAY,7.2,Differs from 5 nearest neighbors by 4.4 (Neighbor Mean: 2.8),Spatial Outlier
+20240815,RDA,477802A001,가평군 가평읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 8.6 (Neighbor Mean: 8.6),Spatial Outlier
+20240815,RDA,063352B012,제주시 세화리,SS_DAY,0.0,Differs from 5 nearest neighbors by 4.3 (Neighbor Mean: 4.3),Spatial Outlier
+20240815,AWS,724,724,RN_DAY,49.5,Differs from 5 nearest neighbors by 47.0 (Neighbor Mean: 2.5),Spatial Outlier
+20240815,RDA,716823A001,군위군 효령면,RN_DAY,32.0,Differs from 5 nearest neighbors by 29.7 (Neighbor Mean: 2.3),Spatial Outlier
+20240815,RDA,678806A001,합천군 용주면,RN_DAY,40.0,Differs from 5 nearest neighbors by 37.6 (Neighbor Mean: 2.4),Spatial Outlier

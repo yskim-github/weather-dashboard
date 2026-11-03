@@ -1,0 +1,26 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20251007,RDA,451873A001,평택시 오성면,TA_AVG,17.8,Tavg not between Tmax(0.0) and Tmin(0.0),Range/Logic Error
+20251007,RDA,699946A001,서귀포 하례리,TA_AVG,34.8,"Exceeds 3.5 Sigma (Mean: 21.0, Std: 2.1)",Statistical Outlier
+20251007,RDA,451873A001,평택시 오성면,TA_MAX,0.0,"Exceeds 3.5 Sigma (Mean: 23.0, Std: 2.8)",Statistical Outlier
+20251007,RDA,063605F004,서귀포 신효동,TA_MAX,32.5,"Exceeds 3.5 Sigma (Mean: 23.0, Std: 2.8)",Statistical Outlier
+20251007,RDA,699946A001,서귀포 하례리,TA_MAX,40.3,"Exceeds 3.5 Sigma (Mean: 23.0, Std: 2.8)",Statistical Outlier
+20251007,RDA,451873A001,평택시 오성면,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 18.7, Std: 2.4)",Statistical Outlier
+20251007,RDA,039102B003,구미시 옥성면,TA_MIN,0.3,"Exceeds 3.5 Sigma (Mean: 18.7, Std: 2.4)",Statistical Outlier
+20251007,RDA,699946A001,서귀포 하례리,TA_MIN,32.6,"Exceeds 3.5 Sigma (Mean: 18.7, Std: 2.4)",Statistical Outlier
+20251007,ASOS,130,130,WS_AVG,4.9,"Exceeds 3.5 Sigma (Mean: 1.2, Std: 1.0)",Statistical Outlier
+20251007,ASOS,169,169,WS_AVG,6.1,"Exceeds 3.5 Sigma (Mean: 1.2, Std: 1.0)",Statistical Outlier
+20251007,ASOS,185,185,WS_AVG,8.1,"Exceeds 3.5 Sigma (Mean: 1.2, Std: 1.0)",Statistical Outlier
+20251007,RDA,486831E011,연천군 신서면,HM_AVG,13.2,"Exceeds 3.5 Sigma (Mean: 92.4, Std: 8.9)",Statistical Outlier
+20251007,RDA,390874A001,제천시 봉양읍,HM_AVG,36.1,"Exceeds 3.5 Sigma (Mean: 92.4, Std: 8.9)",Statistical Outlier
+20251007,RDA,570802A001,익산시 함열읍,HM_AVG,55.1,"Exceeds 3.5 Sigma (Mean: 92.4, Std: 8.9)",Statistical Outlier
+20251007,RDA,063605F004,서귀포 신효동,HM_AVG,39.1,"Exceeds 3.5 Sigma (Mean: 92.4, Std: 8.9)",Statistical Outlier
+20251007,AWS,472,472,TA_MAX,22.5,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 17.8),Spatial Outlier
+20251007,AWS,960,960,TA_MAX,29.2,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 33.9),Spatial Outlier
+20251007,ASOS,98,98,HM_AVG,99.8,Differs from 5 nearest neighbors by 23.6 (Neighbor Mean: 76.2),Spatial Outlier
+20251007,RDA,451873A001,평택시 오성면,HM_AVG,72.0,Differs from 5 nearest neighbors by 23.0 (Neighbor Mean: 95.0),Spatial Outlier
+20251007,RDA,445891A001,화성시 장안면,SI_DAY,12.29,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 4.1),Spatial Outlier
+20251007,RDA,699946A001,서귀포 하례리,SI_DAY,3.29,Differs from 5 nearest neighbors by 16.4 (Neighbor Mean: 19.7),Spatial Outlier
+20251007,ASOS,189,189,SS_DAY,9.0,Differs from 5 nearest neighbors by 7.4 (Neighbor Mean: 1.6),Spatial Outlier
+20251007,RDA,451873A001,평택시 오성면,SS_DAY,12.866666666666667,Differs from 5 nearest neighbors by 12.8 (Neighbor Mean: 0.0),Spatial Outlier
+20251007,RDA,350808A001,홍성군 홍성읍,SS_DAY,6.65,Differs from 5 nearest neighbors by 6.4 (Neighbor Mean: 0.2),Spatial Outlier
+20251007,RDA,719862A001,성주군 대가면,SS_DAY,4.216666666666667,Differs from 5 nearest neighbors by 4.2 (Neighbor Mean: 0.0),Spatial Outlier

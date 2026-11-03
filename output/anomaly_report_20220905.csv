@@ -1,0 +1,22 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20220905,RDA,312831A001,금산군 금성면,SI_DAY,39.93,Out of physical range (0~31.5),Range/Logic Error
+20220905,RDA,312831A001,금산군 금성면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220905,RDA,312831A001,금산군 금성면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220905,RDA,312831A001,금산군 금성면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220905,RDA,312831A001,금산군 금성면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220905,RDA,312831A001,금산군 금성면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220905,RDA,312831A001,금산군 금성면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220905,RDA,312831A001,금산군 금성면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220905,ASOS,169,169,WS_AVG,10.1,"Exceeds 3.5 Sigma (Mean: 1.9, Std: 1.6)",Statistical Outlier
+20220905,ASOS,185,185,WS_AVG,10.8,"Exceeds 3.5 Sigma (Mean: 1.9, Std: 1.6)",Statistical Outlier
+20220905,ASOS,188,188,WS_AVG,9.7,"Exceeds 3.5 Sigma (Mean: 1.9, Std: 1.6)",Statistical Outlier
+20220905,RDA,570802A001,익산시 함열읍,HM_AVG,9.4,"Exceeds 3.5 Sigma (Mean: 94.7, Std: 6.7)",Statistical Outlier
+20220905,RDA,618803A001,부산시 강서구,HM_AVG,50.0,"Exceeds 3.5 Sigma (Mean: 94.7, Std: 6.7)",Statistical Outlier
+20220905,AWS,365,365,TA_MAX,17.6,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 22.7),Spatial Outlier
+20220905,AWS,911,911,TA_MIN,16.3,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 25.3),Spatial Outlier
+20220905,RDA,469803A001,여주시 상거동,SI_DAY,28.16,Differs from 5 nearest neighbors by 26.2 (Neighbor Mean: 2.0),Spatial Outlier
+20220905,RDA,520853A003,나주시 봉황면,SI_DAY,11.57,Differs from 5 nearest neighbors by 9.6 (Neighbor Mean: 1.9),Spatial Outlier
+20220905,RDA,321916A001,계룡시 두마면,SI_DAY,2.72,Differs from 5 nearest neighbors by 8.4 (Neighbor Mean: 11.1),Spatial Outlier
+20220905,RDA,355831A001,보령시 주교면,SI_DAY,18.44,Differs from 5 nearest neighbors by 15.6 (Neighbor Mean: 2.8),Spatial Outlier
+20220905,RDA,588802A001,무주군 무주읍,SI_DAY,2.61,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 10.6),Spatial Outlier
+20220905,RDA,038303A002,청도군 각북면,SS_DAY,5.35,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 0.0),Spatial Outlier

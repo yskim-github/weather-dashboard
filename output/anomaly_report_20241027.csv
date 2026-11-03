@@ -1,0 +1,53 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20241027,RDA,520853A003,나주시 봉황면,TA_MIN,50.0,Out of physical range (-40~45),Range/Logic Error
+20241027,RDA,520892A001,나주시 공산면,TA_MIN,50.0,Out of physical range (-40~45),Range/Logic Error
+20241027,RDA,520943A002,나주시 문평면,TA_MIN,50.0,Out of physical range (-40~45),Range/Logic Error
+20241027,RDA,520853A003,나주시 봉황면,TA_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 15.4, Std: 2.1)",Statistical Outlier
+20241027,RDA,520892A001,나주시 공산면,TA_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 15.4, Std: 2.1)",Statistical Outlier
+20241027,RDA,520943A002,나주시 문평면,TA_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 15.4, Std: 2.1)",Statistical Outlier
+20241027,AWS,561,561,TA_MAX,10.4,"Exceeds 3.5 Sigma (Mean: 19.6, Std: 1.4)",Statistical Outlier
+20241027,AWS,867,867,TA_MAX,15.0,"Exceeds 3.5 Sigma (Mean: 19.6, Std: 1.4)",Statistical Outlier
+20241027,AWS,871,871,TA_MAX,13.6,"Exceeds 3.5 Sigma (Mean: 19.6, Std: 1.4)",Statistical Outlier
+20241027,AWS,965,965,TA_MAX,14.2,"Exceeds 3.5 Sigma (Mean: 19.6, Std: 1.4)",Statistical Outlier
+20241027,RDA,627911A001,밀양시 상남면,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 12.6, Std: 2.9)",Statistical Outlier
+20241027,ASOS,102,102,WS_AVG,5.1,"Exceeds 3.5 Sigma (Mean: 0.8, Std: 0.7)",Statistical Outlier
+20241027,ASOS,169,169,WS_AVG,5.5,"Exceeds 3.5 Sigma (Mean: 0.8, Std: 0.7)",Statistical Outlier
+20241027,ASOS,185,185,WS_AVG,4.5,"Exceeds 3.5 Sigma (Mean: 0.8, Std: 0.7)",Statistical Outlier
+20241027,RDA,520853A003,나주시 봉황면,HM_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 87.4, Std: 12.7)",Statistical Outlier
+20241027,RDA,245825A002,삼척시 미로면,HM_AVG,33.0,"Exceeds 3.5 Sigma (Mean: 87.4, Std: 12.7)",Statistical Outlier
+20241027,RDA,520892A001,나주시 공산면,HM_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 87.4, Std: 12.7)",Statistical Outlier
+20241027,RDA,520943A002,나주시 문평면,HM_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 87.4, Std: 12.7)",Statistical Outlier
+20241027,RDA,063501F011,서귀포 대정읍,HM_AVG,0.6,"Exceeds 3.5 Sigma (Mean: 87.4, Std: 12.7)",Statistical Outlier
+20241027,RDA,063616F005,서귀포 신흥리,HM_AVG,41.1,"Exceeds 3.5 Sigma (Mean: 87.4, Std: 12.7)",Statistical Outlier
+20241027,ASOS,165,165,TA_AVG,16.8,Differs from 5 nearest neighbors by 7.4 (Neighbor Mean: 9.7),Spatial Outlier
+20241027,RDA,534833E001,무안군 청계면,TA_AVG,16.4,Differs from 5 nearest neighbors by 6.8 (Neighbor Mean: 9.8),Spatial Outlier
+20241027,RDA,520821F001,나주시 금천면,TA_AVG,15.7,Differs from 5 nearest neighbors by 9.3 (Neighbor Mean: 6.5),Spatial Outlier
+20241027,RDA,526821A001,영암군 덕진면,TA_AVG,15.6,Differs from 5 nearest neighbors by 6.0 (Neighbor Mean: 9.8),Spatial Outlier
+20241027,RDA,535873B003,나주시 산포면,TA_AVG,15.2,Differs from 5 nearest neighbors by 8.8 (Neighbor Mean: 6.6),Spatial Outlier
+20241027,RDA,525811A001,함평군 학교면,TA_AVG,16.0,Differs from 5 nearest neighbors by 9.5 (Neighbor Mean: 6.5),Spatial Outlier
+20241027,AWS,710,710,TA_MIN,12.1,Differs from 5 nearest neighbors by 7.4 (Neighbor Mean: 19.6),Spatial Outlier
+20241027,AWS,754,754,TA_MIN,12.5,Differs from 5 nearest neighbors by 15.5 (Neighbor Mean: 28.1),Spatial Outlier
+20241027,AWS,770,770,TA_MIN,11.6,Differs from 5 nearest neighbors by 7.2 (Neighbor Mean: 19.4),Spatial Outlier
+20241027,AWS,775,775,TA_MIN,11.1,Differs from 5 nearest neighbors by 8.7 (Neighbor Mean: 20.0),Spatial Outlier
+20241027,AWS,784,784,TA_MIN,13.0,Differs from 5 nearest neighbors by 14.7 (Neighbor Mean: 27.9),Spatial Outlier
+20241027,RDA,520821F001,나주시 금천면,TA_MIN,12.3,Differs from 5 nearest neighbors by 7.3 (Neighbor Mean: 19.7),Spatial Outlier
+20241027,RDA,526821A001,영암군 덕진면,TA_MIN,12.4,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 20.4),Spatial Outlier
+20241027,RDA,535873B003,나주시 산포면,TA_MIN,11.6,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 19.7),Spatial Outlier
+20241027,RDA,525811A001,함평군 학교면,TA_MIN,12.4,Differs from 5 nearest neighbors by 15.6 (Neighbor Mean: 28.1),Spatial Outlier
+20241027,ASOS,165,165,HM_AVG,84.3,Differs from 5 nearest neighbors by 30.5 (Neighbor Mean: 53.8),Spatial Outlier
+20241027,RDA,054065A001,군산시 개정면,HM_AVG,64.5,Differs from 5 nearest neighbors by 25.6 (Neighbor Mean: 90.1),Spatial Outlier
+20241027,RDA,534833E001,무안군 청계면,HM_AVG,87.1,Differs from 5 nearest neighbors by 33.9 (Neighbor Mean: 53.2),Spatial Outlier
+20241027,RDA,520821F001,나주시 금천면,HM_AVG,92.5,Differs from 5 nearest neighbors by 59.2 (Neighbor Mean: 33.3),Spatial Outlier
+20241027,RDA,526821A001,영암군 덕진면,HM_AVG,92.5,Differs from 5 nearest neighbors by 37.9 (Neighbor Mean: 54.6),Spatial Outlier
+20241027,RDA,535873B003,나주시 산포면,HM_AVG,83.5,Differs from 5 nearest neighbors by 48.4 (Neighbor Mean: 35.1),Spatial Outlier
+20241027,RDA,525811A001,함평군 학교면,HM_AVG,89.3,Differs from 5 nearest neighbors by 53.4 (Neighbor Mean: 35.9),Spatial Outlier
+20241027,RDA,667831A001,하동군 적량면,HM_AVG,45.7,Differs from 5 nearest neighbors by 42.1 (Neighbor Mean: 87.8),Spatial Outlier
+20241027,RDA,063527F012,서귀포 덕수리,HM_AVG,99.5,Differs from 5 nearest neighbors by 25.5 (Neighbor Mean: 74.0),Spatial Outlier
+20241027,RDA,063190F010,제주시 금악리,HM_AVG,98.3,Differs from 5 nearest neighbors by 23.2 (Neighbor Mean: 75.1),Spatial Outlier
+20241027,RDA,063605F004,서귀포 신효동,HM_AVG,96.0,Differs from 5 nearest neighbors by 20.2 (Neighbor Mean: 75.8),Spatial Outlier
+20241027,RDA,445891A001,화성시 장안면,SI_DAY,13.76,Differs from 5 nearest neighbors by 8.3 (Neighbor Mean: 5.5),Spatial Outlier
+20241027,RDA,245832A001,삼척시 근덕면,SS_DAY,7.783333333333333,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 2.1),Spatial Outlier
+20241027,RDA,451873A001,평택시 오성면,SS_DAY,6.266666666666667,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 0.8),Spatial Outlier
+20241027,RDA,250802A001,홍천군 화동리,SS_DAY,5.766666666666667,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 0.5),Spatial Outlier
+20241027,RDA,350808A001,홍성군 홍성읍,SS_DAY,5.9,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 1.3),Spatial Outlier
+20241027,RDA,038303A002,청도군 각북면,SS_DAY,6.4,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 0.8),Spatial Outlier

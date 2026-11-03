@@ -1,0 +1,19 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20250405,RDA,570802A001,익산시 함열읍,SS_DAY,18.166666666666668,Out of physical range (0~14.8),Range/Logic Error
+20250405,RDA,699946A001,서귀포 하례리,TA_AVG,25.3,"Exceeds 3.5 Sigma (Mean: 9.8, Std: 1.9)",Statistical Outlier
+20250405,RDA,699946A001,서귀포 하례리,TA_MAX,28.7,"Exceeds 3.5 Sigma (Mean: 13.2, Std: 2.9)",Statistical Outlier
+20250405,RDA,699946A001,서귀포 하례리,TA_MIN,21.7,"Exceeds 3.5 Sigma (Mean: 6.2, Std: 1.8)",Statistical Outlier
+20250405,ASOS,169,169,WS_AVG,6.6,"Exceeds 3.5 Sigma (Mean: 1.7, Std: 1.0)",Statistical Outlier
+20250405,ASOS,185,185,WS_AVG,7.5,"Exceeds 3.5 Sigma (Mean: 1.7, Std: 1.0)",Statistical Outlier
+20250405,RDA,487915A001,포천시 신북면,HM_AVG,36.7,"Exceeds 3.5 Sigma (Mean: 79.1, Std: 9.0)",Statistical Outlier
+20250405,RDA,618803A001,부산시 강서구,HM_AVG,19.7,"Exceeds 3.5 Sigma (Mean: 79.1, Std: 9.0)",Statistical Outlier
+20250405,AWS,885,885,TA_MAX,12.6,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 19.2),Spatial Outlier
+20250405,AWS,151,151,TA_MIN,2.9,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 7.5),Spatial Outlier
+20250405,AWS,859,859,TA_MIN,7.0,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 5.3),Spatial Outlier
+20250405,AWS,885,885,TA_MIN,3.7,Differs from 5 nearest neighbors by 6.1 (Neighbor Mean: 11.4),Spatial Outlier
+20250405,RDA,063605F004,서귀포 신효동,TA_MIN,7.1,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 12.7),Spatial Outlier
+20250405,RDA,689861A001,울주군 청량읍,TA_MIN,1.5,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 6.5),Spatial Outlier
+20250405,ASOS,115,115,HM_AVG,91.5,Differs from 5 nearest neighbors by 23.3 (Neighbor Mean: 68.2),Spatial Outlier
+20250405,RDA,245825A002,삼척시 미로면,HM_AVG,47.9,Differs from 5 nearest neighbors by 20.9 (Neighbor Mean: 68.8),Spatial Outlier
+20250405,RDA,063527F012,서귀포 덕수리,SI_DAY,0.22,Differs from 5 nearest neighbors by 10.5 (Neighbor Mean: 10.7),Spatial Outlier
+20250405,RDA,063356F008,제주시 구좌읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 12.0 (Neighbor Mean: 12.0),Spatial Outlier

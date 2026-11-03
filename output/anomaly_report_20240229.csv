@@ -1,0 +1,4 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20240229,AWS,869,869,TA_MAX,5.8,"Exceeds 3.5 Sigma (Mean: 8.4, Std: 1.6)",Statistical Outlier
+20240229,ASOS,102,102,WS_AVG,8.1,"Exceeds 3.5 Sigma (Mean: 1.8, Std: 1.5)",Statistical Outlier
+20240229,ASOS,169,169,WS_AVG,8.7,"Exceeds 3.5 Sigma (Mean: 1.8, Std: 1.5)",Statistical Outlier

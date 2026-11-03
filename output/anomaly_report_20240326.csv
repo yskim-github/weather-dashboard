@@ -1,0 +1,39 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20240326,RDA,355831A001,보령시 주교면,SI_DAY,31.74,Out of physical range (0~31.5),Range/Logic Error
+20240326,AWS,727,727,TA_MAX,17.7,"Exceeds 3.5 Sigma (Mean: 11.7, Std: 2.2)",Statistical Outlier
+20240326,AWS,753,753,TA_MAX,14.8,"Exceeds 3.5 Sigma (Mean: 11.7, Std: 2.2)",Statistical Outlier
+20240326,AWS,867,867,TA_MAX,11.1,"Exceeds 3.5 Sigma (Mean: 11.7, Std: 2.2)",Statistical Outlier
+20240326,AWS,868,868,TA_MAX,12.0,"Exceeds 3.5 Sigma (Mean: 11.7, Std: 2.2)",Statistical Outlier
+20240326,AWS,869,869,TA_MAX,12.5,"Exceeds 3.5 Sigma (Mean: 11.7, Std: 2.2)",Statistical Outlier
+20240326,AWS,870,870,TA_MAX,10.2,"Exceeds 3.5 Sigma (Mean: 11.7, Std: 2.2)",Statistical Outlier
+20240326,AWS,871,871,TA_MAX,9.9,"Exceeds 3.5 Sigma (Mean: 11.7, Std: 2.2)",Statistical Outlier
+20240326,AWS,883,883,TA_MAX,16.8,"Exceeds 3.5 Sigma (Mean: 11.7, Std: 2.2)",Statistical Outlier
+20240326,AWS,965,965,TA_MAX,10.2,"Exceeds 3.5 Sigma (Mean: 11.7, Std: 2.2)",Statistical Outlier
+20240326,RDA,441707D001,수원시 서둔동,TA_MAX,20.4,"Exceeds 3.5 Sigma (Mean: 11.7, Std: 2.2)",Statistical Outlier
+20240326,RDA,566822A001,임실군 신평면,TA_MAX,20.2,"Exceeds 3.5 Sigma (Mean: 11.7, Std: 2.2)",Statistical Outlier
+20240326,RDA,039102B003,구미시 옥성면,TA_MAX,20.0,"Exceeds 3.5 Sigma (Mean: 11.7, Std: 2.2)",Statistical Outlier
+20240326,RDA,063605F004,서귀포 신효동,TA_MAX,20.7,"Exceeds 3.5 Sigma (Mean: 11.7, Std: 2.2)",Statistical Outlier
+20240326,ASOS,115,115,WS_AVG,6.6,"Exceeds 3.5 Sigma (Mean: 2.0, Std: 1.3)",Statistical Outlier
+20240326,ASOS,169,169,WS_AVG,9.2,"Exceeds 3.5 Sigma (Mean: 2.0, Std: 1.3)",Statistical Outlier
+20240326,ASOS,185,185,WS_AVG,10.3,"Exceeds 3.5 Sigma (Mean: 2.0, Std: 1.3)",Statistical Outlier
+20240326,RDA,054065A001,군산시 개정면,HM_AVG,23.8,"Exceeds 3.5 Sigma (Mean: 83.5, Std: 7.7)",Statistical Outlier
+20240326,RDA,570802A001,익산시 함열읍,HM_AVG,53.0,"Exceeds 3.5 Sigma (Mean: 83.5, Std: 7.7)",Statistical Outlier
+20240326,RDA,063616F005,서귀포 신흥리,HM_AVG,28.1,"Exceeds 3.5 Sigma (Mean: 83.5, Std: 7.7)",Statistical Outlier
+20240326,AWS,415,415,TA_MAX,7.7,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 12.7),Spatial Outlier
+20240326,RDA,269804A001,음성군 소이면,TA_MAX,18.2,Differs from 5 nearest neighbors by 8.7 (Neighbor Mean: 10.1),Spatial Outlier
+20240326,RDA,467800A001,이천시 중리동,SI_DAY,21.47,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 13.7),Spatial Outlier
+20240326,RDA,469803A001,여주시 상거동,SI_DAY,25.92,Differs from 5 nearest neighbors by 13.8 (Neighbor Mean: 12.1),Spatial Outlier
+20240326,RDA,415743A001,김포시 월곶면,SI_DAY,0.58,Differs from 5 nearest neighbors by 14.0 (Neighbor Mean: 14.6),Spatial Outlier
+20240326,RDA,269811A001,철원군 동송읍,SI_DAY,3.04,Differs from 5 nearest neighbors by 13.8 (Neighbor Mean: 16.8),Spatial Outlier
+20240326,RDA,312831A001,금산군 금성면,SI_DAY,1.29,Differs from 5 nearest neighbors by 12.2 (Neighbor Mean: 13.5),Spatial Outlier
+20240326,RDA,513842A001,영광군 군서면,SI_DAY,17.32,Differs from 5 nearest neighbors by 8.3 (Neighbor Mean: 9.0),Spatial Outlier
+20240326,RDA,063240F009,제주시 오등동,SI_DAY,2.79,Differs from 5 nearest neighbors by 9.0 (Neighbor Mean: 11.8),Spatial Outlier
+20240326,RDA,063356F008,제주시 구좌읍,SI_DAY,4.04,Differs from 5 nearest neighbors by 9.4 (Neighbor Mean: 13.5),Spatial Outlier
+20240326,RDA,699946A001,서귀포 하례리,SI_DAY,9.49,Differs from 5 nearest neighbors by 11.8 (Neighbor Mean: 21.3),Spatial Outlier
+20240326,ASOS,102,102,SS_DAY,9.2,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 4.2),Spatial Outlier
+20240326,ASOS,184,184,SS_DAY,0.0,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 4.9),Spatial Outlier
+20240326,ASOS,189,189,SS_DAY,9.4,Differs from 5 nearest neighbors by 6.4 (Neighbor Mean: 3.0),Spatial Outlier
+20240326,RDA,269804A001,음성군 소이면,SS_DAY,8.683333333333334,Differs from 5 nearest neighbors by 6.9 (Neighbor Mean: 1.8),Spatial Outlier
+20240326,RDA,038303A002,청도군 각북면,SS_DAY,6.933333333333334,Differs from 5 nearest neighbors by 6.5 (Neighbor Mean: 0.5),Spatial Outlier
+20240326,RDA,063352B012,제주시 세화리,SS_DAY,0.0,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 4.9),Spatial Outlier
+20240326,RDA,699946A001,서귀포 하례리,SS_DAY,8.933333333333334,Differs from 5 nearest neighbors by 5.8 (Neighbor Mean: 3.1),Spatial Outlier

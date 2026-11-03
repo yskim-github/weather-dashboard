@@ -1,0 +1,24 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20240827,RDA,469803A001,여주시 상거동,SI_DAY,31.67,Out of physical range (0~31.5),Range/Logic Error
+20240827,RDA,245832A001,삼척시 근덕면,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 23.5, Std: 1.8)",Statistical Outlier
+20240827,ASOS,115,115,WS_AVG,4.5,"Exceeds 3.5 Sigma (Mean: 1.1, Std: 0.8)",Statistical Outlier
+20240827,ASOS,168,168,WS_AVG,3.8,"Exceeds 3.5 Sigma (Mean: 1.1, Std: 0.8)",Statistical Outlier
+20240827,RDA,618803A001,부산시 강서구,WS_AVG,4.03,"Exceeds 3.5 Sigma (Mean: 1.1, Std: 0.8)",Statistical Outlier
+20240827,RDA,667831A001,하동군 적량면,HM_AVG,54.5,"Exceeds 3.5 Sigma (Mean: 86.0, Std: 7.0)",Statistical Outlier
+20240827,RDA,063607F015,서귀포 남원읍,HM_AVG,38.7,"Exceeds 3.5 Sigma (Mean: 86.0, Std: 7.0)",Statistical Outlier
+20240827,AWS,708,708,TA_MAX,27.8,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 33.3),Spatial Outlier
+20240827,AWS,876,876,TA_MIN,21.1,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 16.9),Spatial Outlier
+20240827,ASOS,102,102,SI_DAY,18.11,Differs from 5 nearest neighbors by 8.3 (Neighbor Mean: 9.8),Spatial Outlier
+20240827,RDA,415743A001,김포시 월곶면,SI_DAY,0.16,Differs from 5 nearest neighbors by 9.4 (Neighbor Mean: 9.6),Spatial Outlier
+20240827,RDA,269811A001,철원군 동송읍,SI_DAY,0.56,Differs from 5 nearest neighbors by 11.4 (Neighbor Mean: 12.0),Spatial Outlier
+20240827,RDA,513842A001,영광군 군서면,SI_DAY,18.69,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 11.0),Spatial Outlier
+20240827,RDA,699946A001,서귀포 하례리,SI_DAY,0.0,Differs from 5 nearest neighbors by 19.0 (Neighbor Mean: 19.0),Spatial Outlier
+20240827,ASOS,189,189,SS_DAY,8.4,Differs from 5 nearest neighbors by 4.3 (Neighbor Mean: 4.1),Spatial Outlier
+20240827,RDA,451873A001,평택시 오성면,SS_DAY,6.066666666666666,Differs from 5 nearest neighbors by 4.2 (Neighbor Mean: 1.8),Spatial Outlier
+20240827,RDA,250802A001,홍천군 화동리,SS_DAY,7.566666666666666,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 2.6),Spatial Outlier
+20240827,RDA,312831A001,금산군 금성면,SS_DAY,6.433333333333334,Differs from 5 nearest neighbors by 6.4 (Neighbor Mean: 0.1),Spatial Outlier
+20240827,RDA,355831A001,보령시 주교면,SS_DAY,7.15,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 2.0),Spatial Outlier
+20240827,RDA,350808A001,홍성군 홍성읍,SS_DAY,8.733333333333333,Differs from 5 nearest neighbors by 6.7 (Neighbor Mean: 2.1),Spatial Outlier
+20240827,RDA,719862A001,성주군 대가면,SS_DAY,8.95,Differs from 5 nearest neighbors by 8.6 (Neighbor Mean: 0.3),Spatial Outlier
+20240827,RDA,038303A002,청도군 각북면,SS_DAY,9.2,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 1.4),Spatial Outlier
+20240827,RDA,063352B012,제주시 세화리,SS_DAY,0.0,Differs from 5 nearest neighbors by 5.8 (Neighbor Mean: 5.8),Spatial Outlier

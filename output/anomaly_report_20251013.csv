@@ -1,0 +1,13 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20251013,RDA,451873A001,평택시 오성면,TA_AVG,15.0,Tavg not between Tmax(0.0) and Tmin(0.0),Range/Logic Error
+20251013,RDA,380959A001,충주시 달천동,TA_AVG,16.0,Tavg not between Tmax(17.5) and Tmin(16.4),Range/Logic Error
+20251013,RDA,451873A001,평택시 오성면,TA_MAX,0.0,"Exceeds 3.5 Sigma (Mean: 21.6, Std: 4.3)",Statistical Outlier
+20251013,RDA,037339B009,의성군 의성읍,TA_MIN,1.4,"Exceeds 3.5 Sigma (Mean: 16.8, Std: 2.9)",Statistical Outlier
+20251013,RDA,451873A001,평택시 오성면,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 16.8, Std: 2.9)",Statistical Outlier
+20251013,ASOS,115,115,WS_AVG,5.3,"Exceeds 3.5 Sigma (Mean: 1.2, Std: 0.9)",Statistical Outlier
+20251013,ASOS,169,169,WS_AVG,5.1,"Exceeds 3.5 Sigma (Mean: 1.2, Std: 0.9)",Statistical Outlier
+20251013,RDA,390874A001,제천시 봉양읍,HM_AVG,66.2,"Exceeds 3.5 Sigma (Mean: 92.0, Std: 6.9)",Statistical Outlier
+20251013,RDA,063605F004,서귀포 신효동,HM_AVG,40.9,"Exceeds 3.5 Sigma (Mean: 92.0, Std: 6.9)",Statistical Outlier
+20251013,RDA,699946A001,서귀포 하례리,SI_DAY,3.49,Differs from 5 nearest neighbors by 15.7 (Neighbor Mean: 19.2),Spatial Outlier
+20251013,RDA,063352B012,제주시 세화리,SS_DAY,0.0,Differs from 5 nearest neighbors by 6.7 (Neighbor Mean: 6.7),Spatial Outlier
+20251013,RDA,699946A001,서귀포 하례리,SS_DAY,0.0,Differs from 5 nearest neighbors by 6.7 (Neighbor Mean: 6.7),Spatial Outlier

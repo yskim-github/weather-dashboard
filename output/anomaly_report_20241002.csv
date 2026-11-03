@@ -1,0 +1,42 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20241002,RDA,513842A001,영광군 군서면,SI_DAY,35.57,Out of physical range (0~31.5),Range/Logic Error
+20241002,RDA,513842A001,영광군 군서면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20241002,RDA,513842A001,영광군 군서면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20241002,RDA,513842A001,영광군 군서면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20241002,RDA,513842A001,영광군 군서면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20241002,RDA,513842A001,영광군 군서면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20241002,RDA,513842A001,영광군 군서면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20241002,RDA,513842A001,영광군 군서면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20241002,AWS,875,875,TA_MAX,4.7,"Exceeds 3.5 Sigma (Mean: 21.2, Std: 1.5)",Statistical Outlier
+20241002,RDA,063541F014,서귀포 하원동,TA_MAX,25.6,"Exceeds 3.5 Sigma (Mean: 21.2, Std: 1.5)",Statistical Outlier
+20241002,ASOS,115,115,WS_AVG,7.0,"Exceeds 3.5 Sigma (Mean: 1.8, Std: 1.3)",Statistical Outlier
+20241002,ASOS,169,169,WS_AVG,11.1,"Exceeds 3.5 Sigma (Mean: 1.8, Std: 1.3)",Statistical Outlier
+20241002,ASOS,185,185,WS_AVG,9.7,"Exceeds 3.5 Sigma (Mean: 1.8, Std: 1.3)",Statistical Outlier
+20241002,RDA,667831A001,하동군 적량면,HM_AVG,17.5,"Exceeds 3.5 Sigma (Mean: 60.7, Std: 10.8)",Statistical Outlier
+20241002,RDA,063501F011,서귀포 대정읍,HM_AVG,0.5,"Exceeds 3.5 Sigma (Mean: 60.7, Std: 10.8)",Statistical Outlier
+20241002,RDA,063607F015,서귀포 남원읍,HM_AVG,10.9,"Exceeds 3.5 Sigma (Mean: 60.7, Std: 10.8)",Statistical Outlier
+20241002,AWS,366,366,TA_MAX,24.4,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 20.0),Spatial Outlier
+20241002,AWS,965,965,TA_MAX,14.1,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 19.2),Spatial Outlier
+20241002,AWS,377,377,TA_MIN,5.8,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 11.5),Spatial Outlier
+20241002,AWS,544,544,TA_MIN,17.7,Differs from 5 nearest neighbors by 6.7 (Neighbor Mean: 11.1),Spatial Outlier
+20241002,AWS,610,610,TA_MIN,15.0,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 10.4),Spatial Outlier
+20241002,RDA,269811A001,철원군 동송읍,TA_MIN,9.8,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 6.5),Spatial Outlier
+20241002,RDA,137180A001,서울시 서초구,TA_MIN,6.8,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 12.3),Spatial Outlier
+20241002,ASOS,108,108,HM_AVG,48.8,Differs from 5 nearest neighbors by 21.2 (Neighbor Mean: 70.0),Spatial Outlier
+20241002,RDA,357903A001,태안군 태안읍,HM_AVG,47.6,Differs from 5 nearest neighbors by 20.8 (Neighbor Mean: 68.4),Spatial Outlier
+20241002,RDA,063527F012,서귀포 덕수리,HM_AVG,70.8,Differs from 5 nearest neighbors by 22.7 (Neighbor Mean: 48.1),Spatial Outlier
+20241002,RDA,063190F010,제주시 금악리,HM_AVG,68.8,Differs from 5 nearest neighbors by 20.1 (Neighbor Mean: 48.7),Spatial Outlier
+20241002,RDA,137180A001,서울시 서초구,HM_AVG,83.2,Differs from 5 nearest neighbors by 22.4 (Neighbor Mean: 60.8),Spatial Outlier
+20241002,RDA,477802A001,가평군 가평읍,SI_DAY,11.53,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 19.2),Spatial Outlier
+20241002,RDA,415743A001,김포시 월곶면,SI_DAY,1.14,Differs from 5 nearest neighbors by 17.1 (Neighbor Mean: 18.3),Spatial Outlier
+20241002,RDA,018544F032,화성시 마도면,SI_DAY,10.89,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 18.6),Spatial Outlier
+20241002,RDA,429843A001,시흥시 하중동,SI_DAY,10.1,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 17.8),Spatial Outlier
+20241002,RDA,269811A001,철원군 동송읍,SI_DAY,1.62,Differs from 5 nearest neighbors by 18.1 (Neighbor Mean: 19.7),Spatial Outlier
+20241002,RDA,027486F033,충주시 안림동,SI_DAY,9.35,Differs from 5 nearest neighbors by 10.2 (Neighbor Mean: 19.5),Spatial Outlier
+20241002,RDA,567801A002,진안군 진안읍,SI_DAY,28.92,Differs from 5 nearest neighbors by 10.2 (Neighbor Mean: 18.7),Spatial Outlier
+20241002,RDA,519822A001,화순군 한천면,SI_DAY,26.37,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 18.2),Spatial Outlier
+20241002,RDA,627911A001,밀양시 상남면,SI_DAY,10.7,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 18.8),Spatial Outlier
+20241002,RDA,699946A001,서귀포 하례리,SI_DAY,0.0,Differs from 5 nearest neighbors by 13.5 (Neighbor Mean: 13.5),Spatial Outlier
+20241002,RDA,409871A001,옹진군 영흥면,SI_DAY,21.16,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 13.4),Spatial Outlier
+20241002,RDA,477802A001,가평군 가평읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 8.9 (Neighbor Mean: 8.9),Spatial Outlier
+20241002,RDA,063352B012,제주시 세화리,SS_DAY,0.0,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 4.5),Spatial Outlier

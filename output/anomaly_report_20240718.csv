@@ -1,0 +1,15 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20240718,RDA,063356F008,제주시 구좌읍,TA_MAX,34.1,"Exceeds 3.5 Sigma (Mean: 28.2, Std: 1.8)",Statistical Outlier
+20240718,AWS,658,658,TA_MIN,17.4,"Exceeds 3.5 Sigma (Mean: 24.3, Std: 1.4)",Statistical Outlier
+20240718,ASOS,115,115,WS_AVG,8.3,"Exceeds 3.5 Sigma (Mean: 2.1, Std: 1.5)",Statistical Outlier
+20240718,ASOS,169,169,WS_AVG,8.3,"Exceeds 3.5 Sigma (Mean: 2.1, Std: 1.5)",Statistical Outlier
+20240718,ASOS,185,185,WS_AVG,7.4,"Exceeds 3.5 Sigma (Mean: 2.1, Std: 1.5)",Statistical Outlier
+20240718,RDA,486831E011,연천군 신서면,HM_AVG,50.5,"Exceeds 3.5 Sigma (Mean: 88.9, Std: 7.7)",Statistical Outlier
+20240718,RDA,570802A001,익산시 함열읍,HM_AVG,56.7,"Exceeds 3.5 Sigma (Mean: 88.9, Std: 7.7)",Statistical Outlier
+20240718,RDA,618803A001,부산시 강서구,HM_AVG,34.3,"Exceeds 3.5 Sigma (Mean: 88.9, Std: 7.7)",Statistical Outlier
+20240718,AWS,901,901,TA_MAX,23.9,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 29.1),Spatial Outlier
+20240718,ASOS,185,185,SI_DAY,14.4,Differs from 5 nearest neighbors by 7.5 (Neighbor Mean: 6.9),Spatial Outlier
+20240718,RDA,469803A001,여주시 상거동,SI_DAY,30.9,Differs from 5 nearest neighbors by 27.6 (Neighbor Mean: 3.3),Spatial Outlier
+20240718,RDA,476801A001,양평군 양평읍,SI_DAY,1.74,Differs from 5 nearest neighbors by 8.6 (Neighbor Mean: 10.3),Spatial Outlier
+20240718,RDA,063240F009,제주시 오등동,SI_DAY,15.96,Differs from 5 nearest neighbors by 8.3 (Neighbor Mean: 7.7),Spatial Outlier
+20240718,RDA,038303A002,청도군 각북면,SS_DAY,9.833333333333334,Differs from 5 nearest neighbors by 9.7 (Neighbor Mean: 0.1),Spatial Outlier

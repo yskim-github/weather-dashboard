@@ -1,0 +1,23 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20240921,RDA,750873A002,영주시 안풍리,SI_DAY,37.34,Out of physical range (0~31.5),Range/Logic Error
+20240921,RDA,750873A002,영주시 안풍리,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240921,RDA,750873A002,영주시 안풍리,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240921,RDA,750873A002,영주시 안풍리,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240921,RDA,750873A002,영주시 안풍리,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240921,RDA,750873A002,영주시 안풍리,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240921,RDA,750873A002,영주시 안풍리,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240921,RDA,750873A002,영주시 안풍리,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240921,ASOS,115,115,WS_AVG,9.3,"Exceeds 3.5 Sigma (Mean: 1.9, Std: 1.6)",Statistical Outlier
+20240921,ASOS,168,168,WS_AVG,7.6,"Exceeds 3.5 Sigma (Mean: 1.9, Std: 1.6)",Statistical Outlier
+20240921,ASOS,169,169,WS_AVG,9.4,"Exceeds 3.5 Sigma (Mean: 1.9, Std: 1.6)",Statistical Outlier
+20240921,ASOS,185,185,WS_AVG,11.7,"Exceeds 3.5 Sigma (Mean: 1.9, Std: 1.6)",Statistical Outlier
+20240921,RDA,054065A001,군산시 개정면,HM_AVG,18.6,"Exceeds 3.5 Sigma (Mean: 93.3, Std: 10.2)",Statistical Outlier
+20240921,RDA,570802A001,익산시 함열읍,HM_AVG,12.3,"Exceeds 3.5 Sigma (Mean: 93.3, Std: 10.2)",Statistical Outlier
+20240921,RDA,063501F011,서귀포 대정읍,HM_AVG,0.6,"Exceeds 3.5 Sigma (Mean: 93.3, Std: 10.2)",Statistical Outlier
+20240921,ASOS,140,140,HM_AVG,94.8,Differs from 5 nearest neighbors by 30.4 (Neighbor Mean: 64.4),Spatial Outlier
+20240921,RDA,667831A001,하동군 적량면,HM_AVG,67.7,Differs from 5 nearest neighbors by 27.4 (Neighbor Mean: 95.1),Spatial Outlier
+20240921,RDA,063527F012,서귀포 덕수리,HM_AVG,99.9,Differs from 5 nearest neighbors by 24.3 (Neighbor Mean: 75.6),Spatial Outlier
+20240921,RDA,063190F010,제주시 금악리,HM_AVG,99.5,Differs from 5 nearest neighbors by 24.4 (Neighbor Mean: 75.1),Spatial Outlier
+20240921,RDA,520853A003,나주시 봉황면,SI_DAY,11.62,Differs from 5 nearest neighbors by 9.5 (Neighbor Mean: 2.2),Spatial Outlier
+20240921,RDA,445891A001,화성시 장안면,SI_DAY,11.89,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 4.3),Spatial Outlier
+20240921,RDA,036043F024,영주시 봉현면,SI_DAY,0.95,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 8.7),Spatial Outlier

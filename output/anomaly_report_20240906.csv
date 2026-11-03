@@ -1,0 +1,24 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20240906,RDA,451873A001,평택시 오성면,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 23.1, Std: 1.7)",Statistical Outlier
+20240906,ASOS,115,115,WS_AVG,5.4,"Exceeds 3.5 Sigma (Mean: 0.9, Std: 0.6)",Statistical Outlier
+20240906,RDA,667831A001,하동군 적량면,HM_AVG,17.5,"Exceeds 3.5 Sigma (Mean: 86.1, Std: 7.9)",Statistical Outlier
+20240906,RDA,063607F015,서귀포 남원읍,HM_AVG,32.1,"Exceeds 3.5 Sigma (Mean: 86.1, Std: 7.9)",Statistical Outlier
+20240906,AWS,636,636,TA_MAX,23.4,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 29.5),Spatial Outlier
+20240906,AWS,356,356,TA_MIN,23.6,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 18.5),Spatial Outlier
+20240906,AWS,472,472,TA_MIN,23.6,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 19.0),Spatial Outlier
+20240906,RDA,555130A001,여수시 주삼동,HM_AVG,93.0,Differs from 5 nearest neighbors by 24.3 (Neighbor Mean: 68.7),Spatial Outlier
+20240906,ASOS,102,102,SI_DAY,22.75,Differs from 5 nearest neighbors by 13.8 (Neighbor Mean: 8.9),Spatial Outlier
+20240906,RDA,445891A001,화성시 장안면,SI_DAY,14.37,Differs from 5 nearest neighbors by 8.9 (Neighbor Mean: 5.5),Spatial Outlier
+20240906,RDA,513842A001,영광군 군서면,SI_DAY,17.19,Differs from 5 nearest neighbors by 9.0 (Neighbor Mean: 8.2),Spatial Outlier
+20240906,RDA,699946A001,서귀포 하례리,SI_DAY,0.0,Differs from 5 nearest neighbors by 20.9 (Neighbor Mean: 20.9),Spatial Outlier
+20240906,RDA,409911A001,옹진군 백령면,SI_DAY,21.16,Differs from 5 nearest neighbors by 11.9 (Neighbor Mean: 9.2),Spatial Outlier
+20240906,ASOS,102,102,SS_DAY,9.7,Differs from 5 nearest neighbors by 9.6 (Neighbor Mean: 0.1),Spatial Outlier
+20240906,ASOS,185,185,SS_DAY,11.2,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 6.4),Spatial Outlier
+20240906,RDA,656933A001,거제시 거제면,SS_DAY,6.5,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 2.0),Spatial Outlier
+20240906,RDA,250802A001,홍천군 화동리,SS_DAY,5.583333333333333,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 0.0),Spatial Outlier
+20240906,RDA,312831A001,금산군 금성면,SS_DAY,5.183333333333334,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 0.1),Spatial Outlier
+20240906,RDA,355831A001,보령시 주교면,SS_DAY,7.4,Differs from 5 nearest neighbors by 5.8 (Neighbor Mean: 1.6),Spatial Outlier
+20240906,RDA,350808A001,홍성군 홍성읍,SS_DAY,7.733333333333333,Differs from 5 nearest neighbors by 6.1 (Neighbor Mean: 1.6),Spatial Outlier
+20240906,RDA,038303A002,청도군 각북면,SS_DAY,8.066666666666666,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 0.3),Spatial Outlier
+20240906,RDA,063352B012,제주시 세화리,SS_DAY,0.0,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 8.5),Spatial Outlier
+20240906,AWS,779,779,RN_DAY,67.0,Differs from 5 nearest neighbors by 65.9 (Neighbor Mean: 1.1),Spatial Outlier

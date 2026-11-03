@@ -1,0 +1,30 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20250717,RDA,520943A002,나주시 문평면,TA_AVG,24.2,Tavg not between Tmax(28.2) and Tmin(24.8),Range/Logic Error
+20250717,RDA,699946A001,서귀포 하례리,TA_AVG,36.4,"Exceeds 3.5 Sigma (Mean: 24.2, Std: 1.9)",Statistical Outlier
+20250717,RDA,699946A001,서귀포 하례리,TA_MAX,38.1,"Exceeds 3.5 Sigma (Mean: 26.6, Std: 2.3)",Statistical Outlier
+20250717,AWS,184,184,TA_MIN,27.9,"Exceeds 3.5 Sigma (Mean: 22.3, Std: 1.7)",Statistical Outlier
+20250717,AWS,727,727,TA_MIN,25.3,"Exceeds 3.5 Sigma (Mean: 22.3, Std: 1.7)",Statistical Outlier
+20250717,RDA,415743A001,김포시 월곶면,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 22.3, Std: 1.7)",Statistical Outlier
+20250717,RDA,063048F003,제주시 신엄리,TA_MIN,27.7,"Exceeds 3.5 Sigma (Mean: 22.3, Std: 1.7)",Statistical Outlier
+20250717,RDA,699946A001,서귀포 하례리,TA_MIN,35.7,"Exceeds 3.5 Sigma (Mean: 22.3, Std: 1.7)",Statistical Outlier
+20250717,ASOS,168,168,WS_AVG,7.6,"Exceeds 3.5 Sigma (Mean: 1.8, Std: 1.4)",Statistical Outlier
+20250717,ASOS,169,169,WS_AVG,7.4,"Exceeds 3.5 Sigma (Mean: 1.8, Std: 1.4)",Statistical Outlier
+20250717,ASOS,185,185,WS_AVG,8.7,"Exceeds 3.5 Sigma (Mean: 1.8, Std: 1.4)",Statistical Outlier
+20250717,ASOS,184,184,HM_AVG,64.1,"Exceeds 3.5 Sigma (Mean: 92.9, Std: 6.4)",Statistical Outlier
+20250717,RDA,482841A001,양주시 은현면,HM_AVG,69.6,"Exceeds 3.5 Sigma (Mean: 92.9, Std: 6.4)",Statistical Outlier
+20250717,RDA,486831E011,연천군 신서면,HM_AVG,64.7,"Exceeds 3.5 Sigma (Mean: 92.9, Std: 6.4)",Statistical Outlier
+20250717,RDA,464030A001,광주시 목현동,HM_AVG,52.0,"Exceeds 3.5 Sigma (Mean: 92.9, Std: 6.4)",Statistical Outlier
+20250717,RDA,487915A001,포천시 신북면,HM_AVG,55.9,"Exceeds 3.5 Sigma (Mean: 92.9, Std: 6.4)",Statistical Outlier
+20250717,AWS,303,303,TA_MIN,25.9,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 21.8),Spatial Outlier
+20250717,AWS,427,427,TA_MIN,22.5,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 17.8),Spatial Outlier
+20250717,AWS,500,500,TA_MIN,22.1,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 17.8),Spatial Outlier
+20250717,ASOS,98,98,HM_AVG,96.4,Differs from 5 nearest neighbors by 21.3 (Neighbor Mean: 75.1),Spatial Outlier
+20250717,RDA,472830A001,남양주 진건읍,HM_AVG,97.7,Differs from 5 nearest neighbors by 23.5 (Neighbor Mean: 74.2),Spatial Outlier
+20250717,ASOS,102,102,SI_DAY,19.7,Differs from 5 nearest neighbors by 9.8 (Neighbor Mean: 9.9),Spatial Outlier
+20250717,RDA,472830A001,남양주 진건읍,SI_DAY,11.84,Differs from 5 nearest neighbors by 7.5 (Neighbor Mean: 4.3),Spatial Outlier
+20250717,RDA,445891A001,화성시 장안면,SI_DAY,11.77,Differs from 5 nearest neighbors by 8.4 (Neighbor Mean: 3.3),Spatial Outlier
+20250717,RDA,699946A001,서귀포 하례리,SI_DAY,2.2,Differs from 5 nearest neighbors by 8.6 (Neighbor Mean: 10.8),Spatial Outlier
+20250717,RDA,409911A001,옹진군 백령면,SI_DAY,22.06,Differs from 5 nearest neighbors by 12.6 (Neighbor Mean: 9.4),Spatial Outlier
+20250717,RDA,063616F005,서귀포 신흥리,SI_DAY,16.73,Differs from 5 nearest neighbors by 8.3 (Neighbor Mean: 8.4),Spatial Outlier
+20250717,ASOS,102,102,SS_DAY,5.1,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 0.2),Spatial Outlier
+20250717,ASOS,184,184,SS_DAY,5.9,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 0.9),Spatial Outlier

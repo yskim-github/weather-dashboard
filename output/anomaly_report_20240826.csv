@@ -1,0 +1,59 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20240826,RDA,469803A001,여주시 상거동,SI_DAY,39.68,Out of physical range (0~31.5),Range/Logic Error
+20240826,RDA,469803A001,여주시 상거동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240826,RDA,469803A001,여주시 상거동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240826,RDA,469803A001,여주시 상거동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240826,RDA,469803A001,여주시 상거동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240826,RDA,469803A001,여주시 상거동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240826,RDA,469803A001,여주시 상거동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240826,RDA,469803A001,여주시 상거동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240826,RDA,567801A002,진안군 진안읍,SI_DAY,32.43,Out of physical range (0~31.5),Range/Logic Error
+20240826,RDA,567801A002,진안군 진안읍,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240826,RDA,567801A002,진안군 진안읍,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240826,RDA,567801A002,진안군 진안읍,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240826,RDA,567801A002,진안군 진안읍,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240826,RDA,567801A002,진안군 진안읍,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240826,RDA,567801A002,진안군 진안읍,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240826,RDA,567801A002,진안군 진안읍,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240826,RDA,513842A001,영광군 군서면,SI_DAY,37.66,Out of physical range (0~31.5),Range/Logic Error
+20240826,RDA,513842A001,영광군 군서면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240826,RDA,513842A001,영광군 군서면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240826,RDA,513842A001,영광군 군서면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240826,RDA,513842A001,영광군 군서면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240826,RDA,513842A001,영광군 군서면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240826,RDA,513842A001,영광군 군서면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240826,RDA,513842A001,영광군 군서면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240826,AWS,708,708,TA_MAX,26.4,"Exceeds 3.5 Sigma (Mean: 32.5, Std: 1.7)",Statistical Outlier
+20240826,RDA,380959A001,충주시 달천동,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 24.3, Std: 1.5)",Statistical Outlier
+20240826,RDA,627911A001,밀양시 상남면,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 24.3, Std: 1.5)",Statistical Outlier
+20240826,ASOS,184,184,WS_AVG,2.7,"Exceeds 3.5 Sigma (Mean: 0.8, Std: 0.5)",Statistical Outlier
+20240826,ASOS,185,185,WS_AVG,2.7,"Exceeds 3.5 Sigma (Mean: 0.8, Std: 0.5)",Statistical Outlier
+20240826,RDA,570802A001,익산시 함열읍,HM_AVG,51.1,"Exceeds 3.5 Sigma (Mean: 84.1, Std: 6.3)",Statistical Outlier
+20240826,RDA,667831A001,하동군 적량면,HM_AVG,53.6,"Exceeds 3.5 Sigma (Mean: 84.1, Std: 6.3)",Statistical Outlier
+20240826,RDA,063607F015,서귀포 남원읍,HM_AVG,41.1,"Exceeds 3.5 Sigma (Mean: 84.1, Std: 6.3)",Statistical Outlier
+20240826,AWS,435,435,TA_MAX,27.2,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 32.2),Spatial Outlier
+20240826,AWS,710,710,TA_MAX,27.4,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 32.5),Spatial Outlier
+20240826,RDA,137180A001,서울시 서초구,TA_MAX,37.1,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 32.1),Spatial Outlier
+20240826,AWS,127,127,TA_MIN,23.4,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 19.1),Spatial Outlier
+20240826,AWS,288,288,TA_MIN,24.5,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 19.4),Spatial Outlier
+20240826,AWS,603,603,TA_MIN,23.1,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 19.2),Spatial Outlier
+20240826,AWS,922,922,TA_MIN,22.6,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 18.9),Spatial Outlier
+20240826,RDA,027486F033,충주시 안림동,TA_MIN,23.3,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 19.1),Spatial Outlier
+20240826,RDA,269804A001,음성군 소이면,TA_MIN,23.7,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 19.0),Spatial Outlier
+20240826,RDA,415743A001,김포시 월곶면,SI_DAY,0.06,Differs from 5 nearest neighbors by 10.2 (Neighbor Mean: 10.2),Spatial Outlier
+20240826,RDA,269811A001,철원군 동송읍,SI_DAY,0.55,Differs from 5 nearest neighbors by 10.5 (Neighbor Mean: 11.1),Spatial Outlier
+20240826,RDA,580813A001,정읍시 정우면,SI_DAY,13.83,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 21.6),Spatial Outlier
+20240826,RDA,627911A001,밀양시 상남면,SI_DAY,4.63,Differs from 5 nearest neighbors by 12.6 (Neighbor Mean: 17.2),Spatial Outlier
+20240826,RDA,699946A001,서귀포 하례리,SI_DAY,0.0,Differs from 5 nearest neighbors by 20.4 (Neighbor Mean: 20.4),Spatial Outlier
+20240826,RDA,045012F021,울주군 서생면,SI_DAY,25.02,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 16.8),Spatial Outlier
+20240826,RDA,063626F006,서귀포 표선면,SI_DAY,23.09,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 14.6),Spatial Outlier
+20240826,ASOS,129,129,SS_DAY,0.6,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 6.1),Spatial Outlier
+20240826,RDA,451873A001,평택시 오성면,SS_DAY,9.05,Differs from 5 nearest neighbors by 7.5 (Neighbor Mean: 1.6),Spatial Outlier
+20240826,RDA,250802A001,홍천군 화동리,SS_DAY,8.116666666666667,Differs from 5 nearest neighbors by 7.3 (Neighbor Mean: 0.8),Spatial Outlier
+20240826,RDA,312831A001,금산군 금성면,SS_DAY,9.2,Differs from 5 nearest neighbors by 4.4 (Neighbor Mean: 4.8),Spatial Outlier
+20240826,RDA,355831A001,보령시 주교면,SS_DAY,10.066666666666666,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 4.7),Spatial Outlier
+20240826,RDA,350808A001,홍성군 홍성읍,SS_DAY,10.35,Differs from 5 nearest neighbors by 6.2 (Neighbor Mean: 4.2),Spatial Outlier
+20240826,RDA,719862A001,성주군 대가면,SS_DAY,9.45,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 4.2),Spatial Outlier
+20240826,RDA,063352B012,제주시 세화리,SS_DAY,0.0,Differs from 5 nearest neighbors by 8.9 (Neighbor Mean: 8.9),Spatial Outlier
+20240826,AWS,640,640,RN_DAY,30.0,Differs from 5 nearest neighbors by 29.3 (Neighbor Mean: 0.7),Spatial Outlier
+20240826,AWS,826,826,RN_DAY,29.5,Differs from 5 nearest neighbors by 28.5 (Neighbor Mean: 1.0),Spatial Outlier

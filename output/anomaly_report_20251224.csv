@@ -1,0 +1,18 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20251224,RDA,451873A001,평택시 오성면,TA_AVG,3.3,Tavg not between Tmax(2.7) and Tmin(0.0),Range/Logic Error
+20251224,ASOS,189,189,TA_AVG,14.2,"Exceeds 3.5 Sigma (Mean: 5.4, Std: 2.6)",Statistical Outlier
+20251224,AWS,870,870,TA_MAX,10.4,"Exceeds 3.5 Sigma (Mean: 8.1, Std: 3.2)",Statistical Outlier
+20251224,AWS,871,871,TA_MAX,8.3,"Exceeds 3.5 Sigma (Mean: 8.1, Std: 3.2)",Statistical Outlier
+20251224,AWS,965,965,TA_MAX,9.1,"Exceeds 3.5 Sigma (Mean: 8.1, Std: 3.2)",Statistical Outlier
+20251224,ASOS,169,169,WS_AVG,12.3,"Exceeds 3.5 Sigma (Mean: 1.6, Std: 2.2)",Statistical Outlier
+20251224,ASOS,185,185,WS_AVG,12.7,"Exceeds 3.5 Sigma (Mean: 1.6, Std: 2.2)",Statistical Outlier
+20251224,RDA,742801A005,상주시 함창읍,WS_AVG,31.33,"Exceeds 3.5 Sigma (Mean: 1.6, Std: 2.2)",Statistical Outlier
+20251224,RDA,561034A001,동방로거테스트,HM_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 86.5, Std: 8.8)",Statistical Outlier
+20251224,RDA,390874A001,제천시 봉양읍,HM_AVG,43.2,"Exceeds 3.5 Sigma (Mean: 86.5, Std: 8.8)",Statistical Outlier
+20251224,AWS,314,314,TA_MAX,5.9,Differs from 5 nearest neighbors by 8.4 (Neighbor Mean: 7.4),Spatial Outlier
+20251224,RDA,595870A001,순창군 구림면,HM_AVG,92.5,Differs from 5 nearest neighbors by 22.6 (Neighbor Mean: 69.9),Spatial Outlier
+20251224,RDA,618803A001,부산시 강서구,HM_AVG,62.7,Differs from 5 nearest neighbors by 29.7 (Neighbor Mean: 92.4),Spatial Outlier
+20251224,RDA,467800A001,이천시 중리동,SI_DAY,11.16,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 3.0),Spatial Outlier
+20251224,RDA,472830A001,남양주 진건읍,SI_DAY,13.84,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 6.2),Spatial Outlier
+20251224,ASOS,273,273,SS_DAY,5.9,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 1.4),Spatial Outlier
+20251224,RDA,742801A005,상주시 함창읍,SS_DAY,5.75,Differs from 5 nearest neighbors by 4.3 (Neighbor Mean: 1.4),Spatial Outlier

@@ -1,0 +1,37 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20251020,RDA,513842A001,영광군 군서면,SI_DAY,33.64,Out of physical range (0~31.5),Range/Logic Error
+20251020,RDA,513842A001,영광군 군서면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20251020,RDA,513842A001,영광군 군서면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20251020,RDA,513842A001,영광군 군서면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20251020,RDA,513842A001,영광군 군서면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20251020,RDA,513842A001,영광군 군서면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20251020,RDA,513842A001,영광군 군서면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20251020,RDA,513842A001,영광군 군서면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20251020,ASOS,169,169,WS_AVG,13.2,"Exceeds 3.5 Sigma (Mean: 1.8, Std: 2.1)",Statistical Outlier
+20251020,RDA,742801A005,상주시 함창읍,WS_AVG,29.51,"Exceeds 3.5 Sigma (Mean: 1.8, Std: 2.1)",Statistical Outlier
+20251020,AWS,551,551,TA_MIN,10.5,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 4.9),Spatial Outlier
+20251020,RDA,650821A001,통영시 광도면,TA_MIN,0.0,Differs from 5 nearest neighbors by 13.6 (Neighbor Mean: 13.8),Spatial Outlier
+20251020,RDA,742801A005,상주시 함창읍,TA_MIN,0.0,Differs from 5 nearest neighbors by 8.7 (Neighbor Mean: 9.3),Spatial Outlier
+20251020,RDA,742912A002,상주시 모동면,TA_MIN,0.0,Differs from 5 nearest neighbors by 6.0 (Neighbor Mean: 7.6),Spatial Outlier
+20251020,RDA,742871A004,상주시 화북면,TA_MIN,0.0,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 7.4),Spatial Outlier
+20251020,RDA,409871A001,옹진군 영흥면,TA_MIN,3.0,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 7.6),Spatial Outlier
+20251020,RDA,137180A001,서울시 서초구,HM_AVG,99.5,Differs from 5 nearest neighbors by 32.1 (Neighbor Mean: 67.4),Spatial Outlier
+20251020,RDA,477802A001,가평군 가평읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 8.9 (Neighbor Mean: 8.9),Spatial Outlier
+20251020,RDA,269811A001,철원군 동송읍,SI_DAY,1.05,Differs from 5 nearest neighbors by 9.2 (Neighbor Mean: 10.3),Spatial Outlier
+20251020,RDA,355831A001,보령시 주교면,SI_DAY,0.0,Differs from 5 nearest neighbors by 15.4 (Neighbor Mean: 15.4),Spatial Outlier
+20251020,RDA,742871A004,상주시 화북면,SI_DAY,22.01,Differs from 5 nearest neighbors by 10.7 (Neighbor Mean: 11.3),Spatial Outlier
+20251020,RDA,670807A001,거창군 거창읍,SI_DAY,7.4,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 15.6),Spatial Outlier
+20251020,RDA,699946A001,서귀포 하례리,SI_DAY,2.57,Differs from 5 nearest neighbors by 12.9 (Neighbor Mean: 15.5),Spatial Outlier
+20251020,ASOS,188,188,SS_DAY,8.9,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 4.3),Spatial Outlier
+20251020,ASOS,238,238,SS_DAY,10.2,Differs from 5 nearest neighbors by 4.3 (Neighbor Mean: 5.9),Spatial Outlier
+20251020,RDA,456871A001,안성시 보개면,SS_DAY,0.0,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 5.4),Spatial Outlier
+20251020,RDA,320862A001,논산시 광석면,SS_DAY,0.0,Differs from 5 nearest neighbors by 7.5 (Neighbor Mean: 7.5),Spatial Outlier
+20251020,RDA,373805A001,옥천군 옥천읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 8.7 (Neighbor Mean: 8.7),Spatial Outlier
+20251020,RDA,269804A001,음성군 소이면,SS_DAY,1.6166666666666667,Differs from 5 nearest neighbors by 4.4 (Neighbor Mean: 6.0),Spatial Outlier
+20251020,RDA,032528A001,공주시 우성면,SS_DAY,0.0,Differs from 5 nearest neighbors by 6.9 (Neighbor Mean: 6.9),Spatial Outlier
+20251020,RDA,516821A001,곡성군 오곡면,SS_DAY,0.0,Differs from 5 nearest neighbors by 9.8 (Neighbor Mean: 9.8),Spatial Outlier
+20251020,RDA,526821A001,영암군 덕진면,SS_DAY,0.0,Differs from 5 nearest neighbors by 10.2 (Neighbor Mean: 10.2),Spatial Outlier
+20251020,RDA,716823A001,군위군 효령면,SS_DAY,0.0,Differs from 5 nearest neighbors by 6.1 (Neighbor Mean: 6.1),Spatial Outlier
+20251020,RDA,051394A001,창원시 대산면,SS_DAY,0.0,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 7.9),Spatial Outlier
+20251020,RDA,063352B012,제주시 세화리,SS_DAY,0.0,Differs from 5 nearest neighbors by 6.0 (Neighbor Mean: 6.0),Spatial Outlier
+20251020,RDA,699946A001,서귀포 하례리,SS_DAY,0.0,Differs from 5 nearest neighbors by 6.0 (Neighbor Mean: 6.0),Spatial Outlier

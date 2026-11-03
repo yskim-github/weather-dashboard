@@ -1,0 +1,42 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20250501,RDA,699946A001,서귀포 하례리,TA_AVG,28.7,"Exceeds 3.5 Sigma (Mean: 15.4, Std: 1.7)",Statistical Outlier
+20250501,RDA,699946A001,서귀포 하례리,TA_MAX,31.9,"Exceeds 3.5 Sigma (Mean: 20.8, Std: 2.7)",Statistical Outlier
+20250501,RDA,699946A001,서귀포 하례리,TA_MIN,25.6,"Exceeds 3.5 Sigma (Mean: 10.0, Std: 2.4)",Statistical Outlier
+20250501,ASOS,115,115,WS_AVG,6.4,"Exceeds 3.5 Sigma (Mean: 2.0, Std: 1.2)",Statistical Outlier
+20250501,ASOS,169,169,WS_AVG,8.2,"Exceeds 3.5 Sigma (Mean: 2.0, Std: 1.2)",Statistical Outlier
+20250501,ASOS,185,185,WS_AVG,8.1,"Exceeds 3.5 Sigma (Mean: 2.0, Std: 1.2)",Statistical Outlier
+20250501,RDA,487915A001,포천시 신북면,HM_AVG,36.7,"Exceeds 3.5 Sigma (Mean: 78.2, Std: 9.0)",Statistical Outlier
+20250501,RDA,245825A002,삼척시 미로면,HM_AVG,43.7,"Exceeds 3.5 Sigma (Mean: 78.2, Std: 9.0)",Statistical Outlier
+20250501,AWS,800,800,TA_MAX,20.6,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 25.5),Spatial Outlier
+20250501,RDA,767862A001,울진군 매화면,TA_MAX,26.9,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 22.3),Spatial Outlier
+20250501,AWS,151,151,TA_MIN,7.9,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 13.6),Spatial Outlier
+20250501,AWS,566,566,TA_MIN,8.4,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 13.7),Spatial Outlier
+20250501,AWS,583,583,TA_MIN,8.9,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 7.8),Spatial Outlier
+20250501,AWS,626,626,TA_MIN,4.2,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 9.8),Spatial Outlier
+20250501,AWS,636,636,TA_MIN,3.8,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 9.7),Spatial Outlier
+20250501,AWS,735,735,TA_MIN,9.2,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 8.0),Spatial Outlier
+20250501,AWS,828,828,TA_MIN,12.5,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 8.1),Spatial Outlier
+20250501,AWS,830,830,TA_MIN,5.3,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 11.1),Spatial Outlier
+20250501,AWS,842,842,TA_MIN,3.4,Differs from 5 nearest neighbors by 5.9 (Neighbor Mean: 10.4),Spatial Outlier
+20250501,AWS,854,854,TA_MIN,13.9,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 10.0),Spatial Outlier
+20250501,AWS,872,872,TA_MIN,8.0,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 8.5),Spatial Outlier
+20250501,RDA,232941E001,평창군 진부면,TA_MIN,2.9,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 11.3),Spatial Outlier
+20250501,RDA,250845E001,홍천군 자운리,TA_MIN,9.0,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 9.1),Spatial Outlier
+20250501,RDA,390874A001,제천시 봉양읍,TA_MIN,10.3,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 7.1),Spatial Outlier
+20250501,RDA,037136F022,상주시 외서면,TA_MIN,4.1,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 9.6),Spatial Outlier
+20250501,RDA,037127A003,상주시 사벌국면,TA_MIN,12.7,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 7.9),Spatial Outlier
+20250501,RDA,036052B006,영주시 용산리,TA_MIN,0.6,Differs from 5 nearest neighbors by 5.9 (Neighbor Mean: 7.7),Spatial Outlier
+20250501,RDA,050415C005,밀양시 산내면,TA_MIN,11.9,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 8.1),Spatial Outlier
+20250501,RDA,037506A003,포항시 죽장면,TA_MIN,10.4,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 7.9),Spatial Outlier
+20250501,RDA,063605F004,서귀포 신효동,TA_MIN,12.1,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 17.1),Spatial Outlier
+20250501,ASOS,102,102,SI_DAY,16.29,Differs from 5 nearest neighbors by 10.9 (Neighbor Mean: 5.3),Spatial Outlier
+20250501,RDA,409911A001,옹진군 백령면,SI_DAY,17.36,Differs from 5 nearest neighbors by 12.2 (Neighbor Mean: 5.1),Spatial Outlier
+20250501,ASOS,102,102,SS_DAY,4.7,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 0.1),Spatial Outlier
+20250501,ASOS,130,130,SS_DAY,7.5,Differs from 5 nearest neighbors by 5.9 (Neighbor Mean: 1.6),Spatial Outlier
+20250501,ASOS,276,276,SS_DAY,7.3,Differs from 5 nearest neighbors by 6.4 (Neighbor Mean: 0.9),Spatial Outlier
+20250501,RDA,570802A001,익산시 함열읍,SS_DAY,10.05,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 1.6),Spatial Outlier
+20250501,RDA,780950A001,경주시 용강상리,SS_DAY,0.0,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 5.5),Spatial Outlier
+20250501,RDA,766851E001,영덕군 병곡면,SS_DAY,7.866666666666666,Differs from 5 nearest neighbors by 6.4 (Neighbor Mean: 1.4),Spatial Outlier
+20250501,RDA,036531B008,영양군 대천리,SS_DAY,0.0,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 4.5),Spatial Outlier
+20250501,RDA,764803A001,영양군 영양읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 4.5),Spatial Outlier
+20250501,RDA,767862A001,울진군 매화면,SS_DAY,0.0,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 4.5),Spatial Outlier

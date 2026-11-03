@@ -1,0 +1,42 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20231224,RDA,469803A001,여주시 상거동,SI_DAY,34.56,Out of physical range (0~31.5),Range/Logic Error
+20231224,RDA,469803A001,여주시 상거동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20231224,RDA,469803A001,여주시 상거동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20231224,RDA,469803A001,여주시 상거동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20231224,RDA,469803A001,여주시 상거동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20231224,RDA,469803A001,여주시 상거동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20231224,RDA,469803A001,여주시 상거동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20231224,RDA,469803A001,여주시 상거동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20231224,RDA,312831A001,금산군 금성면,SI_DAY,39.93,Out of physical range (0~31.5),Range/Logic Error
+20231224,RDA,312831A001,금산군 금성면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20231224,RDA,312831A001,금산군 금성면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20231224,RDA,312831A001,금산군 금성면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20231224,RDA,312831A001,금산군 금성면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20231224,RDA,312831A001,금산군 금성면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20231224,RDA,312831A001,금산군 금성면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20231224,RDA,312831A001,금산군 금성면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20231224,RDA,063605F004,서귀포 신효동,TA_MAX,14.7,"Exceeds 3.5 Sigma (Mean: 3.7, Std: 2.1)",Statistical Outlier
+20231224,RDA,699946A001,서귀포 하례리,TA_MAX,11.0,"Exceeds 3.5 Sigma (Mean: 3.7, Std: 2.1)",Statistical Outlier
+20231224,ASOS,169,169,WS_AVG,4.8,"Exceeds 3.5 Sigma (Mean: 1.0, Std: 0.9)",Statistical Outlier
+20231224,ASOS,185,185,WS_AVG,9.2,"Exceeds 3.5 Sigma (Mean: 1.0, Std: 0.9)",Statistical Outlier
+20231224,RDA,215821A001,양양군 양양읍,WS_AVG,5.72,"Exceeds 3.5 Sigma (Mean: 1.0, Std: 0.9)",Statistical Outlier
+20231224,RDA,054065A001,군산시 개정면,HM_AVG,23.2,"Exceeds 3.5 Sigma (Mean: 73.1, Std: 12.8)",Statistical Outlier
+20231224,RDA,520821F001,나주시 금천면,HM_AVG,0.4,"Exceeds 3.5 Sigma (Mean: 73.1, Std: 12.8)",Statistical Outlier
+20231224,RDA,750873A001,영주시 안정로,HM_AVG,0.5,"Exceeds 3.5 Sigma (Mean: 73.1, Std: 12.8)",Statistical Outlier
+20231224,RDA,618803A001,부산시 강서구,HM_AVG,6.9,"Exceeds 3.5 Sigma (Mean: 73.1, Std: 12.8)",Statistical Outlier
+20231224,ASOS,90,90,HM_AVG,41.5,Differs from 5 nearest neighbors by 25.0 (Neighbor Mean: 66.5),Spatial Outlier
+20231224,ASOS,104,104,HM_AVG,48.3,Differs from 5 nearest neighbors by 23.4 (Neighbor Mean: 71.7),Spatial Outlier
+20231224,ASOS,105,105,HM_AVG,47.5,Differs from 5 nearest neighbors by 24.4 (Neighbor Mean: 71.9),Spatial Outlier
+20231224,RDA,520853A003,나주시 봉황면,HM_AVG,90.2,Differs from 5 nearest neighbors by 21.2 (Neighbor Mean: 69.0),Spatial Outlier
+20231224,RDA,036614B005,안동시 북후면,HM_AVG,85.1,Differs from 5 nearest neighbors by 27.6 (Neighbor Mean: 57.5),Spatial Outlier
+20231224,RDA,757802A001,예천군 예천읍,HM_AVG,78.7,Differs from 5 nearest neighbors by 22.6 (Neighbor Mean: 56.1),Spatial Outlier
+20231224,RDA,667831A001,하동군 적량면,HM_AVG,37.4,Differs from 5 nearest neighbors by 27.7 (Neighbor Mean: 65.1),Spatial Outlier
+20231224,RDA,415743A001,김포시 월곶면,SI_DAY,0.58,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 8.6),Spatial Outlier
+20231224,RDA,445891A001,화성시 장안면,SI_DAY,16.82,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 9.0),Spatial Outlier
+20231224,RDA,373805A001,옥천군 옥천읍,SI_DAY,6.19,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 13.8),Spatial Outlier
+20231224,RDA,355831A001,보령시 주교면,SI_DAY,20.99,Differs from 5 nearest neighbors by 12.3 (Neighbor Mean: 8.7),Spatial Outlier
+20231224,RDA,588802A001,무주군 무주읍,SI_DAY,5.72,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 13.8),Spatial Outlier
+20231224,ASOS,115,115,SS_DAY,2.5,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 7.8),Spatial Outlier
+20231224,ASOS,189,189,SS_DAY,5.2,Differs from 5 nearest neighbors by 4.3 (Neighbor Mean: 0.9),Spatial Outlier
+20231224,RDA,477802A001,가평군 가평읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 6.4 (Neighbor Mean: 6.4),Spatial Outlier
+20231224,AWS,365,365,RN_DAY,25.2,Differs from 5 nearest neighbors by 25.1 (Neighbor Mean: 0.1),Spatial Outlier

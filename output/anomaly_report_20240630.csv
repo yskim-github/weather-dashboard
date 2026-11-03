@@ -1,0 +1,38 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20240630,RDA,469803A001,여주시 상거동,SI_DAY,36.16,Out of physical range (0~31.5),Range/Logic Error
+20240630,RDA,469803A001,여주시 상거동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240630,RDA,469803A001,여주시 상거동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240630,RDA,469803A001,여주시 상거동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240630,RDA,469803A001,여주시 상거동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240630,RDA,469803A001,여주시 상거동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240630,RDA,469803A001,여주시 상거동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240630,RDA,469803A001,여주시 상거동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240630,AWS,850,850,TA_MIN,17.2,"Exceeds 3.5 Sigma (Mean: 22.7, Std: 1.5)",Statistical Outlier
+20240630,RDA,567801A002,진안군 진안읍,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 22.7, Std: 1.5)",Statistical Outlier
+20240630,ASOS,159,159,WS_AVG,8.5,"Exceeds 3.5 Sigma (Mean: 2.3, Std: 1.4)",Statistical Outlier
+20240630,ASOS,184,184,WS_AVG,7.5,"Exceeds 3.5 Sigma (Mean: 2.3, Std: 1.4)",Statistical Outlier
+20240630,ASOS,185,185,WS_AVG,9.3,"Exceeds 3.5 Sigma (Mean: 2.3, Std: 1.4)",Statistical Outlier
+20240630,RDA,570802A001,익산시 함열읍,HM_AVG,9.1,"Exceeds 3.5 Sigma (Mean: 90.6, Std: 7.4)",Statistical Outlier
+20240630,RDA,063616F005,서귀포 신흥리,HM_AVG,60.2,"Exceeds 3.5 Sigma (Mean: 90.6, Std: 7.4)",Statistical Outlier
+20240630,AWS,523,523,TA_MAX,24.4,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 29.2),Spatial Outlier
+20240630,AWS,901,901,TA_MAX,21.4,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 27.2),Spatial Outlier
+20240630,AWS,949,949,TA_MIN,18.1,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 23.1),Spatial Outlier
+20240630,RDA,055640F028,장수군 개정리,TA_MIN,21.2,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 20.0),Spatial Outlier
+20240630,RDA,597803A001,장수군 장수읍,TA_MIN,21.5,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 20.0),Spatial Outlier
+20240630,RDA,650821A001,통영시 광도면,HM_AVG,66.6,Differs from 5 nearest neighbors by 27.1 (Neighbor Mean: 93.7),Spatial Outlier
+20240630,ASOS,102,102,SI_DAY,29.59,Differs from 5 nearest neighbors by 14.4 (Neighbor Mean: 15.2),Spatial Outlier
+20240630,ASOS,115,115,SI_DAY,2.55,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 10.8),Spatial Outlier
+20240630,RDA,017421F029,이천시 진암리,SI_DAY,6.78,Differs from 5 nearest neighbors by 9.4 (Neighbor Mean: 16.2),Spatial Outlier
+20240630,RDA,476801A001,양평군 양평읍,SI_DAY,3.0,Differs from 5 nearest neighbors by 11.0 (Neighbor Mean: 14.0),Spatial Outlier
+20240630,RDA,415743A001,김포시 월곶면,SI_DAY,0.05,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 8.5),Spatial Outlier
+20240630,RDA,017414F020,이천시 장호원,SI_DAY,7.22,Differs from 5 nearest neighbors by 8.9 (Neighbor Mean: 16.1),Spatial Outlier
+20240630,RDA,520853A003,나주시 봉황면,SI_DAY,12.29,Differs from 5 nearest neighbors by 8.7 (Neighbor Mean: 3.6),Spatial Outlier
+20240630,RDA,445891A001,화성시 장안면,SI_DAY,22.37,Differs from 5 nearest neighbors by 11.5 (Neighbor Mean: 10.8),Spatial Outlier
+20240630,RDA,409911A001,옹진군 백령면,SI_DAY,28.59,Differs from 5 nearest neighbors by 13.2 (Neighbor Mean: 15.4),Spatial Outlier
+20240630,RDA,409871A001,옹진군 영흥면,SI_DAY,24.78,Differs from 5 nearest neighbors by 13.1 (Neighbor Mean: 11.7),Spatial Outlier
+20240630,ASOS,102,102,SS_DAY,11.9,Differs from 5 nearest neighbors by 9.9 (Neighbor Mean: 2.0),Spatial Outlier
+20240630,RDA,451873A001,평택시 오성면,SS_DAY,10.716666666666667,Differs from 5 nearest neighbors by 9.2 (Neighbor Mean: 1.5),Spatial Outlier
+20240630,RDA,312831A001,금산군 금성면,SS_DAY,6.666666666666667,Differs from 5 nearest neighbors by 6.2 (Neighbor Mean: 0.4),Spatial Outlier
+20240630,RDA,350808A001,홍성군 홍성읍,SS_DAY,9.383333333333333,Differs from 5 nearest neighbors by 5.8 (Neighbor Mean: 3.6),Spatial Outlier
+20240630,RDA,719862A001,성주군 대가면,SS_DAY,7.5,Differs from 5 nearest neighbors by 7.3 (Neighbor Mean: 0.2),Spatial Outlier
+20240630,RDA,038303A002,청도군 각북면,SS_DAY,7.133333333333334,Differs from 5 nearest neighbors by 6.6 (Neighbor Mean: 0.5),Spatial Outlier

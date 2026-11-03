@@ -1,0 +1,63 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20230901,RDA,469803A001,여주시 상거동,SI_DAY,34.75,Out of physical range (0~31.5),Range/Logic Error
+20230901,RDA,469803A001,여주시 상거동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230901,RDA,469803A001,여주시 상거동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230901,RDA,469803A001,여주시 상거동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230901,RDA,469803A001,여주시 상거동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230901,RDA,469803A001,여주시 상거동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230901,RDA,469803A001,여주시 상거동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230901,RDA,469803A001,여주시 상거동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230901,RDA,312831A001,금산군 금성면,SI_DAY,39.93,Out of physical range (0~31.5),Range/Logic Error
+20230901,RDA,312831A001,금산군 금성면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230901,RDA,312831A001,금산군 금성면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230901,RDA,312831A001,금산군 금성면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230901,RDA,312831A001,금산군 금성면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230901,RDA,312831A001,금산군 금성면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230901,RDA,312831A001,금산군 금성면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230901,RDA,312831A001,금산군 금성면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230901,RDA,355831A001,보령시 주교면,SI_DAY,37.84,Out of physical range (0~31.5),Range/Logic Error
+20230901,RDA,355831A001,보령시 주교면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230901,RDA,355831A001,보령시 주교면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230901,RDA,355831A001,보령시 주교면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230901,RDA,355831A001,보령시 주교면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230901,RDA,355831A001,보령시 주교면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230901,RDA,355831A001,보령시 주교면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230901,RDA,355831A001,보령시 주교면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230901,RDA,513842A001,영광군 군서면,SI_DAY,39.75,Out of physical range (0~31.5),Range/Logic Error
+20230901,RDA,513842A001,영광군 군서면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230901,RDA,513842A001,영광군 군서면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230901,RDA,513842A001,영광군 군서면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230901,RDA,513842A001,영광군 군서면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230901,RDA,513842A001,영광군 군서면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230901,RDA,513842A001,영광군 군서면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230901,RDA,513842A001,영광군 군서면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230901,ASOS,165,165,WS_AVG,4.1,"Exceeds 3.5 Sigma (Mean: 1.0, Std: 0.7)",Statistical Outlier
+20230901,ASOS,169,169,WS_AVG,6.3,"Exceeds 3.5 Sigma (Mean: 1.0, Std: 0.7)",Statistical Outlier
+20230901,ASOS,185,185,WS_AVG,4.4,"Exceeds 3.5 Sigma (Mean: 1.0, Std: 0.7)",Statistical Outlier
+20230901,RDA,245825A002,삼척시 미로면,HM_AVG,8.8,"Exceeds 3.5 Sigma (Mean: 81.4, Std: 11.9)",Statistical Outlier
+20230901,RDA,054065A001,군산시 개정면,HM_AVG,31.7,"Exceeds 3.5 Sigma (Mean: 81.4, Std: 11.9)",Statistical Outlier
+20230901,RDA,570802A001,익산시 함열읍,HM_AVG,22.9,"Exceeds 3.5 Sigma (Mean: 81.4, Std: 11.9)",Statistical Outlier
+20230901,RDA,520821F001,나주시 금천면,HM_AVG,0.5,"Exceeds 3.5 Sigma (Mean: 81.4, Std: 11.9)",Statistical Outlier
+20230901,RDA,750873A001,영주시 안정로,HM_AVG,0.6,"Exceeds 3.5 Sigma (Mean: 81.4, Std: 11.9)",Statistical Outlier
+20230901,RDA,063616F005,서귀포 신흥리,HM_AVG,24.8,"Exceeds 3.5 Sigma (Mean: 81.4, Std: 11.9)",Statistical Outlier
+20230901,AWS,311,311,TA_MAX,23.1,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 31.8),Spatial Outlier
+20230901,AWS,694,694,TA_MIN,17.1,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 16.9),Spatial Outlier
+20230901,RDA,520853A003,나주시 봉황면,HM_AVG,86.2,Differs from 5 nearest neighbors by 21.2 (Neighbor Mean: 65.0),Spatial Outlier
+20230901,RDA,036614B005,안동시 북후면,HM_AVG,91.9,Differs from 5 nearest neighbors by 25.5 (Neighbor Mean: 66.4),Spatial Outlier
+20230901,RDA,757802A001,예천군 예천읍,HM_AVG,88.0,Differs from 5 nearest neighbors by 20.2 (Neighbor Mean: 67.8),Spatial Outlier
+20230901,RDA,667831A001,하동군 적량면,HM_AVG,44.3,Differs from 5 nearest neighbors by 39.6 (Neighbor Mean: 83.9),Spatial Outlier
+20230901,RDA,618803A001,부산시 강서구,HM_AVG,65.2,Differs from 5 nearest neighbors by 29.0 (Neighbor Mean: 94.2),Spatial Outlier
+20230901,ASOS,115,115,SI_DAY,6.55,Differs from 5 nearest neighbors by 12.0 (Neighbor Mean: 18.5),Spatial Outlier
+20230901,RDA,415743A001,김포시 월곶면,SI_DAY,9.63,Differs from 5 nearest neighbors by 12.3 (Neighbor Mean: 21.9),Spatial Outlier
+20230901,RDA,445891A001,화성시 장안면,SI_DAY,28.74,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 21.0),Spatial Outlier
+20230901,RDA,233852A002,정선군 임계면,SI_DAY,9.28,Differs from 5 nearest neighbors by 11.7 (Neighbor Mean: 21.0),Spatial Outlier
+20230901,RDA,269811A001,철원군 동송읍,SI_DAY,11.03,Differs from 5 nearest neighbors by 10.1 (Neighbor Mean: 21.2),Spatial Outlier
+20230901,RDA,027486F033,충주시 안림동,SI_DAY,12.56,Differs from 5 nearest neighbors by 8.6 (Neighbor Mean: 21.1),Spatial Outlier
+20230901,RDA,567801A002,진안군 진안읍,SI_DAY,30.32,Differs from 5 nearest neighbors by 10.4 (Neighbor Mean: 20.0),Spatial Outlier
+20230901,RDA,519822A001,화순군 한천면,SI_DAY,29.15,Differs from 5 nearest neighbors by 9.4 (Neighbor Mean: 19.8),Spatial Outlier
+20230901,ASOS,115,115,SS_DAY,1.1,Differs from 5 nearest neighbors by 5.8 (Neighbor Mean: 6.9),Spatial Outlier
+20230901,ASOS,295,295,SS_DAY,0.5,Differs from 5 nearest neighbors by 4.2 (Neighbor Mean: 4.7),Spatial Outlier
+20230901,RDA,719862A001,성주군 대가면,SS_DAY,11.183333333333334,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 6.4),Spatial Outlier
+20230901,RDA,038303A002,청도군 각북면,SS_DAY,9.15,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 4.3),Spatial Outlier
+20230901,AWS,96,96,RN_DAY,61.5,Differs from 5 nearest neighbors by 58.2 (Neighbor Mean: 3.3),Spatial Outlier
+20230901,AWS,717,717,RN_DAY,26.5,Differs from 5 nearest neighbors by 26.5 (Neighbor Mean: 0.0),Spatial Outlier

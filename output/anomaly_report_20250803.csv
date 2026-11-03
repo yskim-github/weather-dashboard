@@ -1,0 +1,17 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20250803,RDA,520853A003,나주시 봉황면,SS_DAY,15.2,Out of physical range (0~14.8),Range/Logic Error
+20250803,RDA,269804A001,음성군 소이면,TA_AVG,22.4,"Exceeds 3.5 Sigma (Mean: 27.9, Std: 1.1)",Statistical Outlier
+20250803,RDA,699946A001,서귀포 하례리,TA_AVG,36.2,"Exceeds 3.5 Sigma (Mean: 27.9, Std: 1.1)",Statistical Outlier
+20250803,AWS,359,359,TA_MAX,22.8,"Exceeds 3.5 Sigma (Mean: 31.8, Std: 1.6)",Statistical Outlier
+20250803,RDA,699946A001,서귀포 하례리,TA_MAX,38.2,"Exceeds 3.5 Sigma (Mean: 31.8, Std: 1.6)",Statistical Outlier
+20250803,RDA,699946A001,서귀포 하례리,TA_MIN,33.9,"Exceeds 3.5 Sigma (Mean: 24.3, Std: 1.3)",Statistical Outlier
+20250803,ASOS,169,169,WS_AVG,9.1,"Exceeds 3.5 Sigma (Mean: 1.2, Std: 1.0)",Statistical Outlier
+20250803,ASOS,185,185,WS_AVG,8.0,"Exceeds 3.5 Sigma (Mean: 1.2, Std: 1.0)",Statistical Outlier
+20250803,AWS,753,753,TA_MIN,16.1,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 27.4),Spatial Outlier
+20250803,RDA,467800A001,이천시 중리동,SI_DAY,15.96,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 7.9),Spatial Outlier
+20250803,RDA,477802A001,가평군 가평읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 11.0 (Neighbor Mean: 11.0),Spatial Outlier
+20250803,RDA,269811A001,철원군 동송읍,SI_DAY,2.63,Differs from 5 nearest neighbors by 10.2 (Neighbor Mean: 12.8),Spatial Outlier
+20250803,RDA,451873A001,평택시 오성면,SS_DAY,6.666666666666667,Differs from 5 nearest neighbors by 6.5 (Neighbor Mean: 0.1),Spatial Outlier
+20250803,RDA,312831A001,금산군 금성면,SS_DAY,6.933333333333334,Differs from 5 nearest neighbors by 6.9 (Neighbor Mean: 0.0),Spatial Outlier
+20250803,RDA,542805A001,구례군 구례읍,SS_DAY,5.683333333333334,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 0.1),Spatial Outlier
+20250803,RDA,719862A001,성주군 대가면,SS_DAY,8.8,Differs from 5 nearest neighbors by 8.8 (Neighbor Mean: 0.0),Spatial Outlier

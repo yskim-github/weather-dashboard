@@ -1,0 +1,42 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20240901,RDA,469803A001,여주시 상거동,SI_DAY,39.92,Out of physical range (0~31.5),Range/Logic Error
+20240901,RDA,469803A001,여주시 상거동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240901,RDA,469803A001,여주시 상거동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240901,RDA,469803A001,여주시 상거동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240901,RDA,469803A001,여주시 상거동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240901,RDA,469803A001,여주시 상거동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240901,RDA,469803A001,여주시 상거동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240901,RDA,469803A001,여주시 상거동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240901,RDA,513842A001,영광군 군서면,SI_DAY,39.62,Out of physical range (0~31.5),Range/Logic Error
+20240901,RDA,513842A001,영광군 군서면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240901,RDA,513842A001,영광군 군서면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240901,RDA,513842A001,영광군 군서면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240901,RDA,513842A001,영광군 군서면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240901,RDA,513842A001,영광군 군서면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240901,RDA,513842A001,영광군 군서면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240901,RDA,513842A001,영광군 군서면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20240901,AWS,955,955,TA_MAX,26.8,"Exceeds 3.5 Sigma (Mean: 32.3, Std: 1.5)",Statistical Outlier
+20240901,RDA,451873A001,평택시 오성면,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 21.7, Std: 1.6)",Statistical Outlier
+20240901,ASOS,168,168,WS_AVG,3.2,"Exceeds 3.5 Sigma (Mean: 1.0, Std: 0.6)",Statistical Outlier
+20240901,RDA,026002D003,태백시 매봉산,WS_AVG,3.25,"Exceeds 3.5 Sigma (Mean: 1.0, Std: 0.6)",Statistical Outlier
+20240901,RDA,667831A001,하동군 적량면,HM_AVG,14.4,"Exceeds 3.5 Sigma (Mean: 77.1, Std: 7.0)",Statistical Outlier
+20240901,RDA,063607F015,서귀포 남원읍,HM_AVG,29.5,"Exceeds 3.5 Sigma (Mean: 77.1, Std: 7.0)",Statistical Outlier
+20240901,AWS,320,320,TA_MIN,15.9,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 19.6),Spatial Outlier
+20240901,AWS,472,472,TA_MIN,23.5,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 17.9),Spatial Outlier
+20240901,AWS,695,695,TA_MIN,17.3,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 19.1),Spatial Outlier
+20240901,RDA,555130A001,여수시 주삼동,HM_AVG,84.2,Differs from 5 nearest neighbors by 22.4 (Neighbor Mean: 61.8),Spatial Outlier
+20240901,ASOS,189,189,SI_DAY,25.27,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 17.1),Spatial Outlier
+20240901,RDA,650821A001,통영시 광도면,SI_DAY,15.27,Differs from 5 nearest neighbors by 7.5 (Neighbor Mean: 22.8),Spatial Outlier
+20240901,RDA,477802A001,가평군 가평읍,SI_DAY,11.39,Differs from 5 nearest neighbors by 9.9 (Neighbor Mean: 21.3),Spatial Outlier
+20240901,RDA,415743A001,김포시 월곶면,SI_DAY,0.39,Differs from 5 nearest neighbors by 18.3 (Neighbor Mean: 18.7),Spatial Outlier
+20240901,RDA,269811A001,철원군 동송읍,SI_DAY,1.04,Differs from 5 nearest neighbors by 19.3 (Neighbor Mean: 20.3),Spatial Outlier
+20240901,RDA,027486F033,충주시 안림동,SI_DAY,11.27,Differs from 5 nearest neighbors by 9.4 (Neighbor Mean: 20.6),Spatial Outlier
+20240901,RDA,519822A001,화순군 한천면,SI_DAY,29.88,Differs from 5 nearest neighbors by 8.3 (Neighbor Mean: 21.6),Spatial Outlier
+20240901,RDA,770270A001,영천시 오미동,SI_DAY,14.1,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 21.8),Spatial Outlier
+20240901,RDA,627911A001,밀양시 상남면,SI_DAY,10.9,Differs from 5 nearest neighbors by 10.0 (Neighbor Mean: 20.9),Spatial Outlier
+20240901,RDA,667831A001,하동군 적량면,SI_DAY,14.56,Differs from 5 nearest neighbors by 9.3 (Neighbor Mean: 23.9),Spatial Outlier
+20240901,RDA,699946A001,서귀포 하례리,SI_DAY,0.0,Differs from 5 nearest neighbors by 22.2 (Neighbor Mean: 22.2),Spatial Outlier
+20240901,RDA,409871A001,옹진군 영흥면,SI_DAY,23.08,Differs from 5 nearest neighbors by 8.6 (Neighbor Mean: 14.5),Spatial Outlier
+20240901,RDA,477802A001,가평군 가평읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 8.2),Spatial Outlier
+20240901,RDA,536824B002,해남군 옥천면,SS_DAY,4.633333333333334,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 9.5),Spatial Outlier
+20240901,RDA,063352B012,제주시 세화리,SS_DAY,0.0,Differs from 5 nearest neighbors by 9.5 (Neighbor Mean: 9.5),Spatial Outlier

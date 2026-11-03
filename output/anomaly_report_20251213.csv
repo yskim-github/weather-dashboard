@@ -1,0 +1,9 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20251213,RDA,520892A001,나주시 공산면,SS_DAY,16.283333333333335,Out of physical range (0~14.8),Range/Logic Error
+20251213,ASOS,168,168,WS_AVG,6.4,"Exceeds 3.5 Sigma (Mean: 1.3, Std: 1.0)",Statistical Outlier
+20251213,ASOS,169,169,WS_AVG,6.7,"Exceeds 3.5 Sigma (Mean: 1.3, Std: 1.0)",Statistical Outlier
+20251213,ASOS,185,185,WS_AVG,9.0,"Exceeds 3.5 Sigma (Mean: 1.3, Std: 1.0)",Statistical Outlier
+20251213,RDA,561034A001,동방로거테스트,HM_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 83.2, Std: 8.1)",Statistical Outlier
+20251213,RDA,618803A001,부산시 강서구,HM_AVG,46.8,"Exceeds 3.5 Sigma (Mean: 83.2, Std: 8.1)",Statistical Outlier
+20251213,AWS,720,720,TA_MIN,8.5,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 4.1),Spatial Outlier
+20251213,RDA,576040A001,김제시 부량면,HM_AVG,91.0,Differs from 5 nearest neighbors by 20.1 (Neighbor Mean: 70.9),Spatial Outlier

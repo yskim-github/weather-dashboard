@@ -1,0 +1,22 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20250719,RDA,699946A001,서귀포 하례리,TA_AVG,36.2,"Exceeds 3.5 Sigma (Mean: 24.9, Std: 1.6)",Statistical Outlier
+20250719,RDA,699946A001,서귀포 하례리,TA_MAX,38.1,"Exceeds 3.5 Sigma (Mean: 27.8, Std: 2.0)",Statistical Outlier
+20250719,RDA,451873A001,평택시 오성면,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 22.8, Std: 1.6)",Statistical Outlier
+20250719,RDA,699946A001,서귀포 하례리,TA_MIN,34.7,"Exceeds 3.5 Sigma (Mean: 22.8, Std: 1.6)",Statistical Outlier
+20250719,ASOS,115,115,WS_AVG,7.0,"Exceeds 3.5 Sigma (Mean: 1.5, Std: 1.2)",Statistical Outlier
+20250719,ASOS,168,168,WS_AVG,5.6,"Exceeds 3.5 Sigma (Mean: 1.5, Std: 1.2)",Statistical Outlier
+20250719,ASOS,169,169,WS_AVG,8.2,"Exceeds 3.5 Sigma (Mean: 1.5, Std: 1.2)",Statistical Outlier
+20250719,ASOS,185,185,WS_AVG,7.9,"Exceeds 3.5 Sigma (Mean: 1.5, Std: 1.2)",Statistical Outlier
+20250719,ASOS,184,184,HM_AVG,71.6,"Exceeds 3.5 Sigma (Mean: 93.4, Std: 4.8)",Statistical Outlier
+20250719,RDA,520853A003,나주시 봉황면,HM_AVG,70.7,"Exceeds 3.5 Sigma (Mean: 93.4, Std: 4.8)",Statistical Outlier
+20250719,RDA,063048F003,제주시 신엄리,HM_AVG,72.4,"Exceeds 3.5 Sigma (Mean: 93.4, Std: 4.8)",Statistical Outlier
+20250719,AWS,358,358,TA_MIN,23.0,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 18.1),Spatial Outlier
+20250719,AWS,472,472,TA_MIN,23.7,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 18.1),Spatial Outlier
+20250719,RDA,472830A001,남양주 진건읍,SI_DAY,12.94,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 5.4),Spatial Outlier
+20250719,RDA,546804B001,보성군 보성읍,SI_DAY,5.22,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 13.1),Spatial Outlier
+20250719,RDA,519822A001,화순군 한천면,SI_DAY,19.41,Differs from 5 nearest neighbors by 10.4 (Neighbor Mean: 9.1),Spatial Outlier
+20250719,RDA,699946A001,서귀포 하례리,SI_DAY,2.14,Differs from 5 nearest neighbors by 10.8 (Neighbor Mean: 13.0),Spatial Outlier
+20250719,ASOS,185,185,SS_DAY,6.8,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 1.9),Spatial Outlier
+20250719,RDA,451873A001,평택시 오성면,SS_DAY,13.316666666666666,Differs from 5 nearest neighbors by 13.3 (Neighbor Mean: 0.0),Spatial Outlier
+20250719,RDA,312831A001,금산군 금성면,SS_DAY,5.316666666666666,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 0.1),Spatial Outlier
+20250719,RDA,350808A001,홍성군 홍성읍,SS_DAY,6.25,Differs from 5 nearest neighbors by 6.0 (Neighbor Mean: 0.3),Spatial Outlier

@@ -1,0 +1,59 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20230716,RDA,469803A001,여주시 상거동,SI_DAY,32.32,Out of physical range (0~31.5),Range/Logic Error
+20230716,RDA,469803A001,여주시 상거동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230716,RDA,469803A001,여주시 상거동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230716,RDA,469803A001,여주시 상거동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230716,RDA,469803A001,여주시 상거동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230716,RDA,469803A001,여주시 상거동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230716,RDA,469803A001,여주시 상거동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230716,RDA,469803A001,여주시 상거동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230716,RDA,476801A001,양평군 양평읍,TA_MIN,50.0,Out of physical range (-40~45),Range/Logic Error
+20230716,RDA,476801A001,양평군 양평읍,TA_MAX,-1.0,Tmax is lower than Tmin,Range/Logic Error
+20230716,RDA,312831A001,금산군 금성면,SI_DAY,39.93,Out of physical range (0~31.5),Range/Logic Error
+20230716,RDA,312831A001,금산군 금성면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230716,RDA,312831A001,금산군 금성면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230716,RDA,312831A001,금산군 금성면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230716,RDA,312831A001,금산군 금성면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230716,RDA,312831A001,금산군 금성면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230716,RDA,312831A001,금산군 금성면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230716,RDA,312831A001,금산군 금성면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20230716,RDA,063048F003,제주시 신엄리,TA_AVG,28.4,"Exceeds 3.5 Sigma (Mean: 25.0, Std: 1.1)",Statistical Outlier
+20230716,AWS,850,850,TA_MIN,14.9,"Exceeds 3.5 Sigma (Mean: 22.8, Std: 1.6)",Statistical Outlier
+20230716,AWS,949,949,TA_MIN,16.4,"Exceeds 3.5 Sigma (Mean: 22.8, Std: 1.6)",Statistical Outlier
+20230716,ASOS,100,100,WS_AVG,4.7,"Exceeds 3.5 Sigma (Mean: 1.1, Std: 1.0)",Statistical Outlier
+20230716,ASOS,115,115,WS_AVG,7.8,"Exceeds 3.5 Sigma (Mean: 1.1, Std: 1.0)",Statistical Outlier
+20230716,ASOS,185,185,WS_AVG,7.1,"Exceeds 3.5 Sigma (Mean: 1.1, Std: 1.0)",Statistical Outlier
+20230716,RDA,476801A001,양평군 양평읍,HM_AVG,2.0,"Exceeds 3.5 Sigma (Mean: 90.9, Std: 11.5)",Statistical Outlier
+20230716,RDA,054065A001,군산시 개정면,HM_AVG,38.6,"Exceeds 3.5 Sigma (Mean: 90.9, Std: 11.5)",Statistical Outlier
+20230716,RDA,570802A001,익산시 함열읍,HM_AVG,18.3,"Exceeds 3.5 Sigma (Mean: 90.9, Std: 11.5)",Statistical Outlier
+20230716,RDA,520821F001,나주시 금천면,HM_AVG,14.7,"Exceeds 3.5 Sigma (Mean: 90.9, Std: 11.5)",Statistical Outlier
+20230716,RDA,063616F005,서귀포 신흥리,HM_AVG,0.4,"Exceeds 3.5 Sigma (Mean: 90.9, Std: 11.5)",Statistical Outlier
+20230716,AWS,449,449,TA_MAX,29.4,Differs from 5 nearest neighbors by 7.5 (Neighbor Mean: 22.1),Spatial Outlier
+20230716,AWS,485,485,TA_MAX,27.6,Differs from 5 nearest neighbors by 7.1 (Neighbor Mean: 20.9),Spatial Outlier
+20230716,AWS,573,573,TA_MAX,26.2,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 22.0),Spatial Outlier
+20230716,AWS,202,202,TA_MIN,22.2,Differs from 5 nearest neighbors by 6.2 (Neighbor Mean: 28.7),Spatial Outlier
+20230716,AWS,326,326,TA_MIN,20.7,Differs from 5 nearest neighbors by 6.2 (Neighbor Mean: 28.2),Spatial Outlier
+20230716,AWS,449,449,TA_MIN,23.2,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 28.5),Spatial Outlier
+20230716,AWS,485,485,TA_MIN,22.0,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 27.6),Spatial Outlier
+20230716,AWS,573,573,TA_MIN,21.6,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 28.0),Spatial Outlier
+20230716,AWS,808,808,TA_MIN,17.8,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 22.6),Spatial Outlier
+20230716,RDA,695923A001,제주시 한림읍,TA_MIN,21.6,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 26.6),Spatial Outlier
+20230716,ASOS,140,140,HM_AVG,91.5,Differs from 5 nearest neighbors by 24.5 (Neighbor Mean: 67.0),Spatial Outlier
+20230716,ASOS,156,156,HM_AVG,98.0,Differs from 5 nearest neighbors by 20.5 (Neighbor Mean: 77.5),Spatial Outlier
+20230716,RDA,063605F004,서귀포 신효동,HM_AVG,99.4,Differs from 5 nearest neighbors by 20.8 (Neighbor Mean: 78.6),Spatial Outlier
+20230716,RDA,063607F015,서귀포 남원읍,HM_AVG,100.0,Differs from 5 nearest neighbors by 21.5 (Neighbor Mean: 78.5),Spatial Outlier
+20230716,RDA,618803A001,부산시 강서구,HM_AVG,73.5,Differs from 5 nearest neighbors by 22.6 (Neighbor Mean: 96.1),Spatial Outlier
+20230716,RDA,063626F006,서귀포 표선면,HM_AVG,98.3,Differs from 5 nearest neighbors by 20.9 (Neighbor Mean: 77.4),Spatial Outlier
+20230716,RDA,063641F007,서귀포 성산읍,HM_AVG,98.4,Differs from 5 nearest neighbors by 22.1 (Neighbor Mean: 76.3),Spatial Outlier
+20230716,ASOS,102,102,SI_DAY,18.7,Differs from 5 nearest neighbors by 10.8 (Neighbor Mean: 7.9),Spatial Outlier
+20230716,ASOS,115,115,SI_DAY,19.58,Differs from 5 nearest neighbors by 9.9 (Neighbor Mean: 9.6),Spatial Outlier
+20230716,ASOS,169,169,SI_DAY,0.2,Differs from 5 nearest neighbors by 9.9 (Neighbor Mean: 10.1),Spatial Outlier
+20230716,RDA,476801A001,양평군 양평읍,SI_DAY,3.63,Differs from 5 nearest neighbors by 10.3 (Neighbor Mean: 13.9),Spatial Outlier
+20230716,RDA,520853A003,나주시 봉황면,SI_DAY,18.58,Differs from 5 nearest neighbors by 8.3 (Neighbor Mean: 10.3),Spatial Outlier
+20230716,RDA,445891A001,화성시 장안면,SI_DAY,14.73,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 7.1),Spatial Outlier
+20230716,RDA,225874A001,횡성군 공근면,SI_DAY,6.4,Differs from 5 nearest neighbors by 8.3 (Neighbor Mean: 14.7),Spatial Outlier
+20230716,RDA,321916A001,계룡시 두마면,SI_DAY,7.58,Differs from 5 nearest neighbors by 8.8 (Neighbor Mean: 16.4),Spatial Outlier
+20230716,RDA,355831A001,보령시 주교면,SI_DAY,23.14,Differs from 5 nearest neighbors by 13.5 (Neighbor Mean: 9.7),Spatial Outlier
+20230716,RDA,409911A001,옹진군 백령면,SI_DAY,17.58,Differs from 5 nearest neighbors by 9.4 (Neighbor Mean: 8.1),Spatial Outlier
+20230716,RDA,719862A001,성주군 대가면,SS_DAY,7.616666666666666,Differs from 5 nearest neighbors by 6.9 (Neighbor Mean: 0.7),Spatial Outlier
+20230716,RDA,038303A002,청도군 각북면,SS_DAY,8.15,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 0.2),Spatial Outlier

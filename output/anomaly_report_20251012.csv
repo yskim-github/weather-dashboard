@@ -1,0 +1,23 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20251012,AWS,726,726,TA_MIN,23.8,"Exceeds 3.5 Sigma (Mean: 18.2, Std: 1.5)",Statistical Outlier
+20251012,AWS,855,855,TA_MIN,23.5,"Exceeds 3.5 Sigma (Mean: 18.2, Std: 1.5)",Statistical Outlier
+20251012,AWS,867,867,TA_MIN,15.0,"Exceeds 3.5 Sigma (Mean: 18.2, Std: 1.5)",Statistical Outlier
+20251012,AWS,868,868,TA_MIN,15.9,"Exceeds 3.5 Sigma (Mean: 18.2, Std: 1.5)",Statistical Outlier
+20251012,AWS,870,870,TA_MIN,14.1,"Exceeds 3.5 Sigma (Mean: 18.2, Std: 1.5)",Statistical Outlier
+20251012,AWS,960,960,TA_MIN,23.4,"Exceeds 3.5 Sigma (Mean: 18.2, Std: 1.5)",Statistical Outlier
+20251012,AWS,965,965,TA_MIN,15.1,"Exceeds 3.5 Sigma (Mean: 18.2, Std: 1.5)",Statistical Outlier
+20251012,RDA,037339B009,의성군 의성읍,TA_MIN,7.3,"Exceeds 3.5 Sigma (Mean: 18.2, Std: 1.5)",Statistical Outlier
+20251012,RDA,742801A005,상주시 함창읍,WS_AVG,40.04,"Exceeds 3.5 Sigma (Mean: 1.2, Std: 2.4)",Statistical Outlier
+20251012,RDA,486831E011,연천군 신서면,HM_AVG,45.2,"Exceeds 3.5 Sigma (Mean: 89.4, Std: 7.2)",Statistical Outlier
+20251012,RDA,390874A001,제천시 봉양읍,HM_AVG,53.1,"Exceeds 3.5 Sigma (Mean: 89.4, Std: 7.2)",Statistical Outlier
+20251012,RDA,063605F004,서귀포 신효동,HM_AVG,39.6,"Exceeds 3.5 Sigma (Mean: 89.4, Std: 7.2)",Statistical Outlier
+20251012,AWS,847,847,TA_MAX,28.0,Differs from 5 nearest neighbors by 6.4 (Neighbor Mean: 22.1),Spatial Outlier
+20251012,AWS,875,875,TA_MAX,13.4,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 18.4),Spatial Outlier
+20251012,AWS,753,753,TA_MIN,13.1,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 24.3),Spatial Outlier
+20251012,RDA,472830A001,남양주 진건읍,SI_DAY,12.94,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 5.3),Spatial Outlier
+20251012,RDA,445891A001,화성시 장안면,SI_DAY,12.21,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 4.4),Spatial Outlier
+20251012,ASOS,189,189,SS_DAY,10.7,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 5.4),Spatial Outlier
+20251012,RDA,350808A001,홍성군 홍성읍,SS_DAY,4.95,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 0.2),Spatial Outlier
+20251012,RDA,542805A001,구례군 구례읍,SS_DAY,8.183333333333334,Differs from 5 nearest neighbors by 4.2 (Neighbor Mean: 4.0),Spatial Outlier
+20251012,RDA,051394A001,창원시 대산면,SS_DAY,0.0,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 4.8),Spatial Outlier
+20251012,RDA,063352B012,제주시 세화리,SS_DAY,0.0,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 7.6),Spatial Outlier

@@ -1,0 +1,21 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20250716,RDA,699946A001,서귀포 하례리,TA_AVG,35.7,"Exceeds 3.5 Sigma (Mean: 23.9, Std: 1.5)",Statistical Outlier
+20250716,AWS,182,182,TA_MAX,32.1,"Exceeds 3.5 Sigma (Mean: 26.1, Std: 1.6)",Statistical Outlier
+20250716,AWS,329,329,TA_MAX,29.8,"Exceeds 3.5 Sigma (Mean: 26.1, Std: 1.6)",Statistical Outlier
+20250716,RDA,063240F009,제주시 오등동,TA_MAX,30.6,"Exceeds 3.5 Sigma (Mean: 26.1, Std: 1.6)",Statistical Outlier
+20250716,RDA,699946A001,서귀포 하례리,TA_MAX,38.0,"Exceeds 3.5 Sigma (Mean: 26.1, Std: 1.6)",Statistical Outlier
+20250716,RDA,036614B005,안동시 북후면,TA_MIN,1.2,"Exceeds 3.5 Sigma (Mean: 21.8, Std: 1.6)",Statistical Outlier
+20250716,RDA,668812F002,남해군 이동면,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 21.8, Std: 1.6)",Statistical Outlier
+20250716,RDA,699946A001,서귀포 하례리,TA_MIN,33.9,"Exceeds 3.5 Sigma (Mean: 21.8, Std: 1.6)",Statistical Outlier
+20250716,ASOS,115,115,WS_AVG,6.0,"Exceeds 3.5 Sigma (Mean: 1.4, Std: 1.1)",Statistical Outlier
+20250716,ASOS,169,169,WS_AVG,8.2,"Exceeds 3.5 Sigma (Mean: 1.4, Std: 1.1)",Statistical Outlier
+20250716,ASOS,185,185,WS_AVG,7.6,"Exceeds 3.5 Sigma (Mean: 1.4, Std: 1.1)",Statistical Outlier
+20250716,ASOS,184,184,HM_AVG,62.4,"Exceeds 3.5 Sigma (Mean: 89.9, Std: 7.3)",Statistical Outlier
+20250716,RDA,487915A001,포천시 신북면,HM_AVG,14.7,"Exceeds 3.5 Sigma (Mean: 89.9, Std: 7.3)",Statistical Outlier
+20250716,AWS,295,295,TA_MIN,22.8,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 18.2),Spatial Outlier
+20250716,AWS,959,959,TA_MIN,17.9,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 22.7),Spatial Outlier
+20250716,ASOS,98,98,HM_AVG,99.9,Differs from 5 nearest neighbors by 23.6 (Neighbor Mean: 76.3),Spatial Outlier
+20250716,RDA,477802A001,가평군 가평읍,HM_AVG,98.1,Differs from 5 nearest neighbors by 21.5 (Neighbor Mean: 76.6),Spatial Outlier
+20250716,RDA,472830A001,남양주 진건읍,HM_AVG,95.9,Differs from 5 nearest neighbors by 23.6 (Neighbor Mean: 72.3),Spatial Outlier
+20250716,RDA,699946A001,서귀포 하례리,SI_DAY,2.6,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 10.5),Spatial Outlier
+20250716,RDA,719862A001,성주군 대가면,SS_DAY,4.483333333333333,Differs from 5 nearest neighbors by 4.4 (Neighbor Mean: 0.0),Spatial Outlier

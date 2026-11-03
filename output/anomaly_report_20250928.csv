@@ -1,0 +1,22 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20250928,RDA,699946A001,서귀포 하례리,TA_AVG,34.8,"Exceeds 3.5 Sigma (Mean: 21.5, Std: 2.1)",Statistical Outlier
+20250928,RDA,699946A001,서귀포 하례리,TA_MAX,39.4,"Exceeds 3.5 Sigma (Mean: 24.1, Std: 2.5)",Statistical Outlier
+20250928,RDA,039102B003,구미시 옥성면,TA_MIN,9.6,"Exceeds 3.5 Sigma (Mean: 19.1, Std: 2.0)",Statistical Outlier
+20250928,RDA,036043F024,영주시 봉현면,TA_MIN,8.5,"Exceeds 3.5 Sigma (Mean: 19.1, Std: 2.0)",Statistical Outlier
+20250928,RDA,699946A001,서귀포 하례리,TA_MIN,32.5,"Exceeds 3.5 Sigma (Mean: 19.1, Std: 2.0)",Statistical Outlier
+20250928,ASOS,169,169,WS_AVG,4.2,"Exceeds 3.5 Sigma (Mean: 1.1, Std: 0.8)",Statistical Outlier
+20250928,ASOS,185,185,WS_AVG,7.6,"Exceeds 3.5 Sigma (Mean: 1.1, Std: 0.8)",Statistical Outlier
+20250928,RDA,486831E011,연천군 신서면,HM_AVG,11.8,"Exceeds 3.5 Sigma (Mean: 89.9, Std: 9.6)",Statistical Outlier
+20250928,RDA,561034A001,동방로거테스트,HM_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 89.9, Std: 9.6)",Statistical Outlier
+20250928,RDA,390874A001,제천시 봉양읍,HM_AVG,51.9,"Exceeds 3.5 Sigma (Mean: 89.9, Std: 9.6)",Statistical Outlier
+20250928,RDA,570802A001,익산시 함열읍,HM_AVG,39.1,"Exceeds 3.5 Sigma (Mean: 89.9, Std: 9.6)",Statistical Outlier
+20250928,RDA,036043F024,영주시 봉현면,TA_MAX,25.3,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 22.1),Spatial Outlier
+20250928,ASOS,98,98,HM_AVG,98.4,Differs from 5 nearest neighbors by 21.6 (Neighbor Mean: 76.8),Spatial Outlier
+20250928,RDA,576040A001,김제시 부량면,HM_AVG,96.8,Differs from 5 nearest neighbors by 24.0 (Neighbor Mean: 72.8),Spatial Outlier
+20250928,RDA,595870A001,순창군 구림면,HM_AVG,93.9,Differs from 5 nearest neighbors by 20.7 (Neighbor Mean: 73.2),Spatial Outlier
+20250928,RDA,520853A003,나주시 봉황면,SI_DAY,21.3,Differs from 5 nearest neighbors by 16.3 (Neighbor Mean: 5.0),Spatial Outlier
+20250928,RDA,445891A001,화성시 장안면,SI_DAY,11.84,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 4.1),Spatial Outlier
+20250928,RDA,699946A001,서귀포 하례리,SI_DAY,2.29,Differs from 5 nearest neighbors by 16.5 (Neighbor Mean: 18.8),Spatial Outlier
+20250928,RDA,063616F005,서귀포 신흥리,SI_DAY,21.81,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 14.2),Spatial Outlier
+20250928,RDA,451873A001,평택시 오성면,SS_DAY,5.683333333333334,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 0.3),Spatial Outlier
+20250928,RDA,719862A001,성주군 대가면,SS_DAY,6.766666666666667,Differs from 5 nearest neighbors by 6.3 (Neighbor Mean: 0.5),Spatial Outlier
