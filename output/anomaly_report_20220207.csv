@@ -1,0 +1,37 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20220207,RDA,469803A001,여주시 상거동,SI_DAY,39.68,Out of physical range (0~31.5),Range/Logic Error
+20220207,RDA,469803A001,여주시 상거동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220207,RDA,469803A001,여주시 상거동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220207,RDA,469803A001,여주시 상거동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220207,RDA,469803A001,여주시 상거동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220207,RDA,469803A001,여주시 상거동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220207,RDA,469803A001,여주시 상거동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220207,RDA,469803A001,여주시 상거동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220207,RDA,312831A001,금산군 금성면,SI_DAY,39.2,Out of physical range (0~31.5),Range/Logic Error
+20220207,RDA,312831A001,금산군 금성면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220207,RDA,312831A001,금산군 금성면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220207,RDA,312831A001,금산군 금성면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220207,RDA,312831A001,금산군 금성면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220207,RDA,312831A001,금산군 금성면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220207,RDA,312831A001,금산군 금성면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220207,RDA,312831A001,금산군 금성면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20220207,AWS,884,884,TA_MAX,8.4,"Exceeds 3.5 Sigma (Mean: 3.5, Std: 1.7)",Statistical Outlier
+20220207,AWS,954,954,TA_MAX,9.9,"Exceeds 3.5 Sigma (Mean: 3.5, Std: 1.7)",Statistical Outlier
+20220207,AWS,959,959,TA_MAX,-2.8,"Exceeds 3.5 Sigma (Mean: 3.5, Std: 1.7)",Statistical Outlier
+20220207,RDA,063541F014,서귀포 하원동,TA_MAX,11.1,"Exceeds 3.5 Sigma (Mean: 3.5, Std: 1.7)",Statistical Outlier
+20220207,RDA,063605F004,서귀포 신효동,TA_MAX,10.1,"Exceeds 3.5 Sigma (Mean: 3.5, Std: 1.7)",Statistical Outlier
+20220207,RDA,063607F015,서귀포 남원읍,TA_MAX,8.8,"Exceeds 3.5 Sigma (Mean: 3.5, Std: 1.7)",Statistical Outlier
+20220207,ASOS,169,169,WS_AVG,5.7,"Exceeds 3.5 Sigma (Mean: 1.5, Std: 0.9)",Statistical Outlier
+20220207,ASOS,185,185,WS_AVG,6.3,"Exceeds 3.5 Sigma (Mean: 1.5, Std: 0.9)",Statistical Outlier
+20220207,RDA,520943A002,나주시 문평면,HM_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 50.1, Std: 10.2)",Statistical Outlier
+20220207,RDA,699946A001,서귀포 하례리,HM_AVG,0.5,"Exceeds 3.5 Sigma (Mean: 50.1, Std: 10.2)",Statistical Outlier
+20220207,AWS,959,959,TA_MIN,-4.6,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 0.4),Spatial Outlier
+20220207,RDA,699946A001,서귀포 하례리,TA_MIN,-5.2,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 1.4),Spatial Outlier
+20220207,ASOS,115,115,HM_AVG,65.9,Differs from 5 nearest neighbors by 24.7 (Neighbor Mean: 41.2),Spatial Outlier
+20220207,ASOS,189,189,HM_AVG,75.6,Differs from 5 nearest neighbors by 21.9 (Neighbor Mean: 53.7),Spatial Outlier
+20220207,RDA,054065A001,군산시 개정면,HM_AVG,17.8,Differs from 5 nearest neighbors by 42.2 (Neighbor Mean: 60.0),Spatial Outlier
+20220207,RDA,225874A001,횡성군 공근면,SI_DAY,8.56,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 16.6),Spatial Outlier
+20220207,RDA,321916A001,계룡시 두마면,SI_DAY,7.09,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 15.0),Spatial Outlier
+20220207,RDA,355831A001,보령시 주교면,SI_DAY,22.99,Differs from 5 nearest neighbors by 14.7 (Neighbor Mean: 8.3),Spatial Outlier
+20220207,RDA,588802A001,무주군 무주읍,SI_DAY,7.77,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 15.6),Spatial Outlier
+20220207,ASOS,115,115,SS_DAY,1.1,Differs from 5 nearest neighbors by 6.7 (Neighbor Mean: 7.8),Spatial Outlier
