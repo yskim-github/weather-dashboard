@@ -1,0 +1,39 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20210706,RDA,469803A001,여주시 상거동,SI_DAY,39.68,Out of physical range (0~31.5),Range/Logic Error
+20210706,RDA,469803A001,여주시 상거동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210706,RDA,469803A001,여주시 상거동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210706,RDA,469803A001,여주시 상거동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210706,RDA,469803A001,여주시 상거동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210706,RDA,469803A001,여주시 상거동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210706,RDA,469803A001,여주시 상거동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210706,RDA,469803A001,여주시 상거동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210706,ASOS,184,184,TA_AVG,29.5,"Exceeds 3.5 Sigma (Mean: 24.3, Std: 1.2)",Statistical Outlier
+20210706,RDA,063240F009,제주시 오등동,TA_AVG,27.5,"Exceeds 3.5 Sigma (Mean: 24.3, Std: 1.2)",Statistical Outlier
+20210706,RDA,063356F008,제주시 구좌읍,TA_AVG,28.3,"Exceeds 3.5 Sigma (Mean: 24.3, Std: 1.2)",Statistical Outlier
+20210706,AWS,747,747,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 21.4, Std: 2.0)",Statistical Outlier
+20210706,RDA,232803A001,평창군 여만리,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 21.4, Std: 2.0)",Statistical Outlier
+20210706,ASOS,159,159,WS_AVG,6.6,"Exceeds 3.5 Sigma (Mean: 1.2, Std: 1.1)",Statistical Outlier
+20210706,ASOS,168,168,WS_AVG,5.3,"Exceeds 3.5 Sigma (Mean: 1.2, Std: 1.1)",Statistical Outlier
+20210706,ASOS,184,184,WS_AVG,6.8,"Exceeds 3.5 Sigma (Mean: 1.2, Std: 1.1)",Statistical Outlier
+20210706,ASOS,185,185,WS_AVG,7.2,"Exceeds 3.5 Sigma (Mean: 1.2, Std: 1.1)",Statistical Outlier
+20210706,RDA,063352B012,제주시 세화리,WS_AVG,5.59,"Exceeds 3.5 Sigma (Mean: 1.2, Std: 1.1)",Statistical Outlier
+20210706,RDA,570802A001,익산시 함열읍,HM_AVG,21.6,"Exceeds 3.5 Sigma (Mean: 90.4, Std: 8.9)",Statistical Outlier
+20210706,RDA,668812F002,남해군 이동면,HM_AVG,48.9,"Exceeds 3.5 Sigma (Mean: 90.4, Std: 8.9)",Statistical Outlier
+20210706,AWS,314,314,TA_MAX,21.9,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 26.4),Spatial Outlier
+20210706,AWS,367,367,TA_MAX,24.5,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 29.8),Spatial Outlier
+20210706,AWS,305,305,TA_MIN,25.1,Differs from 5 nearest neighbors by 6.0 (Neighbor Mean: 19.3),Spatial Outlier
+20210706,AWS,721,721,TA_MIN,24.0,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 19.2),Spatial Outlier
+20210706,AWS,723,723,TA_MIN,25.3,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 19.7),Spatial Outlier
+20210706,ASOS,102,102,SI_DAY,26.61,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 18.9),Spatial Outlier
+20210706,ASOS,115,115,SI_DAY,9.35,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 17.6),Spatial Outlier
+20210706,RDA,467800A001,이천시 중리동,SI_DAY,13.59,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 22.1),Spatial Outlier
+20210706,RDA,415743A001,김포시 월곶면,SI_DAY,10.35,Differs from 5 nearest neighbors by 11.8 (Neighbor Mean: 22.1),Spatial Outlier
+20210706,RDA,429843A001,시흥시 하중동,SI_DAY,29.16,Differs from 5 nearest neighbors by 12.2 (Neighbor Mean: 16.9),Spatial Outlier
+20210706,RDA,520853A003,나주시 봉황면,SI_DAY,11.82,Differs from 5 nearest neighbors by 10.6 (Neighbor Mean: 1.3),Spatial Outlier
+20210706,RDA,269811A001,철원군 동송읍,SI_DAY,15.96,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 23.7),Spatial Outlier
+20210706,RDA,355831A001,보령시 주교면,SI_DAY,24.78,Differs from 5 nearest neighbors by 16.3 (Neighbor Mean: 8.5),Spatial Outlier
+20210706,RDA,063240F009,제주시 오등동,SI_DAY,16.71,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 9.1),Spatial Outlier
+20210706,RDA,063356F008,제주시 구좌읍,SI_DAY,20.7,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 12.7),Spatial Outlier
+20210706,RDA,063352B012,제주시 세화리,SI_DAY,21.23,Differs from 5 nearest neighbors by 8.7 (Neighbor Mean: 12.6),Spatial Outlier
+20210706,ASOS,102,102,SS_DAY,11.6,Differs from 5 nearest neighbors by 5.8 (Neighbor Mean: 5.8),Spatial Outlier
+20210706,RDA,719862A001,성주군 대가면,SS_DAY,5.45,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 0.0),Spatial Outlier
