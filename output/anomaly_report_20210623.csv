@@ -1,0 +1,26 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20210623,AWS,451,451,TA_MAX,21.7,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 27.8),Spatial Outlier
+20210623,AWS,959,959,TA_MAX,18.8,Differs from 5 nearest neighbors by 6.8 (Neighbor Mean: 25.7),Spatial Outlier
+20210623,AWS,984,984,TA_MAX,19.2,Differs from 5 nearest neighbors by 6.1 (Neighbor Mean: 25.5),Spatial Outlier
+20210623,ASOS,99,99,SI_DAY,28.2,Differs from 5 nearest neighbors by 9.0 (Neighbor Mean: 19.2),Spatial Outlier
+20210623,ASOS,102,102,SI_DAY,29.84,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 22.2),Spatial Outlier
+20210623,ASOS,184,184,SI_DAY,26.28,Differs from 5 nearest neighbors by 10.9 (Neighbor Mean: 15.4),Spatial Outlier
+20210623,RDA,469803A001,여주시 상거동,SI_DAY,28.8,Differs from 5 nearest neighbors by 11.8 (Neighbor Mean: 17.0),Spatial Outlier
+20210623,RDA,415743A001,김포시 월곶면,SI_DAY,10.56,Differs from 5 nearest neighbors by 12.8 (Neighbor Mean: 23.4),Spatial Outlier
+20210623,RDA,429843A001,시흥시 하중동,SI_DAY,28.89,Differs from 5 nearest neighbors by 11.3 (Neighbor Mean: 17.6),Spatial Outlier
+20210623,RDA,355831A001,보령시 주교면,SI_DAY,25.95,Differs from 5 nearest neighbors by 13.8 (Neighbor Mean: 12.2),Spatial Outlier
+20210623,RDA,567801A002,진안군 진안읍,SI_DAY,27.98,Differs from 5 nearest neighbors by 14.2 (Neighbor Mean: 13.7),Spatial Outlier
+20210623,RDA,520821F001,나주시 금천면,SI_DAY,0.0,Differs from 5 nearest neighbors by 17.7 (Neighbor Mean: 17.7),Spatial Outlier
+20210623,RDA,742290A001,상주시 초산동,SI_DAY,16.27,Differs from 5 nearest neighbors by 10.3 (Neighbor Mean: 5.9),Spatial Outlier
+20210623,RDA,678806A001,합천군 용주면,SI_DAY,1.11,Differs from 5 nearest neighbors by 9.2 (Neighbor Mean: 10.3),Spatial Outlier
+20210623,RDA,063240F009,제주시 오등동,SI_DAY,23.6,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 15.5),Spatial Outlier
+20210623,RDA,699946A001,서귀포 하례리,SI_DAY,1.84,Differs from 5 nearest neighbors by 10.4 (Neighbor Mean: 12.2),Spatial Outlier
+20210623,RDA,045012F021,울주군 서생면,SI_DAY,7.21,Differs from 5 nearest neighbors by 10.1 (Neighbor Mean: 17.3),Spatial Outlier
+20210623,ASOS,102,102,SS_DAY,14.0,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 8.5),Spatial Outlier
+20210623,ASOS,165,165,SS_DAY,10.8,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 5.5),Spatial Outlier
+20210623,ASOS,184,184,SS_DAY,10.5,Differs from 5 nearest neighbors by 6.9 (Neighbor Mean: 3.6),Spatial Outlier
+20210623,ASOS,185,185,SS_DAY,12.5,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 4.9),Spatial Outlier
+20210623,RDA,469803A001,여주시 상거동,SS_DAY,6.833333333333333,Differs from 5 nearest neighbors by 4.3 (Neighbor Mean: 2.5),Spatial Outlier
+20210623,RDA,719862A001,성주군 대가면,SS_DAY,6.366666666666666,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 0.7),Spatial Outlier
+20210623,RDA,063352B012,제주시 세화리,SS_DAY,0.0,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 5.7),Spatial Outlier
+20210623,RDA,699946A001,서귀포 하례리,SS_DAY,0.75,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 5.5),Spatial Outlier
