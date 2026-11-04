@@ -1,0 +1,10 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20210216,ASOS,185,185,WS_AVG,12.7,"Exceeds 3.5 Sigma (Mean: 2.9, Std: 1.4)",Statistical Outlier
+20210216,RDA,520943A002,나주시 문평면,HM_AVG,0.8,"Exceeds 3.5 Sigma (Mean: 56.4, Std: 11.0)",Statistical Outlier
+20210216,ASOS,104,104,HM_AVG,28.6,Differs from 5 nearest neighbors by 27.0 (Neighbor Mean: 55.6),Spatial Outlier
+20210216,RDA,534833E001,무안군 청계면,HM_AVG,80.9,Differs from 5 nearest neighbors by 22.1 (Neighbor Mean: 58.8),Spatial Outlier
+20210216,RDA,355831A001,보령시 주교면,SI_DAY,23.27,Differs from 5 nearest neighbors by 15.2 (Neighbor Mean: 8.1),Spatial Outlier
+20210216,RDA,678806A001,합천군 용주면,SI_DAY,1.1,Differs from 5 nearest neighbors by 12.6 (Neighbor Mean: 13.7),Spatial Outlier
+20210216,RDA,699946A001,서귀포 하례리,SI_DAY,1.81,Differs from 5 nearest neighbors by 15.5 (Neighbor Mean: 17.4),Spatial Outlier
+20210216,ASOS,115,115,SS_DAY,3.5,Differs from 5 nearest neighbors by 4.2 (Neighbor Mean: 7.7),Spatial Outlier
+20210216,RDA,063352B012,제주시 세화리,SS_DAY,0.0,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 8.1),Spatial Outlier
