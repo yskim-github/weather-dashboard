@@ -1,0 +1,44 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20201211,RDA,469803A001,여주시 상거동,SI_DAY,33.92,Out of physical range (0~31.5),Range/Logic Error
+20201211,RDA,469803A001,여주시 상거동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20201211,RDA,469803A001,여주시 상거동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20201211,RDA,469803A001,여주시 상거동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20201211,RDA,469803A001,여주시 상거동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20201211,RDA,469803A001,여주시 상거동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20201211,RDA,469803A001,여주시 상거동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20201211,RDA,469803A001,여주시 상거동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20201211,AWS,954,954,TA_MAX,17.9,"Exceeds 3.5 Sigma (Mean: 11.1, Std: 1.9)",Statistical Outlier
+20201211,ASOS,102,102,WS_AVG,3.8,"Exceeds 3.5 Sigma (Mean: 0.9, Std: 0.7)",Statistical Outlier
+20201211,ASOS,185,185,WS_AVG,4.1,"Exceeds 3.5 Sigma (Mean: 0.9, Std: 0.7)",Statistical Outlier
+20201211,RDA,026002D003,태백시 매봉산,WS_AVG,3.64,"Exceeds 3.5 Sigma (Mean: 0.9, Std: 0.7)",Statistical Outlier
+20201211,RDA,215821A001,양양군 양양읍,WS_AVG,4.68,"Exceeds 3.5 Sigma (Mean: 0.9, Std: 0.7)",Statistical Outlier
+20201211,RDA,520943A002,나주시 문평면,HM_AVG,0.8,"Exceeds 3.5 Sigma (Mean: 75.3, Std: 10.4)",Statistical Outlier
+20201211,AWS,959,959,TA_MAX,8.5,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 13.4),Spatial Outlier
+20201211,AWS,151,151,TA_MIN,-1.1,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 4.7),Spatial Outlier
+20201211,AWS,175,175,TA_MIN,4.9,Differs from 5 nearest neighbors by 6.2 (Neighbor Mean: 1.8),Spatial Outlier
+20201211,AWS,315,315,TA_MIN,-0.7,Differs from 5 nearest neighbors by 6.2 (Neighbor Mean: 0.2),Spatial Outlier
+20201211,AWS,316,316,TA_MIN,0.9,Differs from 5 nearest neighbors by 6.6 (Neighbor Mean: 0.2),Spatial Outlier
+20201211,AWS,545,545,TA_MIN,-2.3,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 2.5),Spatial Outlier
+20201211,AWS,566,566,TA_MIN,-2.2,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 2.7),Spatial Outlier
+20201211,AWS,682,682,TA_MIN,-4.5,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: -2.3),Spatial Outlier
+20201211,AWS,694,694,TA_MIN,1.0,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 0.8),Spatial Outlier
+20201211,AWS,695,695,TA_MIN,-4.4,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: -2.4),Spatial Outlier
+20201211,AWS,724,724,TA_MIN,8.6,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 3.7),Spatial Outlier
+20201211,AWS,790,790,TA_MIN,6.2,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 1.7),Spatial Outlier
+20201211,AWS,851,851,TA_MIN,-4.0,Differs from 5 nearest neighbors by 7.2 (Neighbor Mean: 3.7),Spatial Outlier
+20201211,AWS,853,853,TA_MIN,2.4,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 1.3),Spatial Outlier
+20201211,AWS,856,856,TA_MIN,1.7,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 0.1),Spatial Outlier
+20201211,AWS,872,872,TA_MIN,-0.7,Differs from 5 nearest neighbors by 5.9 (Neighbor Mean: -1.0),Spatial Outlier
+20201211,AWS,909,909,TA_MIN,8.1,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 4.1),Spatial Outlier
+20201211,AWS,911,911,TA_MIN,8.4,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 4.3),Spatial Outlier
+20201211,AWS,933,933,TA_MIN,-3.1,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 2.3),Spatial Outlier
+20201211,AWS,961,961,TA_MIN,9.3,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 4.8),Spatial Outlier
+20201211,RDA,555130A001,여수시 주삼동,TA_MIN,-0.1,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 5.0),Spatial Outlier
+20201211,RDA,750823A005,영주시 부석면,TA_MIN,1.7,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: -1.1),Spatial Outlier
+20201211,RDA,689861A001,울주군 청량읍,TA_MIN,-2.2,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 3.7),Spatial Outlier
+20201211,ASOS,90,90,HM_AVG,43.6,Differs from 5 nearest neighbors by 20.3 (Neighbor Mean: 63.9),Spatial Outlier
+20201211,ASOS,104,104,HM_AVG,42.9,Differs from 5 nearest neighbors by 23.7 (Neighbor Mean: 66.6),Spatial Outlier
+20201211,RDA,534833E001,무안군 청계면,HM_AVG,94.1,Differs from 5 nearest neighbors by 24.2 (Neighbor Mean: 69.9),Spatial Outlier
+20201211,RDA,520821F001,나주시 금천면,HM_AVG,84.6,Differs from 5 nearest neighbors by 20.4 (Neighbor Mean: 64.2),Spatial Outlier
+20201211,RDA,520892A001,나주시 공산면,HM_AVG,89.8,Differs from 5 nearest neighbors by 21.2 (Neighbor Mean: 68.6),Spatial Outlier
+20201211,RDA,355831A001,보령시 주교면,SI_DAY,22.8,Differs from 5 nearest neighbors by 15.5 (Neighbor Mean: 7.3),Spatial Outlier
