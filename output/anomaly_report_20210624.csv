@@ -1,0 +1,60 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20210624,RDA,469803A001,여주시 상거동,SI_DAY,39.93,Out of physical range (0~31.5),Range/Logic Error
+20210624,RDA,469803A001,여주시 상거동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210624,RDA,469803A001,여주시 상거동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210624,RDA,469803A001,여주시 상거동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210624,RDA,469803A001,여주시 상거동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210624,RDA,469803A001,여주시 상거동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210624,RDA,469803A001,여주시 상거동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210624,RDA,469803A001,여주시 상거동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210624,RDA,429843A001,시흥시 하중동,SI_DAY,33.5,Out of physical range (0~31.5),Range/Logic Error
+20210624,RDA,429843A001,시흥시 하중동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210624,RDA,429843A001,시흥시 하중동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210624,RDA,429843A001,시흥시 하중동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210624,RDA,429843A001,시흥시 하중동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210624,RDA,429843A001,시흥시 하중동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210624,RDA,429843A001,시흥시 하중동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210624,RDA,429843A001,시흥시 하중동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210624,RDA,355831A001,보령시 주교면,SI_DAY,34.39,Out of physical range (0~31.5),Range/Logic Error
+20210624,RDA,355831A001,보령시 주교면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210624,RDA,355831A001,보령시 주교면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210624,RDA,355831A001,보령시 주교면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210624,RDA,355831A001,보령시 주교면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210624,RDA,355831A001,보령시 주교면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210624,RDA,355831A001,보령시 주교면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210624,RDA,355831A001,보령시 주교면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210624,RDA,567801A002,진안군 진안읍,SI_DAY,32.06,Out of physical range (0~31.5),Range/Logic Error
+20210624,RDA,567801A002,진안군 진안읍,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210624,RDA,567801A002,진안군 진안읍,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210624,RDA,567801A002,진안군 진안읍,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210624,RDA,567801A002,진안군 진안읍,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210624,RDA,567801A002,진안군 진안읍,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210624,RDA,567801A002,진안군 진안읍,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210624,RDA,567801A002,진안군 진안읍,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210624,AWS,956,956,TA_MAX,20.6,"Exceeds 3.5 Sigma (Mean: 27.7, Std: 1.9)",Statistical Outlier
+20210624,AWS,959,959,TA_MAX,18.8,"Exceeds 3.5 Sigma (Mean: 27.7, Std: 1.9)",Statistical Outlier
+20210624,AWS,798,798,TA_MIN,1.8,"Exceeds 3.5 Sigma (Mean: 18.0, Std: 1.7)",Statistical Outlier
+20210624,ASOS,170,170,WS_AVG,3.1,"Exceeds 3.5 Sigma (Mean: 1.1, Std: 0.6)",Statistical Outlier
+20210624,ASOS,185,185,WS_AVG,4.6,"Exceeds 3.5 Sigma (Mean: 1.1, Std: 0.6)",Statistical Outlier
+20210624,AWS,367,367,TA_MAX,22.7,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 27.8),Spatial Outlier
+20210624,AWS,320,320,TA_MIN,11.5,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 14.6),Spatial Outlier
+20210624,AWS,451,451,TA_MIN,21.3,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 16.7),Spatial Outlier
+20210624,AWS,875,875,TA_MIN,9.5,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 14.2),Spatial Outlier
+20210624,ASOS,184,184,SI_DAY,22.39,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 14.5),Spatial Outlier
+20210624,RDA,467800A001,이천시 중리동,SI_DAY,18.33,Differs from 5 nearest neighbors by 8.6 (Neighbor Mean: 26.9),Spatial Outlier
+20210624,RDA,415743A001,김포시 월곶면,SI_DAY,6.98,Differs from 5 nearest neighbors by 16.2 (Neighbor Mean: 23.1),Spatial Outlier
+20210624,RDA,269811A001,철원군 동송읍,SI_DAY,15.41,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 23.4),Spatial Outlier
+20210624,RDA,209802A001,화천군 화천읍,SI_DAY,17.26,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 24.9),Spatial Outlier
+20210624,RDA,520821F001,나주시 금천면,SI_DAY,0.0,Differs from 5 nearest neighbors by 18.1 (Neighbor Mean: 18.1),Spatial Outlier
+20210624,RDA,719862A001,성주군 대가면,SI_DAY,8.58,Differs from 5 nearest neighbors by 11.7 (Neighbor Mean: 20.3),Spatial Outlier
+20210624,RDA,678806A001,합천군 용주면,SI_DAY,1.2,Differs from 5 nearest neighbors by 17.9 (Neighbor Mean: 19.1),Spatial Outlier
+20210624,RDA,063190F010,제주시 금악리,SI_DAY,8.48,Differs from 5 nearest neighbors by 11.3 (Neighbor Mean: 19.8),Spatial Outlier
+20210624,RDA,699946A001,서귀포 하례리,SI_DAY,1.85,Differs from 5 nearest neighbors by 11.8 (Neighbor Mean: 13.6),Spatial Outlier
+20210624,ASOS,102,102,SS_DAY,13.1,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 8.4),Spatial Outlier
+20210624,ASOS,112,112,SS_DAY,12.2,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 7.2),Spatial Outlier
+20210624,ASOS,184,184,SS_DAY,7.1,Differs from 5 nearest neighbors by 4.4 (Neighbor Mean: 2.7),Spatial Outlier
+20210624,ASOS,185,185,SS_DAY,10.9,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 2.8),Spatial Outlier
+20210624,RDA,415743A001,김포시 월곶면,SS_DAY,2.6166666666666667,Differs from 5 nearest neighbors by 6.3 (Neighbor Mean: 9.0),Spatial Outlier
+20210624,RDA,534833E001,무안군 청계면,SS_DAY,1.5333333333333334,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 6.0),Spatial Outlier
+20210624,RDA,719862A001,성주군 대가면,SS_DAY,11.016666666666667,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 5.9),Spatial Outlier
+20210624,RDA,695923A001,제주시 한림읍,SS_DAY,0.5333333333333333,Differs from 5 nearest neighbors by 4.4 (Neighbor Mean: 4.9),Spatial Outlier
