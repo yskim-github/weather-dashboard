@@ -1,0 +1,42 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20210629,RDA,355831A001,보령시 주교면,SI_DAY,38.09,Out of physical range (0~31.5),Range/Logic Error
+20210629,RDA,355831A001,보령시 주교면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210629,RDA,355831A001,보령시 주교면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210629,RDA,355831A001,보령시 주교면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210629,RDA,355831A001,보령시 주교면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210629,RDA,355831A001,보령시 주교면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210629,RDA,355831A001,보령시 주교면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210629,RDA,355831A001,보령시 주교면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210629,RDA,235270E001,태백 귀네미골,TA_AVG,15.6,"Exceeds 3.5 Sigma (Mean: 23.6, Std: 0.8)",Statistical Outlier
+20210629,AWS,956,956,TA_MAX,22.3,"Exceeds 3.5 Sigma (Mean: 28.8, Std: 1.8)",Statistical Outlier
+20210629,AWS,959,959,TA_MAX,21.4,"Exceeds 3.5 Sigma (Mean: 28.8, Std: 1.8)",Statistical Outlier
+20210629,AWS,984,984,TA_MAX,21.4,"Exceeds 3.5 Sigma (Mean: 28.8, Std: 1.8)",Statistical Outlier
+20210629,ASOS,185,185,WS_AVG,3.1,"Exceeds 3.5 Sigma (Mean: 1.1, Std: 0.6)",Statistical Outlier
+20210629,AWS,366,366,TA_MAX,31.3,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 27.4),Spatial Outlier
+20210629,ASOS,138,138,SI_DAY,27.23,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 19.5),Spatial Outlier
+20210629,ASOS,177,177,SI_DAY,15.36,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 23.4),Spatial Outlier
+20210629,ASOS,184,184,SI_DAY,25.05,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 17.2),Spatial Outlier
+20210629,RDA,469803A001,여주시 상거동,SI_DAY,29.44,Differs from 5 nearest neighbors by 9.4 (Neighbor Mean: 20.0),Spatial Outlier
+20210629,RDA,415743A001,김포시 월곶면,SI_DAY,6.34,Differs from 5 nearest neighbors by 13.4 (Neighbor Mean: 19.7),Spatial Outlier
+20210629,RDA,429843A001,시흥시 하중동,SI_DAY,28.38,Differs from 5 nearest neighbors by 9.7 (Neighbor Mean: 18.7),Spatial Outlier
+20210629,RDA,520853A003,나주시 봉황면,SI_DAY,24.76,Differs from 5 nearest neighbors by 9.8 (Neighbor Mean: 14.9),Spatial Outlier
+20210629,RDA,235270E001,태백 귀네미골,SI_DAY,8.76,Differs from 5 nearest neighbors by 12.8 (Neighbor Mean: 21.6),Spatial Outlier
+20210629,RDA,269811A001,철원군 동송읍,SI_DAY,13.69,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 21.5),Spatial Outlier
+20210629,RDA,323814A001,부여군 규암면,SI_DAY,15.6,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 24.1),Spatial Outlier
+20210629,RDA,580813A001,정읍시 정우면,SI_DAY,13.92,Differs from 5 nearest neighbors by 9.3 (Neighbor Mean: 23.2),Spatial Outlier
+20210629,RDA,567801A002,진안군 진안읍,SI_DAY,27.92,Differs from 5 nearest neighbors by 10.7 (Neighbor Mean: 17.2),Spatial Outlier
+20210629,RDA,520821F001,나주시 금천면,SI_DAY,0.0,Differs from 5 nearest neighbors by 19.3 (Neighbor Mean: 19.3),Spatial Outlier
+20210629,RDA,719862A001,성주군 대가면,SI_DAY,8.96,Differs from 5 nearest neighbors by 12.3 (Neighbor Mean: 21.2),Spatial Outlier
+20210629,RDA,678806A001,합천군 용주면,SI_DAY,1.13,Differs from 5 nearest neighbors by 16.7 (Neighbor Mean: 17.9),Spatial Outlier
+20210629,RDA,699946A001,서귀포 하례리,SI_DAY,1.84,Differs from 5 nearest neighbors by 18.9 (Neighbor Mean: 20.7),Spatial Outlier
+20210629,ASOS,112,112,SS_DAY,10.5,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 5.0),Spatial Outlier
+20210629,ASOS,152,152,SS_DAY,10.4,Differs from 5 nearest neighbors by 4.4 (Neighbor Mean: 6.0),Spatial Outlier
+20210629,ASOS,189,189,SS_DAY,10.3,Differs from 5 nearest neighbors by 4.4 (Neighbor Mean: 5.9),Spatial Outlier
+20210629,RDA,415743A001,김포시 월곶면,SS_DAY,1.35,Differs from 5 nearest neighbors by 5.8 (Neighbor Mean: 7.2),Spatial Outlier
+20210629,RDA,038303A002,청도군 각북면,SS_DAY,11.083333333333334,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 6.6),Spatial Outlier
+20210629,RDA,063352B012,제주시 세화리,SS_DAY,0.0,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 8.0),Spatial Outlier
+20210629,AWS,405,405,RN_DAY,53.0,Differs from 5 nearest neighbors by 44.2 (Neighbor Mean: 8.8),Spatial Outlier
+20210629,AWS,539,539,RN_DAY,36.0,Differs from 5 nearest neighbors by 33.8 (Neighbor Mean: 2.2),Spatial Outlier
+20210629,AWS,600,600,RN_DAY,65.5,Differs from 5 nearest neighbors by 62.8 (Neighbor Mean: 2.7),Spatial Outlier
+20210629,AWS,616,616,RN_DAY,25.5,Differs from 5 nearest neighbors by 23.8 (Neighbor Mean: 1.7),Spatial Outlier
+20210629,AWS,832,832,RN_DAY,28.5,Differs from 5 nearest neighbors by 27.3 (Neighbor Mean: 1.2),Spatial Outlier
