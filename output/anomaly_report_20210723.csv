@@ -1,0 +1,59 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20210723,RDA,469803A001,여주시 상거동,SI_DAY,37.12,Out of physical range (0~31.5),Range/Logic Error
+20210723,RDA,469803A001,여주시 상거동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210723,RDA,469803A001,여주시 상거동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210723,RDA,469803A001,여주시 상거동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210723,RDA,469803A001,여주시 상거동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210723,RDA,469803A001,여주시 상거동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210723,RDA,469803A001,여주시 상거동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210723,RDA,469803A001,여주시 상거동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210723,RDA,429843A001,시흥시 하중동,SI_DAY,39.15,Out of physical range (0~31.5),Range/Logic Error
+20210723,RDA,429843A001,시흥시 하중동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210723,RDA,429843A001,시흥시 하중동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210723,RDA,429843A001,시흥시 하중동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210723,RDA,429843A001,시흥시 하중동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210723,RDA,429843A001,시흥시 하중동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210723,RDA,429843A001,시흥시 하중동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210723,RDA,429843A001,시흥시 하중동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210723,RDA,355831A001,보령시 주교면,SI_DAY,39.96,Out of physical range (0~31.5),Range/Logic Error
+20210723,RDA,355831A001,보령시 주교면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210723,RDA,355831A001,보령시 주교면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210723,RDA,355831A001,보령시 주교면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210723,RDA,355831A001,보령시 주교면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210723,RDA,355831A001,보령시 주교면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210723,RDA,355831A001,보령시 주교면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210723,RDA,355831A001,보령시 주교면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210723,RDA,567801A002,진안군 진안읍,SI_DAY,36.75,Out of physical range (0~31.5),Range/Logic Error
+20210723,RDA,567801A002,진안군 진안읍,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210723,RDA,567801A002,진안군 진안읍,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210723,RDA,567801A002,진안군 진안읍,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210723,RDA,567801A002,진안군 진안읍,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210723,RDA,567801A002,진안군 진안읍,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210723,RDA,567801A002,진안군 진안읍,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210723,RDA,567801A002,진안군 진안읍,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210723,AWS,984,984,TA_MAX,24.0,"Exceeds 3.5 Sigma (Mean: 33.8, Std: 2.4)",Statistical Outlier
+20210723,AWS,905,905,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 23.3, Std: 1.9)",Statistical Outlier
+20210723,ASOS,168,168,WS_AVG,4.1,"Exceeds 3.5 Sigma (Mean: 1.1, Std: 0.6)",Statistical Outlier
+20210723,AWS,367,367,TA_MAX,30.4,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 35.8),Spatial Outlier
+20210723,AWS,643,643,TA_MAX,29.1,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 34.8),Spatial Outlier
+20210723,AWS,958,958,TA_MAX,28.1,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 32.8),Spatial Outlier
+20210723,RDA,638802A001,고성군 고성읍,TA_MAX,27.0,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 32.0),Spatial Outlier
+20210723,AWS,320,320,TA_MIN,19.7,Differs from 5 nearest neighbors by 7.1 (Neighbor Mean: 20.8),Spatial Outlier
+20210723,AWS,682,682,TA_MIN,20.0,Differs from 5 nearest neighbors by 5.9 (Neighbor Mean: 21.0),Spatial Outlier
+20210723,AWS,695,695,TA_MIN,20.4,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 21.9),Spatial Outlier
+20210723,AWS,854,854,TA_MIN,22.3,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 18.3),Spatial Outlier
+20210723,AWS,875,875,TA_MIN,17.4,Differs from 5 nearest neighbors by 6.4 (Neighbor Mean: 21.3),Spatial Outlier
+20210723,RDA,210913E001,강릉 안반덕이,TA_MIN,19.6,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 21.5),Spatial Outlier
+20210723,RDA,050415C005,밀양시 산내면,TA_MIN,20.9,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 17.2),Spatial Outlier
+20210723,ASOS,112,112,HM_AVG,55.1,Differs from 5 nearest neighbors by 23.2 (Neighbor Mean: 78.3),Spatial Outlier
+20210723,RDA,699946A001,서귀포 하례리,HM_AVG,59.7,Differs from 5 nearest neighbors by 23.4 (Neighbor Mean: 83.1),Spatial Outlier
+20210723,ASOS,263,263,SI_DAY,24.15,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 16.6),Spatial Outlier
+20210723,RDA,467800A001,이천시 중리동,SI_DAY,20.74,Differs from 5 nearest neighbors by 8.6 (Neighbor Mean: 29.3),Spatial Outlier
+20210723,RDA,415743A001,김포시 월곶면,SI_DAY,10.81,Differs from 5 nearest neighbors by 17.2 (Neighbor Mean: 28.1),Spatial Outlier
+20210723,RDA,520853A003,나주시 봉황면,SI_DAY,25.3,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 16.8),Spatial Outlier
+20210723,RDA,445891A001,화성시 장안면,SI_DAY,16.33,Differs from 5 nearest neighbors by 9.1 (Neighbor Mean: 25.4),Spatial Outlier
+20210723,RDA,209802A001,화천군 화천읍,SI_DAY,18.69,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 26.8),Spatial Outlier
+20210723,RDA,520821F001,나주시 금천면,SI_DAY,0.0,Differs from 5 nearest neighbors by 21.9 (Neighbor Mean: 21.9),Spatial Outlier
+20210723,RDA,719862A001,성주군 대가면,SI_DAY,9.17,Differs from 5 nearest neighbors by 13.5 (Neighbor Mean: 22.7),Spatial Outlier
+20210723,RDA,678806A001,합천군 용주면,SI_DAY,0.97,Differs from 5 nearest neighbors by 20.5 (Neighbor Mean: 21.5),Spatial Outlier
+20210723,RDA,699946A001,서귀포 하례리,SI_DAY,1.96,Differs from 5 nearest neighbors by 9.8 (Neighbor Mean: 11.7),Spatial Outlier
