@@ -1,0 +1,40 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20210507,RDA,469803A001,여주시 상거동,SI_DAY,34.56,Out of physical range (0~31.5),Range/Logic Error
+20210507,RDA,469803A001,여주시 상거동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210507,RDA,469803A001,여주시 상거동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210507,RDA,469803A001,여주시 상거동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210507,RDA,469803A001,여주시 상거동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210507,RDA,469803A001,여주시 상거동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210507,RDA,469803A001,여주시 상거동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210507,RDA,469803A001,여주시 상거동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20210507,ASOS,102,102,WS_AVG,7.3,"Exceeds 3.5 Sigma (Mean: 2.5, Std: 1.3)",Statistical Outlier
+20210507,ASOS,115,115,WS_AVG,7.3,"Exceeds 3.5 Sigma (Mean: 2.5, Std: 1.3)",Statistical Outlier
+20210507,RDA,026002D003,태백시 매봉산,WS_AVG,7.93,"Exceeds 3.5 Sigma (Mean: 2.5, Std: 1.3)",Statistical Outlier
+20210507,RDA,520943A002,나주시 문평면,HM_AVG,0.8,"Exceeds 3.5 Sigma (Mean: 61.9, Std: 8.8)",Statistical Outlier
+20210507,AWS,675,675,TA_MAX,10.6,Differs from 5 nearest neighbors by 8.9 (Neighbor Mean: 19.8),Spatial Outlier
+20210507,AWS,875,875,TA_MAX,5.6,Differs from 5 nearest neighbors by 6.1 (Neighbor Mean: 22.0),Spatial Outlier
+20210507,AWS,924,924,TA_MAX,18.3,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 23.1),Spatial Outlier
+20210507,AWS,959,959,TA_MAX,14.3,Differs from 5 nearest neighbors by 6.7 (Neighbor Mean: 21.1),Spatial Outlier
+20210507,AWS,960,960,TA_MAX,20.1,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 25.2),Spatial Outlier
+20210507,AWS,961,961,TA_MAX,17.3,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 22.1),Spatial Outlier
+20210507,AWS,984,984,TA_MAX,15.7,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 20.9),Spatial Outlier
+20210507,AWS,151,151,TA_MIN,10.4,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 15.2),Spatial Outlier
+20210507,AWS,523,523,TA_MIN,8.5,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 13.1),Spatial Outlier
+20210507,AWS,552,552,TA_MIN,2.3,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 8.5),Spatial Outlier
+20210507,AWS,682,682,TA_MIN,4.4,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 6.6),Spatial Outlier
+20210507,AWS,755,755,TA_MIN,3.2,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 9.1),Spatial Outlier
+20210507,AWS,872,872,TA_MIN,8.1,Differs from 5 nearest neighbors by 5.9 (Neighbor Mean: 7.9),Spatial Outlier
+20210507,RDA,232803A001,평창군 여만리,TA_MIN,0.0,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 7.1),Spatial Outlier
+20210507,RDA,689861A001,울주군 청량읍,TA_MIN,9.3,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 14.7),Spatial Outlier
+20210507,ASOS,115,115,HM_AVG,73.1,Differs from 5 nearest neighbors by 23.5 (Neighbor Mean: 49.6),Spatial Outlier
+20210507,RDA,520892A001,나주시 공산면,HM_AVG,73.9,Differs from 5 nearest neighbors by 20.2 (Neighbor Mean: 53.7),Spatial Outlier
+20210507,ASOS,102,102,SI_DAY,24.13,Differs from 5 nearest neighbors by 9.0 (Neighbor Mean: 15.2),Spatial Outlier
+20210507,RDA,415743A001,김포시 월곶면,SI_DAY,1.5,Differs from 5 nearest neighbors by 18.2 (Neighbor Mean: 19.7),Spatial Outlier
+20210507,RDA,429843A001,시흥시 하중동,SI_DAY,28.19,Differs from 5 nearest neighbors by 11.4 (Neighbor Mean: 16.8),Spatial Outlier
+20210507,RDA,355831A001,보령시 주교면,SI_DAY,29.52,Differs from 5 nearest neighbors by 13.7 (Neighbor Mean: 15.8),Spatial Outlier
+20210507,RDA,719862A001,성주군 대가면,SI_DAY,7.44,Differs from 5 nearest neighbors by 10.3 (Neighbor Mean: 17.8),Spatial Outlier
+20210507,RDA,050415C005,밀양시 산내면,SI_DAY,12.71,Differs from 5 nearest neighbors by 8.3 (Neighbor Mean: 21.0),Spatial Outlier
+20210507,RDA,678806A001,합천군 용주면,SI_DAY,1.32,Differs from 5 nearest neighbors by 16.0 (Neighbor Mean: 17.4),Spatial Outlier
+20210507,RDA,699946A001,서귀포 하례리,SI_DAY,1.85,Differs from 5 nearest neighbors by 22.2 (Neighbor Mean: 24.0),Spatial Outlier
+20210507,RDA,487915A001,포천시 신북면,SS_DAY,12.533333333333333,Differs from 5 nearest neighbors by 5.9 (Neighbor Mean: 6.7),Spatial Outlier
+20210507,RDA,063352B012,제주시 세화리,SS_DAY,0.0,Differs from 5 nearest neighbors by 8.4 (Neighbor Mean: 8.4),Spatial Outlier
