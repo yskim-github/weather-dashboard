@@ -1,0 +1,31 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20201001,RDA,469803A001,여주시 상거동,SI_DAY,39.68,Out of physical range (0~31.5),Range/Logic Error
+20201001,RDA,469803A001,여주시 상거동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20201001,RDA,469803A001,여주시 상거동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20201001,RDA,469803A001,여주시 상거동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20201001,RDA,469803A001,여주시 상거동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20201001,RDA,469803A001,여주시 상거동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20201001,RDA,469803A001,여주시 상거동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20201001,RDA,469803A001,여주시 상거동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20201001,AWS,498,498,TA_MAX,11.5,"Exceeds 3.5 Sigma (Mean: 24.5, Std: 1.8)",Statistical Outlier
+20201001,AWS,520,520,TA_MAX,16.9,"Exceeds 3.5 Sigma (Mean: 24.5, Std: 1.8)",Statistical Outlier
+20201001,AWS,554,554,TA_MAX,11.3,"Exceeds 3.5 Sigma (Mean: 24.5, Std: 1.8)",Statistical Outlier
+20201001,AWS,566,566,TA_MAX,18.3,"Exceeds 3.5 Sigma (Mean: 24.5, Std: 1.8)",Statistical Outlier
+20201001,AWS,593,593,TA_MAX,17.2,"Exceeds 3.5 Sigma (Mean: 24.5, Std: 1.8)",Statistical Outlier
+20201001,AWS,596,596,TA_MAX,16.2,"Exceeds 3.5 Sigma (Mean: 24.5, Std: 1.8)",Statistical Outlier
+20201001,RDA,235270E001,태백 귀네미골,TA_MAX,12.6,"Exceeds 3.5 Sigma (Mean: 24.5, Std: 1.8)",Statistical Outlier
+20201001,ASOS,115,115,WS_AVG,3.4,"Exceeds 3.5 Sigma (Mean: 1.0, Std: 0.5)",Statistical Outlier
+20201001,ASOS,185,185,WS_AVG,3.5,"Exceeds 3.5 Sigma (Mean: 1.0, Std: 0.5)",Statistical Outlier
+20201001,RDA,520943A002,나주시 문평면,HM_AVG,0.8,"Exceeds 3.5 Sigma (Mean: 81.0, Std: 7.2)",Statistical Outlier
+20201001,AWS,655,655,TA_MAX,26.6,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 21.8),Spatial Outlier
+20201001,RDA,534833E001,무안군 청계면,HM_AVG,92.1,Differs from 5 nearest neighbors by 23.7 (Neighbor Mean: 68.4),Spatial Outlier
+20201001,RDA,520892A001,나주시 공산면,HM_AVG,89.8,Differs from 5 nearest neighbors by 20.5 (Neighbor Mean: 69.3),Spatial Outlier
+20201001,RDA,449872A001,용인시 처인구,SI_DAY,0.13,Differs from 5 nearest neighbors by 13.3 (Neighbor Mean: 13.4),Spatial Outlier
+20201001,RDA,355831A001,보령시 주교면,SI_DAY,30.59,Differs from 5 nearest neighbors by 14.7 (Neighbor Mean: 15.9),Spatial Outlier
+20201001,RDA,719862A001,성주군 대가면,SI_DAY,9.12,Differs from 5 nearest neighbors by 9.0 (Neighbor Mean: 18.1),Spatial Outlier
+20201001,RDA,678806A001,합천군 용주면,SI_DAY,1.02,Differs from 5 nearest neighbors by 16.7 (Neighbor Mean: 17.7),Spatial Outlier
+20201001,RDA,699946A001,서귀포 하례리,SI_DAY,1.83,Differs from 5 nearest neighbors by 10.8 (Neighbor Mean: 12.7),Spatial Outlier
+20201001,ASOS,115,115,SS_DAY,4.0,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 8.5),Spatial Outlier
+20201001,ASOS,169,169,SS_DAY,10.1,Differs from 5 nearest neighbors by 4.4 (Neighbor Mean: 5.7),Spatial Outlier
+20201001,ASOS,188,188,SS_DAY,9.8,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 5.0),Spatial Outlier
+20201001,RDA,063352B012,제주시 세화리,SS_DAY,0.0,Differs from 5 nearest neighbors by 7.0 (Neighbor Mean: 7.0),Spatial Outlier
