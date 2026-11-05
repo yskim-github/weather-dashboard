@@ -1,0 +1,42 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20200630,RDA,026002D003,태백시 매봉산,SS_DAY,18.95,Out of physical range (0~14.8),Range/Logic Error
+20200630,RDA,469803A001,여주시 상거동,SI_DAY,35.2,Out of physical range (0~31.5),Range/Logic Error
+20200630,RDA,469803A001,여주시 상거동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200630,RDA,469803A001,여주시 상거동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200630,RDA,469803A001,여주시 상거동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200630,RDA,469803A001,여주시 상거동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200630,RDA,469803A001,여주시 상거동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200630,RDA,469803A001,여주시 상거동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200630,RDA,469803A001,여주시 상거동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200630,AWS,461,461,TA_MIN,13.8,"Exceeds 3.5 Sigma (Mean: 18.7, Std: 1.1)",Statistical Outlier
+20200630,ASOS,168,168,WS_AVG,8.8,"Exceeds 3.5 Sigma (Mean: 2.8, Std: 1.6)",Statistical Outlier
+20200630,ASOS,185,185,WS_AVG,12.2,"Exceeds 3.5 Sigma (Mean: 2.8, Std: 1.6)",Statistical Outlier
+20200630,RDA,429843A001,시흥시 하중동,HM_AVG,49.6,"Exceeds 3.5 Sigma (Mean: 87.4, Std: 7.8)",Statistical Outlier
+20200630,RDA,413813A001,파주시 아동동,HM_AVG,37.9,"Exceeds 3.5 Sigma (Mean: 87.4, Std: 7.8)",Statistical Outlier
+20200630,AWS,960,960,TA_MAX,22.2,Differs from 5 nearest neighbors by 6.0 (Neighbor Mean: 28.3),Spatial Outlier
+20200630,AWS,455,455,TA_MIN,22.0,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 17.5),Spatial Outlier
+20200630,ASOS,169,169,SI_DAY,19.21,Differs from 5 nearest neighbors by 10.1 (Neighbor Mean: 9.1),Spatial Outlier
+20200630,ASOS,192,192,SI_DAY,26.48,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 18.3),Spatial Outlier
+20200630,ASOS,253,253,SI_DAY,25.06,Differs from 5 nearest neighbors by 9.7 (Neighbor Mean: 15.4),Spatial Outlier
+20200630,ASOS,257,257,SI_DAY,6.52,Differs from 5 nearest neighbors by 11.4 (Neighbor Mean: 17.9),Spatial Outlier
+20200630,ASOS,283,283,SI_DAY,19.87,Differs from 5 nearest neighbors by 8.3 (Neighbor Mean: 11.5),Spatial Outlier
+20200630,RDA,520853A003,나주시 봉황면,SI_DAY,17.21,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 9.0),Spatial Outlier
+20200630,RDA,355831A001,보령시 주교면,SI_DAY,24.57,Differs from 5 nearest neighbors by 17.4 (Neighbor Mean: 7.2),Spatial Outlier
+20200630,RDA,041404B001,대구시 북구,SI_DAY,6.08,Differs from 5 nearest neighbors by 9.7 (Neighbor Mean: 15.8),Spatial Outlier
+20200630,RDA,766851E001,영덕군 병곡면,SI_DAY,18.82,Differs from 5 nearest neighbors by 11.2 (Neighbor Mean: 7.7),Spatial Outlier
+20200630,RDA,741862E001,상주시 화서면,SI_DAY,3.62,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 11.8),Spatial Outlier
+20200630,RDA,037268B004,상주시 공성면,SI_DAY,17.9,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 10.3),Spatial Outlier
+20200630,RDA,050124D004,거창군 동변리,SI_DAY,19.18,Differs from 5 nearest neighbors by 8.7 (Neighbor Mean: 10.5),Spatial Outlier
+20200630,RDA,678806A001,합천군 용주면,SI_DAY,0.8,Differs from 5 nearest neighbors by 13.8 (Neighbor Mean: 14.6),Spatial Outlier
+20200630,RDA,063605F004,서귀포 신효동,SI_DAY,30.21,Differs from 5 nearest neighbors by 9.0 (Neighbor Mean: 21.2),Spatial Outlier
+20200630,RDA,063607F015,서귀포 남원읍,SI_DAY,29.28,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 21.4),Spatial Outlier
+20200630,RDA,699946A001,서귀포 하례리,SI_DAY,1.83,Differs from 5 nearest neighbors by 25.0 (Neighbor Mean: 26.9),Spatial Outlier
+20200630,RDA,063626F006,서귀포 표선면,SI_DAY,30.36,Differs from 5 nearest neighbors by 10.5 (Neighbor Mean: 19.9),Spatial Outlier
+20200630,ASOS,152,152,SS_DAY,9.7,Differs from 5 nearest neighbors by 6.4 (Neighbor Mean: 3.3),Spatial Outlier
+20200630,ASOS,184,184,SS_DAY,2.2,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 6.7),Spatial Outlier
+20200630,ASOS,188,188,SS_DAY,12.7,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 4.6),Spatial Outlier
+20200630,ASOS,189,189,SS_DAY,11.3,Differs from 5 nearest neighbors by 6.4 (Neighbor Mean: 4.9),Spatial Outlier
+20200630,RDA,780950A001,경주시 용강상리,SS_DAY,0.4666666666666667,Differs from 5 nearest neighbors by 6.2 (Neighbor Mean: 6.7),Spatial Outlier
+20200630,RDA,719862A001,성주군 대가면,SS_DAY,10.583333333333334,Differs from 5 nearest neighbors by 9.4 (Neighbor Mean: 1.2),Spatial Outlier
+20200630,RDA,063352B012,제주시 세화리,SS_DAY,0.0,Differs from 5 nearest neighbors by 7.1 (Neighbor Mean: 7.1),Spatial Outlier
+20200630,RDA,588802A001,무주군 무주읍,RN_DAY,307.2,Differs from 5 nearest neighbors by 294.1 (Neighbor Mean: 13.1),Spatial Outlier
