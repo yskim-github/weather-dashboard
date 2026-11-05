@@ -1,0 +1,22 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20200625,RDA,469803A001,여주시 상거동,SI_DAY,39.68,Out of physical range (0~31.5),Range/Logic Error
+20200625,RDA,469803A001,여주시 상거동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200625,RDA,469803A001,여주시 상거동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200625,RDA,469803A001,여주시 상거동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200625,RDA,469803A001,여주시 상거동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200625,RDA,469803A001,여주시 상거동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200625,RDA,469803A001,여주시 상거동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200625,RDA,469803A001,여주시 상거동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200625,ASOS,102,102,TA_AVG,18.3,"Exceeds 3.5 Sigma (Mean: 22.3, Std: 1.1)",Statistical Outlier
+20200625,AWS,956,956,TA_MAX,17.8,"Exceeds 3.5 Sigma (Mean: 24.3, Std: 1.7)",Statistical Outlier
+20200625,AWS,353,353,TA_MIN,15.1,"Exceeds 3.5 Sigma (Mean: 20.2, Std: 1.0)",Statistical Outlier
+20200625,AWS,867,867,TA_MIN,14.9,"Exceeds 3.5 Sigma (Mean: 20.2, Std: 1.0)",Statistical Outlier
+20200625,AWS,868,868,TA_MIN,14.7,"Exceeds 3.5 Sigma (Mean: 20.2, Std: 1.0)",Statistical Outlier
+20200625,AWS,870,870,TA_MIN,16.4,"Exceeds 3.5 Sigma (Mean: 20.2, Std: 1.0)",Statistical Outlier
+20200625,AWS,871,871,TA_MIN,13.4,"Exceeds 3.5 Sigma (Mean: 20.2, Std: 1.0)",Statistical Outlier
+20200625,RDA,664951A001,사천시 용현면,TA_MIN,22.8,"Exceeds 3.5 Sigma (Mean: 20.2, Std: 1.0)",Statistical Outlier
+20200625,RDA,429843A001,시흥시 하중동,HM_AVG,49.6,"Exceeds 3.5 Sigma (Mean: 92.8, Std: 6.0)",Statistical Outlier
+20200625,RDA,413813A001,파주시 아동동,HM_AVG,37.9,"Exceeds 3.5 Sigma (Mean: 92.8, Std: 6.0)",Statistical Outlier
+20200625,ASOS,114,114,SI_DAY,5.15,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 13.0),Spatial Outlier
+20200625,RDA,355831A001,보령시 주교면,SI_DAY,20.81,Differs from 5 nearest neighbors by 15.0 (Neighbor Mean: 5.8),Spatial Outlier
+20200625,RDA,719862A001,성주군 대가면,SS_DAY,9.233333333333333,Differs from 5 nearest neighbors by 9.2 (Neighbor Mean: 0.1),Spatial Outlier
