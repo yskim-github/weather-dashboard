@@ -1,0 +1,25 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20200822,RDA,413813A001,파주시 아동동,TA_AVG,21.0,"Exceeds 3.5 Sigma (Mean: 26.1, Std: 1.4)",Statistical Outlier
+20200822,AWS,92,92,TA_MAX,22.9,"Exceeds 3.5 Sigma (Mean: 30.2, Std: 1.9)",Statistical Outlier
+20200822,AWS,104,104,TA_MAX,23.0,"Exceeds 3.5 Sigma (Mean: 30.2, Std: 1.9)",Statistical Outlier
+20200822,AWS,520,520,TA_MAX,22.5,"Exceeds 3.5 Sigma (Mean: 30.2, Std: 1.9)",Statistical Outlier
+20200822,RDA,567801A002,진안군 진안읍,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 22.9, Std: 1.6)",Statistical Outlier
+20200822,ASOS,143,143,WS_AVG,3.0,"Exceeds 3.5 Sigma (Mean: 1.0, Std: 0.6)",Statistical Outlier
+20200822,RDA,413813A001,파주시 아동동,HM_AVG,37.9,"Exceeds 3.5 Sigma (Mean: 85.7, Std: 8.6)",Statistical Outlier
+20200822,RDA,520943A002,나주시 문평면,HM_AVG,0.7,"Exceeds 3.5 Sigma (Mean: 85.7, Std: 8.6)",Statistical Outlier
+20200822,AWS,875,875,TA_MAX,21.4,Differs from 5 nearest neighbors by 7.2 (Neighbor Mean: 24.6),Spatial Outlier
+20200822,AWS,703,703,TA_MIN,22.5,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 19.8),Spatial Outlier
+20200822,RDA,055640F028,장수군 개정리,TA_MIN,21.3,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 20.0),Spatial Outlier
+20200822,RDA,411801A001,고양시 구산동,HM_AVG,98.0,Differs from 5 nearest neighbors by 21.0 (Neighbor Mean: 77.0),Spatial Outlier
+20200822,RDA,534833E001,무안군 청계면,HM_AVG,94.3,Differs from 5 nearest neighbors by 26.7 (Neighbor Mean: 67.6),Spatial Outlier
+20200822,RDA,063607F015,서귀포 남원읍,HM_AVG,58.8,Differs from 5 nearest neighbors by 28.2 (Neighbor Mean: 87.0),Spatial Outlier
+20200822,ASOS,104,104,SI_DAY,4.0,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 12.1),Spatial Outlier
+20200822,ASOS,105,105,SI_DAY,4.3,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 12.0),Spatial Outlier
+20200822,RDA,469803A001,여주시 상거동,SI_DAY,24.96,Differs from 5 nearest neighbors by 16.9 (Neighbor Mean: 8.1),Spatial Outlier
+20200822,RDA,355831A001,보령시 주교면,SI_DAY,27.17,Differs from 5 nearest neighbors by 14.6 (Neighbor Mean: 12.6),Spatial Outlier
+20200822,RDA,529805A001,장흥군 장흥읍,SI_DAY,22.45,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 14.3),Spatial Outlier
+20200822,RDA,678806A001,합천군 용주면,SI_DAY,0.85,Differs from 5 nearest neighbors by 13.7 (Neighbor Mean: 14.5),Spatial Outlier
+20200822,RDA,699946A001,서귀포 하례리,SI_DAY,1.81,Differs from 5 nearest neighbors by 11.5 (Neighbor Mean: 13.4),Spatial Outlier
+20200822,RDA,719862A001,성주군 대가면,SS_DAY,9.666666666666666,Differs from 5 nearest neighbors by 6.7 (Neighbor Mean: 2.9),Spatial Outlier
+20200822,RDA,038303A002,청도군 각북면,SS_DAY,9.583333333333334,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 4.5),Spatial Outlier
+20200822,RDA,063352B012,제주시 세화리,SS_DAY,0.0,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 4.8),Spatial Outlier
