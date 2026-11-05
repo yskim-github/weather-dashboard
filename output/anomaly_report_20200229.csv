@@ -1,0 +1,18 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20200229,AWS,667,667,TA_MAX,6.0,"Exceeds 3.5 Sigma (Mean: 12.7, Std: 1.6)",Statistical Outlier
+20200229,AWS,902,902,TA_MAX,22.8,"Exceeds 3.5 Sigma (Mean: 12.7, Std: 1.6)",Statistical Outlier
+20200229,AWS,955,955,TA_MAX,6.0,"Exceeds 3.5 Sigma (Mean: 12.7, Std: 1.6)",Statistical Outlier
+20200229,AWS,956,956,TA_MAX,5.3,"Exceeds 3.5 Sigma (Mean: 12.7, Std: 1.6)",Statistical Outlier
+20200229,AWS,957,957,TA_MAX,6.2,"Exceeds 3.5 Sigma (Mean: 12.7, Std: 1.6)",Statistical Outlier
+20200229,AWS,966,966,TA_MAX,5.9,"Exceeds 3.5 Sigma (Mean: 12.7, Std: 1.6)",Statistical Outlier
+20200229,AWS,768,768,TA_MIN,-7.3,"Exceeds 3.5 Sigma (Mean: 3.6, Std: 2.7)",Statistical Outlier
+20200229,AWS,867,867,TA_MIN,3.3,"Exceeds 3.5 Sigma (Mean: 3.6, Std: 2.7)",Statistical Outlier
+20200229,AWS,868,868,TA_MIN,4.3,"Exceeds 3.5 Sigma (Mean: 3.6, Std: 2.7)",Statistical Outlier
+20200229,AWS,869,869,TA_MIN,5.6,"Exceeds 3.5 Sigma (Mean: 3.6, Std: 2.7)",Statistical Outlier
+20200229,AWS,871,871,TA_MIN,2.5,"Exceeds 3.5 Sigma (Mean: 3.6, Std: 2.7)",Statistical Outlier
+20200229,ASOS,115,115,WS_AVG,4.4,"Exceeds 3.5 Sigma (Mean: 1.4, Std: 0.8)",Statistical Outlier
+20200229,ASOS,169,169,WS_AVG,4.7,"Exceeds 3.5 Sigma (Mean: 1.4, Std: 0.8)",Statistical Outlier
+20200229,AWS,649,649,TA_MAX,7.9,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 13.0),Spatial Outlier
+20200229,AWS,316,316,TA_MIN,2.6,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 3.5),Spatial Outlier
+20200229,ASOS,100,100,SI_DAY,19.7,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 11.6),Spatial Outlier
+20200229,ASOS,100,100,SS_DAY,10.4,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 5.5),Spatial Outlier
