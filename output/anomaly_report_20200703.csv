@@ -1,0 +1,30 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20200703,RDA,026002D003,태백시 매봉산,SS_DAY,17.55,Out of physical range (0~14.8),Range/Logic Error
+20200703,RDA,469803A001,여주시 상거동,SI_DAY,37.6,Out of physical range (0~31.5),Range/Logic Error
+20200703,RDA,469803A001,여주시 상거동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200703,RDA,469803A001,여주시 상거동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200703,RDA,469803A001,여주시 상거동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200703,RDA,469803A001,여주시 상거동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200703,RDA,469803A001,여주시 상거동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200703,RDA,469803A001,여주시 상거동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200703,RDA,469803A001,여주시 상거동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200703,RDA,429843A001,시흥시 하중동,SI_DAY,34.73,Out of physical range (0~31.5),Range/Logic Error
+20200703,RDA,429843A001,시흥시 하중동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200703,RDA,429843A001,시흥시 하중동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200703,RDA,429843A001,시흥시 하중동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200703,RDA,429843A001,시흥시 하중동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200703,RDA,429843A001,시흥시 하중동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200703,RDA,429843A001,시흥시 하중동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200703,RDA,429843A001,시흥시 하중동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200703,ASOS,168,168,WS_AVG,5.6,"Exceeds 3.5 Sigma (Mean: 1.3, Std: 0.8)",Statistical Outlier
+20200703,ASOS,169,169,WS_AVG,4.3,"Exceeds 3.5 Sigma (Mean: 1.3, Std: 0.8)",Statistical Outlier
+20200703,RDA,413813A001,파주시 아동동,HM_AVG,37.9,"Exceeds 3.5 Sigma (Mean: 82.7, Std: 8.9)",Statistical Outlier
+20200703,RDA,451873A001,평택시 오성면,TA_MAX,36.2,Differs from 5 nearest neighbors by 8.8 (Neighbor Mean: 27.6),Spatial Outlier
+20200703,RDA,451873A001,평택시 오성면,HM_AVG,52.3,Differs from 5 nearest neighbors by 20.3 (Neighbor Mean: 72.6),Spatial Outlier
+20200703,RDA,449872A001,용인시 처인구,SI_DAY,0.17,Differs from 5 nearest neighbors by 18.2 (Neighbor Mean: 18.4),Spatial Outlier
+20200703,RDA,477802A001,가평군 가평읍,SI_DAY,16.4,Differs from 5 nearest neighbors by 8.4 (Neighbor Mean: 24.8),Spatial Outlier
+20200703,RDA,415743A001,김포시 월곶면,SI_DAY,10.73,Differs from 5 nearest neighbors by 13.3 (Neighbor Mean: 24.0),Spatial Outlier
+20200703,RDA,355831A001,보령시 주교면,SI_DAY,24.57,Differs from 5 nearest neighbors by 15.0 (Neighbor Mean: 9.5),Spatial Outlier
+20200703,RDA,487915A001,포천시 신북면,SS_DAY,11.516666666666667,Differs from 5 nearest neighbors by 4.4 (Neighbor Mean: 7.2),Spatial Outlier
+20200703,RDA,755851A001,봉화군 석포면,SS_DAY,0.3,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 5.9),Spatial Outlier
+20200703,RDA,719862A001,성주군 대가면,SS_DAY,7.666666666666667,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 0.0),Spatial Outlier
