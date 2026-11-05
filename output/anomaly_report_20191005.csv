@@ -1,0 +1,40 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20191005,RDA,469803A001,여주시 상거동,SI_DAY,39.04,Out of physical range (0~31.5),Range/Logic Error
+20191005,RDA,469803A001,여주시 상거동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191005,RDA,469803A001,여주시 상거동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191005,RDA,469803A001,여주시 상거동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191005,RDA,469803A001,여주시 상거동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191005,RDA,469803A001,여주시 상거동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191005,RDA,469803A001,여주시 상거동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191005,RDA,469803A001,여주시 상거동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191005,RDA,449872A001,용인시 처인구,SI_DAY,39.7,Out of physical range (0~31.5),Range/Logic Error
+20191005,RDA,449872A001,용인시 처인구,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191005,RDA,449872A001,용인시 처인구,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191005,RDA,449872A001,용인시 처인구,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191005,RDA,449872A001,용인시 처인구,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191005,RDA,449872A001,용인시 처인구,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191005,RDA,449872A001,용인시 처인구,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191005,RDA,449872A001,용인시 처인구,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191005,ASOS,102,102,WS_AVG,8.7,"Exceeds 3.5 Sigma (Mean: 1.6, Std: 1.1)",Statistical Outlier
+20191005,ASOS,115,115,WS_AVG,6.1,"Exceeds 3.5 Sigma (Mean: 1.6, Std: 1.1)",Statistical Outlier
+20191005,ASOS,169,169,WS_AVG,8.8,"Exceeds 3.5 Sigma (Mean: 1.6, Std: 1.1)",Statistical Outlier
+20191005,ASOS,185,185,WS_AVG,7.7,"Exceeds 3.5 Sigma (Mean: 1.6, Std: 1.1)",Statistical Outlier
+20191005,RDA,409911A001,옹진군 백령면,WS_AVG,5.8,"Exceeds 3.5 Sigma (Mean: 1.6, Std: 1.1)",Statistical Outlier
+20191005,RDA,664951A001,사천시 용현면,HM_AVG,8.5,"Exceeds 3.5 Sigma (Mean: 83.2, Std: 8.3)",Statistical Outlier
+20191005,RDA,699946A001,서귀포 하례리,HM_AVG,31.6,"Exceeds 3.5 Sigma (Mean: 83.2, Std: 8.3)",Statistical Outlier
+20191005,AWS,812,812,TA_MAX,21.1,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 26.9),Spatial Outlier
+20191005,AWS,753,753,TA_MIN,6.6,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 18.3),Spatial Outlier
+20191005,RDA,413813A001,파주시 아동동,HM_AVG,57.4,Differs from 5 nearest neighbors by 24.5 (Neighbor Mean: 81.9),Spatial Outlier
+20191005,RDA,660985B001,진주시 초전동,HM_AVG,87.9,Differs from 5 nearest neighbors by 21.7 (Neighbor Mean: 66.2),Spatial Outlier
+20191005,RDA,063240F009,제주시 오등동,HM_AVG,91.9,Differs from 5 nearest neighbors by 21.2 (Neighbor Mean: 70.7),Spatial Outlier
+20191005,RDA,467800A001,이천시 중리동,SI_DAY,7.28,Differs from 5 nearest neighbors by 12.4 (Neighbor Mean: 19.7),Spatial Outlier
+20191005,RDA,017421F029,이천시 진암리,SI_DAY,7.02,Differs from 5 nearest neighbors by 12.9 (Neighbor Mean: 19.9),Spatial Outlier
+20191005,RDA,456871A001,안성시 보개면,SI_DAY,4.59,Differs from 5 nearest neighbors by 8.8 (Neighbor Mean: 13.3),Spatial Outlier
+20191005,RDA,017414F020,이천시 장호원,SI_DAY,7.49,Differs from 5 nearest neighbors by 12.4 (Neighbor Mean: 19.8),Spatial Outlier
+20191005,RDA,225874A001,횡성군 공근면,SI_DAY,5.5,Differs from 5 nearest neighbors by 7.5 (Neighbor Mean: 13.0),Spatial Outlier
+20191005,RDA,355831A001,보령시 주교면,SI_DAY,21.78,Differs from 5 nearest neighbors by 13.0 (Neighbor Mean: 8.7),Spatial Outlier
+20191005,RDA,664951A001,사천시 용현면,SI_DAY,0.0,Differs from 5 nearest neighbors by 13.6 (Neighbor Mean: 13.6),Spatial Outlier
+20191005,RDA,678806A001,합천군 용주면,SI_DAY,0.78,Differs from 5 nearest neighbors by 11.9 (Neighbor Mean: 12.6),Spatial Outlier
+20191005,RDA,699946A001,서귀포 하례리,SI_DAY,1.83,Differs from 5 nearest neighbors by 13.2 (Neighbor Mean: 15.0),Spatial Outlier
+20191005,ASOS,188,188,SS_DAY,7.5,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 2.6),Spatial Outlier
+20191005,RDA,719862A001,성주군 대가면,SS_DAY,8.783333333333333,Differs from 5 nearest neighbors by 5.9 (Neighbor Mean: 2.8),Spatial Outlier
