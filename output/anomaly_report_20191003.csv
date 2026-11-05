@@ -1,0 +1,39 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20191003,RDA,469803A001,여주시 상거동,SI_DAY,39.68,Out of physical range (0~31.5),Range/Logic Error
+20191003,RDA,469803A001,여주시 상거동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191003,RDA,469803A001,여주시 상거동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191003,RDA,469803A001,여주시 상거동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191003,RDA,469803A001,여주시 상거동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191003,RDA,469803A001,여주시 상거동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191003,RDA,469803A001,여주시 상거동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191003,RDA,469803A001,여주시 상거동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191003,RDA,449872A001,용인시 처인구,SI_DAY,40.0,Out of physical range (0~31.5),Range/Logic Error
+20191003,RDA,449872A001,용인시 처인구,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191003,RDA,449872A001,용인시 처인구,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191003,RDA,449872A001,용인시 처인구,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191003,RDA,449872A001,용인시 처인구,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191003,RDA,449872A001,용인시 처인구,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191003,RDA,449872A001,용인시 처인구,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191003,RDA,449872A001,용인시 처인구,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191003,ASOS,168,168,WS_AVG,7.2,"Exceeds 3.5 Sigma (Mean: 2.3, Std: 1.4)",Statistical Outlier
+20191003,ASOS,185,185,WS_AVG,12.8,"Exceeds 3.5 Sigma (Mean: 2.3, Std: 1.4)",Statistical Outlier
+20191003,RDA,664951A001,사천시 용현면,HM_AVG,22.1,"Exceeds 3.5 Sigma (Mean: 85.4, Std: 7.5)",Statistical Outlier
+20191003,RDA,699946A001,서귀포 하례리,HM_AVG,38.7,"Exceeds 3.5 Sigma (Mean: 85.4, Std: 7.5)",Statistical Outlier
+20191003,RDA,618803A001,부산시 강서구,HM_AVG,55.0,"Exceeds 3.5 Sigma (Mean: 85.4, Std: 7.5)",Statistical Outlier
+20191003,AWS,411,411,TA_MAX,22.3,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 28.3),Spatial Outlier
+20191003,AWS,695,695,TA_MIN,14.2,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 16.3),Spatial Outlier
+20191003,ASOS,255,255,SI_DAY,5.13,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 13.2),Spatial Outlier
+20191003,RDA,467800A001,이천시 중리동,SI_DAY,11.11,Differs from 5 nearest neighbors by 10.0 (Neighbor Mean: 21.1),Spatial Outlier
+20191003,RDA,017421F029,이천시 진암리,SI_DAY,9.37,Differs from 5 nearest neighbors by 13.1 (Neighbor Mean: 22.5),Spatial Outlier
+20191003,RDA,476801A001,양평군 양평읍,SI_DAY,6.26,Differs from 5 nearest neighbors by 10.8 (Neighbor Mean: 17.1),Spatial Outlier
+20191003,RDA,017414F020,이천시 장호원,SI_DAY,10.24,Differs from 5 nearest neighbors by 12.1 (Neighbor Mean: 22.3),Spatial Outlier
+20191003,RDA,355831A001,보령시 주교면,SI_DAY,25.48,Differs from 5 nearest neighbors by 9.3 (Neighbor Mean: 16.2),Spatial Outlier
+20191003,RDA,719862A001,성주군 대가면,SI_DAY,6.35,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 14.0),Spatial Outlier
+20191003,RDA,040054B002,성주군 대천리,SI_DAY,18.49,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 10.4),Spatial Outlier
+20191003,RDA,052546F018,사천시 송포동,SI_DAY,20.2,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 12.0),Spatial Outlier
+20191003,RDA,664951A001,사천시 용현면,SI_DAY,0.17,Differs from 5 nearest neighbors by 15.9 (Neighbor Mean: 16.0),Spatial Outlier
+20191003,RDA,678806A001,합천군 용주면,SI_DAY,0.77,Differs from 5 nearest neighbors by 12.1 (Neighbor Mean: 12.9),Spatial Outlier
+20191003,RDA,699946A001,서귀포 하례리,SI_DAY,1.83,Differs from 5 nearest neighbors by 15.3 (Neighbor Mean: 17.1),Spatial Outlier
+20191003,ASOS,102,102,SS_DAY,10.6,Differs from 5 nearest neighbors by 4.4 (Neighbor Mean: 6.2),Spatial Outlier
+20191003,ASOS,189,189,SS_DAY,11.1,Differs from 5 nearest neighbors by 6.6 (Neighbor Mean: 4.5),Spatial Outlier
+20191003,RDA,063352B012,제주시 세화리,SS_DAY,0.0,Differs from 5 nearest neighbors by 6.7 (Neighbor Mean: 6.7),Spatial Outlier
