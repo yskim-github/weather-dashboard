@@ -1,0 +1,79 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20191115,RDA,469803A001,여주시 상거동,SI_DAY,39.07,Out of physical range (0~31.5),Range/Logic Error
+20191115,RDA,469803A001,여주시 상거동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191115,RDA,469803A001,여주시 상거동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191115,RDA,469803A001,여주시 상거동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191115,RDA,469803A001,여주시 상거동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191115,RDA,469803A001,여주시 상거동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191115,RDA,469803A001,여주시 상거동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191115,RDA,469803A001,여주시 상거동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191115,RDA,449872A001,용인시 처인구,SI_DAY,39.6,Out of physical range (0~31.5),Range/Logic Error
+20191115,RDA,449872A001,용인시 처인구,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191115,RDA,449872A001,용인시 처인구,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191115,RDA,449872A001,용인시 처인구,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191115,RDA,449872A001,용인시 처인구,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191115,RDA,449872A001,용인시 처인구,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191115,RDA,449872A001,용인시 처인구,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191115,RDA,449872A001,용인시 처인구,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191115,ASOS,115,115,WS_AVG,6.1,"Exceeds 3.5 Sigma (Mean: 1.5, Std: 1.2)",Statistical Outlier
+20191115,ASOS,169,169,WS_AVG,6.9,"Exceeds 3.5 Sigma (Mean: 1.5, Std: 1.2)",Statistical Outlier
+20191115,RDA,026002D003,태백시 매봉산,WS_AVG,6.24,"Exceeds 3.5 Sigma (Mean: 1.5, Std: 1.2)",Statistical Outlier
+20191115,RDA,699946A001,서귀포 하례리,HM_AVG,27.7,"Exceeds 3.5 Sigma (Mean: 72.9, Std: 10.9)",Statistical Outlier
+20191115,RDA,618803A001,부산시 강서구,HM_AVG,31.5,"Exceeds 3.5 Sigma (Mean: 72.9, Std: 10.9)",Statistical Outlier
+20191115,ASOS,169,169,TA_AVG,14.1,Differs from 5 nearest neighbors by 5.9 (Neighbor Mean: 8.7),Spatial Outlier
+20191115,ASOS,185,185,TA_AVG,13.6,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 9.5),Spatial Outlier
+20191115,RDA,063626F006,서귀포 표선면,TA_AVG,2.4,Differs from 5 nearest neighbors by 7.3 (Neighbor Mean: 10.3),Spatial Outlier
+20191115,AWS,468,468,TA_MAX,15.7,Differs from 5 nearest neighbors by 5.9 (Neighbor Mean: 10.1),Spatial Outlier
+20191115,AWS,488,488,TA_MAX,10.6,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 15.2),Spatial Outlier
+20191115,AWS,600,600,TA_MAX,13.5,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 9.8),Spatial Outlier
+20191115,AWS,622,622,TA_MAX,14.2,Differs from 5 nearest neighbors by 5.8 (Neighbor Mean: 9.9),Spatial Outlier
+20191115,RDA,063626F006,서귀포 표선면,TA_MAX,4.0,Differs from 5 nearest neighbors by 13.0 (Neighbor Mean: 17.7),Spatial Outlier
+20191115,AWS,175,175,TA_MIN,4.2,Differs from 5 nearest neighbors by 7.1 (Neighbor Mean: 0.2),Spatial Outlier
+20191115,AWS,311,311,TA_MIN,-2.8,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: -4.1),Spatial Outlier
+20191115,AWS,314,314,TA_MIN,-5.3,Differs from 5 nearest neighbors by 7.2 (Neighbor Mean: -2.7),Spatial Outlier
+20191115,AWS,315,315,TA_MIN,-0.5,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: -1.1),Spatial Outlier
+20191115,AWS,316,316,TA_MIN,-0.6,Differs from 5 nearest neighbors by 7.3 (Neighbor Mean: -2.0),Spatial Outlier
+20191115,AWS,609,609,TA_MIN,8.6,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 3.7),Spatial Outlier
+20191115,AWS,636,636,TA_MIN,-6.5,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: -0.5),Spatial Outlier
+20191115,AWS,659,659,TA_MIN,-2.5,Differs from 5 nearest neighbors by 6.1 (Neighbor Mean: -3.2),Spatial Outlier
+20191115,AWS,694,694,TA_MIN,0.7,Differs from 5 nearest neighbors by 6.3 (Neighbor Mean: -1.2),Spatial Outlier
+20191115,AWS,697,697,TA_MIN,10.0,Differs from 5 nearest neighbors by 5.9 (Neighbor Mean: 4.1),Spatial Outlier
+20191115,AWS,724,724,TA_MIN,9.3,Differs from 5 nearest neighbors by 6.4 (Neighbor Mean: 2.9),Spatial Outlier
+20191115,AWS,725,725,TA_MIN,9.4,Differs from 5 nearest neighbors by 7.2 (Neighbor Mean: 2.3),Spatial Outlier
+20191115,AWS,726,726,TA_MIN,12.0,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 4.1),Spatial Outlier
+20191115,AWS,790,790,TA_MIN,5.5,Differs from 5 nearest neighbors by 6.4 (Neighbor Mean: -0.0),Spatial Outlier
+20191115,AWS,796,796,TA_MIN,7.1,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 2.7),Spatial Outlier
+20191115,AWS,799,799,TA_MIN,7.5,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 2.1),Spatial Outlier
+20191115,AWS,853,853,TA_MIN,-0.8,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: -2.8),Spatial Outlier
+20191115,AWS,855,855,TA_MIN,10.2,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 4.5),Spatial Outlier
+20191115,AWS,856,856,TA_MIN,0.2,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: -1.2),Spatial Outlier
+20191115,AWS,872,872,TA_MIN,-1.1,Differs from 5 nearest neighbors by 7.1 (Neighbor Mean: -2.6),Spatial Outlier
+20191115,AWS,873,873,TA_MIN,-3.7,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: -2.6),Spatial Outlier
+20191115,AWS,878,878,TA_MIN,0.1,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 0.5),Spatial Outlier
+20191115,AWS,906,906,TA_MIN,-2.1,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 3.5),Spatial Outlier
+20191115,AWS,909,909,TA_MIN,7.1,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 3.3),Spatial Outlier
+20191115,AWS,911,911,TA_MIN,7.8,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 3.5),Spatial Outlier
+20191115,AWS,933,933,TA_MIN,-4.0,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 1.7),Spatial Outlier
+20191115,AWS,959,959,TA_MIN,10.6,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 2.6),Spatial Outlier
+20191115,AWS,960,960,TA_MIN,10.4,Differs from 5 nearest neighbors by 6.5 (Neighbor Mean: 4.0),Spatial Outlier
+20191115,AWS,961,961,TA_MIN,10.4,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 5.1),Spatial Outlier
+20191115,AWS,963,963,TA_MIN,7.0,Differs from 5 nearest neighbors by 5.8 (Neighbor Mean: 1.3),Spatial Outlier
+20191115,RDA,555130A001,여수시 주삼동,TA_MIN,-1.2,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 4.6),Spatial Outlier
+20191115,RDA,409911A001,옹진군 백령면,TA_MIN,2.5,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 7.8),Spatial Outlier
+20191115,ASOS,102,102,HM_AVG,58.5,Differs from 5 nearest neighbors by 23.9 (Neighbor Mean: 82.4),Spatial Outlier
+20191115,RDA,413813A001,파주시 아동동,HM_AVG,45.4,Differs from 5 nearest neighbors by 44.4 (Neighbor Mean: 89.8),Spatial Outlier
+20191115,ASOS,114,114,SI_DAY,1.54,Differs from 5 nearest neighbors by 8.3 (Neighbor Mean: 9.9),Spatial Outlier
+20191115,RDA,467800A001,이천시 중리동,SI_DAY,3.36,Differs from 5 nearest neighbors by 13.8 (Neighbor Mean: 17.2),Spatial Outlier
+20191115,RDA,017421F029,이천시 진암리,SI_DAY,2.98,Differs from 5 nearest neighbors by 15.0 (Neighbor Mean: 18.0),Spatial Outlier
+20191115,RDA,456871A001,안성시 보개면,SI_DAY,3.44,Differs from 5 nearest neighbors by 7.5 (Neighbor Mean: 10.9),Spatial Outlier
+20191115,RDA,476801A001,양평군 양평읍,SI_DAY,1.49,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 9.6),Spatial Outlier
+20191115,RDA,017414F020,이천시 장호원,SI_DAY,2.86,Differs from 5 nearest neighbors by 15.2 (Neighbor Mean: 18.0),Spatial Outlier
+20191115,RDA,464030A001,광주시 목현동,SI_DAY,2.01,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 9.9),Spatial Outlier
+20191115,RDA,220844A001,원주시 흥업면,SI_DAY,1.96,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 10.1),Spatial Outlier
+20191115,RDA,225874A001,횡성군 공근면,SI_DAY,2.22,Differs from 5 nearest neighbors by 7.5 (Neighbor Mean: 9.7),Spatial Outlier
+20191115,RDA,355831A001,보령시 주교면,SI_DAY,23.54,Differs from 5 nearest neighbors by 15.1 (Neighbor Mean: 8.5),Spatial Outlier
+20191115,RDA,678806A001,합천군 용주면,SI_DAY,0.82,Differs from 5 nearest neighbors by 11.1 (Neighbor Mean: 12.0),Spatial Outlier
+20191115,RDA,699946A001,서귀포 하례리,SI_DAY,1.8,Differs from 5 nearest neighbors by 9.9 (Neighbor Mean: 11.7),Spatial Outlier
+20191115,RDA,063626F006,서귀포 표선면,SI_DAY,0.0,Differs from 5 nearest neighbors by 12.0 (Neighbor Mean: 12.0),Spatial Outlier
+20191115,ASOS,135,135,SS_DAY,0.0,Differs from 5 nearest neighbors by 5.8 (Neighbor Mean: 5.8),Spatial Outlier
+20191115,RDA,063352B012,제주시 세화리,SS_DAY,0.0,Differs from 5 nearest neighbors by 9.6 (Neighbor Mean: 9.6),Spatial Outlier
