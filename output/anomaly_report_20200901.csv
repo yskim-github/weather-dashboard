@@ -1,0 +1,38 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20200901,RDA,469803A001,여주시 상거동,SI_DAY,32.0,Out of physical range (0~31.5),Range/Logic Error
+20200901,RDA,449872A001,용인시 처인구,SI_DAY,34.87,Out of physical range (0~31.5),Range/Logic Error
+20200901,RDA,449872A001,용인시 처인구,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200901,RDA,449872A001,용인시 처인구,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200901,RDA,449872A001,용인시 처인구,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200901,RDA,449872A001,용인시 처인구,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200901,RDA,449872A001,용인시 처인구,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200901,RDA,449872A001,용인시 처인구,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200901,RDA,449872A001,용인시 처인구,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200901,AWS,102,102,TA_MAX,24.1,"Exceeds 3.5 Sigma (Mean: 30.4, Std: 1.6)",Statistical Outlier
+20200901,RDA,017421F029,이천시 진암리,TA_MIN,6.0,"Exceeds 3.5 Sigma (Mean: 22.5, Std: 1.8)",Statistical Outlier
+20200901,RDA,063356F008,제주시 구좌읍,TA_MIN,12.5,"Exceeds 3.5 Sigma (Mean: 22.5, Std: 1.8)",Statistical Outlier
+20200901,RDA,063616F005,서귀포 신흥리,TA_MIN,4.7,"Exceeds 3.5 Sigma (Mean: 22.5, Std: 1.8)",Statistical Outlier
+20200901,ASOS,168,168,WS_AVG,5.9,"Exceeds 3.5 Sigma (Mean: 1.2, Std: 0.9)",Statistical Outlier
+20200901,RDA,699946A001,서귀포 하례리,WS_AVG,4.81,"Exceeds 3.5 Sigma (Mean: 1.2, Std: 0.9)",Statistical Outlier
+20200901,RDA,520943A002,나주시 문평면,HM_AVG,0.8,"Exceeds 3.5 Sigma (Mean: 83.2, Std: 9.2)",Statistical Outlier
+20200901,RDA,063626F006,서귀포 표선면,HM_AVG,7.3,"Exceeds 3.5 Sigma (Mean: 83.2, Std: 9.2)",Statistical Outlier
+20200901,AWS,374,374,TA_MAX,25.3,Differs from 5 nearest neighbors by 6.5 (Neighbor Mean: 32.0),Spatial Outlier
+20200901,AWS,875,875,TA_MAX,23.0,Differs from 5 nearest neighbors by 6.2 (Neighbor Mean: 27.2),Spatial Outlier
+20200901,AWS,780,780,TA_MIN,26.2,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 21.7),Spatial Outlier
+20200901,RDA,534833E001,무안군 청계면,HM_AVG,94.9,Differs from 5 nearest neighbors by 25.8 (Neighbor Mean: 69.1),Spatial Outlier
+20200901,RDA,520892A001,나주시 공산면,HM_AVG,92.3,Differs from 5 nearest neighbors by 21.6 (Neighbor Mean: 70.7),Spatial Outlier
+20200901,RDA,063356F008,제주시 구좌읍,HM_AVG,98.6,Differs from 5 nearest neighbors by 20.9 (Neighbor Mean: 77.7),Spatial Outlier
+20200901,RDA,063607F015,서귀포 남원읍,HM_AVG,56.5,Differs from 5 nearest neighbors by 34.0 (Neighbor Mean: 90.5),Spatial Outlier
+20200901,RDA,063616F005,서귀포 신흥리,HM_AVG,99.9,Differs from 5 nearest neighbors by 32.6 (Neighbor Mean: 67.3),Spatial Outlier
+20200901,RDA,063641F007,서귀포 성산읍,HM_AVG,99.9,Differs from 5 nearest neighbors by 22.5 (Neighbor Mean: 77.4),Spatial Outlier
+20200901,ASOS,102,102,SI_DAY,4.15,Differs from 5 nearest neighbors by 7.5 (Neighbor Mean: 11.7),Spatial Outlier
+20200901,RDA,467800A001,이천시 중리동,SI_DAY,13.84,Differs from 5 nearest neighbors by 10.1 (Neighbor Mean: 23.9),Spatial Outlier
+20200901,RDA,477802A001,가평군 가평읍,SI_DAY,9.18,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 17.7),Spatial Outlier
+20200901,RDA,355831A001,보령시 주교면,SI_DAY,26.99,Differs from 5 nearest neighbors by 11.6 (Neighbor Mean: 15.4),Spatial Outlier
+20200901,RDA,529805A001,장흥군 장흥읍,SI_DAY,24.76,Differs from 5 nearest neighbors by 8.9 (Neighbor Mean: 15.9),Spatial Outlier
+20200901,RDA,678806A001,합천군 용주면,SI_DAY,0.88,Differs from 5 nearest neighbors by 11.2 (Neighbor Mean: 12.1),Spatial Outlier
+20200901,ASOS,115,115,SS_DAY,8.8,Differs from 5 nearest neighbors by 6.4 (Neighbor Mean: 2.4),Spatial Outlier
+20200901,ASOS,127,127,SS_DAY,10.2,Differs from 5 nearest neighbors by 5.8 (Neighbor Mean: 4.4),Spatial Outlier
+20200901,RDA,719862A001,성주군 대가면,SS_DAY,8.083333333333334,Differs from 5 nearest neighbors by 6.5 (Neighbor Mean: 1.6),Spatial Outlier
+20200901,RDA,038303A002,청도군 각북면,SS_DAY,6.716666666666667,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 1.6),Spatial Outlier
+20200901,RDA,050415C005,밀양시 산내면,SS_DAY,6.116666666666666,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 1.4),Spatial Outlier
