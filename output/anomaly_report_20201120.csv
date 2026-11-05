@@ -1,0 +1,21 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20201120,ASOS,168,168,WS_AVG,8.3,"Exceeds 3.5 Sigma (Mean: 3.0, Std: 1.5)",Statistical Outlier
+20201120,ASOS,169,169,WS_AVG,10.6,"Exceeds 3.5 Sigma (Mean: 3.0, Std: 1.5)",Statistical Outlier
+20201120,ASOS,185,185,WS_AVG,11.2,"Exceeds 3.5 Sigma (Mean: 3.0, Std: 1.5)",Statistical Outlier
+20201120,RDA,520943A002,나주시 문평면,HM_AVG,0.8,"Exceeds 3.5 Sigma (Mean: 72.2, Std: 8.5)",Statistical Outlier
+20201120,AWS,753,753,TA_MAX,8.1,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 19.6),Spatial Outlier
+20201120,AWS,972,972,TA_MIN,6.9,Differs from 5 nearest neighbors by 5.8 (Neighbor Mean: 1.7),Spatial Outlier
+20201120,ASOS,104,104,HM_AVG,55.0,Differs from 5 nearest neighbors by 25.0 (Neighbor Mean: 80.0),Spatial Outlier
+20201120,ASOS,105,105,HM_AVG,58.1,Differs from 5 nearest neighbors by 21.3 (Neighbor Mean: 79.4),Spatial Outlier
+20201120,RDA,534833E001,무안군 청계면,HM_AVG,85.4,Differs from 5 nearest neighbors by 23.7 (Neighbor Mean: 61.7),Spatial Outlier
+20201120,RDA,469803A001,여주시 상거동,SI_DAY,25.6,Differs from 5 nearest neighbors by 23.4 (Neighbor Mean: 2.2),Spatial Outlier
+20201120,RDA,355831A001,보령시 주교면,SI_DAY,16.61,Differs from 5 nearest neighbors by 15.6 (Neighbor Mean: 1.0),Spatial Outlier
+20201120,RDA,678806A001,합천군 용주면,SI_DAY,0.89,Differs from 5 nearest neighbors by 9.1 (Neighbor Mean: 10.0),Spatial Outlier
+20201120,RDA,699946A001,서귀포 하례리,SI_DAY,1.86,Differs from 5 nearest neighbors by 10.5 (Neighbor Mean: 12.4),Spatial Outlier
+20201120,ASOS,100,100,SS_DAY,0.0,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 5.5),Spatial Outlier
+20201120,ASOS,184,184,SS_DAY,0.2,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 4.7),Spatial Outlier
+20201120,ASOS,189,189,SS_DAY,8.7,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 3.0),Spatial Outlier
+20201120,ASOS,211,211,SS_DAY,0.0,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 4.6),Spatial Outlier
+20201120,ASOS,277,277,SS_DAY,7.6,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 2.8),Spatial Outlier
+20201120,RDA,063352B012,제주시 세화리,SS_DAY,0.0,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 4.7),Spatial Outlier
+20201120,RDA,699946A001,서귀포 하례리,SS_DAY,7.8,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 3.2),Spatial Outlier
