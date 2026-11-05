@@ -1,0 +1,26 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20200327,RDA,469803A001,여주시 상거동,SI_DAY,31.66,Out of physical range (0~31.5),Range/Logic Error
+20200327,AWS,102,102,TA_MAX,7.5,"Exceeds 3.5 Sigma (Mean: 16.8, Std: 2.4)",Statistical Outlier
+20200327,AWS,426,426,TA_MAX,7.0,"Exceeds 3.5 Sigma (Mean: 16.8, Std: 2.4)",Statistical Outlier
+20200327,AWS,655,655,TA_MAX,6.8,"Exceeds 3.5 Sigma (Mean: 16.8, Std: 2.4)",Statistical Outlier
+20200327,RDA,409911A001,옹진군 백령면,TA_MAX,7.9,"Exceeds 3.5 Sigma (Mean: 16.8, Std: 2.4)",Statistical Outlier
+20200327,AWS,867,867,TA_MIN,6.4,"Exceeds 3.5 Sigma (Mean: 6.9, Std: 2.3)",Statistical Outlier
+20200327,AWS,869,869,TA_MIN,8.6,"Exceeds 3.5 Sigma (Mean: 6.9, Std: 2.3)",Statistical Outlier
+20200327,AWS,870,870,TA_MIN,7.6,"Exceeds 3.5 Sigma (Mean: 6.9, Std: 2.3)",Statistical Outlier
+20200327,AWS,871,871,TA_MIN,5.2,"Exceeds 3.5 Sigma (Mean: 6.9, Std: 2.3)",Statistical Outlier
+20200327,ASOS,102,102,WS_AVG,10.9,"Exceeds 3.5 Sigma (Mean: 2.1, Std: 1.5)",Statistical Outlier
+20200327,ASOS,169,169,WS_AVG,12.2,"Exceeds 3.5 Sigma (Mean: 2.1, Std: 1.5)",Statistical Outlier
+20200327,ASOS,185,185,WS_AVG,10.4,"Exceeds 3.5 Sigma (Mean: 2.1, Std: 1.5)",Statistical Outlier
+20200327,RDA,409911A001,옹진군 백령면,WS_AVG,8.4,"Exceeds 3.5 Sigma (Mean: 2.1, Std: 1.5)",Statistical Outlier
+20200327,ASOS,201,201,HM_AVG,48.8,"Exceeds 3.5 Sigma (Mean: 85.0, Std: 9.7)",Statistical Outlier
+20200327,RDA,429843A001,시흥시 하중동,HM_AVG,49.7,"Exceeds 3.5 Sigma (Mean: 85.0, Std: 9.7)",Statistical Outlier
+20200327,AWS,552,552,TA_MIN,-2.5,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 4.0),Spatial Outlier
+20200327,AWS,753,753,TA_MIN,0.4,Differs from 5 nearest neighbors by 9.2 (Neighbor Mean: 15.9),Spatial Outlier
+20200327,RDA,449872A001,용인시 처인구,SI_DAY,0.03,Differs from 5 nearest neighbors by 10.7 (Neighbor Mean: 10.7),Spatial Outlier
+20200327,RDA,415743A001,김포시 월곶면,SI_DAY,11.52,Differs from 5 nearest neighbors by 8.7 (Neighbor Mean: 20.2),Spatial Outlier
+20200327,RDA,429843A001,시흥시 하중동,SI_DAY,28.5,Differs from 5 nearest neighbors by 10.9 (Neighbor Mean: 17.6),Spatial Outlier
+20200327,RDA,220844A001,원주시 흥업면,SI_DAY,3.47,Differs from 5 nearest neighbors by 8.4 (Neighbor Mean: 11.8),Spatial Outlier
+20200327,RDA,445891A001,화성시 장안면,SI_DAY,7.66,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 15.5),Spatial Outlier
+20200327,RDA,355831A001,보령시 주교면,SI_DAY,29.18,Differs from 5 nearest neighbors by 15.3 (Neighbor Mean: 13.9),Spatial Outlier
+20200327,RDA,678806A001,합천군 용주면,SI_DAY,0.81,Differs from 5 nearest neighbors by 10.9 (Neighbor Mean: 11.7),Spatial Outlier
+20200327,RDA,350808A001,홍성군 홍성읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 5.6),Spatial Outlier
