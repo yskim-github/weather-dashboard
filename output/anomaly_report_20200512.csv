@@ -1,0 +1,68 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20200512,RDA,469803A001,여주시 상거동,SI_DAY,36.69,Out of physical range (0~31.5),Range/Logic Error
+20200512,RDA,469803A001,여주시 상거동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,469803A001,여주시 상거동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,469803A001,여주시 상거동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,469803A001,여주시 상거동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,469803A001,여주시 상거동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,469803A001,여주시 상거동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,469803A001,여주시 상거동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,355831A001,보령시 주교면,SI_DAY,38.71,Out of physical range (0~31.5),Range/Logic Error
+20200512,RDA,355831A001,보령시 주교면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,355831A001,보령시 주교면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,355831A001,보령시 주교면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,355831A001,보령시 주교면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,355831A001,보령시 주교면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,355831A001,보령시 주교면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,355831A001,보령시 주교면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,534844A001,무안군 현경면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,534844A001,무안군 현경면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,534844A001,무안군 현경면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,534844A001,무안군 현경면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,534844A001,무안군 현경면,SI_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,534844A001,무안군 현경면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,534844A001,무안군 현경면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,534844A001,무안군 현경면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,513842A001,영광군 군서면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,513842A001,영광군 군서면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,513842A001,영광군 군서면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,513842A001,영광군 군서면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,513842A001,영광군 군서면,SI_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,513842A001,영광군 군서면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,513842A001,영광군 군서면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,513842A001,영광군 군서면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,529805A001,장흥군 장흥읍,SI_DAY,39.89,Out of physical range (0~31.5),Range/Logic Error
+20200512,RDA,529805A001,장흥군 장흥읍,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,529805A001,장흥군 장흥읍,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,529805A001,장흥군 장흥읍,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,529805A001,장흥군 장흥읍,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,529805A001,장흥군 장흥읍,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,529805A001,장흥군 장흥읍,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,RDA,529805A001,장흥군 장흥읍,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20200512,AWS,956,956,TA_MAX,12.0,"Exceeds 3.5 Sigma (Mean: 21.8, Std: 2.7)",Statistical Outlier
+20200512,ASOS,100,100,WS_AVG,7.2,"Exceeds 3.5 Sigma (Mean: 2.8, Std: 1.2)",Statistical Outlier
+20200512,AWS,96,96,TA_MAX,16.8,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 22.4),Spatial Outlier
+20200512,AWS,875,875,TA_MAX,5.3,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 20.6),Spatial Outlier
+20200512,AWS,924,924,TA_MAX,18.6,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 23.6),Spatial Outlier
+20200512,AWS,960,960,TA_MAX,18.6,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 23.8),Spatial Outlier
+20200512,AWS,963,963,TA_MAX,19.4,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 25.0),Spatial Outlier
+20200512,AWS,636,636,TA_MIN,6.2,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 11.6),Spatial Outlier
+20200512,AWS,830,830,TA_MIN,9.1,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 13.9),Spatial Outlier
+20200512,ASOS,104,104,HM_AVG,42.4,Differs from 5 nearest neighbors by 22.9 (Neighbor Mean: 65.3),Spatial Outlier
+20200512,RDA,429843A001,시흥시 하중동,HM_AVG,49.6,Differs from 5 nearest neighbors by 25.7 (Neighbor Mean: 75.3),Spatial Outlier
+20200512,RDA,413813A001,파주시 아동동,HM_AVG,37.9,Differs from 5 nearest neighbors by 39.0 (Neighbor Mean: 76.9),Spatial Outlier
+20200512,ASOS,102,102,SI_DAY,29.95,Differs from 5 nearest neighbors by 11.3 (Neighbor Mean: 18.6),Spatial Outlier
+20200512,RDA,449872A001,용인시 처인구,SI_DAY,0.05,Differs from 5 nearest neighbors by 18.0 (Neighbor Mean: 18.0),Spatial Outlier
+20200512,RDA,429843A001,시흥시 하중동,SI_DAY,28.09,Differs from 5 nearest neighbors by 9.5 (Neighbor Mean: 18.6),Spatial Outlier
+20200512,RDA,445891A001,화성시 장안면,SI_DAY,9.08,Differs from 5 nearest neighbors by 11.0 (Neighbor Mean: 20.1),Spatial Outlier
+20200512,RDA,719862A001,성주군 대가면,SI_DAY,12.61,Differs from 5 nearest neighbors by 12.6 (Neighbor Mean: 25.2),Spatial Outlier
+20200512,RDA,660985B001,진주시 초전동,SI_DAY,19.83,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 27.6),Spatial Outlier
+20200512,RDA,621100A001,김해시 전하동,SI_DAY,19.09,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 27.0),Spatial Outlier
+20200512,RDA,678806A001,합천군 용주면,SI_DAY,0.83,Differs from 5 nearest neighbors by 24.6 (Neighbor Mean: 25.5),Spatial Outlier
+20200512,RDA,699946A001,서귀포 하례리,SI_DAY,1.83,Differs from 5 nearest neighbors by 26.5 (Neighbor Mean: 28.3),Spatial Outlier
+20200512,RDA,409911A001,옹진군 백령면,SI_DAY,28.54,Differs from 5 nearest neighbors by 9.7 (Neighbor Mean: 18.9),Spatial Outlier
+20200512,RDA,063626F006,서귀포 표선면,SI_DAY,29.76,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 22.1),Spatial Outlier
+20200512,ASOS,102,102,SS_DAY,12.4,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 7.5),Spatial Outlier
+20200512,RDA,487915A001,포천시 신북면,SS_DAY,11.65,Differs from 5 nearest neighbors by 6.5 (Neighbor Mean: 5.1),Spatial Outlier
+20200512,RDA,350808A001,홍성군 홍성읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 11.8 (Neighbor Mean: 11.8),Spatial Outlier
+20200512,RDA,063352B012,제주시 세화리,SS_DAY,0.0,Differs from 5 nearest neighbors by 10.4 (Neighbor Mean: 10.4),Spatial Outlier
