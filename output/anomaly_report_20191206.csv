@@ -1,0 +1,44 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20191206,RDA,469803A001,여주시 상거동,SI_DAY,32.0,Out of physical range (0~31.5),Range/Logic Error
+20191206,RDA,449872A001,용인시 처인구,SI_DAY,39.5,Out of physical range (0~31.5),Range/Logic Error
+20191206,RDA,449872A001,용인시 처인구,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191206,RDA,449872A001,용인시 처인구,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191206,RDA,449872A001,용인시 처인구,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191206,RDA,449872A001,용인시 처인구,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191206,RDA,449872A001,용인시 처인구,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191206,RDA,449872A001,용인시 처인구,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191206,RDA,449872A001,용인시 처인구,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20191206,AWS,884,884,TA_MAX,9.7,"Exceeds 3.5 Sigma (Mean: 2.7, Std: 2.3)",Statistical Outlier
+20191206,AWS,980,980,TA_MAX,10.2,"Exceeds 3.5 Sigma (Mean: 2.7, Std: 2.3)",Statistical Outlier
+20191206,RDA,063541F014,서귀포 하원동,TA_MAX,11.0,"Exceeds 3.5 Sigma (Mean: 2.7, Std: 2.3)",Statistical Outlier
+20191206,RDA,063607F015,서귀포 남원읍,TA_MAX,10.1,"Exceeds 3.5 Sigma (Mean: 2.7, Std: 2.3)",Statistical Outlier
+20191206,RDA,699946A001,서귀포 하례리,TA_MAX,11.1,"Exceeds 3.5 Sigma (Mean: 2.7, Std: 2.3)",Statistical Outlier
+20191206,ASOS,169,169,WS_AVG,8.6,"Exceeds 3.5 Sigma (Mean: 1.7, Std: 1.2)",Statistical Outlier
+20191206,ASOS,185,185,WS_AVG,8.6,"Exceeds 3.5 Sigma (Mean: 1.7, Std: 1.2)",Statistical Outlier
+20191206,RDA,621100A001,김해시 전하동,HM_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 50.0, Std: 12.6)",Statistical Outlier
+20191206,RDA,699946A001,서귀포 하례리,HM_AVG,0.4,"Exceeds 3.5 Sigma (Mean: 50.0, Std: 12.6)",Statistical Outlier
+20191206,RDA,618803A001,부산시 강서구,HM_AVG,1.1,"Exceeds 3.5 Sigma (Mean: 50.0, Std: 12.6)",Statistical Outlier
+20191206,ASOS,102,102,TA_AVG,0.1,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: -4.4),Spatial Outlier
+20191206,RDA,409911A001,옹진군 백령면,TA_AVG,0.3,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: -4.4),Spatial Outlier
+20191206,RDA,037136F022,상주시 외서면,TA_MAX,8.5,Differs from 5 nearest neighbors by 5.9 (Neighbor Mean: 3.2),Spatial Outlier
+20191206,ASOS,90,90,HM_AVG,23.4,Differs from 5 nearest neighbors by 22.7 (Neighbor Mean: 46.1),Spatial Outlier
+20191206,ASOS,108,108,HM_AVG,34.5,Differs from 5 nearest neighbors by 25.1 (Neighbor Mean: 59.6),Spatial Outlier
+20191206,ASOS,115,115,HM_AVG,56.4,Differs from 5 nearest neighbors by 28.2 (Neighbor Mean: 28.2),Spatial Outlier
+20191206,ASOS,156,156,HM_AVG,37.3,Differs from 5 nearest neighbors by 20.0 (Neighbor Mean: 57.3),Spatial Outlier
+20191206,ASOS,277,277,HM_AVG,28.9,Differs from 5 nearest neighbors by 22.0 (Neighbor Mean: 50.9),Spatial Outlier
+20191206,RDA,411801A001,고양시 구산동,HM_AVG,71.1,Differs from 5 nearest neighbors by 22.3 (Neighbor Mean: 48.8),Spatial Outlier
+20191206,RDA,413813A001,파주시 아동동,HM_AVG,31.2,Differs from 5 nearest neighbors by 29.4 (Neighbor Mean: 60.6),Spatial Outlier
+20191206,RDA,051394A001,창원시 대산면,HM_AVG,52.0,Differs from 5 nearest neighbors by 25.0 (Neighbor Mean: 27.0),Spatial Outlier
+20191206,RDA,678806A001,합천군 용주면,HM_AVG,61.7,Differs from 5 nearest neighbors by 21.7 (Neighbor Mean: 40.0),Spatial Outlier
+20191206,RDA,063240F009,제주시 오등동,HM_AVG,65.7,Differs from 5 nearest neighbors by 23.4 (Neighbor Mean: 42.3),Spatial Outlier
+20191206,RDA,137180A001,서울시 서초구,HM_AVG,77.9,Differs from 5 nearest neighbors by 28.2 (Neighbor Mean: 49.7),Spatial Outlier
+20191206,RDA,467800A001,이천시 중리동,SI_DAY,9.96,Differs from 5 nearest neighbors by 11.3 (Neighbor Mean: 21.3),Spatial Outlier
+20191206,RDA,017421F029,이천시 진암리,SI_DAY,11.8,Differs from 5 nearest neighbors by 8.8 (Neighbor Mean: 20.6),Spatial Outlier
+20191206,RDA,017414F020,이천시 장호원,SI_DAY,11.81,Differs from 5 nearest neighbors by 8.8 (Neighbor Mean: 20.6),Spatial Outlier
+20191206,RDA,232941E001,평창군 진부면,SI_DAY,2.5,Differs from 5 nearest neighbors by 9.0 (Neighbor Mean: 11.5),Spatial Outlier
+20191206,RDA,225874A001,횡성군 공근면,SI_DAY,7.23,Differs from 5 nearest neighbors by 8.7 (Neighbor Mean: 15.9),Spatial Outlier
+20191206,RDA,355831A001,보령시 주교면,SI_DAY,27.3,Differs from 5 nearest neighbors by 15.6 (Neighbor Mean: 11.7),Spatial Outlier
+20191206,RDA,678806A001,합천군 용주면,SI_DAY,0.85,Differs from 5 nearest neighbors by 10.1 (Neighbor Mean: 11.0),Spatial Outlier
+20191206,ASOS,102,102,SS_DAY,3.5,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 8.6),Spatial Outlier
+20191206,ASOS,169,169,SS_DAY,2.0,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 7.0),Spatial Outlier
+20191206,RDA,567801A002,진안군 진안읍,SS_DAY,4.05,Differs from 5 nearest neighbors by 4.3 (Neighbor Mean: 8.3),Spatial Outlier
