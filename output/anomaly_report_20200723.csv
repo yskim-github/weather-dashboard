@@ -1,0 +1,19 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20200723,AWS,184,184,TA_MAX,30.5,"Exceeds 3.5 Sigma (Mean: 24.2, Std: 1.6)",Statistical Outlier
+20200723,AWS,861,861,TA_MAX,30.2,"Exceeds 3.5 Sigma (Mean: 24.2, Std: 1.6)",Statistical Outlier
+20200723,AWS,867,867,TA_MAX,20.2,"Exceeds 3.5 Sigma (Mean: 24.2, Std: 1.6)",Statistical Outlier
+20200723,AWS,868,868,TA_MAX,20.6,"Exceeds 3.5 Sigma (Mean: 24.2, Std: 1.6)",Statistical Outlier
+20200723,AWS,871,871,TA_MAX,19.4,"Exceeds 3.5 Sigma (Mean: 24.2, Std: 1.6)",Statistical Outlier
+20200723,RDA,063240F009,제주시 오등동,TA_MAX,28.6,"Exceeds 3.5 Sigma (Mean: 24.2, Std: 1.6)",Statistical Outlier
+20200723,AWS,461,461,TA_MIN,15.0,"Exceeds 3.5 Sigma (Mean: 20.6, Std: 1.4)",Statistical Outlier
+20200723,ASOS,169,169,WS_AVG,9.0,"Exceeds 3.5 Sigma (Mean: 1.9, Std: 1.2)",Statistical Outlier
+20200723,ASOS,185,185,WS_AVG,10.0,"Exceeds 3.5 Sigma (Mean: 1.9, Std: 1.2)",Statistical Outlier
+20200723,RDA,429843A001,시흥시 하중동,HM_AVG,49.5,"Exceeds 3.5 Sigma (Mean: 94.6, Std: 7.5)",Statistical Outlier
+20200723,RDA,413813A001,파주시 아동동,HM_AVG,37.9,"Exceeds 3.5 Sigma (Mean: 94.6, Std: 7.5)",Statistical Outlier
+20200723,RDA,668812F002,남해군 이동면,HM_AVG,9.5,"Exceeds 3.5 Sigma (Mean: 94.6, Std: 7.5)",Statistical Outlier
+20200723,ASOS,168,168,HM_AVG,99.4,Differs from 5 nearest neighbors by 20.7 (Neighbor Mean: 78.7),Spatial Outlier
+20200723,RDA,555130A001,여수시 주삼동,HM_AVG,100.0,Differs from 5 nearest neighbors by 21.4 (Neighbor Mean: 78.6),Spatial Outlier
+20200723,ASOS,115,115,SI_DAY,12.42,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 4.4),Spatial Outlier
+20200723,RDA,469803A001,여주시 상거동,SI_DAY,24.08,Differs from 5 nearest neighbors by 21.0 (Neighbor Mean: 3.1),Spatial Outlier
+20200723,RDA,520853A003,나주시 봉황면,SI_DAY,10.91,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 2.4),Spatial Outlier
+20200723,RDA,355831A001,보령시 주교면,SI_DAY,17.2,Differs from 5 nearest neighbors by 15.1 (Neighbor Mean: 2.1),Spatial Outlier
