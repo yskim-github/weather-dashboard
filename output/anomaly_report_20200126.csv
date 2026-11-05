@@ -1,0 +1,27 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20200126,AWS,554,554,TA_MAX,0.1,"Exceeds 3.5 Sigma (Mean: 11.4, Std: 1.7)",Statistical Outlier
+20200126,RDA,235270E001,태백 귀네미골,TA_MAX,0.1,"Exceeds 3.5 Sigma (Mean: 11.4, Std: 1.7)",Statistical Outlier
+20200126,RDA,245825A002,삼척시 미로면,TA_MAX,30.4,"Exceeds 3.5 Sigma (Mean: 11.4, Std: 1.7)",Statistical Outlier
+20200126,ASOS,115,115,WS_AVG,5.7,"Exceeds 3.5 Sigma (Mean: 1.9, Std: 1.1)",Statistical Outlier
+20200126,ASOS,168,168,WS_AVG,5.9,"Exceeds 3.5 Sigma (Mean: 1.9, Std: 1.1)",Statistical Outlier
+20200126,ASOS,169,169,WS_AVG,6.2,"Exceeds 3.5 Sigma (Mean: 1.9, Std: 1.1)",Statistical Outlier
+20200126,RDA,699946A001,서귀포 하례리,HM_AVG,6.7,"Exceeds 3.5 Sigma (Mean: 75.2, Std: 8.9)",Statistical Outlier
+20200126,RDA,618803A001,부산시 강서구,HM_AVG,41.5,"Exceeds 3.5 Sigma (Mean: 75.2, Std: 8.9)",Statistical Outlier
+20200126,AWS,106,106,TA_MAX,7.0,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 12.1),Spatial Outlier
+20200126,AWS,696,696,TA_MAX,6.4,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 11.6),Spatial Outlier
+20200126,AWS,876,876,TA_MAX,7.1,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 12.3),Spatial Outlier
+20200126,AWS,116,116,TA_MIN,0.2,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: -1.0),Spatial Outlier
+20200126,AWS,314,314,TA_MIN,-3.9,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 1.0),Spatial Outlier
+20200126,AWS,545,545,TA_MIN,-5.1,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: -0.5),Spatial Outlier
+20200126,AWS,659,659,TA_MIN,-0.6,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: -0.7),Spatial Outlier
+20200126,AWS,682,682,TA_MIN,-3.8,Differs from 5 nearest neighbors by 7.3 (Neighbor Mean: -4.2),Spatial Outlier
+20200126,AWS,694,694,TA_MIN,-0.8,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: -1.4),Spatial Outlier
+20200126,AWS,695,695,TA_MIN,-2.7,Differs from 5 nearest neighbors by 9.3 (Neighbor Mean: -5.2),Spatial Outlier
+20200126,AWS,852,852,TA_MIN,6.2,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 1.9),Spatial Outlier
+20200126,AWS,873,873,TA_MIN,-1.1,Differs from 5 nearest neighbors by 6.5 (Neighbor Mean: -1.8),Spatial Outlier
+20200126,ASOS,189,189,HM_AVG,86.6,Differs from 5 nearest neighbors by 20.6 (Neighbor Mean: 66.0),Spatial Outlier
+20200126,RDA,469803A001,여주시 상거동,SI_DAY,23.04,Differs from 5 nearest neighbors by 12.5 (Neighbor Mean: 10.5),Spatial Outlier
+20200126,RDA,449872A001,용인시 처인구,SI_DAY,0.0,Differs from 5 nearest neighbors by 10.1 (Neighbor Mean: 10.1),Spatial Outlier
+20200126,RDA,415743A001,김포시 월곶면,SI_DAY,3.68,Differs from 5 nearest neighbors by 8.4 (Neighbor Mean: 12.1),Spatial Outlier
+20200126,RDA,355831A001,보령시 주교면,SI_DAY,24.29,Differs from 5 nearest neighbors by 15.1 (Neighbor Mean: 9.2),Spatial Outlier
+20200126,RDA,350808A001,홍성군 홍성읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 4.9),Spatial Outlier
