@@ -1,0 +1,41 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20190710,RDA,469803A001,여주시 상거동,SI_DAY,39.36,Out of physical range (0~31.5),Range/Logic Error
+20190710,RDA,469803A001,여주시 상거동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190710,RDA,469803A001,여주시 상거동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190710,RDA,469803A001,여주시 상거동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190710,RDA,469803A001,여주시 상거동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190710,RDA,469803A001,여주시 상거동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190710,RDA,469803A001,여주시 상거동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190710,RDA,469803A001,여주시 상거동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190710,RDA,449872A001,용인시 처인구,SI_DAY,39.79,Out of physical range (0~31.5),Range/Logic Error
+20190710,RDA,449872A001,용인시 처인구,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190710,RDA,449872A001,용인시 처인구,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190710,RDA,449872A001,용인시 처인구,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190710,RDA,449872A001,용인시 처인구,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190710,RDA,449872A001,용인시 처인구,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190710,RDA,449872A001,용인시 처인구,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190710,RDA,449872A001,용인시 처인구,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190710,RDA,415743A001,김포시 월곶면,SI_DAY,39.44,Out of physical range (0~31.5),Range/Logic Error
+20190710,RDA,415743A001,김포시 월곶면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190710,RDA,415743A001,김포시 월곶면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190710,RDA,415743A001,김포시 월곶면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190710,RDA,415743A001,김포시 월곶면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190710,RDA,415743A001,김포시 월곶면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190710,RDA,415743A001,김포시 월곶면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190710,RDA,415743A001,김포시 월곶면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190710,ASOS,106,106,TA_AVG,18.2,"Exceeds 3.5 Sigma (Mean: 21.4, Std: 0.8)",Statistical Outlier
+20190710,RDA,063532F013,서귀포 창천리,TA_AVG,23.2,"Exceeds 3.5 Sigma (Mean: 21.4, Std: 0.8)",Statistical Outlier
+20190710,AWS,521,521,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 19.4, Std: 1.4)",Statistical Outlier
+20190710,ASOS,115,115,WS_AVG,6.1,"Exceeds 3.5 Sigma (Mean: 1.8, Std: 1.2)",Statistical Outlier
+20190710,ASOS,168,168,WS_AVG,7.3,"Exceeds 3.5 Sigma (Mean: 1.8, Std: 1.2)",Statistical Outlier
+20190710,RDA,618803A001,부산시 강서구,HM_AVG,63.9,Differs from 5 nearest neighbors by 23.4 (Neighbor Mean: 87.3),Spatial Outlier
+20190710,ASOS,102,102,SI_DAY,7.27,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 15.3),Spatial Outlier
+20190710,RDA,467800A001,이천시 중리동,SI_DAY,10.12,Differs from 5 nearest neighbors by 12.5 (Neighbor Mean: 22.6),Spatial Outlier
+20190710,RDA,017421F029,이천시 진암리,SI_DAY,11.2,Differs from 5 nearest neighbors by 10.5 (Neighbor Mean: 21.7),Spatial Outlier
+20190710,RDA,017414F020,이천시 장호원,SI_DAY,10.59,Differs from 5 nearest neighbors by 11.3 (Neighbor Mean: 21.9),Spatial Outlier
+20190710,RDA,520853A003,나주시 봉황면,SI_DAY,13.35,Differs from 5 nearest neighbors by 8.7 (Neighbor Mean: 4.7),Spatial Outlier
+20190710,RDA,445891A001,화성시 장안면,SI_DAY,23.17,Differs from 5 nearest neighbors by 13.5 (Neighbor Mean: 9.7),Spatial Outlier
+20190710,RDA,355831A001,보령시 주교면,SI_DAY,18.49,Differs from 5 nearest neighbors by 11.9 (Neighbor Mean: 6.6),Spatial Outlier
+20190710,RDA,031004A002,천안시 성환읍,SI_DAY,9.85,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 18.4),Spatial Outlier
+20190710,RDA,409911A001,옹진군 백령면,SI_DAY,6.84,Differs from 5 nearest neighbors by 8.6 (Neighbor Mean: 15.4),Spatial Outlier
+20190710,RDA,409871A001,옹진군 영흥면,SI_DAY,9.96,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 17.8),Spatial Outlier
