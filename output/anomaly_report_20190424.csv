@@ -1,0 +1,57 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20190424,RDA,469803A001,여주시 상거동,SI_DAY,39.68,Out of physical range (0~31.5),Range/Logic Error
+20190424,RDA,469803A001,여주시 상거동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190424,RDA,469803A001,여주시 상거동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190424,RDA,469803A001,여주시 상거동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190424,RDA,469803A001,여주시 상거동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190424,RDA,469803A001,여주시 상거동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190424,RDA,469803A001,여주시 상거동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190424,RDA,469803A001,여주시 상거동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190424,RDA,449872A001,용인시 처인구,SI_DAY,36.4,Out of physical range (0~31.5),Range/Logic Error
+20190424,RDA,449872A001,용인시 처인구,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190424,RDA,449872A001,용인시 처인구,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190424,RDA,449872A001,용인시 처인구,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190424,RDA,449872A001,용인시 처인구,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190424,RDA,449872A001,용인시 처인구,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190424,RDA,449872A001,용인시 처인구,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190424,RDA,449872A001,용인시 처인구,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190424,RDA,415743A001,김포시 월곶면,SI_DAY,38.7,Out of physical range (0~31.5),Range/Logic Error
+20190424,RDA,415743A001,김포시 월곶면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190424,RDA,415743A001,김포시 월곶면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190424,RDA,415743A001,김포시 월곶면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190424,RDA,415743A001,김포시 월곶면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190424,RDA,415743A001,김포시 월곶면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190424,RDA,415743A001,김포시 월곶면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190424,RDA,415743A001,김포시 월곶면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20190424,ASOS,102,102,TA_AVG,11.3,"Exceeds 3.5 Sigma (Mean: 18.1, Std: 1.2)",Statistical Outlier
+20190424,AWS,607,607,TA_MIN,9.0,"Exceeds 3.5 Sigma (Mean: 14.5, Std: 1.6)",Statistical Outlier
+20190424,AWS,655,655,TA_MIN,8.5,"Exceeds 3.5 Sigma (Mean: 14.5, Std: 1.6)",Statistical Outlier
+20190424,AWS,806,806,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 14.5, Std: 1.6)",Statistical Outlier
+20190424,AWS,867,867,TA_MIN,11.0,"Exceeds 3.5 Sigma (Mean: 14.5, Std: 1.6)",Statistical Outlier
+20190424,AWS,870,870,TA_MIN,11.9,"Exceeds 3.5 Sigma (Mean: 14.5, Std: 1.6)",Statistical Outlier
+20190424,AWS,956,956,TA_MIN,8.3,"Exceeds 3.5 Sigma (Mean: 14.5, Std: 1.6)",Statistical Outlier
+20190424,ASOS,102,102,WS_AVG,4.2,"Exceeds 3.5 Sigma (Mean: 1.2, Std: 0.7)",Statistical Outlier
+20190424,ASOS,168,168,WS_AVG,3.9,"Exceeds 3.5 Sigma (Mean: 1.2, Std: 0.7)",Statistical Outlier
+20190424,ASOS,185,185,WS_AVG,3.9,"Exceeds 3.5 Sigma (Mean: 1.2, Std: 0.7)",Statistical Outlier
+20190424,RDA,579824E001,부안군 계화면,WS_AVG,3.77,"Exceeds 3.5 Sigma (Mean: 1.2, Std: 0.7)",Statistical Outlier
+20190424,RDA,409911A001,옹진군 백령면,WS_AVG,3.9,"Exceeds 3.5 Sigma (Mean: 1.2, Std: 0.7)",Statistical Outlier
+20190424,RDA,429843A001,시흥시 하중동,HM_AVG,39.8,"Exceeds 3.5 Sigma (Mean: 87.7, Std: 7.9)",Statistical Outlier
+20190424,RDA,413813A001,파주시 아동동,HM_AVG,58.0,"Exceeds 3.5 Sigma (Mean: 87.7, Std: 7.9)",Statistical Outlier
+20190424,RDA,063527F012,서귀포 덕수리,HM_AVG,48.2,"Exceeds 3.5 Sigma (Mean: 87.7, Std: 7.9)",Statistical Outlier
+20190424,AWS,409,409,TA_MAX,19.1,Differs from 5 nearest neighbors by 6.5 (Neighbor Mean: 25.8),Spatial Outlier
+20190424,AWS,667,667,TA_MAX,14.4,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 19.5),Spatial Outlier
+20190424,AWS,955,955,TA_MAX,15.0,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 19.9),Spatial Outlier
+20190424,AWS,960,960,TA_MAX,18.5,Differs from 5 nearest neighbors by 7.1 (Neighbor Mean: 25.8),Spatial Outlier
+20190424,ASOS,115,115,SI_DAY,2.43,Differs from 5 nearest neighbors by 12.4 (Neighbor Mean: 14.8),Spatial Outlier
+20190424,ASOS,129,129,SI_DAY,25.09,Differs from 5 nearest neighbors by 9.4 (Neighbor Mean: 15.7),Spatial Outlier
+20190424,RDA,467800A001,이천시 중리동,SI_DAY,13.22,Differs from 5 nearest neighbors by 10.8 (Neighbor Mean: 24.0),Spatial Outlier
+20190424,RDA,477802A001,가평군 가평읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 15.3 (Neighbor Mean: 15.3),Spatial Outlier
+20190424,RDA,017414F020,이천시 장호원,SI_DAY,11.36,Differs from 5 nearest neighbors by 12.3 (Neighbor Mean: 23.7),Spatial Outlier
+20190424,RDA,355831A001,보령시 주교면,SI_DAY,21.19,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 13.5),Spatial Outlier
+20190424,RDA,699946A001,서귀포 하례리,SI_DAY,1.41,Differs from 5 nearest neighbors by 18.0 (Neighbor Mean: 19.4),Spatial Outlier
+20190424,RDA,063641F007,서귀포 성산읍,SI_DAY,5.74,Differs from 5 nearest neighbors by 10.7 (Neighbor Mean: 16.4),Spatial Outlier
+20190424,ASOS,129,129,SS_DAY,7.3,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 1.7),Spatial Outlier
+20190424,ASOS,189,189,SS_DAY,6.8,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 2.3),Spatial Outlier
+20190424,RDA,477802A001,가평군 가평읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 4.2 (Neighbor Mean: 4.2),Spatial Outlier
+20190424,RDA,240813A001,동해시 북평동,SS_DAY,11.016666666666667,Differs from 5 nearest neighbors by 6.6 (Neighbor Mean: 4.4),Spatial Outlier
+20190424,RDA,699946A001,서귀포 하례리,SS_DAY,7.8,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 2.1),Spatial Outlier
