@@ -1,0 +1,25 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20180516,RDA,050124D004,거창군 동변리,TA_AVG,22.4,Tavg not between Tmax(28.8) and Tmin(22.8),Range/Logic Error
+20180516,ASOS,102,102,TA_AVG,14.6,"Exceeds 3.5 Sigma (Mean: 23.1, Std: 1.8)",Statistical Outlier
+20180516,ASOS,169,169,TA_AVG,16.3,"Exceeds 3.5 Sigma (Mean: 23.1, Std: 1.8)",Statistical Outlier
+20180516,RDA,409911A001,옹진군 백령면,TA_AVG,14.5,"Exceeds 3.5 Sigma (Mean: 23.1, Std: 1.8)",Statistical Outlier
+20180516,AWS,102,102,TA_MIN,12.7,"Exceeds 3.5 Sigma (Mean: 20.6, Std: 1.9)",Statistical Outlier
+20180516,AWS,655,655,TA_MIN,11.2,"Exceeds 3.5 Sigma (Mean: 20.6, Std: 1.9)",Statistical Outlier
+20180516,RDA,409911A001,옹진군 백령면,TA_MIN,12.8,"Exceeds 3.5 Sigma (Mean: 20.6, Std: 1.9)",Statistical Outlier
+20180516,ASOS,115,115,WS_AVG,9.0,"Exceeds 3.5 Sigma (Mean: 2.2, Std: 1.7)",Statistical Outlier
+20180516,ASOS,159,159,WS_AVG,8.2,"Exceeds 3.5 Sigma (Mean: 2.2, Std: 1.7)",Statistical Outlier
+20180516,ASOS,169,169,WS_AVG,10.9,"Exceeds 3.5 Sigma (Mean: 2.2, Std: 1.7)",Statistical Outlier
+20180516,RDA,312831A001,금산군 금성면,HM_AVG,6.9,"Exceeds 3.5 Sigma (Mean: 89.7, Std: 9.0)",Statistical Outlier
+20180516,AWS,96,96,TA_MAX,18.2,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 26.7),Spatial Outlier
+20180516,AWS,566,566,TA_MAX,23.0,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 27.8),Spatial Outlier
+20180516,RDA,063532F013,서귀포 창천리,TA_MAX,29.7,Differs from 5 nearest neighbors by 7.2 (Neighbor Mean: 23.6),Spatial Outlier
+20180516,AWS,579,579,TA_MIN,12.9,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 21.4),Spatial Outlier
+20180516,AWS,699,699,TA_MIN,16.1,Differs from 5 nearest neighbors by 6.2 (Neighbor Mean: 22.5),Spatial Outlier
+20180516,RDA,413813A001,파주시 아동동,HM_AVG,60.2,Differs from 5 nearest neighbors by 35.9 (Neighbor Mean: 96.1),Spatial Outlier
+20180516,RDA,449872A001,용인시 처인구,SI_DAY,31.46,Differs from 5 nearest neighbors by 28.3 (Neighbor Mean: 3.1),Spatial Outlier
+20180516,RDA,355831A001,보령시 주교면,SI_DAY,17.12,Differs from 5 nearest neighbors by 15.2 (Neighbor Mean: 2.0),Spatial Outlier
+20180516,RDA,063048F003,제주시 신엄리,SI_DAY,25.78,Differs from 5 nearest neighbors by 13.1 (Neighbor Mean: 12.7),Spatial Outlier
+20180516,RDA,063240F009,제주시 오등동,SI_DAY,24.4,Differs from 5 nearest neighbors by 14.3 (Neighbor Mean: 10.1),Spatial Outlier
+20180516,RDA,063356F008,제주시 구좌읍,SI_DAY,21.42,Differs from 5 nearest neighbors by 11.7 (Neighbor Mean: 9.8),Spatial Outlier
+20180516,ASOS,184,184,SS_DAY,9.5,Differs from 5 nearest neighbors by 9.5 (Neighbor Mean: 0.0),Spatial Outlier
+20180516,RDA,719862A001,성주군 대가면,SS_DAY,8.766666666666667,Differs from 5 nearest neighbors by 7.4 (Neighbor Mean: 1.4),Spatial Outlier
