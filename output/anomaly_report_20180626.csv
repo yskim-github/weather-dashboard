@@ -1,0 +1,38 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20180626,RDA,449872A001,용인시 처인구,SI_DAY,31.58,Out of physical range (0~31.5),Range/Logic Error
+20180626,AWS,329,329,TA_MAX,31.6,"Exceeds 3.5 Sigma (Mean: 26.5, Std: 2.1)",Statistical Outlier
+20180626,AWS,330,330,TA_MAX,33.2,"Exceeds 3.5 Sigma (Mean: 26.5, Std: 2.1)",Statistical Outlier
+20180626,AWS,866,866,TA_MAX,30.0,"Exceeds 3.5 Sigma (Mean: 26.5, Std: 2.1)",Statistical Outlier
+20180626,RDA,520892A001,나주시 공산면,TA_MAX,43.3,"Exceeds 3.5 Sigma (Mean: 26.5, Std: 2.1)",Statistical Outlier
+20180626,RDA,063240F009,제주시 오등동,TA_MAX,33.0,"Exceeds 3.5 Sigma (Mean: 26.5, Std: 2.1)",Statistical Outlier
+20180626,AWS,862,862,TA_MIN,26.1,"Exceeds 3.5 Sigma (Mean: 20.5, Std: 1.7)",Statistical Outlier
+20180626,AWS,867,867,TA_MIN,17.5,"Exceeds 3.5 Sigma (Mean: 20.5, Std: 1.7)",Statistical Outlier
+20180626,RDA,567801A002,진안군 진안읍,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 20.5, Std: 1.7)",Statistical Outlier
+20180626,ASOS,169,169,WS_AVG,9.4,"Exceeds 3.5 Sigma (Mean: 2.2, Std: 1.5)",Statistical Outlier
+20180626,ASOS,185,185,WS_AVG,7.7,"Exceeds 3.5 Sigma (Mean: 2.2, Std: 1.5)",Statistical Outlier
+20180626,RDA,520892A001,나주시 공산면,WS_AVG,11.4,"Exceeds 3.5 Sigma (Mean: 2.2, Std: 1.5)",Statistical Outlier
+20180626,RDA,312831A001,금산군 금성면,HM_AVG,4.1,"Exceeds 3.5 Sigma (Mean: 88.9, Std: 8.6)",Statistical Outlier
+20180626,RDA,350808A001,홍성군 홍성읍,HM_AVG,58.6,"Exceeds 3.5 Sigma (Mean: 88.9, Std: 8.6)",Statistical Outlier
+20180626,AWS,436,436,TA_MAX,30.7,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 26.0),Spatial Outlier
+20180626,AWS,554,554,TA_MAX,22.9,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 23.2),Spatial Outlier
+20180626,AWS,852,852,TA_MAX,21.2,Differs from 5 nearest neighbors by 5.9 (Neighbor Mean: 27.4),Spatial Outlier
+20180626,AWS,901,901,TA_MAX,21.8,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 26.9),Spatial Outlier
+20180626,RDA,520943A002,나주시 문평면,TA_MAX,25.5,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 30.2),Spatial Outlier
+20180626,AWS,314,314,TA_MIN,15.5,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 20.0),Spatial Outlier
+20180626,RDA,597803A001,장수군 장수읍,TA_MIN,18.4,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 16.9),Spatial Outlier
+20180626,RDA,050124D004,거창군 동변리,TA_MIN,22.4,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 19.7),Spatial Outlier
+20180626,RDA,026002D003,태백시 매봉산,HM_AVG,71.6,Differs from 5 nearest neighbors by 20.9 (Neighbor Mean: 92.5),Spatial Outlier
+20180626,RDA,413813A001,파주시 아동동,HM_AVG,61.0,Differs from 5 nearest neighbors by 31.6 (Neighbor Mean: 92.6),Spatial Outlier
+20180626,ASOS,129,129,SI_DAY,0.98,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 9.1),Spatial Outlier
+20180626,ASOS,177,177,SI_DAY,1.04,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 9.1),Spatial Outlier
+20180626,ASOS,184,184,SI_DAY,21.04,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 13.0),Spatial Outlier
+20180626,RDA,355831A001,보령시 주교면,SI_DAY,16.61,Differs from 5 nearest neighbors by 10.6 (Neighbor Mean: 6.0),Spatial Outlier
+20180626,RDA,350808A001,홍성군 홍성읍,SI_DAY,24.62,Differs from 5 nearest neighbors by 20.2 (Neighbor Mean: 4.4),Spatial Outlier
+20180626,RDA,520892A001,나주시 공산면,SI_DAY,20.87,Differs from 5 nearest neighbors by 15.0 (Neighbor Mean: 5.9),Spatial Outlier
+20180626,RDA,063240F009,제주시 오등동,SI_DAY,21.89,Differs from 5 nearest neighbors by 13.2 (Neighbor Mean: 8.7),Spatial Outlier
+20180626,RDA,063356F008,제주시 구좌읍,SI_DAY,23.2,Differs from 5 nearest neighbors by 11.1 (Neighbor Mean: 12.1),Spatial Outlier
+20180626,RDA,063352B012,제주시 세화리,SI_DAY,23.93,Differs from 5 nearest neighbors by 12.0 (Neighbor Mean: 11.9),Spatial Outlier
+20180626,ASOS,184,184,SS_DAY,5.4,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 0.0),Spatial Outlier
+20180626,RDA,719862A001,성주군 대가면,SS_DAY,5.65,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 0.0),Spatial Outlier
+20180626,AWS,632,632,RN_DAY,88.5,Differs from 5 nearest neighbors by 81.6 (Neighbor Mean: 6.9),Spatial Outlier
+20180626,RDA,520892A001,나주시 공산면,RN_DAY,124.9,Differs from 5 nearest neighbors by 124.9 (Neighbor Mean: 0.0),Spatial Outlier
