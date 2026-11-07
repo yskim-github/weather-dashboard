@@ -1,0 +1,41 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20180709,RDA,449872A001,용인시 처인구,SI_DAY,34.22,Out of physical range (0~31.5),Range/Logic Error
+20180709,RDA,449872A001,용인시 처인구,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20180709,RDA,449872A001,용인시 처인구,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20180709,RDA,449872A001,용인시 처인구,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20180709,RDA,449872A001,용인시 처인구,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20180709,RDA,449872A001,용인시 처인구,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20180709,RDA,449872A001,용인시 처인구,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20180709,RDA,449872A001,용인시 처인구,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20180709,RDA,050124D004,거창군 동변리,TA_AVG,19.4,Tavg not between Tmax(25.1) and Tmin(21.2),Range/Logic Error
+20180709,RDA,699946A001,서귀포 하례리,SI_DAY,37.75,Out of physical range (0~31.5),Range/Logic Error
+20180709,RDA,699946A001,서귀포 하례리,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20180709,RDA,699946A001,서귀포 하례리,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20180709,RDA,699946A001,서귀포 하례리,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20180709,RDA,699946A001,서귀포 하례리,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20180709,RDA,699946A001,서귀포 하례리,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20180709,RDA,699946A001,서귀포 하례리,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20180709,RDA,699946A001,서귀포 하례리,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20180709,AWS,862,862,TA_MAX,31.5,"Exceeds 3.5 Sigma (Mean: 23.0, Std: 2.6)",Statistical Outlier
+20180709,AWS,753,753,TA_MIN,18.7,"Exceeds 3.5 Sigma (Mean: 19.5, Std: 1.4)",Statistical Outlier
+20180709,AWS,867,867,TA_MIN,16.2,"Exceeds 3.5 Sigma (Mean: 19.5, Std: 1.4)",Statistical Outlier
+20180709,AWS,869,869,TA_MIN,17.1,"Exceeds 3.5 Sigma (Mean: 19.5, Std: 1.4)",Statistical Outlier
+20180709,AWS,870,870,TA_MIN,15.2,"Exceeds 3.5 Sigma (Mean: 19.5, Std: 1.4)",Statistical Outlier
+20180709,AWS,871,871,TA_MIN,14.0,"Exceeds 3.5 Sigma (Mean: 19.5, Std: 1.4)",Statistical Outlier
+20180709,ASOS,169,169,WS_AVG,8.1,"Exceeds 3.5 Sigma (Mean: 1.3, Std: 1.1)",Statistical Outlier
+20180709,RDA,413813A001,파주시 아동동,HM_AVG,59.6,"Exceeds 3.5 Sigma (Mean: 91.0, Std: 7.7)",Statistical Outlier
+20180709,RDA,312831A001,금산군 금성면,HM_AVG,8.6,"Exceeds 3.5 Sigma (Mean: 91.0, Std: 7.7)",Statistical Outlier
+20180709,RDA,350808A001,홍성군 홍성읍,HM_AVG,58.6,"Exceeds 3.5 Sigma (Mean: 91.0, Std: 7.7)",Statistical Outlier
+20180709,AWS,314,314,TA_MAX,18.6,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 23.2),Spatial Outlier
+20180709,AWS,875,875,TA_MAX,15.2,Differs from 5 nearest neighbors by 5.9 (Neighbor Mean: 19.7),Spatial Outlier
+20180709,RDA,038303A002,청도군 각북면,TA_MAX,26.7,Differs from 5 nearest neighbors by 6.3 (Neighbor Mean: 21.2),Spatial Outlier
+20180709,ASOS,129,129,SI_DAY,3.75,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 11.4),Spatial Outlier
+20180709,ASOS,177,177,SI_DAY,2.9,Differs from 5 nearest neighbors by 8.7 (Neighbor Mean: 11.6),Spatial Outlier
+20180709,ASOS,259,259,SI_DAY,2.29,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 9.9),Spatial Outlier
+20180709,RDA,355831A001,보령시 주교면,SI_DAY,18.44,Differs from 5 nearest neighbors by 9.8 (Neighbor Mean: 8.7),Spatial Outlier
+20180709,RDA,345802A001,청양군 청양읍,SI_DAY,3.88,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 12.1),Spatial Outlier
+20180709,RDA,350808A001,홍성군 홍성읍,SI_DAY,28.16,Differs from 5 nearest neighbors by 21.4 (Neighbor Mean: 6.7),Spatial Outlier
+20180709,RDA,063607F015,서귀포 남원읍,SI_DAY,7.11,Differs from 5 nearest neighbors by 7.5 (Neighbor Mean: 14.6),Spatial Outlier
+20180709,ASOS,184,184,SS_DAY,5.8,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 1.3),Spatial Outlier
+20180709,ASOS,185,185,SS_DAY,8.4,Differs from 5 nearest neighbors by 6.4 (Neighbor Mean: 2.0),Spatial Outlier
+20180709,AWS,632,632,RN_DAY,26.5,Differs from 5 nearest neighbors by 25.2 (Neighbor Mean: 1.3),Spatial Outlier
