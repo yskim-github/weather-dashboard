@@ -1,0 +1,67 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20181228,RDA,469803A001,여주시 상거동,SI_DAY,39.68,Out of physical range (0~31.5),Range/Logic Error
+20181228,RDA,469803A001,여주시 상거동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20181228,RDA,469803A001,여주시 상거동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20181228,RDA,469803A001,여주시 상거동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20181228,RDA,469803A001,여주시 상거동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20181228,RDA,469803A001,여주시 상거동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20181228,RDA,469803A001,여주시 상거동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20181228,RDA,469803A001,여주시 상거동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20181228,RDA,449872A001,용인시 처인구,SI_DAY,39.78,Out of physical range (0~31.5),Range/Logic Error
+20181228,RDA,449872A001,용인시 처인구,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20181228,RDA,449872A001,용인시 처인구,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20181228,RDA,449872A001,용인시 처인구,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20181228,RDA,449872A001,용인시 처인구,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20181228,RDA,449872A001,용인시 처인구,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20181228,RDA,449872A001,용인시 처인구,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20181228,RDA,449872A001,용인시 처인구,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20181228,RDA,415743A001,김포시 월곶면,SI_DAY,38.54,Out of physical range (0~31.5),Range/Logic Error
+20181228,RDA,415743A001,김포시 월곶면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20181228,RDA,415743A001,김포시 월곶면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20181228,RDA,415743A001,김포시 월곶면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20181228,RDA,415743A001,김포시 월곶면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20181228,RDA,415743A001,김포시 월곶면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20181228,RDA,415743A001,김포시 월곶면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20181228,RDA,415743A001,김포시 월곶면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20181228,RDA,350808A001,홍성군 홍성읍,SI_DAY,33.28,Out of physical range (0~31.5),Range/Logic Error
+20181228,RDA,350808A001,홍성군 홍성읍,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20181228,RDA,350808A001,홍성군 홍성읍,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20181228,RDA,350808A001,홍성군 홍성읍,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20181228,RDA,350808A001,홍성군 홍성읍,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20181228,RDA,350808A001,홍성군 홍성읍,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20181228,RDA,350808A001,홍성군 홍성읍,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20181228,RDA,350808A001,홍성군 홍성읍,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20181228,ASOS,102,102,WS_AVG,10.6,"Exceeds 3.5 Sigma (Mean: 2.5, Std: 1.7)",Statistical Outlier
+20181228,ASOS,169,169,WS_AVG,12.3,"Exceeds 3.5 Sigma (Mean: 2.5, Std: 1.7)",Statistical Outlier
+20181228,ASOS,185,185,WS_AVG,13.0,"Exceeds 3.5 Sigma (Mean: 2.5, Std: 1.7)",Statistical Outlier
+20181228,RDA,235270E001,태백 귀네미골,TA_MAX,-8.5,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 0.9),Spatial Outlier
+20181228,ASOS,98,98,HM_AVG,33.4,Differs from 5 nearest neighbors by 21.1 (Neighbor Mean: 54.5),Spatial Outlier
+20181228,ASOS,102,102,HM_AVG,69.1,Differs from 5 nearest neighbors by 32.3 (Neighbor Mean: 36.8),Spatial Outlier
+20181228,ASOS,115,115,HM_AVG,68.1,Differs from 5 nearest neighbors by 42.1 (Neighbor Mean: 26.0),Spatial Outlier
+20181228,RDA,520853A003,나주시 봉황면,HM_AVG,0.0,Differs from 5 nearest neighbors by 82.6 (Neighbor Mean: 82.6),Spatial Outlier
+20181228,RDA,250845E001,홍천군 자운리,HM_AVG,69.6,Differs from 5 nearest neighbors by 23.7 (Neighbor Mean: 45.9),Spatial Outlier
+20181228,RDA,520943A002,나주시 문평면,HM_AVG,90.4,Differs from 5 nearest neighbors by 24.5 (Neighbor Mean: 65.9),Spatial Outlier
+20181228,RDA,526821A001,영암군 덕진면,HM_AVG,85.1,Differs from 5 nearest neighbors by 25.1 (Neighbor Mean: 60.0),Spatial Outlier
+20181228,RDA,537807B004,완도군 완도읍,HM_AVG,46.5,Differs from 5 nearest neighbors by 27.2 (Neighbor Mean: 73.7),Spatial Outlier
+20181228,RDA,409911A001,옹진군 백령면,HM_AVG,7.6,Differs from 5 nearest neighbors by 41.5 (Neighbor Mean: 49.1),Spatial Outlier
+20181228,RDA,618803A001,부산시 강서구,HM_AVG,1.6,Differs from 5 nearest neighbors by 32.5 (Neighbor Mean: 34.1),Spatial Outlier
+20181228,ASOS,102,102,SI_DAY,6.6,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 14.8),Spatial Outlier
+20181228,ASOS,115,115,SI_DAY,1.36,Differs from 5 nearest neighbors by 8.8 (Neighbor Mean: 10.2),Spatial Outlier
+20181228,ASOS,129,129,SI_DAY,8.47,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 16.5),Spatial Outlier
+20181228,ASOS,259,259,SI_DAY,17.08,Differs from 5 nearest neighbors by 9.8 (Neighbor Mean: 7.3),Spatial Outlier
+20181228,RDA,467800A001,이천시 중리동,SI_DAY,8.6,Differs from 5 nearest neighbors by 16.4 (Neighbor Mean: 25.0),Spatial Outlier
+20181228,RDA,017421F029,이천시 진암리,SI_DAY,11.21,Differs from 5 nearest neighbors by 13.4 (Neighbor Mean: 24.6),Spatial Outlier
+20181228,RDA,456871A001,안성시 보개면,SI_DAY,9.69,Differs from 5 nearest neighbors by 9.0 (Neighbor Mean: 18.6),Spatial Outlier
+20181228,RDA,477802A001,가평군 가평읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 9.5 (Neighbor Mean: 9.5),Spatial Outlier
+20181228,RDA,320862A001,논산시 광석면,SI_DAY,0.58,Differs from 5 nearest neighbors by 10.0 (Neighbor Mean: 10.6),Spatial Outlier
+20181228,RDA,225874A001,횡성군 공근면,SI_DAY,7.11,Differs from 5 nearest neighbors by 9.1 (Neighbor Mean: 16.3),Spatial Outlier
+20181228,RDA,355831A001,보령시 주교면,SI_DAY,21.6,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 13.9),Spatial Outlier
+20181228,RDA,345802A001,청양군 청양읍,SI_DAY,8.25,Differs from 5 nearest neighbors by 8.6 (Neighbor Mean: 16.9),Spatial Outlier
+20181228,RDA,712851A001,경산시 자인면,SI_DAY,28.12,Differs from 5 nearest neighbors by 16.0 (Neighbor Mean: 12.1),Spatial Outlier
+20181228,RDA,670807A001,거창군 거창읍,SI_DAY,0.63,Differs from 5 nearest neighbors by 10.8 (Neighbor Mean: 11.5),Spatial Outlier
+20181228,RDA,409911A001,옹진군 백령면,SI_DAY,6.66,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 14.8),Spatial Outlier
+20181228,ASOS,102,102,SS_DAY,2.4,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 7.8),Spatial Outlier
+20181228,ASOS,115,115,SS_DAY,1.2,Differs from 5 nearest neighbors by 7.0 (Neighbor Mean: 8.2),Spatial Outlier
+20181228,ASOS,189,189,SS_DAY,6.0,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 1.3),Spatial Outlier
+20181228,RDA,476801A001,양평군 양평읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 6.2 (Neighbor Mean: 6.2),Spatial Outlier
+20181228,RDA,477802A001,가평군 가평읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 6.5 (Neighbor Mean: 6.5),Spatial Outlier
