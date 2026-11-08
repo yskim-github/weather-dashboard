@@ -1,0 +1,23 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20171103,RDA,449872A001,용인시 처인구,SI_DAY,35.95,Out of physical range (0~31.5),Range/Logic Error
+20171103,RDA,449872A001,용인시 처인구,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20171103,RDA,449872A001,용인시 처인구,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20171103,RDA,449872A001,용인시 처인구,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20171103,RDA,449872A001,용인시 처인구,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20171103,RDA,449872A001,용인시 처인구,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20171103,RDA,449872A001,용인시 처인구,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20171103,RDA,449872A001,용인시 처인구,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20171103,AWS,969,969,TA_MIN,15.6,"Exceeds 3.5 Sigma (Mean: 7.3, Std: 2.4)",Statistical Outlier
+20171103,ASOS,169,169,WS_AVG,7.1,"Exceeds 3.5 Sigma (Mean: 1.9, Std: 1.1)",Statistical Outlier
+20171103,ASOS,185,185,WS_AVG,7.6,"Exceeds 3.5 Sigma (Mean: 1.9, Std: 1.1)",Statistical Outlier
+20171103,RDA,409911A001,옹진군 백령면,WS_AVG,6.7,"Exceeds 3.5 Sigma (Mean: 1.9, Std: 1.1)",Statistical Outlier
+20171103,AWS,814,814,TA_MAX,20.9,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 18.0),Spatial Outlier
+20171103,AWS,364,364,TA_MIN,11.7,Differs from 5 nearest neighbors by 5.8 (Neighbor Mean: 6.3),Spatial Outlier
+20171103,AWS,366,366,TA_MIN,13.0,Differs from 5 nearest neighbors by 7.2 (Neighbor Mean: 6.6),Spatial Outlier
+20171103,AWS,830,830,TA_MIN,3.3,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 8.7),Spatial Outlier
+20171103,RDA,469803A001,여주시 상거동,SI_DAY,0.0,Differs from 5 nearest neighbors by 11.5 (Neighbor Mean: 11.5),Spatial Outlier
+20171103,RDA,477802A001,가평군 가평읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 7.6),Spatial Outlier
+20171103,RDA,355831A001,보령시 주교면,SI_DAY,21.14,Differs from 5 nearest neighbors by 13.3 (Neighbor Mean: 7.8),Spatial Outlier
+20171103,RDA,699946A001,서귀포 하례리,SI_DAY,0.06,Differs from 5 nearest neighbors by 14.3 (Neighbor Mean: 14.4),Spatial Outlier
+20171103,RDA,667831A001,하동군 적량면,SS_DAY,0.0,Differs from 5 nearest neighbors by 6.9 (Neighbor Mean: 6.9),Spatial Outlier
+20171103,RDA,063352B012,제주시 세화리,SS_DAY,0.0,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 7.6),Spatial Outlier
