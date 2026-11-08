@@ -1,0 +1,58 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20170724,RDA,449872A001,용인시 처인구,SI_DAY,32.4,Out of physical range (0~31.5),Range/Logic Error
+20170724,RDA,449872A001,용인시 처인구,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170724,RDA,449872A001,용인시 처인구,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170724,RDA,449872A001,용인시 처인구,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170724,RDA,449872A001,용인시 처인구,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170724,RDA,449872A001,용인시 처인구,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170724,RDA,449872A001,용인시 처인구,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170724,RDA,449872A001,용인시 처인구,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170724,RDA,365803A001,진천군 진천읍,SI_DAY,35.8,Out of physical range (0~31.5),Range/Logic Error
+20170724,RDA,365803A001,진천군 진천읍,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170724,RDA,365803A001,진천군 진천읍,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170724,RDA,365803A001,진천군 진천읍,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170724,RDA,365803A001,진천군 진천읍,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170724,RDA,365803A001,진천군 진천읍,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170724,RDA,365803A001,진천군 진천읍,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170724,RDA,365803A001,진천군 진천읍,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170724,RDA,638802A001,고성군 고성읍,TA_AVG,29.1,Tavg not between Tmax(27.5) and Tmin(0.0),Range/Logic Error
+20170724,AWS,542,542,TA_MIN,14.4,"Exceeds 3.5 Sigma (Mean: 25.2, Std: 1.7)",Statistical Outlier
+20170724,AWS,850,850,TA_MIN,17.2,"Exceeds 3.5 Sigma (Mean: 25.2, Std: 1.7)",Statistical Outlier
+20170724,AWS,949,949,TA_MIN,19.2,"Exceeds 3.5 Sigma (Mean: 25.2, Std: 1.7)",Statistical Outlier
+20170724,RDA,638802A001,고성군 고성읍,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 25.2, Std: 1.7)",Statistical Outlier
+20170724,ASOS,185,185,WS_AVG,3.6,"Exceeds 3.5 Sigma (Mean: 0.9, Std: 0.6)",Statistical Outlier
+20170724,ASOS,184,184,HM_AVG,64.9,"Exceeds 3.5 Sigma (Mean: 89.7, Std: 6.8)",Statistical Outlier
+20170724,RDA,063048F003,제주시 신엄리,HM_AVG,63.5,"Exceeds 3.5 Sigma (Mean: 89.7, Std: 6.8)",Statistical Outlier
+20170724,RDA,063240F009,제주시 오등동,HM_AVG,66.0,"Exceeds 3.5 Sigma (Mean: 89.7, Std: 6.8)",Statistical Outlier
+20170724,AWS,313,313,TA_MAX,27.6,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 32.9),Spatial Outlier
+20170724,AWS,830,830,TA_MAX,33.9,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 29.5),Spatial Outlier
+20170724,AWS,850,850,TA_MAX,24.5,Differs from 5 nearest neighbors by 6.3 (Neighbor Mean: 30.9),Spatial Outlier
+20170724,AWS,862,862,TA_MAX,38.6,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 34.4),Spatial Outlier
+20170724,AWS,911,911,TA_MAX,28.2,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 33.5),Spatial Outlier
+20170724,AWS,949,949,TA_MAX,25.7,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 31.0),Spatial Outlier
+20170724,AWS,959,959,TA_MAX,25.9,Differs from 5 nearest neighbors by 6.4 (Neighbor Mean: 32.3),Spatial Outlier
+20170724,AWS,961,961,TA_MAX,26.7,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 32.5),Spatial Outlier
+20170724,AWS,963,963,TA_MAX,25.0,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 30.0),Spatial Outlier
+20170724,RDA,050124D004,거창군 동변리,TA_MAX,39.4,Differs from 5 nearest neighbors by 6.2 (Neighbor Mean: 35.0),Spatial Outlier
+20170724,RDA,638802A001,고성군 고성읍,TA_MAX,27.5,Differs from 5 nearest neighbors by 6.0 (Neighbor Mean: 33.7),Spatial Outlier
+20170724,AWS,918,918,TA_MIN,25.3,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 19.9),Spatial Outlier
+20170724,AWS,926,926,TA_MIN,25.3,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 20.7),Spatial Outlier
+20170724,AWS,929,929,TA_MIN,24.3,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 20.4),Spatial Outlier
+20170724,RDA,650821A001,통영시 광도면,TA_MIN,24.9,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 20.0),Spatial Outlier
+20170724,ASOS,185,185,SI_DAY,17.37,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 25.2),Spatial Outlier
+20170724,ASOS,259,259,SI_DAY,1.04,Differs from 5 nearest neighbors by 21.4 (Neighbor Mean: 22.4),Spatial Outlier
+20170724,RDA,456871A001,안성시 보개면,SI_DAY,3.2,Differs from 5 nearest neighbors by 12.5 (Neighbor Mean: 15.7),Spatial Outlier
+20170724,RDA,469803A001,여주시 상거동,SI_DAY,0.0,Differs from 5 nearest neighbors by 10.4 (Neighbor Mean: 10.4),Spatial Outlier
+20170724,RDA,363844A001,청주시 남일면,SI_DAY,5.87,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 13.4),Spatial Outlier
+20170724,RDA,355831A001,보령시 주교면,SI_DAY,17.83,Differs from 5 nearest neighbors by 13.3 (Neighbor Mean: 4.6),Spatial Outlier
+20170724,RDA,031004A002,천안시 성환읍,SI_DAY,3.29,Differs from 5 nearest neighbors by 12.3 (Neighbor Mean: 15.6),Spatial Outlier
+20170724,RDA,590834E001,남원시 운봉읍,SI_DAY,6.16,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 14.6),Spatial Outlier
+20170724,RDA,037268B004,상주시 공성면,SI_DAY,0.0,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 8.1),Spatial Outlier
+20170724,RDA,670807A001,거창군 거창읍,SI_DAY,1.38,Differs from 5 nearest neighbors by 12.6 (Neighbor Mean: 14.0),Spatial Outlier
+20170724,RDA,699946A001,서귀포 하례리,SI_DAY,0.12,Differs from 5 nearest neighbors by 22.5 (Neighbor Mean: 22.6),Spatial Outlier
+20170724,RDA,409911A001,옹진군 백령면,SI_DAY,11.43,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 3.2),Spatial Outlier
+20170724,ASOS,259,259,SS_DAY,1.9,Differs from 5 nearest neighbors by 6.4 (Neighbor Mean: 8.3),Spatial Outlier
+20170724,ASOS,268,268,SS_DAY,0.0,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 8.0),Spatial Outlier
+20170724,RDA,233852A001,정선군 정선읍,SS_DAY,9.5,Differs from 5 nearest neighbors by 9.0 (Neighbor Mean: 0.5),Spatial Outlier
+20170724,RDA,667831A001,하동군 적량면,SS_DAY,0.0,Differs from 5 nearest neighbors by 7.0 (Neighbor Mean: 7.0),Spatial Outlier
+20170724,RDA,063352B012,제주시 세화리,SS_DAY,0.0,Differs from 5 nearest neighbors by 10.0 (Neighbor Mean: 10.0),Spatial Outlier
