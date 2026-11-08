@@ -1,0 +1,57 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20170629,RDA,449872A001,용인시 처인구,SI_DAY,36.39,Out of physical range (0~31.5),Range/Logic Error
+20170629,RDA,449872A001,용인시 처인구,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170629,RDA,449872A001,용인시 처인구,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170629,RDA,449872A001,용인시 처인구,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170629,RDA,449872A001,용인시 처인구,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170629,RDA,449872A001,용인시 처인구,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170629,RDA,449872A001,용인시 처인구,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170629,RDA,449872A001,용인시 처인구,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170629,RDA,365803A001,진천군 진천읍,SI_DAY,39.72,Out of physical range (0~31.5),Range/Logic Error
+20170629,RDA,365803A001,진천군 진천읍,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170629,RDA,365803A001,진천군 진천읍,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170629,RDA,365803A001,진천군 진천읍,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170629,RDA,365803A001,진천군 진천읍,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170629,RDA,365803A001,진천군 진천읍,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170629,RDA,365803A001,진천군 진천읍,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170629,RDA,365803A001,진천군 진천읍,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170629,RDA,730802A001,구미시 선산읍,SI_DAY,35.59,Out of physical range (0~31.5),Range/Logic Error
+20170629,RDA,730802A001,구미시 선산읍,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170629,RDA,730802A001,구미시 선산읍,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170629,RDA,730802A001,구미시 선산읍,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170629,RDA,730802A001,구미시 선산읍,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170629,RDA,730802A001,구미시 선산읍,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170629,RDA,730802A001,구미시 선산읍,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170629,RDA,730802A001,구미시 선산읍,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170629,RDA,050124D004,거창군 동변리,TA_MIN,22.7,"Exceeds 3.5 Sigma (Mean: 20.5, Std: 1.1)",Statistical Outlier
+20170629,ASOS,102,102,WS_AVG,4.3,"Exceeds 3.5 Sigma (Mean: 1.2, Std: 0.6)",Statistical Outlier
+20170629,ASOS,115,115,WS_AVG,3.2,"Exceeds 3.5 Sigma (Mean: 1.2, Std: 0.6)",Statistical Outlier
+20170629,ASOS,185,185,WS_AVG,3.9,"Exceeds 3.5 Sigma (Mean: 1.2, Std: 0.6)",Statistical Outlier
+20170629,RDA,063641F007,서귀포 성산읍,HM_AVG,25.8,"Exceeds 3.5 Sigma (Mean: 81.6, Std: 10.2)",Statistical Outlier
+20170629,AWS,661,661,TA_MAX,24.0,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 29.8),Spatial Outlier
+20170629,AWS,800,800,TA_MAX,25.1,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 29.9),Spatial Outlier
+20170629,AWS,956,956,TA_MAX,21.8,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 26.8),Spatial Outlier
+20170629,RDA,380959A001,충주시 달천동,TA_MAX,22.9,Differs from 5 nearest neighbors by 8.4 (Neighbor Mean: 31.8),Spatial Outlier
+20170629,RDA,050124D004,거창군 동변리,TA_MAX,33.5,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 30.1),Spatial Outlier
+20170629,RDA,380959A001,충주시 달천동,HM_AVG,100.0,Differs from 5 nearest neighbors by 26.3 (Neighbor Mean: 73.7),Spatial Outlier
+20170629,ASOS,115,115,SI_DAY,10.84,Differs from 5 nearest neighbors by 8.6 (Neighbor Mean: 19.4),Spatial Outlier
+20170629,ASOS,169,169,SI_DAY,18.29,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 10.6),Spatial Outlier
+20170629,RDA,469803A001,여주시 상거동,SI_DAY,0.0,Differs from 5 nearest neighbors by 23.8 (Neighbor Mean: 23.8),Spatial Outlier
+20170629,RDA,476801A001,양평군 양평읍,SI_DAY,22.82,Differs from 5 nearest neighbors by 13.4 (Neighbor Mean: 9.4),Spatial Outlier
+20170629,RDA,486803A001,연천군 연천읍,SI_DAY,25.64,Differs from 5 nearest neighbors by 9.3 (Neighbor Mean: 16.4),Spatial Outlier
+20170629,RDA,477802A001,가평군 가평읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 23.0 (Neighbor Mean: 23.0),Spatial Outlier
+20170629,RDA,486831E011,연천군 신서면,SI_DAY,25.41,Differs from 5 nearest neighbors by 9.0 (Neighbor Mean: 16.4),Spatial Outlier
+20170629,RDA,320862A001,논산시 광석면,SI_DAY,11.57,Differs from 5 nearest neighbors by 9.3 (Neighbor Mean: 20.9),Spatial Outlier
+20170629,RDA,230802A001,영월군 영월읍,SI_DAY,11.51,Differs from 5 nearest neighbors by 9.1 (Neighbor Mean: 20.6),Spatial Outlier
+20170629,RDA,355831A001,보령시 주교면,SI_DAY,29.88,Differs from 5 nearest neighbors by 12.4 (Neighbor Mean: 17.5),Spatial Outlier
+20170629,RDA,350808A001,홍성군 홍성읍,SI_DAY,12.33,Differs from 5 nearest neighbors by 8.7 (Neighbor Mean: 21.0),Spatial Outlier
+20170629,RDA,590834E001,남원시 운봉읍,SI_DAY,3.99,Differs from 5 nearest neighbors by 10.5 (Neighbor Mean: 14.4),Spatial Outlier
+20170629,RDA,037268B004,상주시 공성면,SI_DAY,0.01,Differs from 5 nearest neighbors by 23.3 (Neighbor Mean: 23.3),Spatial Outlier
+20170629,RDA,750873A002,영주시 안풍리,SI_DAY,29.05,Differs from 5 nearest neighbors by 9.9 (Neighbor Mean: 19.1),Spatial Outlier
+20170629,RDA,770270A001,영천시 오미동,SI_DAY,2.92,Differs from 5 nearest neighbors by 9.9 (Neighbor Mean: 12.8),Spatial Outlier
+20170629,RDA,670807A001,거창군 거창읍,SI_DAY,1.41,Differs from 5 nearest neighbors by 13.1 (Neighbor Mean: 14.5),Spatial Outlier
+20170629,ASOS,98,98,SS_DAY,5.0,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 10.3),Spatial Outlier
+20170629,RDA,476801A001,양평군 양평읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 6.3 (Neighbor Mean: 6.3),Spatial Outlier
+20170629,RDA,477802A001,가평군 가평읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 7.6),Spatial Outlier
+20170629,RDA,415743A001,김포시 월곶면,SS_DAY,4.85,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 10.1),Spatial Outlier
+20170629,RDA,487915A001,포천시 신북면,SS_DAY,13.083333333333334,Differs from 5 nearest neighbors by 4.3 (Neighbor Mean: 8.8),Spatial Outlier
