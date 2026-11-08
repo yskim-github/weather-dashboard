@@ -1,0 +1,21 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20170509,RDA,449872A001,용인시 처인구,SI_DAY,36.78,Out of physical range (0~31.5),Range/Logic Error
+20170509,RDA,449872A001,용인시 처인구,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170509,RDA,449872A001,용인시 처인구,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170509,RDA,449872A001,용인시 처인구,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170509,RDA,449872A001,용인시 처인구,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170509,RDA,449872A001,용인시 처인구,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170509,RDA,449872A001,용인시 처인구,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170509,RDA,449872A001,용인시 처인구,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170509,RDA,050124D004,거창군 동변리,TA_AVG,13.0,Tavg not between Tmax(19.6) and Tmin(14.9),Range/Logic Error
+20170509,AWS,633,633,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 13.2, Std: 1.1)",Statistical Outlier
+20170509,ASOS,169,169,WS_AVG,6.0,"Exceeds 3.5 Sigma (Mean: 1.6, Std: 1.0)",Statistical Outlier
+20170509,ASOS,185,185,WS_AVG,9.2,"Exceeds 3.5 Sigma (Mean: 1.6, Std: 1.0)",Statistical Outlier
+20170509,RDA,063641F007,서귀포 성산읍,HM_AVG,37.3,"Exceeds 3.5 Sigma (Mean: 82.4, Std: 8.9)",Statistical Outlier
+20170509,AWS,444,444,TA_MAX,14.0,Differs from 5 nearest neighbors by 7.4 (Neighbor Mean: 21.7),Spatial Outlier
+20170509,RDA,411801A001,고양시 구산동,TA_MAX,25.1,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 20.5),Spatial Outlier
+20170509,RDA,469803A001,여주시 상거동,SI_DAY,0.0,Differs from 5 nearest neighbors by 12.0 (Neighbor Mean: 12.0),Spatial Outlier
+20170509,RDA,365803A001,진천군 진천읍,SI_DAY,7.85,Differs from 5 nearest neighbors by 8.6 (Neighbor Mean: 16.4),Spatial Outlier
+20170509,RDA,355831A001,보령시 주교면,SI_DAY,22.29,Differs from 5 nearest neighbors by 15.8 (Neighbor Mean: 6.5),Spatial Outlier
+20170509,RDA,345802A001,청양군 청양읍,SI_DAY,0.09,Differs from 5 nearest neighbors by 11.8 (Neighbor Mean: 11.9),Spatial Outlier
+20170509,RDA,240813A001,동해시 북평동,SS_DAY,6.25,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 1.5),Spatial Outlier
