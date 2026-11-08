@@ -1,0 +1,42 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20170409,RDA,449872A001,용인시 처인구,SI_DAY,38.53,Out of physical range (0~31.5),Range/Logic Error
+20170409,RDA,449872A001,용인시 처인구,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170409,RDA,449872A001,용인시 처인구,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170409,RDA,449872A001,용인시 처인구,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170409,RDA,449872A001,용인시 처인구,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170409,RDA,449872A001,용인시 처인구,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170409,RDA,449872A001,용인시 처인구,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170409,RDA,449872A001,용인시 처인구,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170409,RDA,548912A001,고흥군 풍양면,SI_DAY,35.86,Out of physical range (0~31.5),Range/Logic Error
+20170409,RDA,548912A001,고흥군 풍양면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170409,RDA,548912A001,고흥군 풍양면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170409,RDA,548912A001,고흥군 풍양면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170409,RDA,548912A001,고흥군 풍양면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170409,RDA,548912A001,고흥군 풍양면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170409,RDA,548912A001,고흥군 풍양면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170409,RDA,548912A001,고흥군 풍양면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170409,AWS,806,806,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 9.4, Std: 2.1)",Statistical Outlier
+20170409,AWS,869,869,TA_MIN,9.5,"Exceeds 3.5 Sigma (Mean: 9.4, Std: 2.1)",Statistical Outlier
+20170409,ASOS,115,115,WS_AVG,7.0,"Exceeds 3.5 Sigma (Mean: 2.1, Std: 0.9)",Statistical Outlier
+20170409,ASOS,185,185,WS_AVG,5.6,"Exceeds 3.5 Sigma (Mean: 2.1, Std: 0.9)",Statistical Outlier
+20170409,AWS,743,743,TA_MAX,12.5,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 17.1),Spatial Outlier
+20170409,AWS,799,799,TA_MAX,11.6,Differs from 5 nearest neighbors by 5.8 (Neighbor Mean: 17.4),Spatial Outlier
+20170409,AWS,958,958,TA_MAX,9.4,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 14.5),Spatial Outlier
+20170409,RDA,050124D004,거창군 동변리,TA_MAX,23.9,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 21.2),Spatial Outlier
+20170409,RDA,063626F006,서귀포 표선면,HM_AVG,99.0,Differs from 5 nearest neighbors by 21.2 (Neighbor Mean: 77.8),Spatial Outlier
+20170409,RDA,063641F007,서귀포 성산읍,HM_AVG,54.0,Differs from 5 nearest neighbors by 32.8 (Neighbor Mean: 86.8),Spatial Outlier
+20170409,RDA,467800A001,이천시 중리동,SI_DAY,7.64,Differs from 5 nearest neighbors by 9.7 (Neighbor Mean: 17.3),Spatial Outlier
+20170409,RDA,469803A001,여주시 상거동,SI_DAY,0.0,Differs from 5 nearest neighbors by 14.3 (Neighbor Mean: 14.3),Spatial Outlier
+20170409,RDA,476801A001,양평군 양평읍,SI_DAY,16.25,Differs from 5 nearest neighbors by 9.1 (Neighbor Mean: 7.2),Spatial Outlier
+20170409,RDA,477802A001,가평군 가평읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 17.1 (Neighbor Mean: 17.1),Spatial Outlier
+20170409,RDA,486831E011,연천군 신서면,SI_DAY,21.35,Differs from 5 nearest neighbors by 9.6 (Neighbor Mean: 11.7),Spatial Outlier
+20170409,RDA,365803A001,진천군 진천읍,SI_DAY,10.57,Differs from 5 nearest neighbors by 9.6 (Neighbor Mean: 20.2),Spatial Outlier
+20170409,RDA,320862A001,논산시 광석면,SI_DAY,12.51,Differs from 5 nearest neighbors by 7.5 (Neighbor Mean: 20.1),Spatial Outlier
+20170409,RDA,220844A001,원주시 흥업면,SI_DAY,0.0,Differs from 5 nearest neighbors by 9.7 (Neighbor Mean: 9.7),Spatial Outlier
+20170409,RDA,355831A001,보령시 주교면,SI_DAY,30.66,Differs from 5 nearest neighbors by 15.0 (Neighbor Mean: 15.7),Spatial Outlier
+20170409,RDA,345802A001,청양군 청양읍,SI_DAY,3.39,Differs from 5 nearest neighbors by 18.7 (Neighbor Mean: 22.0),Spatial Outlier
+20170409,RDA,590834E001,남원시 운봉읍,SI_DAY,5.34,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 13.4),Spatial Outlier
+20170409,RDA,477802A001,가평군 가평읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 5.8 (Neighbor Mean: 5.8),Spatial Outlier
+20170409,RDA,355831A001,보령시 주교면,SS_DAY,0.0,Differs from 5 nearest neighbors by 7.2 (Neighbor Mean: 7.2),Spatial Outlier
+20170409,RDA,345802A001,청양군 청양읍,SS_DAY,1.75,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 6.2),Spatial Outlier
+20170409,RDA,667831A001,하동군 적량면,SS_DAY,0.0,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 4.5),Spatial Outlier
