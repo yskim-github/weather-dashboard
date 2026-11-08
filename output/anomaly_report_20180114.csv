@@ -1,0 +1,47 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20180114,AWS,503,503,TA_MAX,-5.4,"Exceeds 3.5 Sigma (Mean: 7.1, Std: 2.2)",Statistical Outlier
+20180114,RDA,449872A001,용인시 처인구,TA_MAX,-4.8,"Exceeds 3.5 Sigma (Mean: 7.1, Std: 2.2)",Statistical Outlier
+20180114,ASOS,100,100,WS_AVG,4.5,"Exceeds 3.5 Sigma (Mean: 1.1, Std: 0.9)",Statistical Outlier
+20180114,ASOS,102,102,WS_AVG,7.5,"Exceeds 3.5 Sigma (Mean: 1.1, Std: 0.9)",Statistical Outlier
+20180114,ASOS,185,185,WS_AVG,4.6,"Exceeds 3.5 Sigma (Mean: 1.1, Std: 0.9)",Statistical Outlier
+20180114,RDA,026002D003,태백시 매봉산,WS_AVG,4.68,"Exceeds 3.5 Sigma (Mean: 1.1, Std: 0.9)",Statistical Outlier
+20180114,RDA,409911A001,옹진군 백령면,WS_AVG,5.8,"Exceeds 3.5 Sigma (Mean: 1.1, Std: 0.9)",Statistical Outlier
+20180114,ASOS,105,105,HM_AVG,35.6,"Exceeds 3.5 Sigma (Mean: 74.5, Std: 10.8)",Statistical Outlier
+20180114,RDA,312831A001,금산군 금성면,HM_AVG,7.3,"Exceeds 3.5 Sigma (Mean: 74.5, Std: 10.8)",Statistical Outlier
+20180114,RDA,621100A001,김해시 전하동,HM_AVG,13.5,"Exceeds 3.5 Sigma (Mean: 74.5, Std: 10.8)",Statistical Outlier
+20180114,ASOS,130,130,TA_AVG,3.0,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: -1.9),Spatial Outlier
+20180114,ASOS,277,277,TA_AVG,1.5,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: -3.2),Spatial Outlier
+20180114,AWS,470,470,TA_MAX,8.1,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 3.6),Spatial Outlier
+20180114,AWS,969,969,TA_MAX,13.4,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 8.2),Spatial Outlier
+20180114,RDA,520943A002,나주시 문평면,TA_MAX,12.9,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 8.1),Spatial Outlier
+20180114,AWS,116,116,TA_MIN,-4.8,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: -5.5),Spatial Outlier
+20180114,AWS,151,151,TA_MIN,-8.6,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: -3.6),Spatial Outlier
+20180114,AWS,175,175,TA_MIN,-1.4,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: -3.4),Spatial Outlier
+20180114,AWS,659,659,TA_MIN,-5.6,Differs from 5 nearest neighbors by 6.0 (Neighbor Mean: -6.2),Spatial Outlier
+20180114,AWS,694,694,TA_MIN,-3.8,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: -7.5),Spatial Outlier
+20180114,AWS,695,695,TA_MIN,-7.9,Differs from 5 nearest neighbors by 6.2 (Neighbor Mean: -7.3),Spatial Outlier
+20180114,AWS,724,724,TA_MIN,3.7,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: -1.2),Spatial Outlier
+20180114,AWS,753,753,TA_MIN,-6.5,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 4.7),Spatial Outlier
+20180114,AWS,790,790,TA_MIN,0.6,Differs from 5 nearest neighbors by 5.8 (Neighbor Mean: -4.3),Spatial Outlier
+20180114,AWS,872,872,TA_MIN,-7.8,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: -6.8),Spatial Outlier
+20180114,AWS,873,873,TA_MIN,-6.8,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: -5.9),Spatial Outlier
+20180114,AWS,911,911,TA_MIN,2.5,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: -1.6),Spatial Outlier
+20180114,AWS,958,958,TA_MIN,1.1,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: -3.7),Spatial Outlier
+20180114,AWS,959,959,TA_MIN,4.5,Differs from 5 nearest neighbors by 6.5 (Neighbor Mean: -1.9),Spatial Outlier
+20180114,AWS,961,961,TA_MIN,4.6,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: -0.8),Spatial Outlier
+20180114,AWS,963,963,TA_MIN,1.6,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: -3.4),Spatial Outlier
+20180114,RDA,555130A001,여수시 주삼동,TA_MIN,-5.8,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: -1.1),Spatial Outlier
+20180114,RDA,409871A001,옹진군 영흥면,TA_MIN,-8.5,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: -3.5),Spatial Outlier
+20180114,ASOS,130,130,HM_AVG,43.4,Differs from 5 nearest neighbors by 21.3 (Neighbor Mean: 64.7),Spatial Outlier
+20180114,ASOS,257,257,HM_AVG,78.3,Differs from 5 nearest neighbors by 20.5 (Neighbor Mean: 57.8),Spatial Outlier
+20180114,RDA,618803A001,부산시 강서구,HM_AVG,81.7,Differs from 5 nearest neighbors by 21.3 (Neighbor Mean: 60.4),Spatial Outlier
+20180114,ASOS,129,129,SI_DAY,5.14,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 13.4),Spatial Outlier
+20180114,RDA,469803A001,여주시 상거동,SI_DAY,0.0,Differs from 5 nearest neighbors by 12.3 (Neighbor Mean: 12.3),Spatial Outlier
+20180114,RDA,477802A001,가평군 가평읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 8.0),Spatial Outlier
+20180114,RDA,017414F020,이천시 장호원,SI_DAY,21.83,Differs from 5 nearest neighbors by 15.6 (Neighbor Mean: 6.3),Spatial Outlier
+20180114,RDA,320862A001,논산시 광석면,SI_DAY,0.79,Differs from 5 nearest neighbors by 8.9 (Neighbor Mean: 9.7),Spatial Outlier
+20180114,RDA,355831A001,보령시 주교면,SI_DAY,22.57,Differs from 5 nearest neighbors by 13.0 (Neighbor Mean: 9.6),Spatial Outlier
+20180114,RDA,712851A001,경산시 자인면,SI_DAY,22.51,Differs from 5 nearest neighbors by 10.7 (Neighbor Mean: 11.8),Spatial Outlier
+20180114,RDA,670807A001,거창군 거창읍,SI_DAY,0.62,Differs from 5 nearest neighbors by 9.3 (Neighbor Mean: 9.9),Spatial Outlier
+20180114,ASOS,162,162,SS_DAY,0.0,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 5.0),Spatial Outlier
+20180114,RDA,476801A001,양평군 양평읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 5.2),Spatial Outlier
