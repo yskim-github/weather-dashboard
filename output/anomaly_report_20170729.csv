@@ -1,0 +1,33 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20170729,RDA,449872A001,용인시 처인구,SI_DAY,34.42,Out of physical range (0~31.5),Range/Logic Error
+20170729,RDA,449872A001,용인시 처인구,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170729,RDA,449872A001,용인시 처인구,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170729,RDA,449872A001,용인시 처인구,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170729,RDA,449872A001,용인시 처인구,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170729,RDA,449872A001,용인시 처인구,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170729,RDA,449872A001,용인시 처인구,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170729,RDA,449872A001,용인시 처인구,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170729,RDA,365803A001,진천군 진천읍,SI_DAY,39.98,Out of physical range (0~31.5),Range/Logic Error
+20170729,RDA,365803A001,진천군 진천읍,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170729,RDA,365803A001,진천군 진천읍,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170729,RDA,365803A001,진천군 진천읍,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170729,RDA,365803A001,진천군 진천읍,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170729,RDA,365803A001,진천군 진천읍,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170729,RDA,365803A001,진천군 진천읍,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170729,RDA,365803A001,진천군 진천읍,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20170729,RDA,050124D004,거창군 동변리,TA_AVG,24.8,Tavg not between Tmax(31.2) and Tmin(25.9),Range/Logic Error
+20170729,AWS,229,229,TA_MAX,30.9,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 26.8),Spatial Outlier
+20170729,ASOS,131,131,SI_DAY,13.21,Differs from 5 nearest neighbors by 9.6 (Neighbor Mean: 22.9),Spatial Outlier
+20170729,ASOS,184,184,SI_DAY,22.4,Differs from 5 nearest neighbors by 10.1 (Neighbor Mean: 12.3),Spatial Outlier
+20170729,ASOS,259,259,SI_DAY,4.01,Differs from 5 nearest neighbors by 10.3 (Neighbor Mean: 14.3),Spatial Outlier
+20170729,RDA,456871A001,안성시 보개면,SI_DAY,16.8,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 24.5),Spatial Outlier
+20170729,RDA,469803A001,여주시 상거동,SI_DAY,0.0,Differs from 5 nearest neighbors by 15.2 (Neighbor Mean: 15.2),Spatial Outlier
+20170729,RDA,477802A001,가평군 가평읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 10.5 (Neighbor Mean: 10.5),Spatial Outlier
+20170729,RDA,320862A001,논산시 광석면,SI_DAY,3.35,Differs from 5 nearest neighbors by 16.0 (Neighbor Mean: 19.3),Spatial Outlier
+20170729,RDA,312831A001,금산군 금성면,SI_DAY,7.97,Differs from 5 nearest neighbors by 8.8 (Neighbor Mean: 16.8),Spatial Outlier
+20170729,RDA,355831A001,보령시 주교면,SI_DAY,28.26,Differs from 5 nearest neighbors by 13.6 (Neighbor Mean: 14.7),Spatial Outlier
+20170729,RDA,513842A001,영광군 군서면,SI_DAY,12.38,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 20.3),Spatial Outlier
+20170729,RDA,699946A001,서귀포 하례리,SI_DAY,0.14,Differs from 5 nearest neighbors by 17.4 (Neighbor Mean: 17.5),Spatial Outlier
+20170729,ASOS,133,133,SS_DAY,7.2,Differs from 5 nearest neighbors by 4.4 (Neighbor Mean: 2.8),Spatial Outlier
+20170729,RDA,233852A001,정선군 정선읍,SS_DAY,7.433333333333334,Differs from 5 nearest neighbors by 6.8 (Neighbor Mean: 0.6),Spatial Outlier
+20170729,RDA,063352B012,제주시 세화리,SS_DAY,0.0,Differs from 5 nearest neighbors by 7.5 (Neighbor Mean: 7.5),Spatial Outlier
