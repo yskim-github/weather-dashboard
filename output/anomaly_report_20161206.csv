@@ -1,0 +1,53 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20161206,RDA,464030A001,광주시 목현동,SI_DAY,39.77,Out of physical range (0~31.5),Range/Logic Error
+20161206,RDA,464030A001,광주시 목현동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20161206,RDA,464030A001,광주시 목현동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20161206,RDA,464030A001,광주시 목현동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20161206,RDA,464030A001,광주시 목현동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20161206,RDA,464030A001,광주시 목현동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20161206,RDA,464030A001,광주시 목현동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20161206,RDA,464030A001,광주시 목현동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20161206,ASOS,165,165,WS_AVG,6.4,"Exceeds 3.5 Sigma (Mean: 2.2, Std: 1.1)",Statistical Outlier
+20161206,ASOS,169,169,WS_AVG,7.9,"Exceeds 3.5 Sigma (Mean: 2.2, Std: 1.1)",Statistical Outlier
+20161206,ASOS,185,185,WS_AVG,10.0,"Exceeds 3.5 Sigma (Mean: 2.2, Std: 1.1)",Statistical Outlier
+20161206,RDA,063626F006,서귀포 표선면,HM_AVG,96.1,"Exceeds 3.5 Sigma (Mean: 51.0, Std: 10.4)",Statistical Outlier
+20161206,RDA,472830A001,남양주 진건읍,TA_MAX,-1.4,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 3.8),Spatial Outlier
+20161206,RDA,051394A001,창원시 대산면,TA_MAX,14.8,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 9.7),Spatial Outlier
+20161206,AWS,636,636,TA_MIN,-8.9,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: -2.7),Spatial Outlier
+20161206,AWS,851,851,TA_MIN,-6.7,Differs from 5 nearest neighbors by 5.9 (Neighbor Mean: -0.3),Spatial Outlier
+20161206,AWS,852,852,TA_MIN,2.4,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: -2.0),Spatial Outlier
+20161206,AWS,933,933,TA_MIN,-4.8,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 0.5),Spatial Outlier
+20161206,AWS,959,959,TA_MIN,5.1,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 0.3),Spatial Outlier
+20161206,RDA,555130A001,여수시 주삼동,TA_MIN,-2.6,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 2.7),Spatial Outlier
+20161206,RDA,689861A001,울주군 청량읍,TA_MIN,-5.2,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: -0.3),Spatial Outlier
+20161206,RDA,409871A001,옹진군 영흥면,TA_MIN,-6.3,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: -1.4),Spatial Outlier
+20161206,ASOS,98,98,HM_AVG,35.6,Differs from 5 nearest neighbors by 21.7 (Neighbor Mean: 57.3),Spatial Outlier
+20161206,ASOS,105,105,HM_AVG,28.4,Differs from 5 nearest neighbors by 26.8 (Neighbor Mean: 55.2),Spatial Outlier
+20161206,ASOS,115,115,HM_AVG,68.6,Differs from 5 nearest neighbors by 29.7 (Neighbor Mean: 38.9),Spatial Outlier
+20161206,RDA,343808A001,당진시 당진읍,HM_AVG,25.7,Differs from 5 nearest neighbors by 25.6 (Neighbor Mean: 51.3),Spatial Outlier
+20161206,RDA,063641F007,서귀포 성산읍,HM_AVG,19.9,Differs from 5 nearest neighbors by 50.4 (Neighbor Mean: 70.3),Spatial Outlier
+20161206,ASOS,115,115,SI_DAY,2.91,Differs from 5 nearest neighbors by 8.3 (Neighbor Mean: 11.2),Spatial Outlier
+20161206,ASOS,129,129,SI_DAY,8.76,Differs from 5 nearest neighbors by 12.3 (Neighbor Mean: 21.0),Spatial Outlier
+20161206,ASOS,177,177,SI_DAY,11.52,Differs from 5 nearest neighbors by 9.0 (Neighbor Mean: 20.5),Spatial Outlier
+20161206,RDA,449872A001,용인시 처인구,SI_DAY,0.05,Differs from 5 nearest neighbors by 16.2 (Neighbor Mean: 16.3),Spatial Outlier
+20161206,RDA,477802A001,가평군 가평읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 10.3 (Neighbor Mean: 10.3),Spatial Outlier
+20161206,RDA,415743A001,김포시 월곶면,SI_DAY,1.9,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 10.0),Spatial Outlier
+20161206,RDA,472830A001,남양주 진건읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 14.3 (Neighbor Mean: 14.3),Spatial Outlier
+20161206,RDA,355831A001,보령시 주교면,SI_DAY,25.78,Differs from 5 nearest neighbors by 8.3 (Neighbor Mean: 17.5),Spatial Outlier
+20161206,RDA,345802A001,청양군 청양읍,SI_DAY,27.07,Differs from 5 nearest neighbors by 9.2 (Neighbor Mean: 17.8),Spatial Outlier
+20161206,RDA,350808A001,홍성군 홍성읍,SI_DAY,30.33,Differs from 5 nearest neighbors by 13.7 (Neighbor Mean: 16.6),Spatial Outlier
+20161206,RDA,323814A001,부여군 규암면,SI_DAY,9.78,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 17.4),Spatial Outlier
+20161206,RDA,548912A001,고흥군 풍양면,SI_DAY,23.81,Differs from 5 nearest neighbors by 12.3 (Neighbor Mean: 11.5),Spatial Outlier
+20161206,RDA,712851A001,경산시 자인면,SI_DAY,27.71,Differs from 5 nearest neighbors by 16.4 (Neighbor Mean: 11.3),Spatial Outlier
+20161206,RDA,037268B004,상주시 공성면,SI_DAY,0.16,Differs from 5 nearest neighbors by 9.8 (Neighbor Mean: 9.9),Spatial Outlier
+20161206,RDA,764803A001,영양군 영양읍,SI_DAY,0.64,Differs from 5 nearest neighbors by 10.6 (Neighbor Mean: 11.3),Spatial Outlier
+20161206,RDA,670807A001,거창군 거창읍,SI_DAY,0.6,Differs from 5 nearest neighbors by 10.7 (Neighbor Mean: 11.3),Spatial Outlier
+20161206,RDA,699946A001,서귀포 하례리,SI_DAY,0.39,Differs from 5 nearest neighbors by 11.8 (Neighbor Mean: 12.2),Spatial Outlier
+20161206,ASOS,115,115,SS_DAY,2.6,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 8.2),Spatial Outlier
+20161206,ASOS,202,202,SS_DAY,8.8,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 3.4),Spatial Outlier
+20161206,RDA,476801A001,양평군 양평읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 5.2),Spatial Outlier
+20161206,RDA,477802A001,가평군 가평읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 6.9 (Neighbor Mean: 6.9),Spatial Outlier
+20161206,RDA,472830A001,남양주 진건읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 8.9 (Neighbor Mean: 8.9),Spatial Outlier
+20161206,RDA,567801A002,진안군 진안읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 8.6 (Neighbor Mean: 8.6),Spatial Outlier
+20161206,RDA,742290A001,상주시 초산동,SS_DAY,2.3333333333333335,Differs from 5 nearest neighbors by 6.2 (Neighbor Mean: 8.5),Spatial Outlier
+20161206,RDA,667831A001,하동군 적량면,SS_DAY,0.0,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 8.5),Spatial Outlier
