@@ -1,0 +1,54 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20160803,RDA,464030A001,광주시 목현동,SI_DAY,39.9,Out of physical range (0~31.5),Range/Logic Error
+20160803,RDA,464030A001,광주시 목현동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20160803,RDA,464030A001,광주시 목현동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20160803,RDA,464030A001,광주시 목현동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20160803,RDA,464030A001,광주시 목현동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20160803,RDA,464030A001,광주시 목현동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20160803,RDA,464030A001,광주시 목현동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20160803,RDA,464030A001,광주시 목현동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20160803,AWS,867,867,TA_MIN,17.6,"Exceeds 3.5 Sigma (Mean: 23.3, Std: 1.0)",Statistical Outlier
+20160803,ASOS,168,168,WS_AVG,2.7,"Exceeds 3.5 Sigma (Mean: 0.9, Std: 0.5)",Statistical Outlier
+20160803,RDA,343808A001,당진시 당진읍,HM_AVG,39.1,"Exceeds 3.5 Sigma (Mean: 83.9, Std: 7.1)",Statistical Outlier
+20160803,AWS,311,311,TA_MAX,25.9,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 34.4),Spatial Outlier
+20160803,RDA,050124D004,거창군 동변리,TA_MAX,37.5,Differs from 5 nearest neighbors by 6.5 (Neighbor Mean: 32.9),Spatial Outlier
+20160803,AWS,695,695,TA_MIN,19.3,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 21.5),Spatial Outlier
+20160803,ASOS,114,114,SI_DAY,21.39,Differs from 5 nearest neighbors by 9.8 (Neighbor Mean: 11.5),Spatial Outlier
+20160803,ASOS,259,259,SI_DAY,5.89,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 13.8),Spatial Outlier
+20160803,RDA,456871A001,안성시 보개면,SI_DAY,0.0,Differs from 5 nearest neighbors by 16.0 (Neighbor Mean: 16.0),Spatial Outlier
+20160803,RDA,469803A001,여주시 상거동,SI_DAY,0.0,Differs from 5 nearest neighbors by 13.1 (Neighbor Mean: 13.1),Spatial Outlier
+20160803,RDA,476801A001,양평군 양평읍,SI_DAY,23.2,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 15.1),Spatial Outlier
+20160803,RDA,486803A001,연천군 연천읍,SI_DAY,27.16,Differs from 5 nearest neighbors by 9.2 (Neighbor Mean: 18.0),Spatial Outlier
+20160803,RDA,449872A001,용인시 처인구,SI_DAY,1.35,Differs from 5 nearest neighbors by 18.4 (Neighbor Mean: 19.8),Spatial Outlier
+20160803,RDA,477802A001,가평군 가평읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 21.9 (Neighbor Mean: 21.9),Spatial Outlier
+20160803,RDA,486831E011,연천군 신서면,SI_DAY,26.97,Differs from 5 nearest neighbors by 8.9 (Neighbor Mean: 18.0),Spatial Outlier
+20160803,RDA,365803A001,진천군 진천읍,SI_DAY,19.06,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 10.9),Spatial Outlier
+20160803,RDA,240813A001,동해시 북평동,SI_DAY,23.53,Differs from 5 nearest neighbors by 9.3 (Neighbor Mean: 14.2),Spatial Outlier
+20160803,RDA,220844A001,원주시 흥업면,SI_DAY,0.0,Differs from 5 nearest neighbors by 15.8 (Neighbor Mean: 15.8),Spatial Outlier
+20160803,RDA,233852A002,정선군 임계면,SI_DAY,7.67,Differs from 5 nearest neighbors by 12.1 (Neighbor Mean: 19.8),Spatial Outlier
+20160803,RDA,200821A001,춘천시 신북읍,SI_DAY,26.08,Differs from 5 nearest neighbors by 10.1 (Neighbor Mean: 16.0),Spatial Outlier
+20160803,RDA,032528A001,공주시 우성면,SI_DAY,23.02,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 15.1),Spatial Outlier
+20160803,RDA,345802A001,청양군 청양읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 17.4 (Neighbor Mean: 17.4),Spatial Outlier
+20160803,RDA,590834E001,남원시 운봉읍,SI_DAY,6.99,Differs from 5 nearest neighbors by 9.9 (Neighbor Mean: 16.9),Spatial Outlier
+20160803,RDA,567801A002,진안군 진안읍,SI_DAY,23.61,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 15.8),Spatial Outlier
+20160803,RDA,548912A001,고흥군 풍양면,SI_DAY,23.07,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 14.9),Spatial Outlier
+20160803,RDA,764803A001,영양군 영양읍,SI_DAY,0.54,Differs from 5 nearest neighbors by 17.4 (Neighbor Mean: 17.9),Spatial Outlier
+20160803,RDA,750873A002,영주시 안풍리,SI_DAY,27.95,Differs from 5 nearest neighbors by 10.9 (Neighbor Mean: 17.0),Spatial Outlier
+20160803,RDA,770270A001,영천시 오미동,SI_DAY,6.21,Differs from 5 nearest neighbors by 9.4 (Neighbor Mean: 15.7),Spatial Outlier
+20160803,RDA,670807A001,거창군 거창읍,SI_DAY,3.13,Differs from 5 nearest neighbors by 13.7 (Neighbor Mean: 16.8),Spatial Outlier
+20160803,RDA,618803A001,부산시 강서구,SI_DAY,24.75,Differs from 5 nearest neighbors by 10.7 (Neighbor Mean: 14.0),Spatial Outlier
+20160803,ASOS,101,101,SS_DAY,10.3,Differs from 5 nearest neighbors by 4.3 (Neighbor Mean: 6.0),Spatial Outlier
+20160803,ASOS,177,177,SS_DAY,12.3,Differs from 5 nearest neighbors by 6.8 (Neighbor Mean: 5.5),Spatial Outlier
+20160803,ASOS,202,202,SS_DAY,11.2,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 6.1),Spatial Outlier
+20160803,RDA,026002D003,태백시 매봉산,SS_DAY,3.3,Differs from 5 nearest neighbors by 4.4 (Neighbor Mean: 7.7),Spatial Outlier
+20160803,RDA,476801A001,양평군 양평읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 8.3 (Neighbor Mean: 8.3),Spatial Outlier
+20160803,RDA,477802A001,가평군 가평읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 9.1 (Neighbor Mean: 9.1),Spatial Outlier
+20160803,RDA,355831A001,보령시 주교면,SS_DAY,0.0,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 7.6),Spatial Outlier
+20160803,RDA,567801A002,진안군 진안읍,SS_DAY,8.266666666666667,Differs from 5 nearest neighbors by 4.3 (Neighbor Mean: 4.0),Spatial Outlier
+20160803,RDA,664951A001,사천시 용현면,SS_DAY,8.4,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 3.3),Spatial Outlier
+20160803,RDA,667831A001,하동군 적량면,SS_DAY,0.0,Differs from 5 nearest neighbors by 5.8 (Neighbor Mean: 5.8),Spatial Outlier
+20160803,AWS,702,702,RN_DAY,40.3,Differs from 5 nearest neighbors by 39.7 (Neighbor Mean: 0.6),Spatial Outlier
+20160803,AWS,758,758,RN_DAY,32.0,Differs from 5 nearest neighbors by 29.3 (Neighbor Mean: 2.7),Spatial Outlier
+20160803,AWS,836,836,RN_DAY,42.0,Differs from 5 nearest neighbors by 41.4 (Neighbor Mean: 0.6),Spatial Outlier
+20160803,AWS,856,856,RN_DAY,40.5,Differs from 5 nearest neighbors by 39.9 (Neighbor Mean: 0.6),Spatial Outlier
+20160803,RDA,476801A001,양평군 양평읍,RN_DAY,30.5,Differs from 5 nearest neighbors by 30.5 (Neighbor Mean: 0.0),Spatial Outlier
