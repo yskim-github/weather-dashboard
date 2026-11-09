@@ -1,0 +1,33 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20160917,RDA,464030A001,광주시 목현동,SI_DAY,39.55,Out of physical range (0~31.5),Range/Logic Error
+20160917,RDA,464030A001,광주시 목현동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20160917,RDA,464030A001,광주시 목현동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20160917,RDA,464030A001,광주시 목현동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20160917,RDA,464030A001,광주시 목현동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20160917,RDA,464030A001,광주시 목현동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20160917,RDA,464030A001,광주시 목현동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20160917,RDA,464030A001,광주시 목현동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20160917,RDA,050124D004,거창군 동변리,TA_AVG,18.7,Tavg not between Tmax(23.6) and Tmin(20.5),Range/Logic Error
+20160917,ASOS,184,184,TA_AVG,26.8,"Exceeds 3.5 Sigma (Mean: 21.0, Std: 1.3)",Statistical Outlier
+20160917,AWS,184,184,TA_MIN,24.7,"Exceeds 3.5 Sigma (Mean: 19.4, Std: 1.5)",Statistical Outlier
+20160917,AWS,727,727,TA_MIN,22.2,"Exceeds 3.5 Sigma (Mean: 19.4, Std: 1.5)",Statistical Outlier
+20160917,AWS,753,753,TA_MIN,20.0,"Exceeds 3.5 Sigma (Mean: 19.4, Std: 1.5)",Statistical Outlier
+20160917,AWS,862,862,TA_MIN,24.3,"Exceeds 3.5 Sigma (Mean: 19.4, Std: 1.5)",Statistical Outlier
+20160917,AWS,866,866,TA_MIN,20.8,"Exceeds 3.5 Sigma (Mean: 19.4, Std: 1.5)",Statistical Outlier
+20160917,AWS,867,867,TA_MIN,16.1,"Exceeds 3.5 Sigma (Mean: 19.4, Std: 1.5)",Statistical Outlier
+20160917,AWS,868,868,TA_MIN,16.5,"Exceeds 3.5 Sigma (Mean: 19.4, Std: 1.5)",Statistical Outlier
+20160917,AWS,869,869,TA_MIN,17.2,"Exceeds 3.5 Sigma (Mean: 19.4, Std: 1.5)",Statistical Outlier
+20160917,AWS,870,870,TA_MIN,15.7,"Exceeds 3.5 Sigma (Mean: 19.4, Std: 1.5)",Statistical Outlier
+20160917,AWS,871,871,TA_MIN,14.6,"Exceeds 3.5 Sigma (Mean: 19.4, Std: 1.5)",Statistical Outlier
+20160917,AWS,960,960,TA_MIN,24.9,"Exceeds 3.5 Sigma (Mean: 19.4, Std: 1.5)",Statistical Outlier
+20160917,ASOS,168,168,WS_AVG,8.4,"Exceeds 3.5 Sigma (Mean: 1.7, Std: 1.3)",Statistical Outlier
+20160917,ASOS,169,169,WS_AVG,7.3,"Exceeds 3.5 Sigma (Mean: 1.7, Std: 1.3)",Statistical Outlier
+20160917,ASOS,185,185,WS_AVG,8.0,"Exceeds 3.5 Sigma (Mean: 1.7, Std: 1.3)",Statistical Outlier
+20160917,ASOS,108,108,HM_AVG,64.8,"Exceeds 3.5 Sigma (Mean: 93.1, Std: 7.8)",Statistical Outlier
+20160917,RDA,343808A001,당진시 당진읍,HM_AVG,45.9,"Exceeds 3.5 Sigma (Mean: 93.1, Std: 7.8)",Statistical Outlier
+20160917,ASOS,119,119,SI_DAY,8.68,Differs from 5 nearest neighbors by 8.4 (Neighbor Mean: 17.1),Spatial Outlier
+20160917,RDA,449872A001,용인시 처인구,SI_DAY,0.43,Differs from 5 nearest neighbors by 12.3 (Neighbor Mean: 12.7),Spatial Outlier
+20160917,RDA,409911A001,옹진군 백령면,SI_DAY,19.02,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 11.3),Spatial Outlier
+20160917,ASOS,101,101,SS_DAY,6.6,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 2.0),Spatial Outlier
+20160917,RDA,477802A001,가평군 가평읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 5.3),Spatial Outlier
+20160917,RDA,240813A001,동해시 북평동,SS_DAY,8.216666666666667,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 0.0),Spatial Outlier
