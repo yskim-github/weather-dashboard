@@ -1,0 +1,39 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20151127,RDA,345802A001,청양군 청양읍,SI_DAY,39.57,Out of physical range (0~31.5),Range/Logic Error
+20151127,RDA,345802A001,청양군 청양읍,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20151127,RDA,345802A001,청양군 청양읍,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20151127,RDA,345802A001,청양군 청양읍,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20151127,RDA,345802A001,청양군 청양읍,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20151127,RDA,345802A001,청양군 청양읍,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20151127,RDA,345802A001,청양군 청양읍,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20151127,RDA,345802A001,청양군 청양읍,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20151127,AWS,763,763,TA_MAX,24.9,"Exceeds 3.5 Sigma (Mean: 4.6, Std: 2.9)",Statistical Outlier
+20151127,ASOS,185,185,WS_AVG,12.1,"Exceeds 3.5 Sigma (Mean: 2.2, Std: 1.6)",Statistical Outlier
+20151127,RDA,215821A001,양양군 양양읍,WS_AVG,8.19,"Exceeds 3.5 Sigma (Mean: 2.2, Std: 1.6)",Statistical Outlier
+20151127,RDA,235270E001,태백 귀네미골,TA_AVG,-7.4,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 2.3),Spatial Outlier
+20151127,AWS,644,644,TA_MAX,1.7,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 7.4),Spatial Outlier
+20151127,AWS,702,702,TA_MAX,1.7,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 7.1),Spatial Outlier
+20151127,AWS,967,967,TA_MAX,12.1,Differs from 5 nearest neighbors by 11.3 (Neighbor Mean: 1.2),Spatial Outlier
+20151127,AWS,473,473,TA_MIN,-3.0,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: -7.5),Spatial Outlier
+20151127,ASOS,90,90,HM_AVG,31.8,Differs from 5 nearest neighbors by 28.1 (Neighbor Mean: 59.9),Spatial Outlier
+20151127,ASOS,104,104,HM_AVG,37.4,Differs from 5 nearest neighbors by 26.9 (Neighbor Mean: 64.3),Spatial Outlier
+20151127,ASOS,105,105,HM_AVG,35.0,Differs from 5 nearest neighbors by 29.7 (Neighbor Mean: 64.7),Spatial Outlier
+20151127,ASOS,106,106,HM_AVG,32.8,Differs from 5 nearest neighbors by 20.1 (Neighbor Mean: 52.9),Spatial Outlier
+20151127,RDA,343808A001,당진시 당진읍,HM_AVG,43.1,Differs from 5 nearest neighbors by 46.1 (Neighbor Mean: 89.2),Spatial Outlier
+20151127,RDA,235270E001,태백 귀네미골,HM_AVG,74.2,Differs from 5 nearest neighbors by 26.8 (Neighbor Mean: 47.4),Spatial Outlier
+20151127,RDA,355831A001,보령시 주교면,HM_AVG,60.6,Differs from 5 nearest neighbors by 32.9 (Neighbor Mean: 93.5),Spatial Outlier
+20151127,RDA,036052B006,영주시 용산리,HM_AVG,40.7,Differs from 5 nearest neighbors by 21.4 (Neighbor Mean: 62.1),Spatial Outlier
+20151127,RDA,660985B001,진주시 초전동,HM_AVG,74.7,Differs from 5 nearest neighbors by 20.9 (Neighbor Mean: 53.8),Spatial Outlier
+20151127,RDA,664951A001,사천시 용현면,HM_AVG,29.3,Differs from 5 nearest neighbors by 35.5 (Neighbor Mean: 64.8),Spatial Outlier
+20151127,ASOS,253,253,SI_DAY,4.71,Differs from 5 nearest neighbors by 10.0 (Neighbor Mean: 14.7),Spatial Outlier
+20151127,RDA,336812A001,아산시 염치읍,SI_DAY,1.32,Differs from 5 nearest neighbors by 9.6 (Neighbor Mean: 10.9),Spatial Outlier
+20151127,RDA,477802A001,가평군 가평읍,SI_DAY,0.1,Differs from 5 nearest neighbors by 9.0 (Neighbor Mean: 9.1),Spatial Outlier
+20151127,RDA,245832A001,삼척시 근덕면,SI_DAY,18.31,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 10.2),Spatial Outlier
+20151127,RDA,350808A001,홍성군 홍성읍,SI_DAY,1.49,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 9.4),Spatial Outlier
+20151127,RDA,323814A001,부여군 규암면,SI_DAY,1.26,Differs from 5 nearest neighbors by 8.9 (Neighbor Mean: 10.2),Spatial Outlier
+20151127,RDA,712851A001,경산시 자인면,SI_DAY,17.42,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 9.8),Spatial Outlier
+20151127,RDA,638802A001,고성군 고성읍,SI_DAY,28.4,Differs from 5 nearest neighbors by 18.1 (Neighbor Mean: 10.3),Spatial Outlier
+20151127,RDA,618803A001,부산시 강서구,SI_DAY,22.28,Differs from 5 nearest neighbors by 11.1 (Neighbor Mean: 11.2),Spatial Outlier
+20151127,RDA,486803A001,연천군 연천읍,SS_DAY,0.5666666666666667,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 5.4),Spatial Outlier
+20151127,RDA,477802A001,가평군 가평읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 5.1),Spatial Outlier
+20151127,RDA,667831A001,하동군 적량면,SS_DAY,0.0,Differs from 5 nearest neighbors by 6.0 (Neighbor Mean: 6.0),Spatial Outlier
