@@ -1,0 +1,23 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20150820,RDA,380959A001,충주시 달천동,TA_MAX,37.2,"Exceeds 3.5 Sigma (Mean: 28.2, Std: 1.8)",Statistical Outlier
+20150820,AWS,726,726,TA_MIN,26.0,"Exceeds 3.5 Sigma (Mean: 22.5, Std: 1.0)",Statistical Outlier
+20150820,ASOS,168,168,WS_AVG,4.0,"Exceeds 3.5 Sigma (Mean: 0.9, Std: 0.6)",Statistical Outlier
+20150820,ASOS,169,169,WS_AVG,3.0,"Exceeds 3.5 Sigma (Mean: 0.9, Std: 0.6)",Statistical Outlier
+20150820,ASOS,185,185,WS_AVG,3.0,"Exceeds 3.5 Sigma (Mean: 0.9, Std: 0.6)",Statistical Outlier
+20150820,RDA,456871A001,안성시 보개면,HM_AVG,0.7,"Exceeds 3.5 Sigma (Mean: 87.3, Std: 9.8)",Statistical Outlier
+20150820,RDA,343808A001,당진시 당진읍,HM_AVG,41.5,"Exceeds 3.5 Sigma (Mean: 87.3, Std: 9.8)",Statistical Outlier
+20150820,RDA,355831A001,보령시 주교면,HM_AVG,23.6,"Exceeds 3.5 Sigma (Mean: 87.3, Std: 9.8)",Statistical Outlier
+20150820,ASOS,129,129,HM_AVG,91.1,Differs from 5 nearest neighbors by 26.8 (Neighbor Mean: 64.3),Spatial Outlier
+20150820,ASOS,232,232,HM_AVG,87.1,Differs from 5 nearest neighbors by 21.4 (Neighbor Mean: 65.7),Spatial Outlier
+20150820,RDA,449872A001,용인시 처인구,HM_AVG,90.4,Differs from 5 nearest neighbors by 23.3 (Neighbor Mean: 67.1),Spatial Outlier
+20150820,RDA,365803A001,진천군 진천읍,HM_AVG,89.6,Differs from 5 nearest neighbors by 24.0 (Neighbor Mean: 65.6),Spatial Outlier
+20150820,RDA,451873A001,평택시 오성면,HM_AVG,92.3,Differs from 5 nearest neighbors by 25.8 (Neighbor Mean: 66.5),Spatial Outlier
+20150820,RDA,456871A001,안성시 보개면,SI_DAY,0.0,Differs from 5 nearest neighbors by 8.3 (Neighbor Mean: 8.3),Spatial Outlier
+20150820,RDA,486803A001,연천군 연천읍,SI_DAY,18.05,Differs from 5 nearest neighbors by 10.2 (Neighbor Mean: 7.9),Spatial Outlier
+20150820,RDA,220844A001,원주시 흥업면,SI_DAY,0.0,Differs from 5 nearest neighbors by 11.1 (Neighbor Mean: 11.1),Spatial Outlier
+20150820,RDA,233852A001,정선군 정선읍,SI_DAY,1.09,Differs from 5 nearest neighbors by 9.5 (Neighbor Mean: 10.6),Spatial Outlier
+20150820,RDA,345802A001,청양군 청양읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 7.9),Spatial Outlier
+20150820,RDA,764803A001,영양군 영양읍,SI_DAY,0.54,Differs from 5 nearest neighbors by 8.3 (Neighbor Mean: 8.8),Spatial Outlier
+20150820,RDA,233852A001,정선군 정선읍,SS_DAY,9.266666666666667,Differs from 5 nearest neighbors by 6.3 (Neighbor Mean: 3.0),Spatial Outlier
+20150820,RDA,719862A001,성주군 대가면,SS_DAY,6.9,Differs from 5 nearest neighbors by 6.9 (Neighbor Mean: 0.0),Spatial Outlier
+20150820,AWS,110,110,RN_DAY,26.5,Differs from 5 nearest neighbors by 25.7 (Neighbor Mean: 0.8),Spatial Outlier
