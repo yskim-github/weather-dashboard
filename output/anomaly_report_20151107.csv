@@ -1,0 +1,26 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20151107,RDA,026136A003,정선군 신동읍,SI_DAY,38.98,Out of physical range (0~31.5),Range/Logic Error
+20151107,RDA,026136A003,정선군 신동읍,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20151107,RDA,026136A003,정선군 신동읍,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20151107,RDA,026136A003,정선군 신동읍,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20151107,RDA,026136A003,정선군 신동읍,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20151107,RDA,026136A003,정선군 신동읍,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20151107,RDA,026136A003,정선군 신동읍,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20151107,RDA,026136A003,정선군 신동읍,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20151107,AWS,753,753,TA_MAX,18.6,"Exceeds 3.5 Sigma (Mean: 15.2, Std: 2.6)",Statistical Outlier
+20151107,AWS,726,726,TA_MIN,20.1,"Exceeds 3.5 Sigma (Mean: 12.1, Std: 2.3)",Statistical Outlier
+20151107,AWS,855,855,TA_MIN,20.4,"Exceeds 3.5 Sigma (Mean: 12.1, Std: 2.3)",Statistical Outlier
+20151107,AWS,960,960,TA_MIN,20.7,"Exceeds 3.5 Sigma (Mean: 12.1, Std: 2.3)",Statistical Outlier
+20151107,ASOS,102,102,WS_AVG,12.8,"Exceeds 3.5 Sigma (Mean: 2.1, Std: 1.8)",Statistical Outlier
+20151107,ASOS,169,169,WS_AVG,10.9,"Exceeds 3.5 Sigma (Mean: 2.1, Std: 1.8)",Statistical Outlier
+20151107,RDA,343808A001,당진시 당진읍,HM_AVG,48.1,"Exceeds 3.5 Sigma (Mean: 92.2, Std: 8.9)",Statistical Outlier
+20151107,RDA,355831A001,보령시 주교면,HM_AVG,53.3,"Exceeds 3.5 Sigma (Mean: 92.2, Std: 8.9)",Statistical Outlier
+20151107,RDA,537807B004,완도군 완도읍,HM_AVG,1.0,"Exceeds 3.5 Sigma (Mean: 92.2, Std: 8.9)",Statistical Outlier
+20151107,AWS,314,314,TA_MAX,11.9,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 16.6),Spatial Outlier
+20151107,AWS,315,315,TA_MAX,14.2,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 16.2),Spatial Outlier
+20151107,AWS,872,872,TA_MAX,15.0,Differs from 5 nearest neighbors by 6.3 (Neighbor Mean: 14.4),Spatial Outlier
+20151107,RDA,486831E011,연천군 신서면,TA_MAX,16.0,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 11.7),Spatial Outlier
+20151107,ASOS,170,170,HM_AVG,98.6,Differs from 5 nearest neighbors by 23.5 (Neighbor Mean: 75.1),Spatial Outlier
+20151107,RDA,230802A001,영월군 영월읍,SI_DAY,1.56,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 9.1),Spatial Outlier
+20151107,RDA,232803A001,평창군 여만리,SI_DAY,1.16,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 9.0),Spatial Outlier
+20151107,RDA,345802A001,청양군 청양읍,SI_DAY,22.76,Differs from 5 nearest neighbors by 21.8 (Neighbor Mean: 0.9),Spatial Outlier
