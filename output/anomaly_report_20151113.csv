@@ -1,0 +1,25 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20151113,ASOS,184,184,TA_AVG,17.5,"Exceeds 3.5 Sigma (Mean: 12.6, Std: 1.3)",Statistical Outlier
+20151113,ASOS,185,185,TA_AVG,17.4,"Exceeds 3.5 Sigma (Mean: 12.6, Std: 1.3)",Statistical Outlier
+20151113,ASOS,188,188,TA_AVG,17.6,"Exceeds 3.5 Sigma (Mean: 12.6, Std: 1.3)",Statistical Outlier
+20151113,ASOS,189,189,TA_AVG,17.6,"Exceeds 3.5 Sigma (Mean: 12.6, Std: 1.3)",Statistical Outlier
+20151113,RDA,699946A001,서귀포 하례리,TA_AVG,16.9,"Exceeds 3.5 Sigma (Mean: 12.6, Std: 1.3)",Statistical Outlier
+20151113,AWS,727,727,TA_MAX,18.1,"Exceeds 3.5 Sigma (Mean: 14.6, Std: 1.7)",Statistical Outlier
+20151113,AWS,753,753,TA_MAX,16.6,"Exceeds 3.5 Sigma (Mean: 14.6, Std: 1.7)",Statistical Outlier
+20151113,AWS,870,870,TA_MAX,12.0,"Exceeds 3.5 Sigma (Mean: 14.6, Std: 1.7)",Statistical Outlier
+20151113,AWS,871,871,TA_MAX,11.6,"Exceeds 3.5 Sigma (Mean: 14.6, Std: 1.7)",Statistical Outlier
+20151113,AWS,960,960,TA_MAX,20.6,"Exceeds 3.5 Sigma (Mean: 14.6, Std: 1.7)",Statistical Outlier
+20151113,AWS,753,753,TA_MIN,11.5,"Exceeds 3.5 Sigma (Mean: 11.1, Std: 1.8)",Statistical Outlier
+20151113,AWS,855,855,TA_MIN,17.6,"Exceeds 3.5 Sigma (Mean: 11.1, Std: 1.8)",Statistical Outlier
+20151113,AWS,870,870,TA_MIN,8.1,"Exceeds 3.5 Sigma (Mean: 11.1, Std: 1.8)",Statistical Outlier
+20151113,AWS,871,871,TA_MIN,8.4,"Exceeds 3.5 Sigma (Mean: 11.1, Std: 1.8)",Statistical Outlier
+20151113,AWS,960,960,TA_MIN,17.6,"Exceeds 3.5 Sigma (Mean: 11.1, Std: 1.8)",Statistical Outlier
+20151113,ASOS,168,168,WS_AVG,8.3,"Exceeds 3.5 Sigma (Mean: 1.8, Std: 1.4)",Statistical Outlier
+20151113,RDA,449872A001,용인시 처인구,HM_AVG,33.7,"Exceeds 3.5 Sigma (Mean: 88.8, Std: 8.1)",Statistical Outlier
+20151113,RDA,343808A001,당진시 당진읍,HM_AVG,44.0,"Exceeds 3.5 Sigma (Mean: 88.8, Std: 8.1)",Statistical Outlier
+20151113,RDA,355831A001,보령시 주교면,HM_AVG,57.9,"Exceeds 3.5 Sigma (Mean: 88.8, Std: 8.1)",Statistical Outlier
+20151113,AWS,473,473,TA_MIN,13.3,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 8.9),Spatial Outlier
+20151113,RDA,036052B006,영주시 용산리,HM_AVG,66.7,Differs from 5 nearest neighbors by 20.1 (Neighbor Mean: 86.8),Spatial Outlier
+20151113,RDA,664951A001,사천시 용현면,HM_AVG,70.6,Differs from 5 nearest neighbors by 20.8 (Neighbor Mean: 91.4),Spatial Outlier
+20151113,RDA,345802A001,청양군 청양읍,SI_DAY,27.91,Differs from 5 nearest neighbors by 26.6 (Neighbor Mean: 1.3),Spatial Outlier
+20151113,RDA,638802A001,고성군 고성읍,SI_DAY,10.27,Differs from 5 nearest neighbors by 9.1 (Neighbor Mean: 1.1),Spatial Outlier
