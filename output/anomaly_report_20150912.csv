@@ -1,0 +1,15 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20150912,RDA,380959A001,충주시 달천동,TA_MAX,26.8,"Exceeds 3.5 Sigma (Mean: 22.9, Std: 1.2)",Statistical Outlier
+20150912,ASOS,168,168,WS_AVG,4.0,"Exceeds 3.5 Sigma (Mean: 1.1, Std: 0.8)",Statistical Outlier
+20150912,ASOS,185,185,WS_AVG,8.0,"Exceeds 3.5 Sigma (Mean: 1.1, Std: 0.8)",Statistical Outlier
+20150912,RDA,343808A001,당진시 당진읍,HM_AVG,41.1,"Exceeds 3.5 Sigma (Mean: 84.9, Std: 8.1)",Statistical Outlier
+20150912,RDA,355831A001,보령시 주교면,HM_AVG,47.8,"Exceeds 3.5 Sigma (Mean: 84.9, Std: 8.1)",Statistical Outlier
+20150912,AWS,372,372,TA_MIN,18.8,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 14.2),Spatial Outlier
+20150912,RDA,537807B004,완도군 완도읍,HM_AVG,67.6,Differs from 5 nearest neighbors by 21.9 (Neighbor Mean: 89.5),Spatial Outlier
+20150912,RDA,456871A001,안성시 보개면,SI_DAY,0.0,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 7.8),Spatial Outlier
+20150912,RDA,486803A001,연천군 연천읍,SI_DAY,21.42,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 13.6),Spatial Outlier
+20150912,RDA,220844A001,원주시 흥업면,SI_DAY,0.0,Differs from 5 nearest neighbors by 8.8 (Neighbor Mean: 8.8),Spatial Outlier
+20150912,RDA,209802A001,화천군 화천읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 12.5 (Neighbor Mean: 12.5),Spatial Outlier
+20150912,ASOS,99,99,SS_DAY,9.4,Differs from 5 nearest neighbors by 4.4 (Neighbor Mean: 5.0),Spatial Outlier
+20150912,RDA,477802A001,가평군 가평읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 4.4 (Neighbor Mean: 4.4),Spatial Outlier
+20150912,RDA,233852A001,정선군 정선읍,SS_DAY,10.466666666666667,Differs from 5 nearest neighbors by 9.1 (Neighbor Mean: 1.4),Spatial Outlier
