@@ -1,0 +1,25 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20160123,ASOS,169,169,WS_AVG,10.7,"Exceeds 3.5 Sigma (Mean: 3.2, Std: 1.7)",Statistical Outlier
+20160123,ASOS,185,185,WS_AVG,15.1,"Exceeds 3.5 Sigma (Mean: 3.2, Std: 1.7)",Statistical Outlier
+20160123,ASOS,115,115,HM_AVG,88.5,Differs from 5 nearest neighbors by 66.0 (Neighbor Mean: 22.5),Spatial Outlier
+20160123,RDA,656933A001,거제시 거제면,HM_AVG,0.3,Differs from 5 nearest neighbors by 29.1 (Neighbor Mean: 29.4),Spatial Outlier
+20160123,RDA,343808A001,당진시 당진읍,HM_AVG,34.9,Differs from 5 nearest neighbors by 34.8 (Neighbor Mean: 69.7),Spatial Outlier
+20160123,ASOS,114,114,SI_DAY,12.25,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 4.6),Spatial Outlier
+20160123,RDA,467800A001,이천시 중리동,SI_DAY,16.19,Differs from 5 nearest neighbors by 9.3 (Neighbor Mean: 6.8),Spatial Outlier
+20160123,RDA,469803A001,여주시 상거동,SI_DAY,0.0,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 8.2),Spatial Outlier
+20160123,RDA,486803A001,연천군 연천읍,SI_DAY,19.96,Differs from 5 nearest neighbors by 11.8 (Neighbor Mean: 8.1),Spatial Outlier
+20160123,RDA,449872A001,용인시 처인구,SI_DAY,0.02,Differs from 5 nearest neighbors by 12.0 (Neighbor Mean: 12.0),Spatial Outlier
+20160123,RDA,477802A001,가평군 가평읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 10.3 (Neighbor Mean: 10.3),Spatial Outlier
+20160123,RDA,233852A001,정선군 정선읍,SI_DAY,0.8,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 9.0),Spatial Outlier
+20160123,RDA,345802A001,청양군 청양읍,SI_DAY,19.94,Differs from 5 nearest neighbors by 10.1 (Neighbor Mean: 9.8),Spatial Outlier
+20160123,RDA,548912A001,고흥군 풍양면,SI_DAY,23.16,Differs from 5 nearest neighbors by 13.3 (Neighbor Mean: 9.9),Spatial Outlier
+20160123,RDA,670807A001,거창군 거창읍,SI_DAY,0.62,Differs from 5 nearest neighbors by 9.0 (Neighbor Mean: 9.6),Spatial Outlier
+20160123,RDA,618803A001,부산시 강서구,SI_DAY,15.9,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 8.1),Spatial Outlier
+20160123,ASOS,102,102,SS_DAY,0.2,Differs from 5 nearest neighbors by 6.2 (Neighbor Mean: 6.4),Spatial Outlier
+20160123,ASOS,115,115,SS_DAY,2.0,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 7.3),Spatial Outlier
+20160123,ASOS,189,189,SS_DAY,5.6,Differs from 5 nearest neighbors by 4.4 (Neighbor Mean: 1.2),Spatial Outlier
+20160123,RDA,476801A001,양평군 양평읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 5.9 (Neighbor Mean: 5.9),Spatial Outlier
+20160123,RDA,486803A001,연천군 연천읍,SS_DAY,3.6666666666666665,Differs from 5 nearest neighbors by 4.4 (Neighbor Mean: 8.1),Spatial Outlier
+20160123,RDA,477802A001,가평군 가평읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 6.6 (Neighbor Mean: 6.6),Spatial Outlier
+20160123,RDA,036614B005,안동시 북후면,SS_DAY,0.0,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 7.8),Spatial Outlier
+20160123,RDA,667831A001,하동군 적량면,SS_DAY,0.4,Differs from 5 nearest neighbors by 6.5 (Neighbor Mean: 6.9),Spatial Outlier
