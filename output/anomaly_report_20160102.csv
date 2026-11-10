@@ -1,0 +1,41 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20160102,RDA,345802A001,청양군 청양읍,SI_DAY,39.93,Out of physical range (0~31.5),Range/Logic Error
+20160102,RDA,345802A001,청양군 청양읍,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20160102,RDA,345802A001,청양군 청양읍,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20160102,RDA,345802A001,청양군 청양읍,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20160102,RDA,345802A001,청양군 청양읍,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20160102,RDA,345802A001,청양군 청양읍,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20160102,RDA,345802A001,청양군 청양읍,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20160102,RDA,345802A001,청양군 청양읍,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20160102,AWS,870,870,TA_MAX,8.8,"Exceeds 3.5 Sigma (Mean: 11.8, Std: 1.8)",Statistical Outlier
+20160102,ASOS,100,100,WS_AVG,8.5,"Exceeds 3.5 Sigma (Mean: 1.3, Std: 1.2)",Statistical Outlier
+20160102,RDA,026002D003,태백시 매봉산,WS_AVG,6.63,"Exceeds 3.5 Sigma (Mean: 1.3, Std: 1.2)",Statistical Outlier
+20160102,AWS,305,305,TA_MIN,8.8,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 4.4),Spatial Outlier
+20160102,AWS,311,311,TA_MIN,-3.3,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: -4.3),Spatial Outlier
+20160102,AWS,314,314,TA_MIN,-6.2,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: -1.7),Spatial Outlier
+20160102,AWS,529,529,TA_MIN,-1.8,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 3.2),Spatial Outlier
+20160102,AWS,566,566,TA_MIN,-0.7,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 4.1),Spatial Outlier
+20160102,AWS,709,709,TA_MIN,-5.3,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: -0.1),Spatial Outlier
+20160102,AWS,724,724,TA_MIN,11.2,Differs from 5 nearest neighbors by 7.3 (Neighbor Mean: 3.9),Spatial Outlier
+20160102,AWS,787,787,TA_MIN,4.9,Differs from 5 nearest neighbors by 5.9 (Neighbor Mean: -0.1),Spatial Outlier
+20160102,AWS,790,790,TA_MIN,4.9,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 0.9),Spatial Outlier
+20160102,AWS,822,822,TA_MIN,-6.5,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: -0.3),Spatial Outlier
+20160102,AWS,856,856,TA_MIN,0.2,Differs from 5 nearest neighbors by 6.0 (Neighbor Mean: -2.5),Spatial Outlier
+20160102,AWS,872,872,TA_MIN,-2.6,Differs from 5 nearest neighbors by 5.8 (Neighbor Mean: -2.8),Spatial Outlier
+20160102,AWS,889,889,TA_MIN,-1.0,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 3.6),Spatial Outlier
+20160102,AWS,959,959,TA_MIN,9.6,Differs from 5 nearest neighbors by 6.2 (Neighbor Mean: 3.5),Spatial Outlier
+20160102,AWS,963,963,TA_MIN,5.2,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 0.7),Spatial Outlier
+20160102,RDA,656933A001,거제시 거제면,TA_MIN,-0.2,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 4.9),Spatial Outlier
+20160102,RDA,555130A001,여수시 주삼동,TA_MIN,-2.0,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 3.5),Spatial Outlier
+20160102,RDA,409911A001,옹진군 백령면,TA_MIN,-1.9,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 6.0),Spatial Outlier
+20160102,ASOS,105,105,HM_AVG,43.8,Differs from 5 nearest neighbors by 27.5 (Neighbor Mean: 71.3),Spatial Outlier
+20160102,ASOS,277,277,HM_AVG,50.5,Differs from 5 nearest neighbors by 20.5 (Neighbor Mean: 71.0),Spatial Outlier
+20160102,RDA,343808A001,당진시 당진읍,HM_AVG,42.7,Differs from 5 nearest neighbors by 44.8 (Neighbor Mean: 87.5),Spatial Outlier
+20160102,RDA,235270E001,태백 귀네미골,HM_AVG,78.8,Differs from 5 nearest neighbors by 20.0 (Neighbor Mean: 58.8),Spatial Outlier
+20160102,ASOS,129,129,SI_DAY,5.44,Differs from 5 nearest neighbors by 8.4 (Neighbor Mean: 13.8),Spatial Outlier
+20160102,RDA,245832A001,삼척시 근덕면,SI_DAY,19.77,Differs from 5 nearest neighbors by 9.3 (Neighbor Mean: 10.4),Spatial Outlier
+20160102,ASOS,112,112,SS_DAY,7.4,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 2.7),Spatial Outlier
+20160102,ASOS,278,278,SS_DAY,0.0,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 5.3),Spatial Outlier
+20160102,RDA,742290A001,상주시 초산동,SS_DAY,1.25,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 6.9),Spatial Outlier
+20160102,RDA,036614B005,안동시 북후면,SS_DAY,0.0,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 8.0),Spatial Outlier
+20160102,RDA,667831A001,하동군 적량면,SS_DAY,0.0,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 4.5),Spatial Outlier
