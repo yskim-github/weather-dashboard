@@ -1,0 +1,10 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20151001,ASOS,169,169,WS_AVG,9.0,"Exceeds 3.5 Sigma (Mean: 2.6, Std: 1.7)",Statistical Outlier
+20151001,ASOS,185,185,WS_AVG,14.3,"Exceeds 3.5 Sigma (Mean: 2.6, Std: 1.7)",Statistical Outlier
+20151001,RDA,343808A001,당진시 당진읍,HM_AVG,42.2,"Exceeds 3.5 Sigma (Mean: 86.0, Std: 9.8)",Statistical Outlier
+20151001,RDA,355831A001,보령시 주교면,HM_AVG,47.5,"Exceeds 3.5 Sigma (Mean: 86.0, Std: 9.8)",Statistical Outlier
+20151001,RDA,567801A002,진안군 진안읍,HM_AVG,7.7,"Exceeds 3.5 Sigma (Mean: 86.0, Std: 9.8)",Statistical Outlier
+20151001,RDA,537807B004,완도군 완도읍,HM_AVG,11.8,"Exceeds 3.5 Sigma (Mean: 86.0, Std: 9.8)",Statistical Outlier
+20151001,AWS,473,473,TA_MAX,23.2,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 19.0),Spatial Outlier
+20151001,AWS,473,473,TA_MIN,15.6,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 11.1),Spatial Outlier
+20151001,RDA,597803A001,장수군 장수읍,HM_AVG,97.6,Differs from 5 nearest neighbors by 22.8 (Neighbor Mean: 74.8),Spatial Outlier
