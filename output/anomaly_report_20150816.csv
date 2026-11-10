@@ -1,0 +1,37 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20150816,RDA,618803A001,부산시 강서구,SI_DAY,36.32,Out of physical range (0~31.5),Range/Logic Error
+20150816,RDA,618803A001,부산시 강서구,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20150816,RDA,618803A001,부산시 강서구,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20150816,RDA,618803A001,부산시 강서구,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20150816,RDA,618803A001,부산시 강서구,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20150816,RDA,618803A001,부산시 강서구,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20150816,RDA,618803A001,부산시 강서구,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20150816,RDA,618803A001,부산시 강서구,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20150816,AWS,445,445,TA_MAX,22.8,"Exceeds 3.5 Sigma (Mean: 30.2, Std: 1.5)",Statistical Outlier
+20150816,AWS,956,956,TA_MAX,24.8,"Exceeds 3.5 Sigma (Mean: 30.2, Std: 1.5)",Statistical Outlier
+20150816,AWS,959,959,TA_MAX,24.6,"Exceeds 3.5 Sigma (Mean: 30.2, Std: 1.5)",Statistical Outlier
+20150816,RDA,380959A001,충주시 달천동,TA_MAX,36.7,"Exceeds 3.5 Sigma (Mean: 30.2, Std: 1.5)",Statistical Outlier
+20150816,RDA,456871A001,안성시 보개면,HM_AVG,0.7,"Exceeds 3.5 Sigma (Mean: 84.2, Std: 9.5)",Statistical Outlier
+20150816,RDA,343808A001,당진시 당진읍,HM_AVG,44.4,"Exceeds 3.5 Sigma (Mean: 84.2, Std: 9.5)",Statistical Outlier
+20150816,RDA,355831A001,보령시 주교면,HM_AVG,20.3,"Exceeds 3.5 Sigma (Mean: 84.2, Std: 9.5)",Statistical Outlier
+20150816,ASOS,129,129,HM_AVG,93.6,Differs from 5 nearest neighbors by 27.8 (Neighbor Mean: 65.8),Spatial Outlier
+20150816,ASOS,232,232,HM_AVG,85.6,Differs from 5 nearest neighbors by 21.9 (Neighbor Mean: 63.7),Spatial Outlier
+20150816,RDA,449872A001,용인시 처인구,HM_AVG,90.0,Differs from 5 nearest neighbors by 22.3 (Neighbor Mean: 67.7),Spatial Outlier
+20150816,RDA,365803A001,진천군 진천읍,HM_AVG,90.1,Differs from 5 nearest neighbors by 26.2 (Neighbor Mean: 63.9),Spatial Outlier
+20150816,RDA,451873A001,평택시 오성면,HM_AVG,92.7,Differs from 5 nearest neighbors by 23.2 (Neighbor Mean: 69.5),Spatial Outlier
+20150816,RDA,486803A001,연천군 연천읍,SI_DAY,20.28,Differs from 5 nearest neighbors by 9.7 (Neighbor Mean: 10.5),Spatial Outlier
+20150816,RDA,220844A001,원주시 흥업면,SI_DAY,0.0,Differs from 5 nearest neighbors by 9.7 (Neighbor Mean: 9.7),Spatial Outlier
+20150816,RDA,233852A001,정선군 정선읍,SI_DAY,1.1,Differs from 5 nearest neighbors by 8.7 (Neighbor Mean: 9.8),Spatial Outlier
+20150816,RDA,548912A001,고흥군 풍양면,SI_DAY,29.97,Differs from 5 nearest neighbors by 18.4 (Neighbor Mean: 11.6),Spatial Outlier
+20150816,RDA,764803A001,영양군 영양읍,SI_DAY,0.54,Differs from 5 nearest neighbors by 10.7 (Neighbor Mean: 11.2),Spatial Outlier
+20150816,RDA,670807A001,거창군 거창읍,SI_DAY,2.52,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 11.0),Spatial Outlier
+20150816,RDA,409911A001,옹진군 백령면,SI_DAY,18.01,Differs from 5 nearest neighbors by 9.3 (Neighbor Mean: 8.7),Spatial Outlier
+20150816,ASOS,102,102,SS_DAY,8.2,Differs from 5 nearest neighbors by 6.9 (Neighbor Mean: 1.3),Spatial Outlier
+20150816,ASOS,115,115,SS_DAY,10.2,Differs from 5 nearest neighbors by 7.1 (Neighbor Mean: 3.1),Spatial Outlier
+20150816,ASOS,294,294,SS_DAY,2.5,Differs from 5 nearest neighbors by 4.3 (Neighbor Mean: 6.8),Spatial Outlier
+20150816,RDA,472830A001,남양주 진건읍,SS_DAY,8.8,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 3.2),Spatial Outlier
+20150816,RDA,233852A001,정선군 정선읍,SS_DAY,8.516666666666667,Differs from 5 nearest neighbors by 6.9 (Neighbor Mean: 1.7),Spatial Outlier
+20150816,RDA,515804A001,장성군 장성읍,SS_DAY,8.933333333333334,Differs from 5 nearest neighbors by 7.1 (Neighbor Mean: 1.9),Spatial Outlier
+20150816,RDA,719862A001,성주군 대가면,SS_DAY,10.633333333333333,Differs from 5 nearest neighbors by 9.9 (Neighbor Mean: 0.8),Spatial Outlier
+20150816,RDA,667831A001,하동군 적량면,SS_DAY,0.0,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 5.0),Spatial Outlier
+20150816,AWS,527,527,RN_DAY,27.0,Differs from 5 nearest neighbors by 26.7 (Neighbor Mean: 0.3),Spatial Outlier
