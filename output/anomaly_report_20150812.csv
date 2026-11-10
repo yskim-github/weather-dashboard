@@ -1,0 +1,36 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20150812,AWS,871,871,TA_MIN,14.5,"Exceeds 3.5 Sigma (Mean: 21.0, Std: 1.2)",Statistical Outlier
+20150812,ASOS,168,168,WS_AVG,7.5,"Exceeds 3.5 Sigma (Mean: 1.5, Std: 1.1)",Statistical Outlier
+20150812,ASOS,169,169,WS_AVG,6.5,"Exceeds 3.5 Sigma (Mean: 1.5, Std: 1.1)",Statistical Outlier
+20150812,ASOS,185,185,WS_AVG,7.1,"Exceeds 3.5 Sigma (Mean: 1.5, Std: 1.1)",Statistical Outlier
+20150812,RDA,456871A001,안성시 보개면,HM_AVG,0.7,"Exceeds 3.5 Sigma (Mean: 83.1, Std: 11.6)",Statistical Outlier
+20150812,RDA,343808A001,당진시 당진읍,HM_AVG,40.0,"Exceeds 3.5 Sigma (Mean: 83.1, Std: 11.6)",Statistical Outlier
+20150812,RDA,355831A001,보령시 주교면,HM_AVG,3.7,"Exceeds 3.5 Sigma (Mean: 83.1, Std: 11.6)",Statistical Outlier
+20150812,RDA,380959A001,충주시 달천동,TA_MAX,37.1,Differs from 5 nearest neighbors by 6.4 (Neighbor Mean: 31.2),Spatial Outlier
+20150812,ASOS,115,115,HM_AVG,59.3,Differs from 5 nearest neighbors by 24.7 (Neighbor Mean: 84.0),Spatial Outlier
+20150812,ASOS,129,129,HM_AVG,82.4,Differs from 5 nearest neighbors by 25.1 (Neighbor Mean: 57.3),Spatial Outlier
+20150812,ASOS,131,131,HM_AVG,53.6,Differs from 5 nearest neighbors by 20.6 (Neighbor Mean: 74.2),Spatial Outlier
+20150812,RDA,449872A001,용인시 처인구,HM_AVG,79.5,Differs from 5 nearest neighbors by 21.2 (Neighbor Mean: 58.3),Spatial Outlier
+20150812,RDA,365803A001,진천군 진천읍,HM_AVG,79.7,Differs from 5 nearest neighbors by 24.0 (Neighbor Mean: 55.7),Spatial Outlier
+20150812,RDA,451873A001,평택시 오성면,HM_AVG,85.0,Differs from 5 nearest neighbors by 23.9 (Neighbor Mean: 61.1),Spatial Outlier
+20150812,RDA,345802A001,청양군 청양읍,HM_AVG,86.5,Differs from 5 nearest neighbors by 22.8 (Neighbor Mean: 63.7),Spatial Outlier
+20150812,RDA,357903A001,태안군 태안읍,HM_AVG,78.3,Differs from 5 nearest neighbors by 20.3 (Neighbor Mean: 58.0),Spatial Outlier
+20150812,RDA,537807B004,완도군 완도읍,HM_AVG,65.3,Differs from 5 nearest neighbors by 22.1 (Neighbor Mean: 87.4),Spatial Outlier
+20150812,ASOS,184,184,SI_DAY,3.57,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 11.2),Spatial Outlier
+20150812,RDA,336812A001,아산시 염치읍,SI_DAY,25.96,Differs from 5 nearest neighbors by 12.1 (Neighbor Mean: 13.9),Spatial Outlier
+20150812,RDA,456871A001,안성시 보개면,SI_DAY,0.0,Differs from 5 nearest neighbors by 19.9 (Neighbor Mean: 19.9),Spatial Outlier
+20150812,RDA,486803A001,연천군 연천읍,SI_DAY,29.37,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 21.3),Spatial Outlier
+20150812,RDA,240813A001,동해시 북평동,SI_DAY,19.27,Differs from 5 nearest neighbors by 10.5 (Neighbor Mean: 8.8),Spatial Outlier
+20150812,RDA,245832A001,삼척시 근덕면,SI_DAY,4.16,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 11.8),Spatial Outlier
+20150812,RDA,220844A001,원주시 흥업면,SI_DAY,0.0,Differs from 5 nearest neighbors by 21.3 (Neighbor Mean: 21.3),Spatial Outlier
+20150812,RDA,233852A001,정선군 정선읍,SI_DAY,1.22,Differs from 5 nearest neighbors by 17.0 (Neighbor Mean: 18.2),Spatial Outlier
+20150812,RDA,209802A001,화천군 화천읍,SI_DAY,13.82,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 22.0),Spatial Outlier
+20150812,RDA,345802A001,청양군 청양읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 22.1 (Neighbor Mean: 22.1),Spatial Outlier
+20150812,RDA,350808A001,홍성군 홍성읍,SI_DAY,28.56,Differs from 5 nearest neighbors by 10.8 (Neighbor Mean: 17.8),Spatial Outlier
+20150812,RDA,590823A001,남원시 이백면,SI_DAY,19.07,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 11.0),Spatial Outlier
+20150812,RDA,548912A001,고흥군 풍양면,SI_DAY,27.92,Differs from 5 nearest neighbors by 19.7 (Neighbor Mean: 8.2),Spatial Outlier
+20150812,RDA,476801A001,양평군 양평읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 8.1),Spatial Outlier
+20150812,RDA,477802A001,가평군 가평읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 8.2),Spatial Outlier
+20150812,RDA,240813A001,동해시 북평동,SS_DAY,11.633333333333333,Differs from 5 nearest neighbors by 6.1 (Neighbor Mean: 5.6),Spatial Outlier
+20150812,RDA,355831A001,보령시 주교면,SS_DAY,2.816666666666667,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 8.2),Spatial Outlier
+20150812,AWS,303,303,RN_DAY,25.5,Differs from 5 nearest neighbors by 25.2 (Neighbor Mean: 0.3),Spatial Outlier
