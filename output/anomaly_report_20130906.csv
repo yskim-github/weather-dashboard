@@ -1,0 +1,28 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20130906,RDA,345802A001,청양군 청양읍,SI_DAY,39.6,Out of physical range (0~31.5),Range/Logic Error
+20130906,RDA,345802A001,청양군 청양읍,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130906,RDA,345802A001,청양군 청양읍,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130906,RDA,345802A001,청양군 청양읍,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130906,RDA,345802A001,청양군 청양읍,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130906,RDA,345802A001,청양군 청양읍,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130906,RDA,345802A001,청양군 청양읍,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130906,RDA,345802A001,청양군 청양읍,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130906,ASOS,188,188,TA_AVG,23.3,"Exceeds 3.5 Sigma (Mean: 19.7, Std: 0.9)",Statistical Outlier
+20130906,ASOS,189,189,TA_AVG,23.6,"Exceeds 3.5 Sigma (Mean: 19.7, Std: 0.9)",Statistical Outlier
+20130906,RDA,745230A001,문경시 흥덕동,TA_MAX,39.0,"Exceeds 3.5 Sigma (Mean: 22.6, Std: 1.4)",Statistical Outlier
+20130906,AWS,969,969,TA_MIN,22.7,"Exceeds 3.5 Sigma (Mean: 17.8, Std: 1.3)",Statistical Outlier
+20130906,RDA,745230A001,문경시 흥덕동,TA_MIN,3.7,"Exceeds 3.5 Sigma (Mean: 17.8, Std: 1.3)",Statistical Outlier
+20130906,RDA,200821A001,춘천시 신북읍,TA_MIN,11.1,"Exceeds 3.5 Sigma (Mean: 17.8, Std: 1.3)",Statistical Outlier
+20130906,ASOS,168,168,WS_AVG,4.7,"Exceeds 3.5 Sigma (Mean: 1.0, Std: 0.8)",Statistical Outlier
+20130906,ASOS,169,169,WS_AVG,4.3,"Exceeds 3.5 Sigma (Mean: 1.0, Std: 0.8)",Statistical Outlier
+20130906,ASOS,188,188,WS_AVG,4.2,"Exceeds 3.5 Sigma (Mean: 1.0, Std: 0.8)",Statistical Outlier
+20130906,RDA,343808A001,당진시 당진읍,HM_AVG,40.5,"Exceeds 3.5 Sigma (Mean: 85.3, Std: 9.6)",Statistical Outlier
+20130906,RDA,670807A001,거창군 거창읍,HM_AVG,14.5,"Exceeds 3.5 Sigma (Mean: 85.3, Std: 9.6)",Statistical Outlier
+20130906,ASOS,108,108,HM_AVG,59.6,Differs from 5 nearest neighbors by 21.8 (Neighbor Mean: 81.4),Spatial Outlier
+20130906,RDA,718814A001,칠곡군 약목면,HM_AVG,55.2,Differs from 5 nearest neighbors by 36.3 (Neighbor Mean: 91.5),Spatial Outlier
+20130906,RDA,486803A001,연천군 연천읍,SI_DAY,17.25,Differs from 5 nearest neighbors by 11.2 (Neighbor Mean: 6.1),Spatial Outlier
+20130906,RDA,200821A001,춘천시 신북읍,SI_DAY,16.64,Differs from 5 nearest neighbors by 9.6 (Neighbor Mean: 7.0),Spatial Outlier
+20130906,RDA,350808A001,홍성군 홍성읍,SI_DAY,1.53,Differs from 5 nearest neighbors by 11.1 (Neighbor Mean: 12.7),Spatial Outlier
+20130906,RDA,760380A001,안동시 송천동,SI_DAY,20.0,Differs from 5 nearest neighbors by 12.9 (Neighbor Mean: 7.1),Spatial Outlier
+20130906,RDA,225874A001,횡성군 공근면,SS_DAY,7.066666666666666,Differs from 5 nearest neighbors by 6.7 (Neighbor Mean: 0.3),Spatial Outlier
+20130906,AWS,554,554,RN_DAY,37.5,Differs from 5 nearest neighbors by 35.2 (Neighbor Mean: 2.3),Spatial Outlier
