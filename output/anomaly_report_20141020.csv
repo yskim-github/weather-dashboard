@@ -1,0 +1,13 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20141020,ASOS,115,115,WS_AVG,4.5,"Exceeds 3.5 Sigma (Mean: 1.0, Std: 1.0)",Statistical Outlier
+20141020,ASOS,169,169,WS_AVG,6.0,"Exceeds 3.5 Sigma (Mean: 1.0, Std: 1.0)",Statistical Outlier
+20141020,ASOS,185,185,WS_AVG,5.5,"Exceeds 3.5 Sigma (Mean: 1.0, Std: 1.0)",Statistical Outlier
+20141020,ASOS,184,184,HM_AVG,67.5,"Exceeds 3.5 Sigma (Mean: 92.9, Std: 6.4)",Statistical Outlier
+20141020,RDA,343808A001,당진시 당진읍,HM_AVG,47.2,"Exceeds 3.5 Sigma (Mean: 92.9, Std: 6.4)",Statistical Outlier
+20141020,RDA,695923A001,제주시 한림읍,HM_AVG,70.1,"Exceeds 3.5 Sigma (Mean: 92.9, Std: 6.4)",Statistical Outlier
+20141020,RDA,520943A002,나주시 문평면,TA_MAX,26.0,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 21.0),Spatial Outlier
+20141020,AWS,314,314,TA_MIN,9.1,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 13.7),Spatial Outlier
+20141020,AWS,872,872,TA_MIN,14.2,Differs from 5 nearest neighbors by 5.8 (Neighbor Mean: 14.0),Spatial Outlier
+20141020,ASOS,184,184,SI_DAY,12.83,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 5.3),Spatial Outlier
+20141020,RDA,486803A001,연천군 연천읍,SI_DAY,11.88,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 3.7),Spatial Outlier
+20141020,RDA,456871A001,안성시 보개면,RN_DAY,440.5,Differs from 5 nearest neighbors by 395.5 (Neighbor Mean: 45.0),Spatial Outlier
