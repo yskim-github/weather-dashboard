@@ -1,0 +1,52 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20150216,RDA,345802A001,청양군 청양읍,SI_DAY,39.33,Out of physical range (0~31.5),Range/Logic Error
+20150216,RDA,345802A001,청양군 청양읍,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20150216,RDA,345802A001,청양군 청양읍,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20150216,RDA,345802A001,청양군 청양읍,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20150216,RDA,345802A001,청양군 청양읍,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20150216,RDA,345802A001,청양군 청양읍,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20150216,RDA,345802A001,청양군 청양읍,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20150216,RDA,345802A001,청양군 청양읍,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20150216,ASOS,188,188,TA_AVG,12.6,"Exceeds 3.5 Sigma (Mean: 5.8, Std: 1.8)",Statistical Outlier
+20150216,ASOS,189,189,TA_AVG,13.7,"Exceeds 3.5 Sigma (Mean: 5.8, Std: 1.8)",Statistical Outlier
+20150216,RDA,579824E001,부안군 계화면,TA_AVG,-1.0,"Exceeds 3.5 Sigma (Mean: 5.8, Std: 1.8)",Statistical Outlier
+20150216,RDA,699946A001,서귀포 하례리,TA_AVG,12.4,"Exceeds 3.5 Sigma (Mean: 5.8, Std: 1.8)",Statistical Outlier
+20150216,AWS,188,188,TA_MAX,17.6,"Exceeds 3.5 Sigma (Mean: 7.7, Std: 2.3)",Statistical Outlier
+20150216,AWS,189,189,TA_MAX,19.5,"Exceeds 3.5 Sigma (Mean: 7.7, Std: 2.3)",Statistical Outlier
+20150216,AWS,330,330,TA_MAX,14.5,"Exceeds 3.5 Sigma (Mean: 7.7, Std: 2.3)",Statistical Outlier
+20150216,AWS,685,685,TA_MAX,17.3,"Exceeds 3.5 Sigma (Mean: 7.7, Std: 2.3)",Statistical Outlier
+20150216,AWS,727,727,TA_MAX,13.6,"Exceeds 3.5 Sigma (Mean: 7.7, Std: 2.3)",Statistical Outlier
+20150216,AWS,751,751,TA_MAX,14.3,"Exceeds 3.5 Sigma (Mean: 7.7, Std: 2.3)",Statistical Outlier
+20150216,AWS,753,753,TA_MAX,9.3,"Exceeds 3.5 Sigma (Mean: 7.7, Std: 2.3)",Statistical Outlier
+20150216,AWS,779,779,TA_MAX,15.6,"Exceeds 3.5 Sigma (Mean: 7.7, Std: 2.3)",Statistical Outlier
+20150216,AWS,780,780,TA_MAX,18.0,"Exceeds 3.5 Sigma (Mean: 7.7, Std: 2.3)",Statistical Outlier
+20150216,AWS,782,782,TA_MAX,13.9,"Exceeds 3.5 Sigma (Mean: 7.7, Std: 2.3)",Statistical Outlier
+20150216,AWS,792,792,TA_MAX,17.2,"Exceeds 3.5 Sigma (Mean: 7.7, Std: 2.3)",Statistical Outlier
+20150216,AWS,870,870,TA_MAX,7.4,"Exceeds 3.5 Sigma (Mean: 7.7, Std: 2.3)",Statistical Outlier
+20150216,AWS,884,884,TA_MAX,16.9,"Exceeds 3.5 Sigma (Mean: 7.7, Std: 2.3)",Statistical Outlier
+20150216,AWS,885,885,TA_MAX,16.5,"Exceeds 3.5 Sigma (Mean: 7.7, Std: 2.3)",Statistical Outlier
+20150216,AWS,960,960,TA_MAX,15.5,"Exceeds 3.5 Sigma (Mean: 7.7, Std: 2.3)",Statistical Outlier
+20150216,RDA,579824E001,부안군 계화면,TA_MAX,-0.9,"Exceeds 3.5 Sigma (Mean: 7.7, Std: 2.3)",Statistical Outlier
+20150216,RDA,699946A001,서귀포 하례리,TA_MAX,18.5,"Exceeds 3.5 Sigma (Mean: 7.7, Std: 2.3)",Statistical Outlier
+20150216,AWS,189,189,TA_MIN,10.0,"Exceeds 3.5 Sigma (Mean: 4.3, Std: 1.7)",Statistical Outlier
+20150216,AWS,960,960,TA_MIN,10.7,"Exceeds 3.5 Sigma (Mean: 4.3, Std: 1.7)",Statistical Outlier
+20150216,ASOS,102,102,WS_AVG,7.6,"Exceeds 3.5 Sigma (Mean: 1.7, Std: 1.4)",Statistical Outlier
+20150216,ASOS,169,169,WS_AVG,7.4,"Exceeds 3.5 Sigma (Mean: 1.7, Std: 1.4)",Statistical Outlier
+20150216,ASOS,185,185,WS_AVG,10.5,"Exceeds 3.5 Sigma (Mean: 1.7, Std: 1.4)",Statistical Outlier
+20150216,RDA,343808A001,당진시 당진읍,HM_AVG,47.4,"Exceeds 3.5 Sigma (Mean: 91.3, Std: 7.7)",Statistical Outlier
+20150216,RDA,355831A001,보령시 주교면,HM_AVG,64.3,"Exceeds 3.5 Sigma (Mean: 91.3, Std: 7.7)",Statistical Outlier
+20150216,RDA,695923A001,제주시 한림읍,HM_AVG,36.3,"Exceeds 3.5 Sigma (Mean: 91.3, Std: 7.7)",Statistical Outlier
+20150216,AWS,314,314,TA_MAX,2.1,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 7.0),Spatial Outlier
+20150216,RDA,763803A001,청송군 청송읍,TA_MAX,11.2,Differs from 5 nearest neighbors by 6.9 (Neighbor Mean: 5.7),Spatial Outlier
+20150216,RDA,579824E001,부안군 계화면,TA_MIN,-1.1,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 4.5),Spatial Outlier
+20150216,RDA,638802A001,고성군 고성읍,TA_MIN,0.0,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 5.7),Spatial Outlier
+20150216,ASOS,115,115,HM_AVG,68.4,Differs from 5 nearest neighbors by 20.4 (Neighbor Mean: 88.8),Spatial Outlier
+20150216,RDA,357903A001,태안군 태안읍,HM_AVG,99.6,Differs from 5 nearest neighbors by 20.2 (Neighbor Mean: 79.4),Spatial Outlier
+20150216,ASOS,129,129,SI_DAY,0.94,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 9.0),Spatial Outlier
+20150216,RDA,336812A001,아산시 염치읍,SI_DAY,1.24,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 9.0),Spatial Outlier
+20150216,RDA,350808A001,홍성군 홍성읍,SI_DAY,0.47,Differs from 5 nearest neighbors by 8.6 (Neighbor Mean: 9.0),Spatial Outlier
+20150216,RDA,323814A001,부여군 규암면,SI_DAY,0.93,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 8.7),Spatial Outlier
+20150216,RDA,699946A001,서귀포 하례리,SI_DAY,11.7,Differs from 5 nearest neighbors by 9.0 (Neighbor Mean: 2.7),Spatial Outlier
+20150216,ASOS,189,189,SS_DAY,8.1,Differs from 5 nearest neighbors by 5.8 (Neighbor Mean: 2.3),Spatial Outlier
+20150216,RDA,699946A001,서귀포 하례리,SS_DAY,7.516666666666667,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 2.4),Spatial Outlier
+20150216,RDA,486831E011,연천군 신서면,RN_DAY,51.5,Differs from 5 nearest neighbors by 42.8 (Neighbor Mean: 8.7),Spatial Outlier
