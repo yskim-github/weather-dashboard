@@ -1,0 +1,39 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20140112,RDA,482841A001,양주시 은현면,SI_DAY,39.56,Out of physical range (0~31.5),Range/Logic Error
+20140112,RDA,482841A001,양주시 은현면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20140112,RDA,482841A001,양주시 은현면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20140112,RDA,482841A001,양주시 은현면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20140112,RDA,482841A001,양주시 은현면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20140112,RDA,482841A001,양주시 은현면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20140112,RDA,482841A001,양주시 은현면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20140112,RDA,482841A001,양주시 은현면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20140112,RDA,345802A001,청양군 청양읍,SI_DAY,40.0,Out of physical range (0~31.5),Range/Logic Error
+20140112,RDA,345802A001,청양군 청양읍,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20140112,RDA,345802A001,청양군 청양읍,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20140112,RDA,345802A001,청양군 청양읍,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20140112,RDA,345802A001,청양군 청양읍,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20140112,RDA,345802A001,청양군 청양읍,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20140112,RDA,345802A001,청양군 청양읍,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20140112,RDA,345802A001,청양군 청양읍,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20140112,ASOS,189,189,TA_AVG,6.5,"Exceeds 3.5 Sigma (Mean: -0.3, Std: 2.0)",Statistical Outlier
+20140112,AWS,960,960,TA_MIN,4.9,"Exceeds 3.5 Sigma (Mean: -4.5, Std: 2.7)",Statistical Outlier
+20140112,ASOS,169,169,WS_AVG,7.4,"Exceeds 3.5 Sigma (Mean: 1.9, Std: 1.2)",Statistical Outlier
+20140112,ASOS,185,185,WS_AVG,8.6,"Exceeds 3.5 Sigma (Mean: 1.9, Std: 1.2)",Statistical Outlier
+20140112,RDA,670807A001,거창군 거창읍,HM_AVG,21.2,"Exceeds 3.5 Sigma (Mean: 60.9, Std: 10.5)",Statistical Outlier
+20140112,AWS,151,151,TA_MIN,-7.7,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: -2.1),Spatial Outlier
+20140112,AWS,306,306,TA_MIN,1.2,Differs from 5 nearest neighbors by 5.9 (Neighbor Mean: -4.6),Spatial Outlier
+20140112,AWS,851,851,TA_MIN,-7.7,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: -2.6),Spatial Outlier
+20140112,AWS,859,859,TA_MIN,-3.0,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: -5.6),Spatial Outlier
+20140112,AWS,933,933,TA_MIN,-8.4,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: -2.8),Spatial Outlier
+20140112,RDA,667831A001,하동군 적량면,TA_MIN,-8.3,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: -2.8),Spatial Outlier
+20140112,RDA,343808A001,당진시 당진읍,HM_AVG,33.7,Differs from 5 nearest neighbors by 35.9 (Neighbor Mean: 69.6),Spatial Outlier
+20140112,RDA,137180A001,서울시 서초구,HM_AVG,75.2,Differs from 5 nearest neighbors by 23.5 (Neighbor Mean: 51.7),Spatial Outlier
+20140112,RDA,618803A001,부산시 강서구,HM_AVG,69.8,Differs from 5 nearest neighbors by 21.5 (Neighbor Mean: 48.3),Spatial Outlier
+20140112,ASOS,259,259,SI_DAY,15.0,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 7.1),Spatial Outlier
+20140112,RDA,415743A001,김포시 월곶면,SI_DAY,0.9,Differs from 5 nearest neighbors by 12.7 (Neighbor Mean: 13.6),Spatial Outlier
+20140112,RDA,320862A001,논산시 광석면,SI_DAY,5.3,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 12.9),Spatial Outlier
+20140112,RDA,355831A001,보령시 주교면,SI_DAY,4.4,Differs from 5 nearest neighbors by 8.7 (Neighbor Mean: 13.1),Spatial Outlier
+20140112,RDA,548912A001,고흥군 풍양면,SI_DAY,17.27,Differs from 5 nearest neighbors by 10.0 (Neighbor Mean: 7.2),Spatial Outlier
+20140112,RDA,760380A001,안동시 송천동,SI_DAY,16.89,Differs from 5 nearest neighbors by 10.7 (Neighbor Mean: 6.2),Spatial Outlier
+20140112,RDA,477802A001,가평군 가평읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 4.4 (Neighbor Mean: 4.4),Spatial Outlier
+20140112,RDA,472830A001,남양주 진건읍,SS_DAY,0.38333333333333336,Differs from 5 nearest neighbors by 6.0 (Neighbor Mean: 6.4),Spatial Outlier
