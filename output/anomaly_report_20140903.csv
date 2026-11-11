@@ -1,0 +1,6 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20140903,ASOS,185,185,WS_AVG,7.3,"Exceeds 3.5 Sigma (Mean: 1.6, Std: 1.1)",Statistical Outlier
+20140903,RDA,343808A001,당진시 당진읍,HM_AVG,46.3,"Exceeds 3.5 Sigma (Mean: 93.3, Std: 6.0)",Statistical Outlier
+20140903,RDA,486803A001,연천군 연천읍,SI_DAY,10.18,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 2.5),Spatial Outlier
+20140903,ASOS,102,102,SS_DAY,5.8,Differs from 5 nearest neighbors by 5.8 (Neighbor Mean: 0.0),Spatial Outlier
+20140903,RDA,689861A001,울주군 청량읍,SS_DAY,12.616666666666667,Differs from 5 nearest neighbors by 12.6 (Neighbor Mean: 0.0),Spatial Outlier
