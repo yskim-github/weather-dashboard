@@ -1,0 +1,16 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20140820,AWS,557,557,TA_MAX,31.4,"Exceeds 3.5 Sigma (Mean: 27.2, Std: 1.7)",Statistical Outlier
+20140820,AWS,480,480,TA_MIN,16.7,"Exceeds 3.5 Sigma (Mean: 21.9, Std: 1.2)",Statistical Outlier
+20140820,RDA,469803A001,여주시 상거동,TA_MIN,5.9,"Exceeds 3.5 Sigma (Mean: 21.9, Std: 1.2)",Statistical Outlier
+20140820,ASOS,159,159,WS_AVG,3.1,"Exceeds 3.5 Sigma (Mean: 0.7, Std: 0.5)",Statistical Outlier
+20140820,ASOS,185,185,WS_AVG,3.7,"Exceeds 3.5 Sigma (Mean: 0.7, Std: 0.5)",Statistical Outlier
+20140820,RDA,343808A001,당진시 당진읍,HM_AVG,43.6,"Exceeds 3.5 Sigma (Mean: 91.9, Std: 5.9)",Statistical Outlier
+20140820,RDA,486803A001,연천군 연천읍,SI_DAY,20.92,Differs from 5 nearest neighbors by 9.8 (Neighbor Mean: 11.1),Spatial Outlier
+20140820,RDA,464030A001,광주시 목현동,SI_DAY,0.74,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 9.3),Spatial Outlier
+20140820,RDA,220844A001,원주시 흥업면,SI_DAY,0.0,Differs from 5 nearest neighbors by 11.5 (Neighbor Mean: 11.5),Spatial Outlier
+20140820,RDA,345802A001,청양군 청양읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 10.0 (Neighbor Mean: 10.0),Spatial Outlier
+20140820,ASOS,102,102,SS_DAY,8.7,Differs from 5 nearest neighbors by 6.5 (Neighbor Mean: 2.2),Spatial Outlier
+20140820,ASOS,211,211,SS_DAY,7.2,Differs from 5 nearest neighbors by 5.8 (Neighbor Mean: 1.4),Spatial Outlier
+20140820,RDA,472830A001,남양주 진건읍,SS_DAY,8.35,Differs from 5 nearest neighbors by 6.0 (Neighbor Mean: 2.4),Spatial Outlier
+20140820,RDA,233852A001,정선군 정선읍,SS_DAY,8.416666666666666,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 0.2),Spatial Outlier
+20140820,RDA,689861A001,울주군 청량읍,SS_DAY,5.733333333333333,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 0.0),Spatial Outlier
