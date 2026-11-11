@@ -1,0 +1,22 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20141031,ASOS,184,184,TA_AVG,19.9,"Exceeds 3.5 Sigma (Mean: 13.4, Std: 1.7)",Statistical Outlier
+20141031,ASOS,185,185,TA_AVG,20.0,"Exceeds 3.5 Sigma (Mean: 13.4, Std: 1.7)",Statistical Outlier
+20141031,ASOS,188,188,TA_AVG,20.3,"Exceeds 3.5 Sigma (Mean: 13.4, Std: 1.7)",Statistical Outlier
+20141031,ASOS,189,189,TA_AVG,20.5,"Exceeds 3.5 Sigma (Mean: 13.4, Std: 1.7)",Statistical Outlier
+20141031,RDA,695923A001,제주시 한림읍,TA_AVG,19.3,"Exceeds 3.5 Sigma (Mean: 13.4, Std: 1.7)",Statistical Outlier
+20141031,AWS,753,753,TA_MIN,13.8,"Exceeds 3.5 Sigma (Mean: 11.5, Std: 2.2)",Statistical Outlier
+20141031,AWS,855,855,TA_MIN,19.3,"Exceeds 3.5 Sigma (Mean: 11.5, Std: 2.2)",Statistical Outlier
+20141031,ASOS,168,168,WS_AVG,6.1,"Exceeds 3.5 Sigma (Mean: 1.3, Std: 1.1)",Statistical Outlier
+20141031,ASOS,169,169,WS_AVG,6.0,"Exceeds 3.5 Sigma (Mean: 1.3, Std: 1.1)",Statistical Outlier
+20141031,ASOS,185,185,WS_AVG,6.3,"Exceeds 3.5 Sigma (Mean: 1.3, Std: 1.1)",Statistical Outlier
+20141031,RDA,343808A001,당진시 당진읍,HM_AVG,45.9,"Exceeds 3.5 Sigma (Mean: 87.6, Std: 10.6)",Statistical Outlier
+20141031,AWS,314,314,TA_MAX,10.2,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 14.4),Spatial Outlier
+20141031,AWS,315,315,TA_MAX,13.1,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 14.7),Spatial Outlier
+20141031,AWS,659,659,TA_MAX,13.8,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 13.5),Spatial Outlier
+20141031,AWS,694,694,TA_MAX,13.4,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 13.2),Spatial Outlier
+20141031,AWS,872,872,TA_MAX,12.4,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 13.3),Spatial Outlier
+20141031,RDA,520943A002,나주시 문평면,TA_MAX,20.3,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 15.3),Spatial Outlier
+20141031,AWS,682,682,TA_MIN,8.1,Differs from 5 nearest neighbors by 6.6 (Neighbor Mean: 8.4),Spatial Outlier
+20141031,AWS,695,695,TA_MIN,8.4,Differs from 5 nearest neighbors by 6.2 (Neighbor Mean: 9.0),Spatial Outlier
+20141031,RDA,482841A001,양주시 은현면,SI_DAY,28.29,Differs from 5 nearest neighbors by 22.0 (Neighbor Mean: 6.3),Spatial Outlier
+20141031,ASOS,102,102,SS_DAY,7.5,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 2.5),Spatial Outlier
