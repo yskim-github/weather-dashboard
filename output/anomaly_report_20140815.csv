@@ -1,0 +1,47 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20140815,RDA,482841A001,양주시 은현면,SI_DAY,38.63,Out of physical range (0~31.5),Range/Logic Error
+20140815,RDA,482841A001,양주시 은현면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20140815,RDA,482841A001,양주시 은현면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20140815,RDA,482841A001,양주시 은현면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20140815,RDA,482841A001,양주시 은현면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20140815,RDA,482841A001,양주시 은현면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20140815,RDA,482841A001,양주시 은현면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20140815,RDA,482841A001,양주시 은현면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20140815,RDA,486803A001,연천군 연천읍,SI_DAY,35.53,Out of physical range (0~31.5),Range/Logic Error
+20140815,RDA,486803A001,연천군 연천읍,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20140815,RDA,486803A001,연천군 연천읍,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20140815,RDA,486803A001,연천군 연천읍,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20140815,RDA,486803A001,연천군 연천읍,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20140815,RDA,486803A001,연천군 연천읍,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20140815,RDA,486803A001,연천군 연천읍,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20140815,RDA,486803A001,연천군 연천읍,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20140815,AWS,351,351,TA_MIN,15.6,"Exceeds 3.5 Sigma (Mean: 20.5, Std: 1.2)",Statistical Outlier
+20140815,AWS,480,480,TA_MIN,15.2,"Exceeds 3.5 Sigma (Mean: 20.5, Std: 1.2)",Statistical Outlier
+20140815,AWS,482,482,TA_MIN,14.8,"Exceeds 3.5 Sigma (Mean: 20.5, Std: 1.2)",Statistical Outlier
+20140815,AWS,503,503,TA_MIN,16.2,"Exceeds 3.5 Sigma (Mean: 20.5, Std: 1.2)",Statistical Outlier
+20140815,AWS,552,552,TA_MIN,14.7,"Exceeds 3.5 Sigma (Mean: 20.5, Std: 1.2)",Statistical Outlier
+20140815,ASOS,115,115,WS_AVG,3.8,"Exceeds 3.5 Sigma (Mean: 1.0, Std: 0.8)",Statistical Outlier
+20140815,ASOS,169,169,WS_AVG,4.6,"Exceeds 3.5 Sigma (Mean: 1.0, Std: 0.8)",Statistical Outlier
+20140815,ASOS,185,185,WS_AVG,6.2,"Exceeds 3.5 Sigma (Mean: 1.0, Std: 0.8)",Statistical Outlier
+20140815,RDA,343808A001,당진시 당진읍,HM_AVG,42.3,"Exceeds 3.5 Sigma (Mean: 86.2, Std: 6.4)",Statistical Outlier
+20140815,AWS,695,695,TA_MIN,15.1,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 17.4),Spatial Outlier
+20140815,ASOS,143,143,SI_DAY,18.51,Differs from 5 nearest neighbors by 9.2 (Neighbor Mean: 9.3),Spatial Outlier
+20140815,ASOS,169,169,SI_DAY,26.77,Differs from 5 nearest neighbors by 11.9 (Neighbor Mean: 14.8),Spatial Outlier
+20140815,RDA,476801A001,양평군 양평읍,SI_DAY,19.51,Differs from 5 nearest neighbors by 9.5 (Neighbor Mean: 10.0),Spatial Outlier
+20140815,RDA,464030A001,광주시 목현동,SI_DAY,4.11,Differs from 5 nearest neighbors by 8.8 (Neighbor Mean: 13.0),Spatial Outlier
+20140815,RDA,245832A001,삼척시 근덕면,SI_DAY,1.51,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 9.3),Spatial Outlier
+20140815,RDA,220844A001,원주시 흥업면,SI_DAY,0.0,Differs from 5 nearest neighbors by 17.8 (Neighbor Mean: 17.8),Spatial Outlier
+20140815,RDA,345802A001,청양군 청양읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 12.3 (Neighbor Mean: 12.3),Spatial Outlier
+20140815,RDA,548912A001,고흥군 풍양면,SI_DAY,20.12,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 12.1),Spatial Outlier
+20140815,RDA,670807A001,거창군 거창읍,SI_DAY,5.27,Differs from 5 nearest neighbors by 11.4 (Neighbor Mean: 16.7),Spatial Outlier
+20140815,ASOS,169,169,SS_DAY,10.9,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 2.4),Spatial Outlier
+20140815,ASOS,185,185,SS_DAY,7.0,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 1.4),Spatial Outlier
+20140815,ASOS,235,235,SS_DAY,8.7,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 3.1),Spatial Outlier
+20140815,ASOS,245,245,SS_DAY,0.7,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 5.8),Spatial Outlier
+20140815,RDA,477802A001,가평군 가평읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 7.9),Spatial Outlier
+20140815,RDA,240813A001,동해시 북평동,SS_DAY,7.083333333333333,Differs from 5 nearest neighbors by 6.8 (Neighbor Mean: 0.2),Spatial Outlier
+20140815,RDA,233852A001,정선군 정선읍,SS_DAY,10.1,Differs from 5 nearest neighbors by 6.6 (Neighbor Mean: 3.5),Spatial Outlier
+20140815,RDA,355831A001,보령시 주교면,SS_DAY,0.0,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 4.8),Spatial Outlier
+20140815,RDA,579824E001,부안군 계화면,SS_DAY,9.383333333333333,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 4.1),Spatial Outlier
+20140815,RDA,767862A001,울진군 매화면,SS_DAY,8.75,Differs from 5 nearest neighbors by 8.3 (Neighbor Mean: 0.4),Spatial Outlier
+20140815,RDA,689861A001,울주군 청량읍,SS_DAY,5.333333333333333,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 0.0),Spatial Outlier
