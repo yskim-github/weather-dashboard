@@ -1,0 +1,19 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20140813,AWS,357,357,TA_MAX,21.8,"Exceeds 3.5 Sigma (Mean: 27.1, Std: 1.3)",Statistical Outlier
+20140813,AWS,557,557,TA_MAX,29.6,"Exceeds 3.5 Sigma (Mean: 27.1, Std: 1.3)",Statistical Outlier
+20140813,AWS,666,666,TA_MAX,22.2,"Exceeds 3.5 Sigma (Mean: 27.1, Std: 1.3)",Statistical Outlier
+20140813,AWS,871,871,TA_MAX,21.2,"Exceeds 3.5 Sigma (Mean: 27.1, Std: 1.3)",Statistical Outlier
+20140813,AWS,956,956,TA_MAX,21.7,"Exceeds 3.5 Sigma (Mean: 27.1, Std: 1.3)",Statistical Outlier
+20140813,AWS,307,307,TA_MIN,26.0,"Exceeds 3.5 Sigma (Mean: 20.9, Std: 1.3)",Statistical Outlier
+20140813,ASOS,102,102,WS_AVG,3.5,"Exceeds 3.5 Sigma (Mean: 0.8, Std: 0.6)",Statistical Outlier
+20140813,ASOS,169,169,WS_AVG,3.9,"Exceeds 3.5 Sigma (Mean: 0.8, Std: 0.6)",Statistical Outlier
+20140813,RDA,343808A001,당진시 당진읍,HM_AVG,45.2,"Exceeds 3.5 Sigma (Mean: 87.2, Std: 7.8)",Statistical Outlier
+20140813,RDA,486803A001,연천군 연천읍,SI_DAY,14.96,Differs from 5 nearest neighbors by 8.8 (Neighbor Mean: 6.2),Spatial Outlier
+20140813,RDA,548912A001,고흥군 풍양면,SI_DAY,17.76,Differs from 5 nearest neighbors by 9.5 (Neighbor Mean: 8.2),Spatial Outlier
+20140813,RDA,766851E001,영덕군 병곡면,SI_DAY,15.31,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 7.2),Spatial Outlier
+20140813,RDA,472830A001,남양주 진건읍,SS_DAY,6.416666666666667,Differs from 5 nearest neighbors by 6.1 (Neighbor Mean: 0.3),Spatial Outlier
+20140813,RDA,240813A001,동해시 북평동,SS_DAY,6.65,Differs from 5 nearest neighbors by 6.7 (Neighbor Mean: 0.0),Spatial Outlier
+20140813,RDA,233852A001,정선군 정선읍,SS_DAY,8.066666666666666,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 0.0),Spatial Outlier
+20140813,RDA,767862A001,울진군 매화면,SS_DAY,7.5,Differs from 5 nearest neighbors by 7.2 (Neighbor Mean: 0.2),Spatial Outlier
+20140813,RDA,689861A001,울주군 청량읍,SS_DAY,13.55,Differs from 5 nearest neighbors by 13.3 (Neighbor Mean: 0.2),Spatial Outlier
+20140813,AWS,320,320,RN_DAY,53.0,Differs from 5 nearest neighbors by 52.5 (Neighbor Mean: 0.5),Spatial Outlier
