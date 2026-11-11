@@ -1,0 +1,9 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20140825,AWS,871,871,TA_MIN,15.8,"Exceeds 3.5 Sigma (Mean: 22.4, Std: 1.2)",Statistical Outlier
+20140825,RDA,220844A001,원주시 흥업면,TA_MIN,25.6,"Exceeds 3.5 Sigma (Mean: 22.4, Std: 1.2)",Statistical Outlier
+20140825,ASOS,185,185,WS_AVG,10.6,"Exceeds 3.5 Sigma (Mean: 1.3, Std: 1.1)",Statistical Outlier
+20140825,RDA,343808A001,당진시 당진읍,HM_AVG,44.1,"Exceeds 3.5 Sigma (Mean: 91.7, Std: 7.9)",Statistical Outlier
+20140825,RDA,482841A001,양주시 은현면,SI_DAY,23.63,Differs from 5 nearest neighbors by 12.2 (Neighbor Mean: 11.4),Spatial Outlier
+20140825,RDA,486803A001,연천군 연천읍,SI_DAY,21.52,Differs from 5 nearest neighbors by 9.5 (Neighbor Mean: 12.0),Spatial Outlier
+20140825,RDA,220844A001,원주시 흥업면,SI_DAY,0.0,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 7.6),Spatial Outlier
+20140825,ASOS,102,102,SS_DAY,5.9,Differs from 5 nearest neighbors by 4.2 (Neighbor Mean: 1.7),Spatial Outlier
