@@ -1,0 +1,26 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20140804,AWS,106,106,TA_MIN,19.8,"Exceeds 3.5 Sigma (Mean: 24.0, Std: 0.9)",Statistical Outlier
+20140804,AWS,130,130,TA_MIN,18.8,"Exceeds 3.5 Sigma (Mean: 24.0, Std: 0.9)",Statistical Outlier
+20140804,AWS,310,310,TA_MIN,19.2,"Exceeds 3.5 Sigma (Mean: 24.0, Std: 0.9)",Statistical Outlier
+20140804,AWS,314,314,TA_MIN,17.6,"Exceeds 3.5 Sigma (Mean: 24.0, Std: 0.9)",Statistical Outlier
+20140804,AWS,800,800,TA_MIN,19.6,"Exceeds 3.5 Sigma (Mean: 24.0, Std: 0.9)",Statistical Outlier
+20140804,AWS,850,850,TA_MIN,19.9,"Exceeds 3.5 Sigma (Mean: 24.0, Std: 0.9)",Statistical Outlier
+20140804,AWS,852,852,TA_MIN,18.1,"Exceeds 3.5 Sigma (Mean: 24.0, Std: 0.9)",Statistical Outlier
+20140804,AWS,906,906,TA_MIN,20.0,"Exceeds 3.5 Sigma (Mean: 24.0, Std: 0.9)",Statistical Outlier
+20140804,AWS,949,949,TA_MIN,17.6,"Exceeds 3.5 Sigma (Mean: 24.0, Std: 0.9)",Statistical Outlier
+20140804,RDA,320862A001,논산시 광석면,TA_MIN,20.4,"Exceeds 3.5 Sigma (Mean: 24.0, Std: 0.9)",Statistical Outlier
+20140804,ASOS,159,159,WS_AVG,7.2,"Exceeds 3.5 Sigma (Mean: 1.5, Std: 1.3)",Statistical Outlier
+20140804,ASOS,168,168,WS_AVG,7.8,"Exceeds 3.5 Sigma (Mean: 1.5, Std: 1.3)",Statistical Outlier
+20140804,ASOS,185,185,WS_AVG,7.3,"Exceeds 3.5 Sigma (Mean: 1.5, Std: 1.3)",Statistical Outlier
+20140804,RDA,343808A001,당진시 당진읍,HM_AVG,44.6,"Exceeds 3.5 Sigma (Mean: 93.1, Std: 5.6)",Statistical Outlier
+20140804,AWS,852,852,TA_MAX,24.5,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 30.0),Spatial Outlier
+20140804,RDA,486803A001,연천군 연천읍,SI_DAY,18.78,Differs from 5 nearest neighbors by 8.8 (Neighbor Mean: 10.0),Spatial Outlier
+20140804,RDA,245832A001,삼척시 근덕면,SI_DAY,2.06,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 10.1),Spatial Outlier
+20140804,RDA,220844A001,원주시 흥업면,SI_DAY,0.0,Differs from 5 nearest neighbors by 8.4 (Neighbor Mean: 8.4),Spatial Outlier
+20140804,RDA,766851E001,영덕군 병곡면,SI_DAY,22.15,Differs from 5 nearest neighbors by 14.6 (Neighbor Mean: 7.5),Spatial Outlier
+20140804,ASOS,102,102,SS_DAY,12.3,Differs from 5 nearest neighbors by 9.7 (Neighbor Mean: 2.6),Spatial Outlier
+20140804,RDA,240813A001,동해시 북평동,SS_DAY,7.95,Differs from 5 nearest neighbors by 7.4 (Neighbor Mean: 0.6),Spatial Outlier
+20140804,RDA,233852A001,정선군 정선읍,SS_DAY,8.683333333333334,Differs from 5 nearest neighbors by 8.6 (Neighbor Mean: 0.1),Spatial Outlier
+20140804,RDA,767862A001,울진군 매화면,SS_DAY,9.566666666666666,Differs from 5 nearest neighbors by 8.4 (Neighbor Mean: 1.2),Spatial Outlier
+20140804,RDA,689861A001,울주군 청량읍,SS_DAY,7.433333333333334,Differs from 5 nearest neighbors by 7.4 (Neighbor Mean: 0.0),Spatial Outlier
+20140804,AWS,853,853,RN_DAY,25.0,Differs from 5 nearest neighbors by 22.1 (Neighbor Mean: 2.9),Spatial Outlier
