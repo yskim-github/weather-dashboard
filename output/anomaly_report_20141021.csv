@@ -1,0 +1,5 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20141021,ASOS,115,115,WS_AVG,7.7,"Exceeds 3.5 Sigma (Mean: 1.7, Std: 1.2)",Statistical Outlier
+20141021,RDA,343808A001,당진시 당진읍,HM_AVG,46.9,"Exceeds 3.5 Sigma (Mean: 93.1, Std: 5.8)",Statistical Outlier
+20141021,RDA,240813A001,동해시 북평동,TA_MIN,16.5,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 12.2),Spatial Outlier
+20141021,RDA,548912A001,고흥군 풍양면,SI_DAY,14.27,Differs from 5 nearest neighbors by 8.3 (Neighbor Mean: 6.0),Spatial Outlier
