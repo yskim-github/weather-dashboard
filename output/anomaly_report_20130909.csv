@@ -1,0 +1,78 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20130909,RDA,482841A001,양주시 은현면,SI_DAY,37.71,Out of physical range (0~31.5),Range/Logic Error
+20130909,RDA,482841A001,양주시 은현면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,482841A001,양주시 은현면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,482841A001,양주시 은현면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,482841A001,양주시 은현면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,482841A001,양주시 은현면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,482841A001,양주시 은현면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,482841A001,양주시 은현면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,486803A001,연천군 연천읍,SI_DAY,31.56,Out of physical range (0~31.5),Range/Logic Error
+20130909,RDA,220844A001,원주시 흥업면,SI_DAY,40.0,Out of physical range (0~31.5),Range/Logic Error
+20130909,RDA,220844A001,원주시 흥업면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,220844A001,원주시 흥업면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,220844A001,원주시 흥업면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,220844A001,원주시 흥업면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,220844A001,원주시 흥업면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,220844A001,원주시 흥업면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,220844A001,원주시 흥업면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,345802A001,청양군 청양읍,SI_DAY,40.0,Out of physical range (0~31.5),Range/Logic Error
+20130909,RDA,345802A001,청양군 청양읍,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,345802A001,청양군 청양읍,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,345802A001,청양군 청양읍,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,345802A001,청양군 청양읍,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,345802A001,청양군 청양읍,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,345802A001,청양군 청양읍,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,345802A001,청양군 청양읍,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,548912A001,고흥군 풍양면,SI_DAY,39.98,Out of physical range (0~31.5),Range/Logic Error
+20130909,RDA,548912A001,고흥군 풍양면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,548912A001,고흥군 풍양면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,548912A001,고흥군 풍양면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,548912A001,고흥군 풍양면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,548912A001,고흥군 풍양면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,548912A001,고흥군 풍양면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,548912A001,고흥군 풍양면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,618803A001,부산시 강서구,SI_DAY,33.86,Out of physical range (0~31.5),Range/Logic Error
+20130909,RDA,618803A001,부산시 강서구,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,618803A001,부산시 강서구,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,618803A001,부산시 강서구,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,618803A001,부산시 강서구,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,618803A001,부산시 강서구,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,618803A001,부산시 강서구,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,618803A001,부산시 강서구,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20130909,RDA,745230A001,문경시 흥덕동,TA_AVG,15.6,"Exceeds 3.5 Sigma (Mean: 21.9, Std: 1.0)",Statistical Outlier
+20130909,AWS,92,92,TA_MAX,22.1,"Exceeds 3.5 Sigma (Mean: 28.1, Std: 1.5)",Statistical Outlier
+20130909,RDA,745230A001,문경시 흥덕동,TA_MAX,17.2,"Exceeds 3.5 Sigma (Mean: 28.1, Std: 1.5)",Statistical Outlier
+20130909,ASOS,102,102,WS_AVG,3.5,"Exceeds 3.5 Sigma (Mean: 1.0, Std: 0.6)",Statistical Outlier
+20130909,RDA,343808A001,당진시 당진읍,HM_AVG,39.6,"Exceeds 3.5 Sigma (Mean: 78.1, Std: 9.0)",Statistical Outlier
+20130909,RDA,718814A001,칠곡군 약목면,HM_AVG,40.9,"Exceeds 3.5 Sigma (Mean: 78.1, Std: 9.0)",Statistical Outlier
+20130909,RDA,670807A001,거창군 거창읍,HM_AVG,10.4,"Exceeds 3.5 Sigma (Mean: 78.1, Std: 9.0)",Statistical Outlier
+20130909,RDA,546804B001,보성군 보성읍,TA_MAX,23.1,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 29.2),Spatial Outlier
+20130909,AWS,175,175,TA_MIN,18.2,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 16.5),Spatial Outlier
+20130909,AWS,307,307,TA_MIN,15.3,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 20.7),Spatial Outlier
+20130909,AWS,314,314,TA_MIN,9.7,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 14.4),Spatial Outlier
+20130909,AWS,354,354,TA_MIN,22.1,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 17.7),Spatial Outlier
+20130909,AWS,659,659,TA_MIN,16.4,Differs from 5 nearest neighbors by 6.6 (Neighbor Mean: 15.2),Spatial Outlier
+20130909,AWS,694,694,TA_MIN,17.2,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 16.2),Spatial Outlier
+20130909,AWS,695,695,TA_MIN,14.0,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 15.1),Spatial Outlier
+20130909,AWS,873,873,TA_MIN,14.8,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 15.8),Spatial Outlier
+20130909,RDA,210913E001,강릉 안반덕이,TA_MIN,13.3,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 15.2),Spatial Outlier
+20130909,ASOS,264,264,HM_AVG,86.3,Differs from 5 nearest neighbors by 21.2 (Neighbor Mean: 65.1),Spatial Outlier
+20130909,RDA,476801A001,양평군 양평읍,SI_DAY,1.24,Differs from 5 nearest neighbors by 8.4 (Neighbor Mean: 9.7),Spatial Outlier
+20130909,RDA,415743A001,김포시 월곶면,SI_DAY,5.6,Differs from 5 nearest neighbors by 11.2 (Neighbor Mean: 16.8),Spatial Outlier
+20130909,RDA,745230A001,문경시 흥덕동,SI_DAY,3.88,Differs from 5 nearest neighbors by 12.4 (Neighbor Mean: 16.3),Spatial Outlier
+20130909,RDA,320862A001,논산시 광석면,SI_DAY,12.5,Differs from 5 nearest neighbors by 9.2 (Neighbor Mean: 21.7),Spatial Outlier
+20130909,RDA,245832A001,삼척시 근덕면,SI_DAY,4.4,Differs from 5 nearest neighbors by 9.5 (Neighbor Mean: 13.9),Spatial Outlier
+20130909,RDA,225874A001,횡성군 공근면,SI_DAY,10.0,Differs from 5 nearest neighbors by 8.6 (Neighbor Mean: 18.6),Spatial Outlier
+20130909,RDA,355831A001,보령시 주교면,SI_DAY,10.5,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 18.4),Spatial Outlier
+20130909,RDA,350808A001,홍성군 홍성읍,SI_DAY,10.96,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 19.1),Spatial Outlier
+20130909,RDA,590834E001,남원시 운봉읍,SI_DAY,11.25,Differs from 5 nearest neighbors by 8.7 (Neighbor Mean: 19.9),Spatial Outlier
+20130909,RDA,712851A001,경산시 자인면,SI_DAY,22.88,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 15.3),Spatial Outlier
+20130909,RDA,766851E001,영덕군 병곡면,SI_DAY,30.43,Differs from 5 nearest neighbors by 14.7 (Neighbor Mean: 15.8),Spatial Outlier
+20130909,RDA,718814A001,칠곡군 약목면,SI_DAY,0.0,Differs from 5 nearest neighbors by 17.8 (Neighbor Mean: 17.8),Spatial Outlier
+20130909,RDA,656933A001,거제시 거제면,SS_DAY,0.0,Differs from 5 nearest neighbors by 9.3 (Neighbor Mean: 9.3),Spatial Outlier
+20130909,RDA,477802A001,가평군 가평읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 4.8),Spatial Outlier
+20130909,RDA,225874A001,횡성군 공근면,SS_DAY,9.933333333333334,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 5.2),Spatial Outlier
+20130909,RDA,590823A001,남원시 이백면,SS_DAY,0.0,Differs from 5 nearest neighbors by 8.6 (Neighbor Mean: 8.6),Spatial Outlier
+20130909,RDA,766851E001,영덕군 병곡면,SS_DAY,9.066666666666666,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 4.5),Spatial Outlier
+20130909,RDA,667831A001,하동군 적량면,SS_DAY,2.8,Differs from 5 nearest neighbors by 6.1 (Neighbor Mean: 8.9),Spatial Outlier
