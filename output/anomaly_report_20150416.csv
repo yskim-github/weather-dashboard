@@ -1,0 +1,44 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20150416,RDA,345802A001,청양군 청양읍,SI_DAY,39.89,Out of physical range (0~31.5),Range/Logic Error
+20150416,RDA,345802A001,청양군 청양읍,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20150416,RDA,345802A001,청양군 청양읍,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20150416,RDA,345802A001,청양군 청양읍,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20150416,RDA,345802A001,청양군 청양읍,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20150416,RDA,345802A001,청양군 청양읍,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20150416,RDA,345802A001,청양군 청양읍,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20150416,RDA,345802A001,청양군 청양읍,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20150416,AWS,189,189,TA_MIN,14.9,"Exceeds 3.5 Sigma (Mean: 6.4, Std: 2.4)",Statistical Outlier
+20150416,AWS,960,960,TA_MIN,14.9,"Exceeds 3.5 Sigma (Mean: 6.4, Std: 2.4)",Statistical Outlier
+20150416,ASOS,100,100,WS_AVG,8.3,"Exceeds 3.5 Sigma (Mean: 2.8, Std: 1.4)",Statistical Outlier
+20150416,ASOS,102,102,WS_AVG,8.9,"Exceeds 3.5 Sigma (Mean: 2.8, Std: 1.4)",Statistical Outlier
+20150416,ASOS,169,169,WS_AVG,7.8,"Exceeds 3.5 Sigma (Mean: 2.8, Std: 1.4)",Statistical Outlier
+20150416,RDA,456871A001,안성시 보개면,HM_AVG,10.1,"Exceeds 3.5 Sigma (Mean: 69.5, Std: 12.1)",Statistical Outlier
+20150416,RDA,355831A001,보령시 주교면,HM_AVG,25.1,"Exceeds 3.5 Sigma (Mean: 69.5, Std: 12.1)",Statistical Outlier
+20150416,AWS,96,96,TA_MAX,13.8,Differs from 5 nearest neighbors by 6.0 (Neighbor Mean: 20.4),Spatial Outlier
+20150416,AWS,460,460,TA_MAX,11.7,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 16.9),Spatial Outlier
+20150416,AWS,875,875,TA_MAX,4.6,Differs from 5 nearest neighbors by 6.5 (Neighbor Mean: 21.4),Spatial Outlier
+20150416,AWS,901,901,TA_MAX,17.4,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 23.3),Spatial Outlier
+20150416,AWS,924,924,TA_MAX,16.4,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 21.7),Spatial Outlier
+20150416,RDA,763803A001,청송군 청송읍,TA_MAX,29.4,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 25.3),Spatial Outlier
+20150416,AWS,460,460,TA_MIN,-1.1,Differs from 5 nearest neighbors by 6.2 (Neighbor Mean: 5.6),Spatial Outlier
+20150416,AWS,603,603,TA_MIN,7.1,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 3.3),Spatial Outlier
+20150416,AWS,851,851,TA_MIN,2.5,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 7.7),Spatial Outlier
+20150416,AWS,872,872,TA_MIN,4.8,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 5.0),Spatial Outlier
+20150416,RDA,638802A001,고성군 고성읍,TA_MIN,0.0,Differs from 5 nearest neighbors by 7.5 (Neighbor Mean: 7.6),Spatial Outlier
+20150416,ASOS,104,104,HM_AVG,37.5,Differs from 5 nearest neighbors by 24.4 (Neighbor Mean: 61.9),Spatial Outlier
+20150416,ASOS,105,105,HM_AVG,37.4,Differs from 5 nearest neighbors by 24.5 (Neighbor Mean: 61.9),Spatial Outlier
+20150416,ASOS,184,184,HM_AVG,42.8,Differs from 5 nearest neighbors by 23.3 (Neighbor Mean: 66.1),Spatial Outlier
+20150416,RDA,449872A001,용인시 처인구,HM_AVG,88.4,Differs from 5 nearest neighbors by 23.1 (Neighbor Mean: 65.3),Spatial Outlier
+20150416,RDA,343808A001,당진시 당진읍,HM_AVG,37.4,Differs from 5 nearest neighbors by 40.0 (Neighbor Mean: 77.4),Spatial Outlier
+20150416,RDA,451873A001,평택시 오성면,HM_AVG,84.4,Differs from 5 nearest neighbors by 22.3 (Neighbor Mean: 62.1),Spatial Outlier
+20150416,RDA,357903A001,태안군 태안읍,HM_AVG,84.4,Differs from 5 nearest neighbors by 24.2 (Neighbor Mean: 60.2),Spatial Outlier
+20150416,RDA,618803A001,부산시 강서구,HM_AVG,80.9,Differs from 5 nearest neighbors by 21.2 (Neighbor Mean: 59.7),Spatial Outlier
+20150416,ASOS,156,156,SI_DAY,20.79,Differs from 5 nearest neighbors by 9.4 (Neighbor Mean: 11.4),Spatial Outlier
+20150416,RDA,482841A001,양주시 은현면,SI_DAY,14.49,Differs from 5 nearest neighbors by 9.5 (Neighbor Mean: 5.0),Spatial Outlier
+20150416,RDA,320862A001,논산시 광석면,SI_DAY,7.64,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 15.9),Spatial Outlier
+20150416,RDA,233852A001,정선군 정선읍,SI_DAY,0.82,Differs from 5 nearest neighbors by 8.8 (Neighbor Mean: 9.6),Spatial Outlier
+20150416,RDA,548912A001,고흥군 풍양면,SI_DAY,30.01,Differs from 5 nearest neighbors by 14.4 (Neighbor Mean: 15.6),Spatial Outlier
+20150416,RDA,409911A001,옹진군 백령면,SI_DAY,15.45,Differs from 5 nearest neighbors by 9.0 (Neighbor Mean: 6.5),Spatial Outlier
+20150416,RDA,618803A001,부산시 강서구,SI_DAY,25.04,Differs from 5 nearest neighbors by 8.8 (Neighbor Mean: 16.3),Spatial Outlier
+20150416,RDA,355831A001,보령시 주교면,SS_DAY,0.0,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 4.7),Spatial Outlier
+20150416,RDA,667831A001,하동군 적량면,SS_DAY,1.1833333333333333,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 6.4),Spatial Outlier
