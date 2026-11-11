@@ -1,0 +1,30 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20150724,RDA,763803A001,청송군 청송읍,TA_MAX,34.2,"Exceeds 3.5 Sigma (Mean: 27.4, Std: 2.0)",Statistical Outlier
+20150724,RDA,638802A001,고성군 고성읍,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 24.2, Std: 1.6)",Statistical Outlier
+20150724,ASOS,115,115,WS_AVG,8.5,"Exceeds 3.5 Sigma (Mean: 2.1, Std: 1.6)",Statistical Outlier
+20150724,ASOS,159,159,WS_AVG,8.9,"Exceeds 3.5 Sigma (Mean: 2.1, Std: 1.6)",Statistical Outlier
+20150724,ASOS,185,185,WS_AVG,8.7,"Exceeds 3.5 Sigma (Mean: 2.1, Std: 1.6)",Statistical Outlier
+20150724,RDA,638802A001,고성군 고성읍,WS_AVG,7.93,"Exceeds 3.5 Sigma (Mean: 2.1, Std: 1.6)",Statistical Outlier
+20150724,RDA,456871A001,안성시 보개면,HM_AVG,0.6,"Exceeds 3.5 Sigma (Mean: 90.0, Std: 10.9)",Statistical Outlier
+20150724,RDA,343808A001,당진시 당진읍,HM_AVG,47.8,"Exceeds 3.5 Sigma (Mean: 90.0, Std: 10.9)",Statistical Outlier
+20150724,RDA,355831A001,보령시 주교면,HM_AVG,45.9,"Exceeds 3.5 Sigma (Mean: 90.0, Std: 10.9)",Statistical Outlier
+20150724,RDA,695923A001,제주시 한림읍,HM_AVG,40.1,"Exceeds 3.5 Sigma (Mean: 90.0, Std: 10.9)",Statistical Outlier
+20150724,AWS,877,877,TA_MAX,21.8,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 26.8),Spatial Outlier
+20150724,AWS,963,963,TA_MAX,25.4,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 30.4),Spatial Outlier
+20150724,AWS,464,464,TA_MIN,18.9,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 24.0),Spatial Outlier
+20150724,AWS,877,877,TA_MIN,19.4,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 24.8),Spatial Outlier
+20150724,AWS,926,926,TA_MIN,25.4,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 20.4),Spatial Outlier
+20150724,AWS,929,929,TA_MIN,25.6,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 20.6),Spatial Outlier
+20150724,RDA,650821A001,통영시 광도면,TA_MIN,25.7,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 20.5),Spatial Outlier
+20150724,RDA,449872A001,용인시 처인구,HM_AVG,98.4,Differs from 5 nearest neighbors by 21.9 (Neighbor Mean: 76.5),Spatial Outlier
+20150724,RDA,365803A001,진천군 진천읍,HM_AVG,99.6,Differs from 5 nearest neighbors by 25.0 (Neighbor Mean: 74.6),Spatial Outlier
+20150724,RDA,451873A001,평택시 오성면,HM_AVG,99.6,Differs from 5 nearest neighbors by 20.8 (Neighbor Mean: 78.8),Spatial Outlier
+20150724,RDA,588802A001,무주군 무주읍,HM_AVG,68.9,Differs from 5 nearest neighbors by 20.2 (Neighbor Mean: 89.1),Spatial Outlier
+20150724,RDA,357903A001,태안군 태안읍,HM_AVG,99.7,Differs from 5 nearest neighbors by 22.5 (Neighbor Mean: 77.2),Spatial Outlier
+20150724,RDA,580813A001,정읍시 정우면,HM_AVG,69.9,Differs from 5 nearest neighbors by 21.1 (Neighbor Mean: 91.0),Spatial Outlier
+20150724,ASOS,184,184,SI_DAY,20.21,Differs from 5 nearest neighbors by 15.4 (Neighbor Mean: 4.8),Spatial Outlier
+20150724,RDA,486803A001,연천군 연천읍,SI_DAY,11.64,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 3.9),Spatial Outlier
+20150724,RDA,548912A001,고흥군 풍양면,SI_DAY,18.08,Differs from 5 nearest neighbors by 12.6 (Neighbor Mean: 5.5),Spatial Outlier
+20150724,RDA,618803A001,부산시 강서구,SI_DAY,15.69,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 7.2),Spatial Outlier
+20150724,ASOS,184,184,SS_DAY,6.3,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 0.8),Spatial Outlier
+20150724,RDA,719862A001,성주군 대가면,SS_DAY,10.433333333333334,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 2.8),Spatial Outlier
