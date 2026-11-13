@@ -1,0 +1,10 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20091110,RDA,548912A001,고흥군 풍양면,WS_AVG,13.91,"Exceeds 3.5 Sigma (Mean: 3.5, Std: 2.4)",Statistical Outlier
+20091110,RDA,486803A001,연천군 연천읍,HM_AVG,20.7,"Exceeds 3.5 Sigma (Mean: 72.2, Std: 11.2)",Statistical Outlier
+20091110,ASOS,102,102,HM_AVG,84.5,Differs from 5 nearest neighbors by 25.9 (Neighbor Mean: 58.6),Spatial Outlier
+20091110,RDA,323814A001,부여군 규암면,HM_AVG,88.9,Differs from 5 nearest neighbors by 23.5 (Neighbor Mean: 65.4),Spatial Outlier
+20091110,RDA,469803A001,여주시 상거동,SI_DAY,15.3,Differs from 5 nearest neighbors by 10.5 (Neighbor Mean: 4.8),Spatial Outlier
+20091110,RDA,486803A001,연천군 연천읍,SI_DAY,14.5,Differs from 5 nearest neighbors by 11.0 (Neighbor Mean: 3.5),Spatial Outlier
+20091110,RDA,429843A001,시흥시 하중동,SI_DAY,15.9,Differs from 5 nearest neighbors by 12.3 (Neighbor Mean: 3.6),Spatial Outlier
+20091110,RDA,365803A001,진천군 진천읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 7.8),Spatial Outlier
+20091110,RDA,464030A001,광주시 목현동,SI_DAY,15.2,Differs from 5 nearest neighbors by 10.3 (Neighbor Mean: 4.9),Spatial Outlier
