@@ -1,0 +1,24 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20100315,RDA,750873A001,영주시 안정로,TA_AVG,-2.7,"Exceeds 3.5 Sigma (Mean: 9.8, Std: 2.3)",Statistical Outlier
+20100315,AWS,666,666,TA_MAX,5.6,"Exceeds 3.5 Sigma (Mean: 14.4, Std: 2.4)",Statistical Outlier
+20100315,RDA,750873A001,영주시 안정로,TA_MAX,2.7,"Exceeds 3.5 Sigma (Mean: 14.4, Std: 2.4)",Statistical Outlier
+20100315,AWS,189,189,TA_MIN,11.6,"Exceeds 3.5 Sigma (Mean: 4.7, Std: 1.9)",Statistical Outlier
+20100315,AWS,960,960,TA_MIN,11.5,"Exceeds 3.5 Sigma (Mean: 4.7, Std: 1.9)",Statistical Outlier
+20100315,RDA,750873A001,영주시 안정로,TA_MIN,-5.5,"Exceeds 3.5 Sigma (Mean: 4.7, Std: 1.9)",Statistical Outlier
+20100315,ASOS,169,169,WS_AVG,10.2,"Exceeds 3.5 Sigma (Mean: 3.1, Std: 2.0)",Statistical Outlier
+20100315,ASOS,185,185,WS_AVG,14.7,"Exceeds 3.5 Sigma (Mean: 3.1, Std: 2.0)",Statistical Outlier
+20100315,RDA,539823A001,진도군 군내면,HM_AVG,18.0,"Exceeds 3.5 Sigma (Mean: 77.4, Std: 8.1)",Statistical Outlier
+20100315,ASOS,102,102,TA_AVG,3.6,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 8.5),Spatial Outlier
+20100315,RDA,245832A001,삼척시 근덕면,TA_AVG,5.8,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 10.9),Spatial Outlier
+20100315,AWS,310,310,TA_MAX,14.7,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 10.4),Spatial Outlier
+20100315,AWS,517,517,TA_MAX,7.3,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 12.4),Spatial Outlier
+20100315,AWS,871,871,TA_MAX,-4.2,Differs from 5 nearest neighbors by 13.9 (Neighbor Mean: 20.6),Spatial Outlier
+20100315,AWS,872,872,TA_MAX,16.6,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 17.4),Spatial Outlier
+20100315,ASOS,165,165,HM_AVG,89.8,Differs from 5 nearest neighbors by 22.0 (Neighbor Mean: 67.8),Spatial Outlier
+20100315,RDA,656933A001,거제시 거제면,HM_AVG,59.6,Differs from 5 nearest neighbors by 20.8 (Neighbor Mean: 80.4),Spatial Outlier
+20100315,RDA,742290A001,상주시 초산동,HM_AVG,52.8,Differs from 5 nearest neighbors by 22.1 (Neighbor Mean: 74.9),Spatial Outlier
+20100315,RDA,467800A001,이천시 중리동,SI_DAY,28.7,Differs from 5 nearest neighbors by 23.6 (Neighbor Mean: 5.1),Spatial Outlier
+20100315,RDA,656933A001,거제시 거제면,SI_DAY,15.0,Differs from 5 nearest neighbors by 13.3 (Neighbor Mean: 1.7),Spatial Outlier
+20100315,RDA,476801A001,양평군 양평읍,SI_DAY,3.1,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 10.7),Spatial Outlier
+20100315,RDA,449872A001,용인시 처인구,SI_DAY,0.3,Differs from 5 nearest neighbors by 9.0 (Neighbor Mean: 9.3),Spatial Outlier
+20100315,RDA,365803A001,진천군 진천읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 8.4 (Neighbor Mean: 8.4),Spatial Outlier
