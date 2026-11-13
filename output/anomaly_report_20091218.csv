@@ -1,0 +1,26 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20091218,RDA,449872A001,용인시 처인구,SI_DAY,99.2,Out of physical range (0~31.5),Range/Logic Error
+20091218,RDA,449872A001,용인시 처인구,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091218,RDA,449872A001,용인시 처인구,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091218,RDA,449872A001,용인시 처인구,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091218,RDA,449872A001,용인시 처인구,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091218,RDA,449872A001,용인시 처인구,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091218,RDA,449872A001,용인시 처인구,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091218,RDA,449872A001,용인시 처인구,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091218,ASOS,185,185,WS_AVG,17.6,"Exceeds 3.5 Sigma (Mean: 2.9, Std: 2.2)",Statistical Outlier
+20091218,ASOS,100,100,HM_AVG,56.8,Differs from 5 nearest neighbors by 23.3 (Neighbor Mean: 33.5),Spatial Outlier
+20091218,ASOS,102,102,HM_AVG,74.1,Differs from 5 nearest neighbors by 21.8 (Neighbor Mean: 52.3),Spatial Outlier
+20091218,ASOS,115,115,HM_AVG,62.6,Differs from 5 nearest neighbors by 31.3 (Neighbor Mean: 31.3),Spatial Outlier
+20091218,RDA,269811A001,철원군 동송읍,HM_AVG,21.8,Differs from 5 nearest neighbors by 35.2 (Neighbor Mean: 57.0),Spatial Outlier
+20091218,ASOS,108,108,SI_DAY,10.22,Differs from 5 nearest neighbors by 24.3 (Neighbor Mean: 34.5),Spatial Outlier
+20091218,ASOS,119,119,SI_DAY,9.84,Differs from 5 nearest neighbors by 20.9 (Neighbor Mean: 30.7),Spatial Outlier
+20091218,ASOS,131,131,SI_DAY,8.37,Differs from 5 nearest neighbors by 22.7 (Neighbor Mean: 31.0),Spatial Outlier
+20091218,RDA,456871A001,안성시 보개면,SI_DAY,9.7,Differs from 5 nearest neighbors by 24.0 (Neighbor Mean: 33.7),Spatial Outlier
+20091218,RDA,469803A001,여주시 상거동,SI_DAY,0.7,Differs from 5 nearest neighbors by 30.6 (Neighbor Mean: 31.3),Spatial Outlier
+20091218,RDA,476801A001,양평군 양평읍,SI_DAY,11.1,Differs from 5 nearest neighbors by 17.5 (Neighbor Mean: 28.6),Spatial Outlier
+20091218,RDA,415743A001,김포시 월곶면,SI_DAY,29.1,Differs from 5 nearest neighbors by 16.1 (Neighbor Mean: 13.0),Spatial Outlier
+20091218,ASOS,102,102,SS_DAY,0.7,Differs from 5 nearest neighbors by 6.0 (Neighbor Mean: 6.7),Spatial Outlier
+20091218,ASOS,115,115,SS_DAY,1.8,Differs from 5 nearest neighbors by 6.7 (Neighbor Mean: 8.5),Spatial Outlier
+20091218,ASOS,129,129,SS_DAY,0.8,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 6.3),Spatial Outlier
+20091218,ASOS,189,189,SS_DAY,6.0,Differs from 5 nearest neighbors by 4.3 (Neighbor Mean: 1.7),Spatial Outlier
+20091218,RDA,656933A001,거제시 거제면,SS_DAY,0.1,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 7.7),Spatial Outlier
