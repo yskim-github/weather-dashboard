@@ -1,0 +1,17 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20100309,AWS,661,661,TA_MAX,0.5,"Exceeds 3.5 Sigma (Mean: 6.1, Std: 1.5)",Statistical Outlier
+20100309,RDA,750873A001,영주시 안정로,TA_MAX,11.6,"Exceeds 3.5 Sigma (Mean: 6.1, Std: 1.5)",Statistical Outlier
+20100309,ASOS,185,185,WS_AVG,10.4,"Exceeds 3.5 Sigma (Mean: 2.2, Std: 1.6)",Statistical Outlier
+20100309,RDA,539823A001,진도군 군내면,HM_AVG,4.7,"Exceeds 3.5 Sigma (Mean: 76.7, Std: 11.1)",Statistical Outlier
+20100309,RDA,750873A001,영주시 안정로,HM_AVG,33.3,"Exceeds 3.5 Sigma (Mean: 76.7, Std: 11.1)",Statistical Outlier
+20100309,AWS,666,666,TA_MIN,1.5,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: -3.2),Spatial Outlier
+20100309,ASOS,165,165,HM_AVG,94.0,Differs from 5 nearest neighbors by 30.8 (Neighbor Mean: 63.2),Spatial Outlier
+20100309,RDA,413813A001,파주시 아동동,HM_AVG,39.2,Differs from 5 nearest neighbors by 32.9 (Neighbor Mean: 72.1),Spatial Outlier
+20100309,RDA,467800A001,이천시 중리동,SI_DAY,28.2,Differs from 5 nearest neighbors by 22.4 (Neighbor Mean: 5.8),Spatial Outlier
+20100309,RDA,449872A001,용인시 처인구,SI_DAY,0.6,Differs from 5 nearest neighbors by 9.1 (Neighbor Mean: 9.7),Spatial Outlier
+20100309,RDA,365803A001,진천군 진천읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 9.6 (Neighbor Mean: 9.6),Spatial Outlier
+20100309,RDA,220844A001,원주시 흥업면,SI_DAY,0.1,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 8.2),Spatial Outlier
+20100309,RDA,235802A001,태백시 황지동,SI_DAY,1.2,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 9.7),Spatial Outlier
+20100309,RDA,750873A001,영주시 안정로,SI_DAY,19.4,Differs from 5 nearest neighbors by 10.6 (Neighbor Mean: 8.8),Spatial Outlier
+20100309,RDA,225874A001,횡성군 공근면,SS_DAY,8.8,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 3.2),Spatial Outlier
+20100309,RDA,750873A001,영주시 안정로,SS_DAY,9.9,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 1.9),Spatial Outlier
