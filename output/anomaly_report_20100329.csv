@@ -1,0 +1,44 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20100329,RDA,449872A001,용인시 처인구,SI_DAY,80.2,Out of physical range (0~31.5),Range/Logic Error
+20100329,RDA,449872A001,용인시 처인구,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100329,RDA,449872A001,용인시 처인구,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100329,RDA,449872A001,용인시 처인구,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100329,RDA,449872A001,용인시 처인구,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100329,RDA,449872A001,용인시 처인구,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100329,RDA,449872A001,용인시 처인구,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100329,RDA,449872A001,용인시 처인구,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100329,RDA,415743A001,김포시 월곶면,SI_DAY,40.5,Out of physical range (0~31.5),Range/Logic Error
+20100329,RDA,415743A001,김포시 월곶면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100329,RDA,415743A001,김포시 월곶면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100329,RDA,415743A001,김포시 월곶면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100329,RDA,415743A001,김포시 월곶면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100329,RDA,415743A001,김포시 월곶면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100329,RDA,415743A001,김포시 월곶면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100329,RDA,415743A001,김포시 월곶면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100329,RDA,476801A001,양평군 양평읍,TA_AVG,12.4,"Exceeds 3.5 Sigma (Mean: 5.9, Std: 1.7)",Statistical Outlier
+20100329,AWS,369,369,TA_MAX,2.0,"Exceeds 3.5 Sigma (Mean: 12.8, Std: 2.6)",Statistical Outlier
+20100329,AWS,404,404,TA_MAX,24.1,"Exceeds 3.5 Sigma (Mean: 12.8, Std: 2.6)",Statistical Outlier
+20100329,ASOS,185,185,WS_AVG,6.6,"Exceeds 3.5 Sigma (Mean: 2.0, Std: 1.0)",Statistical Outlier
+20100329,AWS,306,306,TA_MAX,11.2,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 15.9),Spatial Outlier
+20100329,AWS,315,315,TA_MIN,-4.8,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: -2.6),Spatial Outlier
+20100329,AWS,636,636,TA_MIN,-6.4,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: -0.7),Spatial Outlier
+20100329,AWS,659,659,TA_MIN,-4.1,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: -3.2),Spatial Outlier
+20100329,AWS,694,694,TA_MIN,-3.0,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: -3.6),Spatial Outlier
+20100329,AWS,695,695,TA_MIN,-5.5,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: -3.5),Spatial Outlier
+20100329,AWS,724,724,TA_MIN,5.9,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 0.5),Spatial Outlier
+20100329,AWS,741,741,TA_MIN,-4.8,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 0.2),Spatial Outlier
+20100329,ASOS,114,114,SI_DAY,21.73,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 13.7),Spatial Outlier
+20100329,ASOS,119,119,SI_DAY,21.08,Differs from 5 nearest neighbors by 8.9 (Neighbor Mean: 30.0),Spatial Outlier
+20100329,ASOS,131,131,SI_DAY,21.16,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 29.1),Spatial Outlier
+20100329,RDA,656933A001,거제시 거제면,SI_DAY,11.5,Differs from 5 nearest neighbors by 11.8 (Neighbor Mean: 23.3),Spatial Outlier
+20100329,RDA,456871A001,안성시 보개면,SI_DAY,19.9,Differs from 5 nearest neighbors by 9.1 (Neighbor Mean: 29.0),Spatial Outlier
+20100329,RDA,469803A001,여주시 상거동,SI_DAY,10.0,Differs from 5 nearest neighbors by 21.1 (Neighbor Mean: 31.1),Spatial Outlier
+20100329,RDA,476801A001,양평군 양평읍,SI_DAY,22.2,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 30.1),Spatial Outlier
+20100329,RDA,486803A001,연천군 연천읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 22.8 (Neighbor Mean: 22.8),Spatial Outlier
+20100329,RDA,429843A001,시흥시 하중동,SI_DAY,11.0,Differs from 5 nearest neighbors by 14.7 (Neighbor Mean: 25.7),Spatial Outlier
+20100329,RDA,365803A001,진천군 진천읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 32.4 (Neighbor Mean: 32.4),Spatial Outlier
+20100329,RDA,464030A001,광주시 목현동,SI_DAY,12.7,Differs from 5 nearest neighbors by 22.4 (Neighbor Mean: 35.1),Spatial Outlier
+20100329,RDA,220844A001,원주시 흥업면,SI_DAY,0.7,Differs from 5 nearest neighbors by 17.2 (Neighbor Mean: 17.9),Spatial Outlier
+20100329,ASOS,277,277,SS_DAY,4.1,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 9.3),Spatial Outlier
+20100329,RDA,656933A001,거제시 거제면,SS_DAY,0.2,Differs from 5 nearest neighbors by 10.9 (Neighbor Mean: 11.1),Spatial Outlier
+20100329,RDA,482841A001,양주시 은현면,SS_DAY,0.0,Differs from 5 nearest neighbors by 10.6 (Neighbor Mean: 10.6),Spatial Outlier
