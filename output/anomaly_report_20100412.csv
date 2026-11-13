@@ -1,0 +1,17 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20100412,AWS,102,102,TA_MIN,3.4,"Exceeds 3.5 Sigma (Mean: 9.5, Std: 1.6)",Statistical Outlier
+20100412,AWS,113,113,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 9.5, Std: 1.6)",Statistical Outlier
+20100412,AWS,351,351,TA_MIN,16.8,"Exceeds 3.5 Sigma (Mean: 9.5, Std: 1.6)",Statistical Outlier
+20100412,AWS,369,369,TA_MIN,2.0,"Exceeds 3.5 Sigma (Mean: 9.5, Std: 1.6)",Statistical Outlier
+20100412,AWS,871,871,TA_MIN,4.5,"Exceeds 3.5 Sigma (Mean: 9.5, Std: 1.6)",Statistical Outlier
+20100412,AWS,955,955,TA_MAX,12.5,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 18.0),Spatial Outlier
+20100412,AWS,958,958,TA_MAX,10.9,Differs from 5 nearest neighbors by 6.1 (Neighbor Mean: 17.1),Spatial Outlier
+20100412,RDA,323814A001,부여군 규암면,HM_AVG,89.6,Differs from 5 nearest neighbors by 23.2 (Neighbor Mean: 66.4),Spatial Outlier
+20100412,RDA,539823A001,진도군 군내면,HM_AVG,59.4,Differs from 5 nearest neighbors by 22.0 (Neighbor Mean: 81.4),Spatial Outlier
+20100412,RDA,467800A001,이천시 중리동,SI_DAY,28.7,Differs from 5 nearest neighbors by 17.2 (Neighbor Mean: 11.5),Spatial Outlier
+20100412,RDA,449872A001,용인시 처인구,SI_DAY,1.4,Differs from 5 nearest neighbors by 12.9 (Neighbor Mean: 14.3),Spatial Outlier
+20100412,RDA,429843A001,시흥시 하중동,SI_DAY,19.0,Differs from 5 nearest neighbors by 9.7 (Neighbor Mean: 9.3),Spatial Outlier
+20100412,RDA,365803A001,진천군 진천읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 13.1 (Neighbor Mean: 13.1),Spatial Outlier
+20100412,RDA,220844A001,원주시 흥업면,SI_DAY,0.0,Differs from 5 nearest neighbors by 10.4 (Neighbor Mean: 10.4),Spatial Outlier
+20100412,RDA,225874A001,횡성군 공근면,SS_DAY,8.1,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 2.7),Spatial Outlier
+20100412,RDA,390874A001,제천시 봉양읍,SS_DAY,7.3,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 2.6),Spatial Outlier
