@@ -1,0 +1,20 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20100421,RDA,476801A001,양평군 양평읍,TA_AVG,18.7,"Exceeds 3.5 Sigma (Mean: 13.1, Std: 1.6)",Statistical Outlier
+20100421,AWS,727,727,TA_MIN,12.4,"Exceeds 3.5 Sigma (Mean: 9.3, Std: 1.6)",Statistical Outlier
+20100421,AWS,753,753,TA_MIN,10.5,"Exceeds 3.5 Sigma (Mean: 9.3, Std: 1.6)",Statistical Outlier
+20100421,AWS,793,793,TA_MIN,14.8,"Exceeds 3.5 Sigma (Mean: 9.3, Std: 1.6)",Statistical Outlier
+20100421,AWS,870,870,TA_MIN,6.2,"Exceeds 3.5 Sigma (Mean: 9.3, Std: 1.6)",Statistical Outlier
+20100421,AWS,956,956,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 9.3, Std: 1.6)",Statistical Outlier
+20100421,AWS,314,314,TA_MAX,13.0,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 17.6),Spatial Outlier
+20100421,AWS,753,753,TA_MAX,19.2,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 20.0),Spatial Outlier
+20100421,AWS,871,871,TA_MIN,-2.4,Differs from 5 nearest neighbors by 6.4 (Neighbor Mean: 14.9),Spatial Outlier
+20100421,RDA,539823A001,진도군 군내면,HM_AVG,60.2,Differs from 5 nearest neighbors by 26.5 (Neighbor Mean: 86.7),Spatial Outlier
+20100421,RDA,467800A001,이천시 중리동,SI_DAY,28.6,Differs from 5 nearest neighbors by 17.8 (Neighbor Mean: 10.8),Spatial Outlier
+20100421,RDA,656933A001,거제시 거제면,SI_DAY,2.2,Differs from 5 nearest neighbors by 9.8 (Neighbor Mean: 12.0),Spatial Outlier
+20100421,RDA,449872A001,용인시 처인구,SI_DAY,0.7,Differs from 5 nearest neighbors by 16.0 (Neighbor Mean: 16.7),Spatial Outlier
+20100421,RDA,429843A001,시흥시 하중동,SI_DAY,19.7,Differs from 5 nearest neighbors by 12.4 (Neighbor Mean: 7.3),Spatial Outlier
+20100421,RDA,464030A001,광주시 목현동,SI_DAY,19.5,Differs from 5 nearest neighbors by 8.3 (Neighbor Mean: 11.2),Spatial Outlier
+20100421,RDA,220844A001,원주시 흥업면,SI_DAY,0.7,Differs from 5 nearest neighbors by 9.9 (Neighbor Mean: 10.6),Spatial Outlier
+20100421,RDA,225874A001,횡성군 공근면,SS_DAY,10.2,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 2.5),Spatial Outlier
+20100421,RDA,390874A001,제천시 봉양읍,SS_DAY,9.0,Differs from 5 nearest neighbors by 5.8 (Neighbor Mean: 3.2),Spatial Outlier
+20100421,AWS,626,626,RN_DAY,94.0,Differs from 5 nearest neighbors by 92.1 (Neighbor Mean: 1.9),Spatial Outlier
