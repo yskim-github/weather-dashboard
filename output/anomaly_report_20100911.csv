@@ -1,0 +1,13 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20100911,ASOS,185,185,WS_AVG,7.4,"Exceeds 3.5 Sigma (Mean: 2.0, Std: 1.4)",Statistical Outlier
+20100911,ASOS,184,184,HM_AVG,64.9,"Exceeds 3.5 Sigma (Mean: 90.4, Std: 4.8)",Statistical Outlier
+20100911,AWS,524,524,TA_MAX,33.8,Differs from 5 nearest neighbors by 12.2 (Neighbor Mean: 21.7),Spatial Outlier
+20100911,AWS,875,875,TA_MAX,16.7,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 22.5),Spatial Outlier
+20100911,AWS,875,875,TA_MIN,14.0,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 19.7),Spatial Outlier
+20100911,ASOS,184,184,SI_DAY,22.57,Differs from 5 nearest neighbors by 14.1 (Neighbor Mean: 8.5),Spatial Outlier
+20100911,ASOS,185,185,SI_DAY,20.49,Differs from 5 nearest neighbors by 11.6 (Neighbor Mean: 8.9),Spatial Outlier
+20100911,RDA,312831A001,금산군 금성면,SI_DAY,19.08,Differs from 5 nearest neighbors by 16.2 (Neighbor Mean: 2.8),Spatial Outlier
+20100911,ASOS,102,102,SS_DAY,4.7,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 0.1),Spatial Outlier
+20100911,ASOS,184,184,SS_DAY,9.2,Differs from 5 nearest neighbors by 6.7 (Neighbor Mean: 2.5),Spatial Outlier
+20100911,ASOS,253,253,SS_DAY,6.1,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 1.6),Spatial Outlier
+20100911,AWS,921,921,RN_DAY,995.5,Differs from 5 nearest neighbors by 986.7 (Neighbor Mean: 8.8),Spatial Outlier
