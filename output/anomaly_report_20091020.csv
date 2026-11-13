@@ -1,0 +1,48 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20091020,RDA,650821A001,통영시 광도면,SI_DAY,49.5,Out of physical range (0~31.5),Range/Logic Error
+20091020,RDA,650821A001,통영시 광도면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091020,RDA,650821A001,통영시 광도면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091020,RDA,650821A001,통영시 광도면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091020,RDA,650821A001,통영시 광도면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091020,RDA,650821A001,통영시 광도면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091020,RDA,650821A001,통영시 광도면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091020,RDA,650821A001,통영시 광도면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091020,RDA,449872A001,용인시 처인구,SI_DAY,84.8,Out of physical range (0~31.5),Range/Logic Error
+20091020,RDA,449872A001,용인시 처인구,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091020,RDA,449872A001,용인시 처인구,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091020,RDA,449872A001,용인시 처인구,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091020,RDA,449872A001,용인시 처인구,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091020,RDA,449872A001,용인시 처인구,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091020,RDA,449872A001,용인시 처인구,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091020,RDA,449872A001,용인시 처인구,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091020,RDA,415743A001,김포시 월곶면,SI_DAY,33.8,Out of physical range (0~31.5),Range/Logic Error
+20091020,RDA,415743A001,김포시 월곶면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091020,RDA,415743A001,김포시 월곶면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091020,RDA,415743A001,김포시 월곶면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091020,RDA,415743A001,김포시 월곶면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091020,RDA,415743A001,김포시 월곶면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091020,RDA,415743A001,김포시 월곶면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091020,RDA,415743A001,김포시 월곶면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091020,AWS,189,189,TA_MAX,24.2,"Exceeds 3.5 Sigma (Mean: 17.9, Std: 1.8)",Statistical Outlier
+20091020,AWS,654,654,TA_MAX,30.3,"Exceeds 3.5 Sigma (Mean: 17.9, Std: 1.8)",Statistical Outlier
+20091020,RDA,486803A001,연천군 연천읍,WS_AVG,31.07,"Exceeds 3.5 Sigma (Mean: 2.3, Std: 2.9)",Statistical Outlier
+20091020,RDA,476801A001,양평군 양평읍,TA_AVG,14.1,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 9.6),Spatial Outlier
+20091020,AWS,725,725,TA_MIN,14.3,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 10.0),Spatial Outlier
+20091020,AWS,816,816,TA_MIN,6.0,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 11.4),Spatial Outlier
+20091020,AWS,851,851,TA_MIN,3.7,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 8.7),Spatial Outlier
+20091020,AWS,923,923,TA_MIN,6.5,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 12.1),Spatial Outlier
+20091020,RDA,323814A001,부여군 규암면,HM_AVG,90.8,Differs from 5 nearest neighbors by 28.4 (Neighbor Mean: 62.4),Spatial Outlier
+20091020,RDA,638802A001,고성군 고성읍,HM_AVG,68.1,Differs from 5 nearest neighbors by 22.7 (Neighbor Mean: 45.4),Spatial Outlier
+20091020,ASOS,119,119,SI_DAY,15.3,Differs from 5 nearest neighbors by 15.7 (Neighbor Mean: 31.0),Spatial Outlier
+20091020,ASOS,131,131,SI_DAY,11.39,Differs from 5 nearest neighbors by 15.1 (Neighbor Mean: 26.5),Spatial Outlier
+20091020,RDA,656933A001,거제시 거제면,SI_DAY,12.8,Differs from 5 nearest neighbors by 10.9 (Neighbor Mean: 23.7),Spatial Outlier
+20091020,RDA,456871A001,안성시 보개면,SI_DAY,14.9,Differs from 5 nearest neighbors by 13.0 (Neighbor Mean: 27.9),Spatial Outlier
+20091020,RDA,469803A001,여주시 상거동,SI_DAY,14.8,Differs from 5 nearest neighbors by 13.3 (Neighbor Mean: 28.1),Spatial Outlier
+20091020,RDA,476801A001,양평군 양평읍,SI_DAY,16.3,Differs from 5 nearest neighbors by 14.2 (Neighbor Mean: 30.5),Spatial Outlier
+20091020,RDA,365803A001,진천군 진천읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 30.0 (Neighbor Mean: 30.0),Spatial Outlier
+20091020,RDA,464030A001,광주시 목현동,SI_DAY,15.7,Differs from 5 nearest neighbors by 15.5 (Neighbor Mean: 31.2),Spatial Outlier
+20091020,RDA,220844A001,원주시 흥업면,SI_DAY,0.5,Differs from 5 nearest neighbors by 14.1 (Neighbor Mean: 14.6),Spatial Outlier
+20091020,RDA,539823A001,진도군 군내면,SI_DAY,27.3,Differs from 5 nearest neighbors by 10.7 (Neighbor Mean: 16.6),Spatial Outlier
+20091020,RDA,718814A001,칠곡군 약목면,SI_DAY,3.4,Differs from 5 nearest neighbors by 12.4 (Neighbor Mean: 15.8),Spatial Outlier
+20091020,ASOS,155,155,SS_DAY,10.2,Differs from 5 nearest neighbors by 4.4 (Neighbor Mean: 5.8),Spatial Outlier
+20091020,RDA,656933A001,거제시 거제면,SS_DAY,0.0,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 7.8),Spatial Outlier
