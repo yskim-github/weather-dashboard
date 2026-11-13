@@ -1,0 +1,11 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20100906,AWS,491,491,TA_MIN,19.0,"Exceeds 3.5 Sigma (Mean: 23.4, Std: 1.1)",Statistical Outlier
+20100906,AWS,870,870,TA_MIN,17.7,"Exceeds 3.5 Sigma (Mean: 23.4, Std: 1.1)",Statistical Outlier
+20100906,AWS,871,871,TA_MIN,16.7,"Exceeds 3.5 Sigma (Mean: 23.4, Std: 1.1)",Statistical Outlier
+20100906,RDA,340861A001,예산군 신암면,WS_AVG,58.76,"Exceeds 3.5 Sigma (Mean: 2.6, Std: 6.2)",Statistical Outlier
+20100906,RDA,340861A001,예산군 신암면,HM_AVG,8.9,"Exceeds 3.5 Sigma (Mean: 88.5, Std: 9.7)",Statistical Outlier
+20100906,ASOS,119,119,WS_AVG,1.9,Differs from 5 nearest neighbors by 11.0 (Neighbor Mean: 12.9),Spatial Outlier
+20100906,ASOS,129,129,WS_AVG,2.6,Differs from 5 nearest neighbors by 10.8 (Neighbor Mean: 13.4),Spatial Outlier
+20100906,ASOS,232,232,WS_AVG,1.7,Differs from 5 nearest neighbors by 11.0 (Neighbor Mean: 12.7),Spatial Outlier
+20100906,ASOS,235,235,WS_AVG,2.7,Differs from 5 nearest neighbors by 10.9 (Neighbor Mean: 13.6),Spatial Outlier
+20100906,ASOS,236,236,WS_AVG,2.0,Differs from 5 nearest neighbors by 11.3 (Neighbor Mean: 13.3),Spatial Outlier
