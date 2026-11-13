@@ -1,0 +1,6 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20100827,ASOS,102,102,WS_AVG,5.8,"Exceeds 3.5 Sigma (Mean: 1.7, Std: 1.0)",Statistical Outlier
+20100827,ASOS,169,169,WS_AVG,5.6,"Exceeds 3.5 Sigma (Mean: 1.7, Std: 1.0)",Statistical Outlier
+20100827,AWS,569,569,TA_MAX,24.2,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 32.4),Spatial Outlier
+20100827,ASOS,253,253,SS_DAY,8.3,Differs from 5 nearest neighbors by 5.9 (Neighbor Mean: 2.4),Spatial Outlier
+20100827,AWS,92,92,RN_DAY,48.3,Differs from 5 nearest neighbors by 48.2 (Neighbor Mean: 0.1),Spatial Outlier
