@@ -1,0 +1,7 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20091203,ASOS,169,169,WS_AVG,9.0,"Exceeds 3.5 Sigma (Mean: 1.9, Std: 1.8)",Statistical Outlier
+20091203,ASOS,185,185,WS_AVG,14.1,"Exceeds 3.5 Sigma (Mean: 1.9, Std: 1.8)",Statistical Outlier
+20091203,AWS,545,545,TA_MIN,-2.6,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 2.4),Spatial Outlier
+20091203,RDA,411801A001,고양시 구산동,TA_MIN,-1.8,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 2.9),Spatial Outlier
+20091203,RDA,467800A001,이천시 중리동,SI_DAY,22.4,Differs from 5 nearest neighbors by 19.1 (Neighbor Mean: 3.3),Spatial Outlier
+20091203,RDA,656933A001,거제시 거제면,SS_DAY,0.1,Differs from 5 nearest neighbors by 6.8 (Neighbor Mean: 6.9),Spatial Outlier
