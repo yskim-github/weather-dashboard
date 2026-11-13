@@ -1,0 +1,11 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20100723,AWS,96,96,TA_MAX,25.5,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 31.9),Spatial Outlier
+20100723,AWS,851,851,TA_MAX,24.9,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 33.9),Spatial Outlier
+20100723,AWS,901,901,TA_MAX,27.8,Differs from 5 nearest neighbors by 5.8 (Neighbor Mean: 33.8),Spatial Outlier
+20100723,AWS,924,924,TA_MAX,25.9,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 33.8),Spatial Outlier
+20100723,AWS,943,943,TA_MAX,37.0,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 32.0),Spatial Outlier
+20100723,AWS,962,962,TA_MAX,27.7,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 32.4),Spatial Outlier
+20100723,AWS,963,963,TA_MAX,28.0,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 33.8),Spatial Outlier
+20100723,AWS,916,916,TA_MIN,18.9,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 23.9),Spatial Outlier
+20100723,AWS,924,924,TA_MIN,20.0,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 24.9),Spatial Outlier
+20100723,ASOS,115,115,SS_DAY,11.6,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 3.7),Spatial Outlier
