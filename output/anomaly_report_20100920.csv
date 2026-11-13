@@ -1,0 +1,50 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20100920,RDA,312831A001,금산군 금성면,SI_DAY,38.28,Out of physical range (0~31.5),Range/Logic Error
+20100920,RDA,312831A001,금산군 금성면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100920,RDA,312831A001,금산군 금성면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100920,RDA,312831A001,금산군 금성면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100920,RDA,312831A001,금산군 금성면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100920,RDA,312831A001,금산군 금성면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100920,RDA,312831A001,금산군 금성면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100920,RDA,312831A001,금산군 금성면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100920,RDA,576040A001,김제시 부량면,SI_DAY,39.91,Out of physical range (0~31.5),Range/Logic Error
+20100920,RDA,576040A001,김제시 부량면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100920,RDA,576040A001,김제시 부량면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100920,RDA,576040A001,김제시 부량면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100920,RDA,576040A001,김제시 부량면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100920,RDA,576040A001,김제시 부량면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100920,RDA,576040A001,김제시 부량면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100920,RDA,576040A001,김제시 부량면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100920,RDA,525811A001,함평군 학교면,SI_DAY,38.58,Out of physical range (0~31.5),Range/Logic Error
+20100920,RDA,525811A001,함평군 학교면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100920,RDA,525811A001,함평군 학교면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100920,RDA,525811A001,함평군 학교면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100920,RDA,525811A001,함평군 학교면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100920,RDA,525811A001,함평군 학교면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100920,RDA,525811A001,함평군 학교면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100920,RDA,525811A001,함평군 학교면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100920,RDA,730802A001,구미시 선산읍,SI_DAY,37.2,Out of physical range (0~31.5),Range/Logic Error
+20100920,RDA,730802A001,구미시 선산읍,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100920,RDA,730802A001,구미시 선산읍,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100920,RDA,730802A001,구미시 선산읍,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100920,RDA,730802A001,구미시 선산읍,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100920,RDA,730802A001,구미시 선산읍,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100920,RDA,730802A001,구미시 선산읍,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100920,RDA,730802A001,구미시 선산읍,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100920,RDA,757802A001,예천군 예천읍,WS_AVG,11.57,"Exceeds 3.5 Sigma (Mean: 1.5, Std: 1.3)",Statistical Outlier
+20100920,AWS,959,959,TA_MAX,25.5,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 30.9),Spatial Outlier
+20100920,AWS,962,962,TA_MAX,27.3,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 31.9),Spatial Outlier
+20100920,ASOS,114,114,SI_DAY,2.52,Differs from 5 nearest neighbors by 8.3 (Neighbor Mean: 10.9),Spatial Outlier
+20100920,ASOS,131,131,SI_DAY,1.46,Differs from 5 nearest neighbors by 12.3 (Neighbor Mean: 13.8),Spatial Outlier
+20100920,ASOS,133,133,SI_DAY,2.97,Differs from 5 nearest neighbors by 17.4 (Neighbor Mean: 20.4),Spatial Outlier
+20100920,ASOS,135,135,SI_DAY,6.23,Differs from 5 nearest neighbors by 14.8 (Neighbor Mean: 21.1),Spatial Outlier
+20100920,ASOS,136,136,SI_DAY,5.18,Differs from 5 nearest neighbors by 11.7 (Neighbor Mean: 16.8),Spatial Outlier
+20100920,ASOS,169,169,SI_DAY,13.23,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 21.7),Spatial Outlier
+20100920,ASOS,251,251,SI_DAY,12.38,Differs from 5 nearest neighbors by 13.0 (Neighbor Mean: 25.3),Spatial Outlier
+20100920,ASOS,252,252,SI_DAY,13.63,Differs from 5 nearest neighbors by 11.5 (Neighbor Mean: 25.1),Spatial Outlier
+20100920,ASOS,258,258,SI_DAY,12.92,Differs from 5 nearest neighbors by 10.5 (Neighbor Mean: 23.4),Spatial Outlier
+20100920,ASOS,264,264,SI_DAY,14.29,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 22.2),Spatial Outlier
+20100920,RDA,757802A001,예천군 예천읍,SI_DAY,25.41,Differs from 5 nearest neighbors by 12.6 (Neighbor Mean: 12.8),Spatial Outlier
+20100920,ASOS,90,90,SS_DAY,6.3,Differs from 5 nearest neighbors by 4.4 (Neighbor Mean: 1.9),Spatial Outlier
+20100920,ASOS,243,243,SS_DAY,8.6,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 3.7),Spatial Outlier
+20100920,ASOS,253,253,SS_DAY,10.1,Differs from 5 nearest neighbors by 4.3 (Neighbor Mean: 5.8),Spatial Outlier
