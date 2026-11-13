@@ -1,0 +1,14 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20100322,AWS,753,753,TA_MAX,14.0,"Exceeds 3.5 Sigma (Mean: 8.2, Std: 2.6)",Statistical Outlier
+20100322,AWS,870,870,TA_MAX,10.3,"Exceeds 3.5 Sigma (Mean: 8.2, Std: 2.6)",Statistical Outlier
+20100322,AWS,871,871,TA_MAX,6.5,"Exceeds 3.5 Sigma (Mean: 8.2, Std: 2.6)",Statistical Outlier
+20100322,AWS,871,871,TA_MIN,-1.1,"Exceeds 3.5 Sigma (Mean: 0.6, Std: 2.3)",Statistical Outlier
+20100322,AWS,960,960,TA_MIN,8.5,"Exceeds 3.5 Sigma (Mean: 0.6, Std: 2.3)",Statistical Outlier
+20100322,ASOS,185,185,WS_AVG,5.4,"Exceeds 3.5 Sigma (Mean: 1.4, Std: 1.0)",Statistical Outlier
+20100322,RDA,656933A001,거제시 거제면,TA_AVG,11.9,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 7.1),Spatial Outlier
+20100322,AWS,483,483,TA_MAX,0.5,Differs from 5 nearest neighbors by 6.5 (Neighbor Mean: 7.3),Spatial Outlier
+20100322,RDA,656933A001,거제시 거제면,TA_MAX,16.8,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 12.1),Spatial Outlier
+20100322,RDA,469803A001,여주시 상거동,TA_MIN,-7.0,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: -1.9),Spatial Outlier
+20100322,RDA,539823A001,진도군 군내면,HM_AVG,37.0,Differs from 5 nearest neighbors by 29.7 (Neighbor Mean: 66.7),Spatial Outlier
+20100322,RDA,467800A001,이천시 중리동,SI_DAY,18.7,Differs from 5 nearest neighbors by 15.7 (Neighbor Mean: 3.0),Spatial Outlier
+20100322,RDA,225874A001,횡성군 공근면,SS_DAY,7.3,Differs from 5 nearest neighbors by 6.9 (Neighbor Mean: 0.4),Spatial Outlier
