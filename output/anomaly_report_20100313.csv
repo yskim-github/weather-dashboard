@@ -1,0 +1,41 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20100313,RDA,467800A001,이천시 중리동,SI_DAY,40.1,Out of physical range (0~31.5),Range/Logic Error
+20100313,RDA,467800A001,이천시 중리동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100313,RDA,467800A001,이천시 중리동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100313,RDA,467800A001,이천시 중리동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100313,RDA,467800A001,이천시 중리동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100313,RDA,467800A001,이천시 중리동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100313,RDA,467800A001,이천시 중리동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100313,RDA,467800A001,이천시 중리동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100313,RDA,449872A001,용인시 처인구,SI_DAY,57.7,Out of physical range (0~31.5),Range/Logic Error
+20100313,RDA,449872A001,용인시 처인구,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100313,RDA,449872A001,용인시 처인구,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100313,RDA,449872A001,용인시 처인구,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100313,RDA,449872A001,용인시 처인구,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100313,RDA,449872A001,용인시 처인구,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100313,RDA,449872A001,용인시 처인구,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100313,RDA,449872A001,용인시 처인구,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100313,RDA,415743A001,김포시 월곶면,SI_DAY,35.3,Out of physical range (0~31.5),Range/Logic Error
+20100313,RDA,415743A001,김포시 월곶면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100313,RDA,415743A001,김포시 월곶면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100313,RDA,415743A001,김포시 월곶면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100313,RDA,415743A001,김포시 월곶면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100313,RDA,415743A001,김포시 월곶면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100313,RDA,415743A001,김포시 월곶면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100313,RDA,415743A001,김포시 월곶면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100313,ASOS,169,169,WS_AVG,6.9,"Exceeds 3.5 Sigma (Mean: 2.0, Std: 1.2)",Statistical Outlier
+20100313,RDA,476801A001,양평군 양평읍,TA_AVG,7.8,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 3.3),Spatial Outlier
+20100313,RDA,656933A001,거제시 거제면,TA_MAX,10.2,Differs from 5 nearest neighbors by 6.3 (Neighbor Mean: 16.8),Spatial Outlier
+20100313,RDA,750873A001,영주시 안정로,TA_MAX,7.1,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 13.5),Spatial Outlier
+20100313,AWS,315,315,TA_MIN,1.9,Differs from 5 nearest neighbors by 6.2 (Neighbor Mean: 2.8),Spatial Outlier
+20100313,RDA,656933A001,거제시 거제면,TA_MIN,-0.5,Differs from 5 nearest neighbors by 6.7 (Neighbor Mean: 6.5),Spatial Outlier
+20100313,ASOS,165,165,HM_AVG,66.1,Differs from 5 nearest neighbors by 23.1 (Neighbor Mean: 43.0),Spatial Outlier
+20100313,RDA,323814A001,부여군 규암면,HM_AVG,65.1,Differs from 5 nearest neighbors by 22.0 (Neighbor Mean: 43.1),Spatial Outlier
+20100313,RDA,539823A001,진도군 군내면,HM_AVG,12.3,Differs from 5 nearest neighbors by 40.6 (Neighbor Mean: 52.9),Spatial Outlier
+20100313,RDA,456871A001,안성시 보개면,SI_DAY,16.4,Differs from 5 nearest neighbors by 8.4 (Neighbor Mean: 24.8),Spatial Outlier
+20100313,RDA,469803A001,여주시 상거동,SI_DAY,6.3,Differs from 5 nearest neighbors by 21.2 (Neighbor Mean: 27.5),Spatial Outlier
+20100313,RDA,429843A001,시흥시 하중동,SI_DAY,7.6,Differs from 5 nearest neighbors by 14.5 (Neighbor Mean: 22.1),Spatial Outlier
+20100313,RDA,365803A001,진천군 진천읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 27.4 (Neighbor Mean: 27.4),Spatial Outlier
+20100313,RDA,464030A001,광주시 목현동,SI_DAY,8.5,Differs from 5 nearest neighbors by 22.5 (Neighbor Mean: 31.0),Spatial Outlier
+20100313,RDA,220844A001,원주시 흥업면,SI_DAY,0.0,Differs from 5 nearest neighbors by 15.7 (Neighbor Mean: 15.7),Spatial Outlier
+20100313,RDA,656933A001,거제시 거제면,SS_DAY,0.3,Differs from 5 nearest neighbors by 6.7 (Neighbor Mean: 7.0),Spatial Outlier
