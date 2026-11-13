@@ -1,0 +1,35 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20100215,RDA,467800A001,이천시 중리동,SI_DAY,39.9,Out of physical range (0~31.5),Range/Logic Error
+20100215,RDA,467800A001,이천시 중리동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100215,RDA,467800A001,이천시 중리동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100215,RDA,467800A001,이천시 중리동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100215,RDA,467800A001,이천시 중리동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100215,RDA,467800A001,이천시 중리동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100215,RDA,467800A001,이천시 중리동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100215,RDA,467800A001,이천시 중리동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100215,RDA,449872A001,용인시 처인구,SI_DAY,99.6,Out of physical range (0~31.5),Range/Logic Error
+20100215,RDA,449872A001,용인시 처인구,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100215,RDA,449872A001,용인시 처인구,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100215,RDA,449872A001,용인시 처인구,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100215,RDA,449872A001,용인시 처인구,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100215,RDA,449872A001,용인시 처인구,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100215,RDA,449872A001,용인시 처인구,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100215,RDA,449872A001,용인시 처인구,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100215,ASOS,169,169,WS_AVG,9.5,"Exceeds 3.5 Sigma (Mean: 2.2, Std: 1.7)",Statistical Outlier
+20100215,ASOS,185,185,WS_AVG,12.1,"Exceeds 3.5 Sigma (Mean: 2.2, Std: 1.7)",Statistical Outlier
+20100215,ASOS,189,189,TA_AVG,8.5,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 3.6),Spatial Outlier
+20100215,RDA,476801A001,양평군 양평읍,TA_AVG,1.3,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: -2.6),Spatial Outlier
+20100215,RDA,323814A001,부여군 규암면,HM_AVG,80.6,Differs from 5 nearest neighbors by 25.3 (Neighbor Mean: 55.3),Spatial Outlier
+20100215,ASOS,119,119,SI_DAY,9.95,Differs from 5 nearest neighbors by 14.9 (Neighbor Mean: 24.8),Spatial Outlier
+20100215,ASOS,131,131,SI_DAY,11.68,Differs from 5 nearest neighbors by 15.8 (Neighbor Mean: 27.5),Spatial Outlier
+20100215,RDA,456871A001,안성시 보개면,SI_DAY,12.0,Differs from 5 nearest neighbors by 18.2 (Neighbor Mean: 30.2),Spatial Outlier
+20100215,RDA,469803A001,여주시 상거동,SI_DAY,0.1,Differs from 5 nearest neighbors by 32.3 (Neighbor Mean: 32.4),Spatial Outlier
+20100215,RDA,476801A001,양평군 양평읍,SI_DAY,11.8,Differs from 5 nearest neighbors by 18.3 (Neighbor Mean: 30.1),Spatial Outlier
+20100215,RDA,429843A001,시흥시 하중동,SI_DAY,1.9,Differs from 5 nearest neighbors by 9.8 (Neighbor Mean: 11.7),Spatial Outlier
+20100215,RDA,365803A001,진천군 진천읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 32.7 (Neighbor Mean: 32.7),Spatial Outlier
+20100215,RDA,464030A001,광주시 목현동,SI_DAY,1.5,Differs from 5 nearest neighbors by 33.0 (Neighbor Mean: 34.5),Spatial Outlier
+20100215,RDA,220844A001,원주시 흥업면,SI_DAY,0.3,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 8.5),Spatial Outlier
+20100215,RDA,445891A001,화성시 장안면,SI_DAY,10.0,Differs from 5 nearest neighbors by 16.9 (Neighbor Mean: 26.9),Spatial Outlier
+20100215,ASOS,169,169,SS_DAY,1.9,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 7.3),Spatial Outlier
+20100215,RDA,656933A001,거제시 거제면,SS_DAY,0.1,Differs from 5 nearest neighbors by 7.1 (Neighbor Mean: 7.2),Spatial Outlier
+20100215,RDA,225874A001,횡성군 공근면,SS_DAY,9.7,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 5.0),Spatial Outlier
