@@ -1,0 +1,42 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20101010,AWS,959,959,TA_MAX,18.6,"Exceeds 3.5 Sigma (Mean: 24.8, Std: 1.7)",Statistical Outlier
+20101010,RDA,757802A001,예천군 예천읍,WS_AVG,14.04,"Exceeds 3.5 Sigma (Mean: 1.6, Std: 1.5)",Statistical Outlier
+20101010,RDA,757802A001,예천군 예천읍,TA_AVG,12.2,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 17.7),Spatial Outlier
+20101010,AWS,320,320,TA_MIN,9.0,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 12.3),Spatial Outlier
+20101010,AWS,659,659,TA_MIN,12.6,Differs from 5 nearest neighbors by 5.9 (Neighbor Mean: 12.1),Spatial Outlier
+20101010,AWS,851,851,TA_MIN,7.3,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 12.6),Spatial Outlier
+20101010,AWS,875,875,TA_MIN,7.5,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 12.3),Spatial Outlier
+20101010,AWS,878,878,TA_MIN,11.5,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 12.3),Spatial Outlier
+20101010,RDA,312831A001,금산군 금성면,TA_MIN,6.8,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 12.9),Spatial Outlier
+20101010,ASOS,135,135,SI_DAY,18.58,Differs from 5 nearest neighbors by 15.3 (Neighbor Mean: 3.3),Spatial Outlier
+20101010,ASOS,156,156,SI_DAY,16.89,Differs from 5 nearest neighbors by 11.1 (Neighbor Mean: 5.8),Spatial Outlier
+20101010,ASOS,159,159,SI_DAY,18.71,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 10.8),Spatial Outlier
+20101010,ASOS,165,165,SI_DAY,18.35,Differs from 5 nearest neighbors by 9.8 (Neighbor Mean: 8.6),Spatial Outlier
+20101010,ASOS,169,169,SI_DAY,18.11,Differs from 5 nearest neighbors by 10.9 (Neighbor Mean: 7.2),Spatial Outlier
+20101010,ASOS,192,192,SI_DAY,18.39,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 10.5),Spatial Outlier
+20101010,ASOS,252,252,SI_DAY,17.67,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 9.7),Spatial Outlier
+20101010,ASOS,258,258,SI_DAY,19.24,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 11.6),Spatial Outlier
+20101010,ASOS,259,259,SI_DAY,25.3,Differs from 5 nearest neighbors by 17.8 (Neighbor Mean: 7.5),Spatial Outlier
+20101010,RDA,650821A001,통영시 광도면,SI_DAY,0.01,Differs from 5 nearest neighbors by 18.0 (Neighbor Mean: 18.0),Spatial Outlier
+20101010,RDA,312831A001,금산군 금성면,SI_DAY,0.04,Differs from 5 nearest neighbors by 12.9 (Neighbor Mean: 12.9),Spatial Outlier
+20101010,RDA,588802A001,무주군 무주읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 13.2 (Neighbor Mean: 13.2),Spatial Outlier
+20101010,RDA,580813A001,정읍시 정우면,SI_DAY,0.01,Differs from 5 nearest neighbors by 11.9 (Neighbor Mean: 11.9),Spatial Outlier
+20101010,RDA,526821A001,영암군 덕진면,SI_DAY,0.01,Differs from 5 nearest neighbors by 12.1 (Neighbor Mean: 12.1),Spatial Outlier
+20101010,RDA,515804A001,장성군 장성읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 12.7 (Neighbor Mean: 12.7),Spatial Outlier
+20101010,RDA,539823A001,진도군 군내면,SI_DAY,0.0,Differs from 5 nearest neighbors by 12.3 (Neighbor Mean: 12.3),Spatial Outlier
+20101010,RDA,525811A001,함평군 학교면,SI_DAY,0.0,Differs from 5 nearest neighbors by 10.6 (Neighbor Mean: 10.6),Spatial Outlier
+20101010,RDA,730802A001,구미시 선산읍,SI_DAY,0.03,Differs from 5 nearest neighbors by 10.4 (Neighbor Mean: 10.4),Spatial Outlier
+20101010,RDA,757802A001,예천군 예천읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 13.6 (Neighbor Mean: 13.6),Spatial Outlier
+20101010,RDA,627911A001,밀양시 상남면,SI_DAY,0.01,Differs from 5 nearest neighbors by 18.1 (Neighbor Mean: 18.1),Spatial Outlier
+20101010,ASOS,165,165,SS_DAY,10.2,Differs from 5 nearest neighbors by 6.5 (Neighbor Mean: 3.7),Spatial Outlier
+20101010,ASOS,170,170,SS_DAY,9.8,Differs from 5 nearest neighbors by 4.2 (Neighbor Mean: 5.6),Spatial Outlier
+20101010,ASOS,217,217,SS_DAY,4.0,Differs from 5 nearest neighbors by 5.8 (Neighbor Mean: 9.8),Spatial Outlier
+20101010,ASOS,273,273,SS_DAY,10.2,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 5.4),Spatial Outlier
+20101010,RDA,650821A001,통영시 광도면,SS_DAY,0.0,Differs from 5 nearest neighbors by 9.5 (Neighbor Mean: 9.5),Spatial Outlier
+20101010,RDA,312831A001,금산군 금성면,SS_DAY,0.0,Differs from 5 nearest neighbors by 7.0 (Neighbor Mean: 7.0),Spatial Outlier
+20101010,RDA,576040A001,김제시 부량면,SS_DAY,0.0,Differs from 5 nearest neighbors by 6.5 (Neighbor Mean: 6.5),Spatial Outlier
+20101010,RDA,526821A001,영암군 덕진면,SS_DAY,0.0,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 7.6),Spatial Outlier
+20101010,RDA,539823A001,진도군 군내면,SS_DAY,0.0,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 7.7),Spatial Outlier
+20101010,RDA,525811A001,함평군 학교면,SS_DAY,0.0,Differs from 5 nearest neighbors by 6.4 (Neighbor Mean: 6.4),Spatial Outlier
+20101010,RDA,730802A001,구미시 선산읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 9.3 (Neighbor Mean: 9.3),Spatial Outlier
+20101010,RDA,757802A001,예천군 예천읍,SS_DAY,0.0,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 8.1),Spatial Outlier
