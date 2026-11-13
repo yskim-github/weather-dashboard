@@ -1,0 +1,10 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20100901,ASOS,102,102,TA_AVG,21.1,"Exceeds 3.5 Sigma (Mean: 27.1, Std: 1.2)",Statistical Outlier
+20100901,AWS,102,102,TA_MAX,23.7,"Exceeds 3.5 Sigma (Mean: 32.0, Std: 2.0)",Statistical Outlier
+20100901,AWS,528,528,TA_MAX,22.8,"Exceeds 3.5 Sigma (Mean: 32.0, Std: 2.0)",Statistical Outlier
+20100901,AWS,655,655,TA_MAX,22.9,"Exceeds 3.5 Sigma (Mean: 32.0, Std: 2.0)",Statistical Outlier
+20100901,AWS,658,658,TA_MIN,17.5,"Exceeds 3.5 Sigma (Mean: 23.4, Std: 1.3)",Statistical Outlier
+20100901,ASOS,185,185,WS_AVG,11.5,"Exceeds 3.5 Sigma (Mean: 2.6, Std: 1.8)",Statistical Outlier
+20100901,ASOS,283,283,SI_DAY,9.85,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 17.9),Spatial Outlier
+20100901,ASOS,130,130,SS_DAY,10.9,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 6.1),Spatial Outlier
+20100901,AWS,325,325,RN_DAY,58.5,Differs from 5 nearest neighbors by 56.5 (Neighbor Mean: 2.0),Spatial Outlier
