@@ -1,0 +1,21 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20091128,ASOS,169,169,WS_AVG,7.9,"Exceeds 3.5 Sigma (Mean: 1.5, Std: 1.5)",Statistical Outlier
+20091128,ASOS,185,185,WS_AVG,8.7,"Exceeds 3.5 Sigma (Mean: 1.5, Std: 1.5)",Statistical Outlier
+20091128,RDA,486803A001,연천군 연천읍,WS_AVG,9.88,"Exceeds 3.5 Sigma (Mean: 1.5, Std: 1.5)",Statistical Outlier
+20091128,ASOS,189,189,TA_AVG,13.3,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 8.9),Spatial Outlier
+20091128,RDA,476801A001,양평군 양평읍,TA_AVG,9.5,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 5.1),Spatial Outlier
+20091128,AWS,871,871,TA_MAX,8.9,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 15.1),Spatial Outlier
+20091128,AWS,144,144,TA_MIN,2.6,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: -0.8),Spatial Outlier
+20091128,AWS,314,314,TA_MIN,-4.8,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: -0.3),Spatial Outlier
+20091128,AWS,315,315,TA_MIN,-0.2,Differs from 5 nearest neighbors by 7.5 (Neighbor Mean: -0.6),Spatial Outlier
+20091128,AWS,636,636,TA_MIN,-2.4,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 3.4),Spatial Outlier
+20091128,AWS,682,682,TA_MIN,-2.0,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 0.1),Spatial Outlier
+20091128,AWS,695,695,TA_MIN,-2.8,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: -1.3),Spatial Outlier
+20091128,AWS,783,783,TA_MIN,-1.5,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 3.5),Spatial Outlier
+20091128,AWS,851,851,TA_MIN,-0.4,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 4.8),Spatial Outlier
+20091128,AWS,854,854,TA_MIN,-1.7,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 4.4),Spatial Outlier
+20091128,RDA,467800A001,이천시 중리동,SI_DAY,23.3,Differs from 5 nearest neighbors by 16.8 (Neighbor Mean: 6.5),Spatial Outlier
+20091128,RDA,449872A001,용인시 처인구,SI_DAY,0.6,Differs from 5 nearest neighbors by 10.6 (Neighbor Mean: 11.2),Spatial Outlier
+20091128,RDA,539823A001,진도군 군내면,SI_DAY,20.6,Differs from 5 nearest neighbors by 9.6 (Neighbor Mean: 11.0),Spatial Outlier
+20091128,ASOS,184,184,SS_DAY,1.9,Differs from 5 nearest neighbors by 6.4 (Neighbor Mean: 8.3),Spatial Outlier
+20091128,RDA,656933A001,거제시 거제면,SS_DAY,0.1,Differs from 5 nearest neighbors by 7.4 (Neighbor Mean: 7.5),Spatial Outlier
