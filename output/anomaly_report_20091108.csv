@@ -1,0 +1,23 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20091108,RDA,467800A001,이천시 중리동,SI_DAY,94.6,Out of physical range (0~31.5),Range/Logic Error
+20091108,RDA,467800A001,이천시 중리동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091108,RDA,467800A001,이천시 중리동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091108,RDA,467800A001,이천시 중리동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091108,RDA,467800A001,이천시 중리동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091108,RDA,467800A001,이천시 중리동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091108,RDA,467800A001,이천시 중리동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091108,RDA,467800A001,이천시 중리동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20091108,RDA,476801A001,양평군 양평읍,TA_AVG,19.3,Tavg not between Tmax(19.2) and Tmin(14.4),Range/Logic Error
+20091108,ASOS,169,169,WS_AVG,6.3,"Exceeds 3.5 Sigma (Mean: 1.5, Std: 1.3)",Statistical Outlier
+20091108,ASOS,185,185,WS_AVG,6.7,"Exceeds 3.5 Sigma (Mean: 1.5, Std: 1.3)",Statistical Outlier
+20091108,AWS,480,480,TA_MAX,16.2,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 21.6),Spatial Outlier
+20091108,AWS,314,314,TA_MIN,8.3,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 13.3),Spatial Outlier
+20091108,AWS,315,315,TA_MIN,11.1,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 13.6),Spatial Outlier
+20091108,AWS,502,502,TA_MIN,18.3,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 13.2),Spatial Outlier
+20091108,RDA,486803A001,연천군 연천읍,HM_AVG,61.5,Differs from 5 nearest neighbors by 27.2 (Neighbor Mean: 88.7),Spatial Outlier
+20091108,RDA,456871A001,안성시 보개면,SI_DAY,2.0,Differs from 5 nearest neighbors by 21.0 (Neighbor Mean: 23.0),Spatial Outlier
+20091108,RDA,476801A001,양평군 양평읍,SI_DAY,2.5,Differs from 5 nearest neighbors by 23.8 (Neighbor Mean: 26.3),Spatial Outlier
+20091108,RDA,486803A001,연천군 연천읍,SI_DAY,17.0,Differs from 5 nearest neighbors by 12.0 (Neighbor Mean: 5.0),Spatial Outlier
+20091108,RDA,449872A001,용인시 처인구,SI_DAY,0.4,Differs from 5 nearest neighbors by 22.9 (Neighbor Mean: 23.3),Spatial Outlier
+20091108,RDA,429843A001,시흥시 하중동,SI_DAY,20.5,Differs from 5 nearest neighbors by 16.4 (Neighbor Mean: 4.1),Spatial Outlier
+20091108,RDA,365803A001,진천군 진천읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 22.6 (Neighbor Mean: 22.6),Spatial Outlier
