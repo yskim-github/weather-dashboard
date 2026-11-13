@@ -1,0 +1,22 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20100307,RDA,467800A001,이천시 중리동,SI_DAY,39.2,Out of physical range (0~31.5),Range/Logic Error
+20100307,RDA,467800A001,이천시 중리동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100307,RDA,467800A001,이천시 중리동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100307,RDA,467800A001,이천시 중리동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100307,RDA,467800A001,이천시 중리동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100307,RDA,467800A001,이천시 중리동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100307,RDA,467800A001,이천시 중리동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100307,RDA,467800A001,이천시 중리동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20100307,AWS,661,661,TA_MAX,0.2,"Exceeds 3.5 Sigma (Mean: 7.5, Std: 2.0)",Statistical Outlier
+20100307,RDA,760380A001,안동시 송천동,WS_AVG,27.95,"Exceeds 3.5 Sigma (Mean: 2.8, Std: 2.8)",Statistical Outlier
+20100307,RDA,539823A001,진도군 군내면,HM_AVG,19.2,"Exceeds 3.5 Sigma (Mean: 67.3, Std: 11.4)",Statistical Outlier
+20100307,ASOS,165,165,HM_AVG,89.8,Differs from 5 nearest neighbors by 25.4 (Neighbor Mean: 64.4),Spatial Outlier
+20100307,RDA,656933A001,거제시 거제면,HM_AVG,89.5,Differs from 5 nearest neighbors by 20.6 (Neighbor Mean: 68.9),Spatial Outlier
+20100307,RDA,449872A001,용인시 처인구,SI_DAY,1.1,Differs from 5 nearest neighbors by 12.0 (Neighbor Mean: 13.1),Spatial Outlier
+20100307,RDA,365803A001,진천군 진천읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 12.5 (Neighbor Mean: 12.5),Spatial Outlier
+20100307,RDA,220844A001,원주시 흥업면,SI_DAY,0.0,Differs from 5 nearest neighbors by 8.8 (Neighbor Mean: 8.8),Spatial Outlier
+20100307,RDA,750873A001,영주시 안정로,SI_DAY,21.3,Differs from 5 nearest neighbors by 15.0 (Neighbor Mean: 6.3),Spatial Outlier
+20100307,ASOS,102,102,SS_DAY,6.5,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 1.8),Spatial Outlier
+20100307,RDA,225874A001,횡성군 공근면,SS_DAY,10.4,Differs from 5 nearest neighbors by 7.0 (Neighbor Mean: 3.4),Spatial Outlier
+20100307,RDA,390874A001,제천시 봉양읍,SS_DAY,7.8,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 3.2),Spatial Outlier
+20100307,RDA,750873A001,영주시 안정로,SS_DAY,10.7,Differs from 5 nearest neighbors by 10.0 (Neighbor Mean: 0.7),Spatial Outlier
