@@ -1,0 +1,23 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20091121,RDA,486803A001,연천군 연천읍,WS_AVG,34.32,"Exceeds 3.5 Sigma (Mean: 2.2, Std: 3.2)",Statistical Outlier
+20091121,RDA,323814A001,부여군 규암면,HM_AVG,91.7,"Exceeds 3.5 Sigma (Mean: 51.7, Std: 9.5)",Statistical Outlier
+20091121,RDA,656933A001,거제시 거제면,TA_AVG,9.2,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 4.7),Spatial Outlier
+20091121,RDA,476801A001,양평군 양평읍,TA_AVG,3.9,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 0.3),Spatial Outlier
+20091121,AWS,787,787,TA_MIN,3.3,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: -0.5),Spatial Outlier
+20091121,AWS,816,816,TA_MIN,-2.2,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 3.1),Spatial Outlier
+20091121,AWS,822,822,TA_MIN,-7.0,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: -1.8),Spatial Outlier
+20091121,AWS,911,911,TA_MIN,6.8,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 2.5),Spatial Outlier
+20091121,ASOS,115,115,HM_AVG,60.9,Differs from 5 nearest neighbors by 20.3 (Neighbor Mean: 40.6),Spatial Outlier
+20091121,ASOS,169,169,SI_DAY,5.16,Differs from 5 nearest neighbors by 8.3 (Neighbor Mean: 13.4),Spatial Outlier
+20091121,ASOS,184,184,SI_DAY,4.32,Differs from 5 nearest neighbors by 8.4 (Neighbor Mean: 12.7),Spatial Outlier
+20091121,RDA,467800A001,이천시 중리동,SI_DAY,26.0,Differs from 5 nearest neighbors by 18.9 (Neighbor Mean: 7.1),Spatial Outlier
+20091121,RDA,486803A001,연천군 연천읍,SI_DAY,1.2,Differs from 5 nearest neighbors by 12.0 (Neighbor Mean: 13.2),Spatial Outlier
+20091121,RDA,449872A001,용인시 처인구,SI_DAY,1.7,Differs from 5 nearest neighbors by 10.0 (Neighbor Mean: 11.7),Spatial Outlier
+20091121,RDA,415743A001,김포시 월곶면,SI_DAY,28.7,Differs from 5 nearest neighbors by 20.4 (Neighbor Mean: 8.3),Spatial Outlier
+20091121,RDA,429843A001,시흥시 하중동,SI_DAY,4.7,Differs from 5 nearest neighbors by 12.8 (Neighbor Mean: 17.5),Spatial Outlier
+20091121,RDA,464030A001,광주시 목현동,SI_DAY,4.3,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 12.8),Spatial Outlier
+20091121,RDA,445891A001,화성시 장안면,SI_DAY,23.0,Differs from 5 nearest neighbors by 14.8 (Neighbor Mean: 8.2),Spatial Outlier
+20091121,ASOS,115,115,SS_DAY,2.9,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 8.6),Spatial Outlier
+20091121,ASOS,169,169,SS_DAY,0.5,Differs from 5 nearest neighbors by 6.9 (Neighbor Mean: 7.4),Spatial Outlier
+20091121,ASOS,184,184,SS_DAY,0.2,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 5.2),Spatial Outlier
+20091121,RDA,656933A001,거제시 거제면,SS_DAY,0.1,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 8.1),Spatial Outlier
