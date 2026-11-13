@@ -1,0 +1,9 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20091211,AWS,870,870,TA_MAX,12.7,"Exceeds 3.5 Sigma (Mean: 12.3, Std: 2.9)",Statistical Outlier
+20091211,AWS,871,871,TA_MAX,11.5,"Exceeds 3.5 Sigma (Mean: 12.3, Std: 2.9)",Statistical Outlier
+20091211,ASOS,185,185,WS_AVG,10.6,"Exceeds 3.5 Sigma (Mean: 1.5, Std: 1.4)",Statistical Outlier
+20091211,RDA,312831A001,금산군 금성면,HM_AVG,8.5,"Exceeds 3.5 Sigma (Mean: 86.6, Std: 9.3)",Statistical Outlier
+20091211,AWS,875,875,TA_MAX,5.4,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 11.1),Spatial Outlier
+20091211,RDA,467800A001,이천시 중리동,SI_DAY,17.9,Differs from 5 nearest neighbors by 13.6 (Neighbor Mean: 4.3),Spatial Outlier
+20091211,ASOS,189,189,SS_DAY,7.0,Differs from 5 nearest neighbors by 6.3 (Neighbor Mean: 0.7),Spatial Outlier
+20091211,RDA,656933A001,거제시 거제면,SS_DAY,0.0,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 5.2),Spatial Outlier
