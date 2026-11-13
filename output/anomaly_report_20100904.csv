@@ -1,0 +1,13 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20100904,ASOS,90,90,TA_AVG,23.3,"Exceeds 3.5 Sigma (Mean: 27.3, Std: 1.1)",Statistical Outlier
+20100904,AWS,92,92,TA_MAX,25.1,"Exceeds 3.5 Sigma (Mean: 32.7, Std: 2.0)",Statistical Outlier
+20100904,AWS,311,311,TA_MAX,36.9,"Exceeds 3.5 Sigma (Mean: 32.7, Std: 2.0)",Statistical Outlier
+20100904,AWS,466,466,TA_MAX,24.8,"Exceeds 3.5 Sigma (Mean: 32.7, Std: 2.0)",Statistical Outlier
+20100904,AWS,517,517,TA_MAX,25.3,"Exceeds 3.5 Sigma (Mean: 32.7, Std: 2.0)",Statistical Outlier
+20100904,AWS,523,523,TA_MAX,25.4,"Exceeds 3.5 Sigma (Mean: 32.7, Std: 2.0)",Statistical Outlier
+20100904,ASOS,102,102,WS_AVG,4.8,"Exceeds 3.5 Sigma (Mean: 1.4, Std: 0.7)",Statistical Outlier
+20100904,AWS,457,457,TA_MAX,26.0,Differs from 5 nearest neighbors by 6.5 (Neighbor Mean: 32.8),Spatial Outlier
+20100904,AWS,566,566,TA_MAX,34.2,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 30.0),Spatial Outlier
+20100904,AWS,697,697,TA_MAX,25.5,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 30.8),Spatial Outlier
+20100904,AWS,963,963,TA_MAX,27.8,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 32.8),Spatial Outlier
+20100904,ASOS,102,102,SS_DAY,1.6,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 9.2),Spatial Outlier
