@@ -1,0 +1,12 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20091114,ASOS,185,185,WS_AVG,16.7,"Exceeds 3.5 Sigma (Mean: 3.5, Std: 2.3)",Statistical Outlier
+20091114,RDA,486803A001,연천군 연천읍,WS_AVG,15.34,"Exceeds 3.5 Sigma (Mean: 3.5, Std: 2.3)",Statistical Outlier
+20091114,RDA,323814A001,부여군 규암면,HM_AVG,91.4,"Exceeds 3.5 Sigma (Mean: 65.1, Std: 6.4)",Statistical Outlier
+20091114,AWS,859,859,TA_MIN,8.0,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 5.0),Spatial Outlier
+20091114,AWS,934,934,TA_MIN,-1.5,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 3.9),Spatial Outlier
+20091114,RDA,343808A001,당진시 당진읍,HM_AVG,44.0,Differs from 5 nearest neighbors by 23.3 (Neighbor Mean: 67.3),Spatial Outlier
+20091114,RDA,467800A001,이천시 중리동,SI_DAY,24.9,Differs from 5 nearest neighbors by 16.9 (Neighbor Mean: 8.0),Spatial Outlier
+20091114,RDA,449872A001,용인시 처인구,SI_DAY,1.3,Differs from 5 nearest neighbors by 11.3 (Neighbor Mean: 12.6),Spatial Outlier
+20091114,RDA,415743A001,김포시 월곶면,SI_DAY,26.6,Differs from 5 nearest neighbors by 17.8 (Neighbor Mean: 8.8),Spatial Outlier
+20091114,ASOS,115,115,SS_DAY,0.0,Differs from 5 nearest neighbors by 8.4 (Neighbor Mean: 8.4),Spatial Outlier
+20091114,ASOS,189,189,SS_DAY,8.5,Differs from 5 nearest neighbors by 6.4 (Neighbor Mean: 2.1),Spatial Outlier
