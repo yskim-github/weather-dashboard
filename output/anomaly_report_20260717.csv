@@ -1,0 +1,59 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20260717,RDA,567801A002,진안군 진안읍,TA_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 27.3, Std: 1.8)",Statistical Outlier
+20260717,RDA,567801A002,진안군 진안읍,TA_MAX,0.0,"Exceeds 3.5 Sigma (Mean: 31.8, Std: 2.2)",Statistical Outlier
+20260717,RDA,350808A001,홍성군 홍성읍,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 23.9, Std: 1.6)",Statistical Outlier
+20260717,RDA,567801A002,진안군 진안읍,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 23.9, Std: 1.6)",Statistical Outlier
+20260717,ASOS,169,169,WS_AVG,5.3,"Exceeds 3.5 Sigma (Mean: 0.9, Std: 0.7)",Statistical Outlier
+20260717,ASOS,185,185,WS_AVG,4.4,"Exceeds 3.5 Sigma (Mean: 0.9, Std: 0.7)",Statistical Outlier
+20260717,RDA,516821A001,곡성군 오곡면,WS_AVG,3.64,"Exceeds 3.5 Sigma (Mean: 0.9, Std: 0.7)",Statistical Outlier
+20260717,RDA,017421F029,이천시 진암리,HM_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 82.9, Std: 13.9)",Statistical Outlier
+20260717,RDA,445891A001,화성시 장안면,HM_AVG,2.3,"Exceeds 3.5 Sigma (Mean: 82.9, Std: 13.9)",Statistical Outlier
+20260717,RDA,567801A002,진안군 진안읍,HM_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 82.9, Std: 13.9)",Statistical Outlier
+20260717,RDA,542805A001,구례군 구례읍,HM_AVG,3.0,"Exceeds 3.5 Sigma (Mean: 82.9, Std: 13.9)",Statistical Outlier
+20260717,RDA,536824B002,해남군 옥천면,HM_AVG,3.1,"Exceeds 3.5 Sigma (Mean: 82.9, Std: 13.9)",Statistical Outlier
+20260717,RDA,052546F018,사천시 송포동,HM_AVG,19.0,"Exceeds 3.5 Sigma (Mean: 82.9, Std: 13.9)",Statistical Outlier
+20260717,RDA,063501F011,서귀포 대정읍,HM_AVG,32.1,"Exceeds 3.5 Sigma (Mean: 82.9, Std: 13.9)",Statistical Outlier
+20260717,RDA,063605F004,서귀포 신효동,HM_AVG,28.6,"Exceeds 3.5 Sigma (Mean: 82.9, Std: 13.9)",Statistical Outlier
+20260717,ASOS,244,244,TA_AVG,26.9,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 23.7),Spatial Outlier
+20260717,ASOS,248,248,TA_AVG,26.2,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 23.7),Spatial Outlier
+20260717,RDA,055640F028,장수군 개정리,TA_AVG,25.6,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 23.6),Spatial Outlier
+20260717,RDA,588802A001,무주군 무주읍,TA_AVG,26.5,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 22.8),Spatial Outlier
+20260717,RDA,566822A001,임실군 신평면,TA_AVG,27.4,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 23.6),Spatial Outlier
+20260717,RDA,597803A001,장수군 장수읍,TA_AVG,26.2,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 23.6),Spatial Outlier
+20260717,AWS,248,248,TA_MAX,30.1,Differs from 5 nearest neighbors by 6.2 (Neighbor Mean: 26.5),Spatial Outlier
+20260717,AWS,473,473,TA_MAX,27.4,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 33.2),Spatial Outlier
+20260717,AWS,703,703,TA_MAX,29.9,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 26.8),Spatial Outlier
+20260717,AWS,758,758,TA_MAX,31.1,Differs from 5 nearest neighbors by 6.9 (Neighbor Mean: 26.3),Spatial Outlier
+20260717,AWS,959,959,TA_MAX,24.7,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 29.4),Spatial Outlier
+20260717,AWS,961,961,TA_MAX,26.2,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 30.9),Spatial Outlier
+20260717,RDA,055640F028,장수군 개정리,TA_MAX,28.7,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 26.6),Spatial Outlier
+20260717,RDA,597803A001,장수군 장수읍,TA_MAX,30.0,Differs from 5 nearest neighbors by 6.6 (Neighbor Mean: 26.5),Spatial Outlier
+20260717,AWS,129,129,TA_MIN,23.3,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 18.9),Spatial Outlier
+20260717,AWS,610,610,TA_MIN,23.2,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 18.8),Spatial Outlier
+20260717,AWS,694,694,TA_MIN,19.9,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 18.8),Spatial Outlier
+20260717,AWS,703,703,TA_MIN,23.2,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 20.7),Spatial Outlier
+20260717,RDA,055640F028,장수군 개정리,TA_MIN,22.4,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 20.8),Spatial Outlier
+20260717,RDA,597803A001,장수군 장수읍,TA_MIN,22.8,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 20.8),Spatial Outlier
+20260717,ASOS,185,185,HM_AVG,93.6,Differs from 5 nearest neighbors by 20.3 (Neighbor Mean: 73.3),Spatial Outlier
+20260717,RDA,018544F032,화성시 마도면,HM_AVG,87.3,Differs from 5 nearest neighbors by 21.3 (Neighbor Mean: 66.0),Spatial Outlier
+20260717,RDA,269804A001,음성군 소이면,HM_AVG,91.0,Differs from 5 nearest neighbors by 21.9 (Neighbor Mean: 69.1),Spatial Outlier
+20260717,RDA,390874A001,제천시 봉양읍,HM_AVG,60.2,Differs from 5 nearest neighbors by 25.1 (Neighbor Mean: 85.3),Spatial Outlier
+20260717,RDA,597803A001,장수군 장수읍,HM_AVG,93.4,Differs from 5 nearest neighbors by 24.7 (Neighbor Mean: 68.7),Spatial Outlier
+20260717,RDA,536806A001,해남군 삼산면,HM_AVG,96.2,Differs from 5 nearest neighbors by 25.2 (Neighbor Mean: 71.0),Spatial Outlier
+20260717,RDA,063240F009,제주시 오등동,HM_AVG,43.6,Differs from 5 nearest neighbors by 39.4 (Neighbor Mean: 83.0),Spatial Outlier
+20260717,RDA,409871A001,옹진군 영흥면,HM_AVG,91.3,Differs from 5 nearest neighbors by 22.3 (Neighbor Mean: 69.0),Spatial Outlier
+20260717,RDA,618803A001,부산시 강서구,HM_AVG,49.1,Differs from 5 nearest neighbors by 34.3 (Neighbor Mean: 83.4),Spatial Outlier
+20260717,RDA,467800A001,이천시 중리동,SI_DAY,22.65,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 14.6),Spatial Outlier
+20260717,RDA,477802A001,가평군 가평읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 15.4 (Neighbor Mean: 15.4),Spatial Outlier
+20260717,RDA,445891A001,화성시 장안면,SI_DAY,22.11,Differs from 5 nearest neighbors by 9.6 (Neighbor Mean: 12.6),Spatial Outlier
+20260717,RDA,513842A001,영광군 군서면,SI_DAY,19.54,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 11.6),Spatial Outlier
+20260717,RDA,699946A001,서귀포 하례리,SI_DAY,2.06,Differs from 5 nearest neighbors by 18.4 (Neighbor Mean: 20.5),Spatial Outlier
+20260717,RDA,451873A001,평택시 오성면,SS_DAY,9.033333333333333,Differs from 5 nearest neighbors by 6.0 (Neighbor Mean: 3.0),Spatial Outlier
+20260717,RDA,269804A001,음성군 소이면,SS_DAY,9.566666666666666,Differs from 5 nearest neighbors by 7.5 (Neighbor Mean: 2.1),Spatial Outlier
+20260717,RDA,312831A001,금산군 금성면,SS_DAY,8.4,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 0.5),Spatial Outlier
+20260717,RDA,350808A001,홍성군 홍성읍,SS_DAY,7.983333333333333,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 0.3),Spatial Outlier
+20260717,RDA,542805A001,구례군 구례읍,SS_DAY,7.283333333333333,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 2.5),Spatial Outlier
+20260717,RDA,719862A001,성주군 대가면,SS_DAY,9.183333333333334,Differs from 5 nearest neighbors by 6.1 (Neighbor Mean: 3.1),Spatial Outlier
+20260717,RDA,050124D004,거창군 동변리,SS_DAY,9.566666666666666,Differs from 5 nearest neighbors by 6.7 (Neighbor Mean: 2.8),Spatial Outlier
+20260717,RDA,063352B012,제주시 세화리,SS_DAY,0.0,Differs from 5 nearest neighbors by 4.4 (Neighbor Mean: 4.4),Spatial Outlier
+20260717,RDA,699946A001,서귀포 하례리,SS_DAY,0.0,Differs from 5 nearest neighbors by 4.4 (Neighbor Mean: 4.4),Spatial Outlier
