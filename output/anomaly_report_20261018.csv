@@ -1,0 +1,30 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20261018,RDA,621100A001,김해시 전하동,SI_DAY,39.02,Out of physical range (0~31.5),Range/Logic Error
+20261018,RDA,621100A001,김해시 전하동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261018,RDA,621100A001,김해시 전하동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261018,RDA,621100A001,김해시 전하동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261018,RDA,621100A001,김해시 전하동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261018,RDA,621100A001,김해시 전하동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261018,RDA,621100A001,김해시 전하동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261018,RDA,621100A001,김해시 전하동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261018,RDA,678806A001,합천군 용주면,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 16.3, Std: 2.9)",Statistical Outlier
+20261018,ASOS,102,102,WS_AVG,8.7,"Exceeds 3.5 Sigma (Mean: 2.3, Std: 1.8)",Statistical Outlier
+20261018,ASOS,169,169,WS_AVG,11.1,"Exceeds 3.5 Sigma (Mean: 2.3, Std: 1.8)",Statistical Outlier
+20261018,ASOS,185,185,WS_AVG,9.7,"Exceeds 3.5 Sigma (Mean: 2.3, Std: 1.8)",Statistical Outlier
+20261018,RDA,516821A001,곡성군 오곡면,WS_AVG,14.17,"Exceeds 3.5 Sigma (Mean: 2.3, Std: 1.8)",Statistical Outlier
+20261018,RDA,539823A001,진도군 군내면,WS_AVG,11.9,"Exceeds 3.5 Sigma (Mean: 2.3, Std: 1.8)",Statistical Outlier
+20261018,RDA,548912A001,고흥군 풍양면,HM_AVG,0.2,"Exceeds 3.5 Sigma (Mean: 81.3, Std: 9.8)",Statistical Outlier
+20261018,RDA,542805A001,구례군 구례읍,HM_AVG,3.0,"Exceeds 3.5 Sigma (Mean: 81.3, Std: 9.8)",Statistical Outlier
+20261018,RDA,052546F018,사천시 송포동,HM_AVG,19.0,"Exceeds 3.5 Sigma (Mean: 81.3, Std: 9.8)",Statistical Outlier
+20261018,AWS,679,679,TA_MIN,5.8,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 15.3),Spatial Outlier
+20261018,AWS,706,706,TA_MIN,12.8,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 18.0),Spatial Outlier
+20261018,AWS,735,735,TA_MIN,14.3,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 13.8),Spatial Outlier
+20261018,AWS,794,794,TA_MIN,12.9,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 18.5),Spatial Outlier
+20261018,AWS,872,872,TA_MIN,12.9,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 13.9),Spatial Outlier
+20261018,RDA,250845E001,홍천군 자운리,TA_MIN,13.7,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 12.8),Spatial Outlier
+20261018,RDA,026136A003,정선군 신동읍,TA_MIN,9.8,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 16.2),Spatial Outlier
+20261018,ASOS,90,90,HM_AVG,67.0,Differs from 5 nearest neighbors by 21.5 (Neighbor Mean: 88.5),Spatial Outlier
+20261018,RDA,546804B001,보성군 보성읍,HM_AVG,87.9,Differs from 5 nearest neighbors by 22.0 (Neighbor Mean: 65.9),Spatial Outlier
+20261018,ASOS,155,155,SI_DAY,3.76,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 11.6),Spatial Outlier
+20261018,ASOS,253,253,SI_DAY,4.43,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 12.9),Spatial Outlier
+20261018,ASOS,257,257,SI_DAY,4.87,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 12.9),Spatial Outlier
