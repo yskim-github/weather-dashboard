@@ -1,0 +1,34 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20260926,ASOS,184,184,TA_AVG,24.4,"Exceeds 3.5 Sigma (Mean: 20.4, Std: 1.1)",Statistical Outlier
+20260926,RDA,063048F003,제주시 신엄리,TA_AVG,24.2,"Exceeds 3.5 Sigma (Mean: 20.4, Std: 1.1)",Statistical Outlier
+20260926,AWS,867,867,TA_MIN,14.0,"Exceeds 3.5 Sigma (Mean: 17.7, Std: 1.6)",Statistical Outlier
+20260926,AWS,868,868,TA_MIN,14.6,"Exceeds 3.5 Sigma (Mean: 17.7, Std: 1.6)",Statistical Outlier
+20260926,AWS,869,869,TA_MIN,15.2,"Exceeds 3.5 Sigma (Mean: 17.7, Std: 1.6)",Statistical Outlier
+20260926,AWS,870,870,TA_MIN,13.9,"Exceeds 3.5 Sigma (Mean: 17.7, Std: 1.6)",Statistical Outlier
+20260926,AWS,871,871,TA_MIN,12.4,"Exceeds 3.5 Sigma (Mean: 17.7, Std: 1.6)",Statistical Outlier
+20260926,AWS,965,965,TA_MIN,13.1,"Exceeds 3.5 Sigma (Mean: 17.7, Std: 1.6)",Statistical Outlier
+20260926,ASOS,168,168,WS_AVG,5.1,"Exceeds 3.5 Sigma (Mean: 1.0, Std: 0.9)",Statistical Outlier
+20260926,ASOS,169,169,WS_AVG,6.6,"Exceeds 3.5 Sigma (Mean: 1.0, Std: 0.9)",Statistical Outlier
+20260926,ASOS,185,185,WS_AVG,5.4,"Exceeds 3.5 Sigma (Mean: 1.0, Std: 0.9)",Statistical Outlier
+20260926,RDA,516821A001,곡성군 오곡면,WS_AVG,4.42,"Exceeds 3.5 Sigma (Mean: 1.0, Std: 0.9)",Statistical Outlier
+20260926,RDA,390874A001,제천시 봉양읍,HM_AVG,39.7,"Exceeds 3.5 Sigma (Mean: 86.0, Std: 12.7)",Statistical Outlier
+20260926,RDA,548912A001,고흥군 풍양면,HM_AVG,0.1,"Exceeds 3.5 Sigma (Mean: 86.0, Std: 12.7)",Statistical Outlier
+20260926,RDA,542805A001,구례군 구례읍,HM_AVG,3.0,"Exceeds 3.5 Sigma (Mean: 86.0, Std: 12.7)",Statistical Outlier
+20260926,RDA,536824B002,해남군 옥천면,HM_AVG,4.2,"Exceeds 3.5 Sigma (Mean: 86.0, Std: 12.7)",Statistical Outlier
+20260926,RDA,052546F018,사천시 송포동,HM_AVG,19.0,"Exceeds 3.5 Sigma (Mean: 86.0, Std: 12.7)",Statistical Outlier
+20260926,RDA,063240F009,제주시 오등동,HM_AVG,34.2,"Exceeds 3.5 Sigma (Mean: 86.0, Std: 12.7)",Statistical Outlier
+20260926,RDA,063501F011,서귀포 대정읍,HM_AVG,38.0,"Exceeds 3.5 Sigma (Mean: 86.0, Std: 12.7)",Statistical Outlier
+20260926,RDA,063605F004,서귀포 신효동,HM_AVG,19.2,"Exceeds 3.5 Sigma (Mean: 86.0, Std: 12.7)",Statistical Outlier
+20260926,AWS,453,453,TA_MAX,19.5,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 27.6),Spatial Outlier
+20260926,ASOS,258,258,HM_AVG,96.6,Differs from 5 nearest neighbors by 21.0 (Neighbor Mean: 75.6),Spatial Outlier
+20260926,ASOS,259,259,HM_AVG,96.6,Differs from 5 nearest neighbors by 21.8 (Neighbor Mean: 74.8),Spatial Outlier
+20260926,RDA,516821A001,곡성군 오곡면,HM_AVG,93.0,Differs from 5 nearest neighbors by 21.6 (Neighbor Mean: 71.4),Spatial Outlier
+20260926,RDA,546804B001,보성군 보성읍,HM_AVG,96.8,Differs from 5 nearest neighbors by 22.3 (Neighbor Mean: 74.5),Spatial Outlier
+20260926,RDA,537807B004,완도군 완도읍,HM_AVG,97.3,Differs from 5 nearest neighbors by 20.9 (Neighbor Mean: 76.4),Spatial Outlier
+20260926,RDA,467800A001,이천시 중리동,SI_DAY,21.82,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 13.3),Spatial Outlier
+20260926,RDA,032528A001,공주시 우성면,SI_DAY,20.37,Differs from 5 nearest neighbors by 9.8 (Neighbor Mean: 10.5),Spatial Outlier
+20260926,RDA,464030A001,광주시 목현동,SS_DAY,0.0,Differs from 5 nearest neighbors by 7.2 (Neighbor Mean: 7.2),Spatial Outlier
+20260926,RDA,269804A001,음성군 소이면,SS_DAY,9.65,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 4.1),Spatial Outlier
+20260926,RDA,312831A001,금산군 금성면,SS_DAY,6.816666666666666,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 1.2),Spatial Outlier
+20260926,RDA,350808A001,홍성군 홍성읍,SS_DAY,9.3,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 4.4),Spatial Outlier
+20260926,RDA,520892A001,나주시 공산면,SS_DAY,8.55,Differs from 5 nearest neighbors by 8.6 (Neighbor Mean: 0.0),Spatial Outlier
