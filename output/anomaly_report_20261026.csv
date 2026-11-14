@@ -1,0 +1,42 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20261026,RDA,482841A001,양주시 은현면,SI_DAY,39.97,Out of physical range (0~31.5),Range/Logic Error
+20261026,RDA,482841A001,양주시 은현면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261026,RDA,482841A001,양주시 은현면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261026,RDA,482841A001,양주시 은현면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261026,RDA,482841A001,양주시 은현면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261026,RDA,482841A001,양주시 은현면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261026,RDA,482841A001,양주시 은현면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261026,RDA,482841A001,양주시 은현면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261026,RDA,513842A001,영광군 군서면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261026,RDA,513842A001,영광군 군서면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261026,RDA,513842A001,영광군 군서면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261026,RDA,513842A001,영광군 군서면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261026,RDA,513842A001,영광군 군서면,SI_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261026,RDA,513842A001,영광군 군서면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261026,RDA,513842A001,영광군 군서면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261026,RDA,513842A001,영광군 군서면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261026,RDA,621100A001,김해시 전하동,SI_DAY,35.08,Out of physical range (0~31.5),Range/Logic Error
+20261026,RDA,621100A001,김해시 전하동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261026,RDA,621100A001,김해시 전하동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261026,RDA,621100A001,김해시 전하동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261026,RDA,621100A001,김해시 전하동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261026,RDA,621100A001,김해시 전하동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261026,RDA,621100A001,김해시 전하동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261026,RDA,621100A001,김해시 전하동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261026,RDA,336812A001,아산시 염치읍,TA_MAX,28.4,"Exceeds 3.5 Sigma (Mean: 22.2, Std: 1.6)",Statistical Outlier
+20261026,ASOS,169,169,WS_AVG,6.3,"Exceeds 3.5 Sigma (Mean: 1.5, Std: 1.1)",Statistical Outlier
+20261026,ASOS,185,185,WS_AVG,8.5,"Exceeds 3.5 Sigma (Mean: 1.5, Std: 1.1)",Statistical Outlier
+20261026,RDA,516821A001,곡성군 오곡면,WS_AVG,6.89,"Exceeds 3.5 Sigma (Mean: 1.5, Std: 1.1)",Statistical Outlier
+20261026,RDA,539823A001,진도군 군내면,WS_AVG,5.8,"Exceeds 3.5 Sigma (Mean: 1.5, Std: 1.1)",Statistical Outlier
+20261026,RDA,548912A001,고흥군 풍양면,HM_AVG,0.1,"Exceeds 3.5 Sigma (Mean: 77.4, Std: 11.1)",Statistical Outlier
+20261026,RDA,542805A001,구례군 구례읍,HM_AVG,3.0,"Exceeds 3.5 Sigma (Mean: 77.4, Std: 11.1)",Statistical Outlier
+20261026,RDA,052546F018,사천시 송포동,HM_AVG,19.0,"Exceeds 3.5 Sigma (Mean: 77.4, Std: 11.1)",Statistical Outlier
+20261026,RDA,063240F009,제주시 오등동,HM_AVG,11.4,"Exceeds 3.5 Sigma (Mean: 77.4, Std: 11.1)",Statistical Outlier
+20261026,RDA,063605F004,서귀포 신효동,HM_AVG,31.7,"Exceeds 3.5 Sigma (Mean: 77.4, Std: 11.1)",Statistical Outlier
+20261026,RDA,540814A001,순천시 주암면,HM_AVG,92.0,Differs from 5 nearest neighbors by 22.0 (Neighbor Mean: 70.0),Spatial Outlier
+20261026,ASOS,98,98,SI_DAY,8.69,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 16.9),Spatial Outlier
+20261026,RDA,467800A001,이천시 중리동,SI_DAY,16.29,Differs from 5 nearest neighbors by 7.5 (Neighbor Mean: 8.8),Spatial Outlier
+20261026,RDA,032528A001,공주시 우성면,SI_DAY,26.92,Differs from 5 nearest neighbors by 13.2 (Neighbor Mean: 13.7),Spatial Outlier
+20261026,RDA,699946A001,서귀포 하례리,SI_DAY,0.0,Differs from 5 nearest neighbors by 13.8 (Neighbor Mean: 13.8),Spatial Outlier
+20261026,AWS,315,315,RN_DAY,26.0,Differs from 5 nearest neighbors by 23.9 (Neighbor Mean: 2.1),Spatial Outlier
+20261026,RDA,535873B003,나주시 산포면,RN_DAY,368.5,Differs from 5 nearest neighbors by 368.1 (Neighbor Mean: 0.4),Spatial Outlier
