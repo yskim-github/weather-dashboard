@@ -1,0 +1,25 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20090607,RDA,365803A001,진천군 진천읍,SS_DAY,20.4,Out of physical range (0~14.8),Range/Logic Error
+20090607,AWS,871,871,TA_MAX,19.1,"Exceeds 3.5 Sigma (Mean: 22.6, Std: 2.1)",Statistical Outlier
+20090607,ASOS,169,169,WS_AVG,5.0,"Exceeds 3.5 Sigma (Mean: 1.4, Std: 1.0)",Statistical Outlier
+20090607,RDA,486803A001,연천군 연천읍,WS_AVG,5.59,"Exceeds 3.5 Sigma (Mean: 1.4, Std: 1.0)",Statistical Outlier
+20090607,RDA,365803A001,진천군 진천읍,HM_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 74.7, Std: 10.6)",Statistical Outlier
+20090607,RDA,380959A001,충주시 달천동,HM_AVG,18.9,"Exceeds 3.5 Sigma (Mean: 74.7, Std: 10.6)",Statistical Outlier
+20090607,AWS,875,875,TA_MAX,11.3,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 17.1),Spatial Outlier
+20090607,AWS,921,921,TA_MAX,28.3,Differs from 5 nearest neighbors by 8.8 (Neighbor Mean: 20.0),Spatial Outlier
+20090607,AWS,959,959,TA_MAX,17.9,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 22.5),Spatial Outlier
+20090607,ASOS,106,106,HM_AVG,57.8,Differs from 5 nearest neighbors by 27.7 (Neighbor Mean: 85.5),Spatial Outlier
+20090607,ASOS,169,169,SI_DAY,23.79,Differs from 5 nearest neighbors by 9.6 (Neighbor Mean: 14.1),Spatial Outlier
+20090607,RDA,467800A001,이천시 중리동,SI_DAY,31.1,Differs from 5 nearest neighbors by 19.5 (Neighbor Mean: 11.6),Spatial Outlier
+20090607,RDA,456871A001,안성시 보개면,SI_DAY,6.4,Differs from 5 nearest neighbors by 9.7 (Neighbor Mean: 16.1),Spatial Outlier
+20090607,RDA,469803A001,여주시 상거동,SI_DAY,22.4,Differs from 5 nearest neighbors by 11.6 (Neighbor Mean: 10.8),Spatial Outlier
+20090607,RDA,476801A001,양평군 양평읍,SI_DAY,7.6,Differs from 5 nearest neighbors by 9.0 (Neighbor Mean: 16.6),Spatial Outlier
+20090607,RDA,486803A001,연천군 연천읍,SI_DAY,18.0,Differs from 5 nearest neighbors by 9.4 (Neighbor Mean: 8.6),Spatial Outlier
+20090607,RDA,449872A001,용인시 처인구,SI_DAY,0.6,Differs from 5 nearest neighbors by 16.7 (Neighbor Mean: 17.3),Spatial Outlier
+20090607,RDA,429843A001,시흥시 하중동,SI_DAY,22.2,Differs from 5 nearest neighbors by 13.9 (Neighbor Mean: 8.3),Spatial Outlier
+20090607,RDA,464030A001,광주시 목현동,SI_DAY,20.8,Differs from 5 nearest neighbors by 9.8 (Neighbor Mean: 11.0),Spatial Outlier
+20090607,RDA,539823A001,진도군 군내면,SI_DAY,8.8,Differs from 5 nearest neighbors by 8.3 (Neighbor Mean: 17.1),Spatial Outlier
+20090607,RDA,755851A001,봉화군 석포면,SI_DAY,0.0,Differs from 5 nearest neighbors by 10.3 (Neighbor Mean: 10.3),Spatial Outlier
+20090607,ASOS,131,131,SS_DAY,0.0,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 4.5),Spatial Outlier
+20090607,RDA,456871A001,안성시 보개면,SS_DAY,0.8,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 5.5),Spatial Outlier
+20090607,RDA,225874A001,횡성군 공근면,SS_DAY,11.2,Differs from 5 nearest neighbors by 10.7 (Neighbor Mean: 0.5),Spatial Outlier
