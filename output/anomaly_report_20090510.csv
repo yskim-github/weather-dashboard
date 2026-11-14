@@ -1,0 +1,76 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20090510,ASOS,252,252,SI_DAY,33.29,Out of physical range (0~31.5),Range/Logic Error
+20090510,ASOS,252,252,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090510,ASOS,252,252,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090510,ASOS,252,252,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090510,ASOS,252,252,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090510,ASOS,252,252,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090510,ASOS,252,252,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090510,ASOS,252,252,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090510,RDA,365803A001,진천군 진천읍,TA_AVG,47.7,Out of physical range (-40~45),Range/Logic Error
+20090510,RDA,365803A001,진천군 진천읍,SS_DAY,17.3,Out of physical range (0~14.8),Range/Logic Error
+20090510,RDA,513842A001,영광군 군서면,SI_DAY,33.2,Out of physical range (0~31.5),Range/Logic Error
+20090510,RDA,513842A001,영광군 군서면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090510,RDA,513842A001,영광군 군서면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090510,RDA,513842A001,영광군 군서면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090510,RDA,513842A001,영광군 군서면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090510,RDA,513842A001,영광군 군서면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090510,RDA,513842A001,영광군 군서면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090510,RDA,513842A001,영광군 군서면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090510,AWS,102,102,TA_MAX,13.9,"Exceeds 3.5 Sigma (Mean: 27.1, Std: 3.6)",Statistical Outlier
+20090510,AWS,655,655,TA_MAX,12.8,"Exceeds 3.5 Sigma (Mean: 27.1, Std: 3.6)",Statistical Outlier
+20090510,AWS,870,870,TA_MIN,16.0,"Exceeds 3.5 Sigma (Mean: 12.9, Std: 3.0)",Statistical Outlier
+20090510,ASOS,169,169,WS_AVG,9.5,"Exceeds 3.5 Sigma (Mean: 2.3, Std: 2.0)",Statistical Outlier
+20090510,RDA,486803A001,연천군 연천읍,WS_AVG,16.38,"Exceeds 3.5 Sigma (Mean: 2.3, Std: 2.0)",Statistical Outlier
+20090510,RDA,365803A001,진천군 진천읍,HM_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 54.2, Std: 15.4)",Statistical Outlier
+20090510,ASOS,102,102,TA_AVG,12.7,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 18.5),Spatial Outlier
+20090510,ASOS,232,232,TA_AVG,20.1,Differs from 5 nearest neighbors by 5.8 (Neighbor Mean: 26.5),Spatial Outlier
+20090510,RDA,456871A001,안성시 보개면,TA_AVG,19.4,Differs from 5 nearest neighbors by 5.9 (Neighbor Mean: 25.8),Spatial Outlier
+20090510,RDA,476801A001,양평군 양평읍,TA_AVG,25.2,Differs from 5 nearest neighbors by 6.7 (Neighbor Mean: 19.8),Spatial Outlier
+20090510,AWS,306,306,TA_MAX,22.1,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 27.1),Spatial Outlier
+20090510,AWS,653,653,TA_MAX,20.3,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 25.8),Spatial Outlier
+20090510,AWS,881,881,TA_MAX,21.7,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 26.5),Spatial Outlier
+20090510,AWS,901,901,TA_MAX,21.2,Differs from 5 nearest neighbors by 7.1 (Neighbor Mean: 28.6),Spatial Outlier
+20090510,AWS,924,924,TA_MAX,20.0,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 28.0),Spatial Outlier
+20090510,AWS,144,144,TA_MIN,16.0,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 11.7),Spatial Outlier
+20090510,AWS,151,151,TA_MIN,8.9,Differs from 5 nearest neighbors by 6.2 (Neighbor Mean: 15.2),Spatial Outlier
+20090510,AWS,182,182,TA_MIN,12.3,Differs from 5 nearest neighbors by 6.2 (Neighbor Mean: 18.7),Spatial Outlier
+20090510,AWS,247,247,TA_MIN,6.1,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 11.5),Spatial Outlier
+20090510,AWS,314,314,TA_MIN,8.4,Differs from 5 nearest neighbors by 6.0 (Neighbor Mean: 12.3),Spatial Outlier
+20090510,AWS,315,315,TA_MIN,13.2,Differs from 5 nearest neighbors by 10.6 (Neighbor Mean: 9.6),Spatial Outlier
+20090510,AWS,316,316,TA_MIN,12.3,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 13.5),Spatial Outlier
+20090510,AWS,320,320,TA_MIN,9.1,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 12.5),Spatial Outlier
+20090510,AWS,370,370,TA_MIN,16.3,Differs from 5 nearest neighbors by 7.4 (Neighbor Mean: 10.5),Spatial Outlier
+20090510,AWS,709,709,TA_MIN,7.4,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 12.6),Spatial Outlier
+20090510,AWS,741,741,TA_MIN,9.2,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 15.2),Spatial Outlier
+20090510,AWS,760,760,TA_MIN,7.0,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 14.0),Spatial Outlier
+20090510,AWS,782,782,TA_MIN,9.2,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 19.1),Spatial Outlier
+20090510,AWS,783,783,TA_MIN,8.9,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 13.6),Spatial Outlier
+20090510,AWS,787,787,TA_MIN,16.2,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 11.8),Spatial Outlier
+20090510,AWS,815,815,TA_MIN,12.7,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 7.7),Spatial Outlier
+20090510,AWS,822,822,TA_MIN,5.9,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 11.8),Spatial Outlier
+20090510,AWS,872,872,TA_MIN,13.1,Differs from 5 nearest neighbors by 6.3 (Neighbor Mean: 12.4),Spatial Outlier
+20090510,AWS,873,873,TA_MIN,12.3,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 10.0),Spatial Outlier
+20090510,AWS,875,875,TA_MIN,7.8,Differs from 5 nearest neighbors by 6.3 (Neighbor Mean: 11.8),Spatial Outlier
+20090510,AWS,923,923,TA_MIN,11.2,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 16.8),Spatial Outlier
+20090510,AWS,945,945,TA_MIN,14.7,Differs from 5 nearest neighbors by 6.4 (Neighbor Mean: 9.8),Spatial Outlier
+20090510,RDA,365803A001,진천군 진천읍,TA_MIN,16.3,Differs from 5 nearest neighbors by 6.4 (Neighbor Mean: 10.6),Spatial Outlier
+20090510,ASOS,102,102,HM_AVG,93.3,Differs from 5 nearest neighbors by 24.2 (Neighbor Mean: 69.1),Spatial Outlier
+20090510,ASOS,162,162,HM_AVG,79.3,Differs from 5 nearest neighbors by 27.8 (Neighbor Mean: 51.5),Spatial Outlier
+20090510,ASOS,169,169,HM_AVG,87.0,Differs from 5 nearest neighbors by 23.1 (Neighbor Mean: 63.9),Spatial Outlier
+20090510,RDA,656933A001,거제시 거제면,HM_AVG,75.9,Differs from 5 nearest neighbors by 23.7 (Neighbor Mean: 52.2),Spatial Outlier
+20090510,RDA,380959A001,충주시 달천동,HM_AVG,19.7,Differs from 5 nearest neighbors by 26.9 (Neighbor Mean: 46.6),Spatial Outlier
+20090510,RDA,323814A001,부여군 규암면,HM_AVG,88.7,Differs from 5 nearest neighbors by 31.4 (Neighbor Mean: 57.3),Spatial Outlier
+20090510,RDA,638802A001,고성군 고성읍,HM_AVG,27.7,Differs from 5 nearest neighbors by 34.1 (Neighbor Mean: 61.8),Spatial Outlier
+20090510,ASOS,104,104,SI_DAY,5.79,Differs from 5 nearest neighbors by 12.8 (Neighbor Mean: 18.6),Spatial Outlier
+20090510,ASOS,105,105,SI_DAY,7.26,Differs from 5 nearest neighbors by 12.5 (Neighbor Mean: 19.7),Spatial Outlier
+20090510,RDA,467800A001,이천시 중리동,SI_DAY,29.9,Differs from 5 nearest neighbors by 10.8 (Neighbor Mean: 19.1),Spatial Outlier
+20090510,RDA,482841A001,양주시 은현면,SI_DAY,9.5,Differs from 5 nearest neighbors by 11.2 (Neighbor Mean: 20.7),Spatial Outlier
+20090510,RDA,469803A001,여주시 상거동,SI_DAY,27.4,Differs from 5 nearest neighbors by 9.0 (Neighbor Mean: 18.4),Spatial Outlier
+20090510,RDA,449872A001,용인시 처인구,SI_DAY,0.5,Differs from 5 nearest neighbors by 22.3 (Neighbor Mean: 22.8),Spatial Outlier
+20090510,RDA,429843A001,시흥시 하중동,SI_DAY,26.2,Differs from 5 nearest neighbors by 10.4 (Neighbor Mean: 15.8),Spatial Outlier
+20090510,RDA,464030A001,광주시 목현동,SI_DAY,26.6,Differs from 5 nearest neighbors by 8.7 (Neighbor Mean: 17.9),Spatial Outlier
+20090510,RDA,445891A001,화성시 장안면,SI_DAY,8.6,Differs from 5 nearest neighbors by 8.7 (Neighbor Mean: 17.3),Spatial Outlier
+20090510,RDA,539823A001,진도군 군내면,SI_DAY,16.8,Differs from 5 nearest neighbors by 13.4 (Neighbor Mean: 30.2),Spatial Outlier
+20090510,RDA,656933A001,거제시 거제면,SS_DAY,1.6,Differs from 5 nearest neighbors by 10.8 (Neighbor Mean: 12.4),Spatial Outlier
+20090510,RDA,225874A001,횡성군 공근면,SS_DAY,12.2,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 6.5),Spatial Outlier
