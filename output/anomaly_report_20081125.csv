@@ -1,0 +1,39 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20081125,RDA,449872A001,용인시 처인구,SI_DAY,99.4,Out of physical range (0~31.5),Range/Logic Error
+20081125,RDA,449872A001,용인시 처인구,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20081125,RDA,449872A001,용인시 처인구,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20081125,RDA,449872A001,용인시 처인구,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20081125,RDA,449872A001,용인시 처인구,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20081125,RDA,449872A001,용인시 처인구,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20081125,RDA,449872A001,용인시 처인구,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20081125,RDA,449872A001,용인시 처인구,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20081125,RDA,365803A001,진천군 진천읍,SS_DAY,17.5,Out of physical range (0~14.8),Range/Logic Error
+20081125,RDA,252805A001,인제군 인제읍,SS_DAY,18.0,Out of physical range (0~14.8),Range/Logic Error
+20081125,ASOS,185,185,TA_AVG,12.7,"Exceeds 3.5 Sigma (Mean: 5.9, Std: 2.0)",Statistical Outlier
+20081125,AWS,189,189,TA_MAX,16.3,"Exceeds 3.5 Sigma (Mean: 11.6, Std: 1.3)",Statistical Outlier
+20081125,ASOS,185,185,WS_AVG,9.2,"Exceeds 3.5 Sigma (Mean: 1.2, Std: 1.2)",Statistical Outlier
+20081125,RDA,365803A001,진천군 진천읍,HM_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 80.9, Std: 11.6)",Statistical Outlier
+20081125,RDA,476801A001,양평군 양평읍,TA_AVG,9.1,Differs from 5 nearest neighbors by 6.1 (Neighbor Mean: 4.3),Spatial Outlier
+20081125,AWS,945,945,TA_MAX,6.3,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 13.0),Spatial Outlier
+20081125,AWS,110,110,TA_MIN,-1.0,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 3.7),Spatial Outlier
+20081125,AWS,175,175,TA_MIN,4.7,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 2.5),Spatial Outlier
+20081125,AWS,306,306,TA_MIN,9.6,Differs from 5 nearest neighbors by 6.0 (Neighbor Mean: 3.6),Spatial Outlier
+20081125,AWS,370,370,TA_MIN,4.8,Differs from 5 nearest neighbors by 5.9 (Neighbor Mean: 0.4),Spatial Outlier
+20081125,AWS,682,682,TA_MIN,-1.8,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: -0.6),Spatial Outlier
+20081125,AWS,695,695,TA_MIN,-2.1,Differs from 5 nearest neighbors by 5.9 (Neighbor Mean: -1.2),Spatial Outlier
+20081125,AWS,800,800,TA_MIN,6.6,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 1.9),Spatial Outlier
+20081125,AWS,851,851,TA_MIN,-4.1,Differs from 5 nearest neighbors by 7.2 (Neighbor Mean: 3.6),Spatial Outlier
+20081125,AWS,873,873,TA_MIN,-0.6,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: -0.2),Spatial Outlier
+20081125,AWS,911,911,TA_MIN,8.8,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 3.5),Spatial Outlier
+20081125,AWS,959,959,TA_MIN,11.1,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 5.6),Spatial Outlier
+20081125,AWS,960,960,TA_MIN,11.7,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 7.2),Spatial Outlier
+20081125,ASOS,108,108,HM_AVG,61.0,Differs from 5 nearest neighbors by 20.8 (Neighbor Mean: 81.8),Spatial Outlier
+20081125,ASOS,119,119,SI_DAY,5.25,Differs from 5 nearest neighbors by 23.4 (Neighbor Mean: 28.7),Spatial Outlier
+20081125,ASOS,131,131,SI_DAY,7.08,Differs from 5 nearest neighbors by 20.7 (Neighbor Mean: 27.8),Spatial Outlier
+20081125,RDA,467800A001,이천시 중리동,SI_DAY,20.6,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 29.1),Spatial Outlier
+20081125,RDA,456871A001,안성시 보개면,SI_DAY,6.2,Differs from 5 nearest neighbors by 26.8 (Neighbor Mean: 33.0),Spatial Outlier
+20081125,RDA,469803A001,여주시 상거동,SI_DAY,10.0,Differs from 5 nearest neighbors by 18.2 (Neighbor Mean: 28.2),Spatial Outlier
+20081125,RDA,476801A001,양평군 양평읍,SI_DAY,7.4,Differs from 5 nearest neighbors by 24.5 (Neighbor Mean: 31.9),Spatial Outlier
+20081125,RDA,365803A001,진천군 진천읍,SI_DAY,17.3,Differs from 5 nearest neighbors by 11.4 (Neighbor Mean: 28.7),Spatial Outlier
+20081125,RDA,445891A001,화성시 장안면,SI_DAY,6.0,Differs from 5 nearest neighbors by 19.4 (Neighbor Mean: 25.4),Spatial Outlier
+20081125,RDA,650821A001,통영시 광도면,SS_DAY,0.0,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 4.7),Spatial Outlier
