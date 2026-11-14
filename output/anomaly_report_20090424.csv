@@ -1,0 +1,37 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20090424,RDA,252805A001,인제군 인제읍,SI_DAY,154.8,Out of physical range (0~31.5),Range/Logic Error
+20090424,RDA,252805A001,인제군 인제읍,SS_DAY,18.0,Out of physical range (0~14.8),Range/Logic Error
+20090424,RDA,252805A001,인제군 인제읍,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090424,RDA,252805A001,인제군 인제읍,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090424,RDA,252805A001,인제군 인제읍,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090424,RDA,252805A001,인제군 인제읍,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090424,RDA,252805A001,인제군 인제읍,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090424,RDA,252805A001,인제군 인제읍,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090424,ASOS,102,102,TA_AVG,8.5,"Exceeds 3.5 Sigma (Mean: 12.9, Std: 1.1)",Statistical Outlier
+20090424,RDA,476801A001,양평군 양평읍,TA_AVG,16.4,"Exceeds 3.5 Sigma (Mean: 12.9, Std: 1.1)",Statistical Outlier
+20090424,AWS,102,102,TA_MAX,10.3,"Exceeds 3.5 Sigma (Mean: 16.4, Std: 1.6)",Statistical Outlier
+20090424,AWS,655,655,TA_MAX,9.4,"Exceeds 3.5 Sigma (Mean: 16.4, Std: 1.6)",Statistical Outlier
+20090424,AWS,753,753,TA_MAX,18.3,"Exceeds 3.5 Sigma (Mean: 16.4, Std: 1.6)",Statistical Outlier
+20090424,AWS,871,871,TA_MAX,11.4,"Exceeds 3.5 Sigma (Mean: 16.4, Std: 1.6)",Statistical Outlier
+20090424,RDA,217060A001,속초시 대포동,TA_MAX,10.1,"Exceeds 3.5 Sigma (Mean: 16.4, Std: 1.6)",Statistical Outlier
+20090424,AWS,435,435,TA_MIN,-4.6,"Exceeds 3.5 Sigma (Mean: 10.3, Std: 2.2)",Statistical Outlier
+20090424,RDA,365803A001,진천군 진천읍,TA_MIN,45.0,"Exceeds 3.5 Sigma (Mean: 10.3, Std: 2.2)",Statistical Outlier
+20090424,ASOS,169,169,WS_AVG,7.7,"Exceeds 3.5 Sigma (Mean: 2.0, Std: 1.3)",Statistical Outlier
+20090424,RDA,548912A001,고흥군 풍양면,WS_AVG,7.28,"Exceeds 3.5 Sigma (Mean: 2.0, Std: 1.3)",Statistical Outlier
+20090424,RDA,365803A001,진천군 진천읍,HM_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 74.6, Std: 10.0)",Statistical Outlier
+20090424,RDA,638802A001,고성군 고성읍,HM_AVG,34.5,"Exceeds 3.5 Sigma (Mean: 74.6, Std: 10.0)",Statistical Outlier
+20090424,AWS,232,232,TA_MIN,11.1,Differs from 5 nearest neighbors by 6.3 (Neighbor Mean: 17.9),Spatial Outlier
+20090424,AWS,602,602,TA_MIN,9.4,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 18.0),Spatial Outlier
+20090424,AWS,623,623,TA_MIN,9.6,Differs from 5 nearest neighbors by 7.4 (Neighbor Mean: 17.6),Spatial Outlier
+20090424,RDA,590823A001,남원시 이백면,HM_AVG,100.0,Differs from 5 nearest neighbors by 24.2 (Neighbor Mean: 75.8),Spatial Outlier
+20090424,ASOS,100,100,SI_DAY,10.76,Differs from 5 nearest neighbors by 28.2 (Neighbor Mean: 39.0),Spatial Outlier
+20090424,ASOS,101,101,SI_DAY,9.55,Differs from 5 nearest neighbors by 28.8 (Neighbor Mean: 38.3),Spatial Outlier
+20090424,ASOS,104,104,SI_DAY,10.26,Differs from 5 nearest neighbors by 28.8 (Neighbor Mean: 39.1),Spatial Outlier
+20090424,ASOS,105,105,SI_DAY,9.47,Differs from 5 nearest neighbors by 29.8 (Neighbor Mean: 39.2),Spatial Outlier
+20090424,RDA,467800A001,이천시 중리동,SI_DAY,26.4,Differs from 5 nearest neighbors by 15.5 (Neighbor Mean: 10.9),Spatial Outlier
+20090424,RDA,449872A001,용인시 처인구,SI_DAY,0.4,Differs from 5 nearest neighbors by 17.1 (Neighbor Mean: 17.5),Spatial Outlier
+20090424,RDA,429843A001,시흥시 하중동,SI_DAY,16.8,Differs from 5 nearest neighbors by 9.5 (Neighbor Mean: 7.3),Spatial Outlier
+20090424,RDA,365803A001,진천군 진천읍,SI_DAY,26.7,Differs from 5 nearest neighbors by 14.4 (Neighbor Mean: 12.3),Spatial Outlier
+20090424,ASOS,90,90,SS_DAY,0.0,Differs from 5 nearest neighbors by 4.3 (Neighbor Mean: 4.3),Spatial Outlier
+20090424,RDA,225874A001,횡성군 공근면,SS_DAY,7.9,Differs from 5 nearest neighbors by 6.8 (Neighbor Mean: 1.1),Spatial Outlier
+20090424,RDA,365803A001,진천군 진천읍,RN_DAY,27.0,Differs from 5 nearest neighbors by 24.3 (Neighbor Mean: 2.7),Spatial Outlier
