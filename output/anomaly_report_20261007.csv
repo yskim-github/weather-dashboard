@@ -1,0 +1,83 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20261007,RDA,032528A001,공주시 우성면,SI_DAY,35.13,Out of physical range (0~31.5),Range/Logic Error
+20261007,RDA,032528A001,공주시 우성면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261007,RDA,032528A001,공주시 우성면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261007,RDA,032528A001,공주시 우성면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261007,RDA,032528A001,공주시 우성면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261007,RDA,032528A001,공주시 우성면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261007,RDA,032528A001,공주시 우성면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261007,RDA,032528A001,공주시 우성면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261007,RDA,513842A001,영광군 군서면,SI_DAY,32.46,Out of physical range (0~31.5),Range/Logic Error
+20261007,RDA,513842A001,영광군 군서면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261007,RDA,513842A001,영광군 군서면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261007,RDA,513842A001,영광군 군서면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261007,RDA,513842A001,영광군 군서면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261007,RDA,513842A001,영광군 군서면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261007,RDA,513842A001,영광군 군서면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261007,RDA,513842A001,영광군 군서면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261007,AWS,453,453,TA_MAX,13.9,"Exceeds 3.5 Sigma (Mean: 24.6, Std: 1.2)",Statistical Outlier
+20261007,AWS,676,676,TA_MAX,19.4,"Exceeds 3.5 Sigma (Mean: 24.6, Std: 1.2)",Statistical Outlier
+20261007,RDA,429843A001,시흥시 하중동,TA_MAX,29.3,"Exceeds 3.5 Sigma (Mean: 24.6, Std: 1.2)",Statistical Outlier
+20261007,RDA,520853A003,나주시 봉황면,TA_MAX,29.5,"Exceeds 3.5 Sigma (Mean: 24.6, Std: 1.2)",Statistical Outlier
+20261007,RDA,520892A001,나주시 공산면,TA_MAX,29.0,"Exceeds 3.5 Sigma (Mean: 24.6, Std: 1.2)",Statistical Outlier
+20261007,RDA,409871A001,옹진군 영흥면,TA_MAX,19.4,"Exceeds 3.5 Sigma (Mean: 24.6, Std: 1.2)",Statistical Outlier
+20261007,ASOS,185,185,WS_AVG,4.8,"Exceeds 3.5 Sigma (Mean: 1.1, Std: 0.8)",Statistical Outlier
+20261007,RDA,516821A001,곡성군 오곡면,WS_AVG,6.63,"Exceeds 3.5 Sigma (Mean: 1.1, Std: 0.8)",Statistical Outlier
+20261007,RDA,730802A001,구미시 선산읍,WS_AVG,5.07,"Exceeds 3.5 Sigma (Mean: 1.1, Std: 0.8)",Statistical Outlier
+20261007,RDA,548912A001,고흥군 풍양면,HM_AVG,0.1,"Exceeds 3.5 Sigma (Mean: 65.5, Std: 10.3)",Statistical Outlier
+20261007,RDA,542805A001,구례군 구례읍,HM_AVG,3.0,"Exceeds 3.5 Sigma (Mean: 65.5, Std: 10.3)",Statistical Outlier
+20261007,RDA,536824B002,해남군 옥천면,HM_AVG,6.6,"Exceeds 3.5 Sigma (Mean: 65.5, Std: 10.3)",Statistical Outlier
+20261007,RDA,052546F018,사천시 송포동,HM_AVG,19.0,"Exceeds 3.5 Sigma (Mean: 65.5, Std: 10.3)",Statistical Outlier
+20261007,AWS,116,116,TA_MIN,11.6,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 11.0),Spatial Outlier
+20261007,AWS,151,151,TA_MIN,7.6,Differs from 5 nearest neighbors by 6.4 (Neighbor Mean: 14.1),Spatial Outlier
+20261007,AWS,175,175,TA_MIN,13.7,Differs from 5 nearest neighbors by 7.0 (Neighbor Mean: 9.8),Spatial Outlier
+20261007,AWS,305,305,TA_MIN,18.3,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 13.9),Spatial Outlier
+20261007,AWS,314,314,TA_MIN,3.9,Differs from 5 nearest neighbors by 6.7 (Neighbor Mean: 7.1),Spatial Outlier
+20261007,AWS,315,315,TA_MIN,6.8,Differs from 5 nearest neighbors by 5.8 (Neighbor Mean: 8.1),Spatial Outlier
+20261007,AWS,316,316,TA_MIN,9.7,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 7.9),Spatial Outlier
+20261007,AWS,320,320,TA_MIN,6.4,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 7.0),Spatial Outlier
+20261007,AWS,350,350,TA_MIN,2.0,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 10.6),Spatial Outlier
+20261007,AWS,377,377,TA_MIN,6.4,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 11.6),Spatial Outlier
+20261007,AWS,435,435,TA_MIN,13.6,Differs from 5 nearest neighbors by 6.2 (Neighbor Mean: 7.8),Spatial Outlier
+20261007,AWS,498,498,TA_MIN,5.3,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 7.0),Spatial Outlier
+20261007,AWS,659,659,TA_MIN,10.6,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 8.0),Spatial Outlier
+20261007,AWS,682,682,TA_MIN,6.8,Differs from 5 nearest neighbors by 8.4 (Neighbor Mean: 5.3),Spatial Outlier
+20261007,AWS,694,694,TA_MIN,12.2,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 9.0),Spatial Outlier
+20261007,AWS,695,695,TA_MIN,7.0,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 5.7),Spatial Outlier
+20261007,AWS,723,723,TA_MIN,19.7,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 15.1),Spatial Outlier
+20261007,AWS,724,724,TA_MIN,17.6,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 12.4),Spatial Outlier
+20261007,AWS,749,749,TA_MIN,14.1,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 8.8),Spatial Outlier
+20261007,AWS,755,755,TA_MIN,4.0,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 9.8),Spatial Outlier
+20261007,AWS,829,829,TA_MIN,6.7,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 12.3),Spatial Outlier
+20261007,AWS,851,851,TA_MIN,4.6,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 10.2),Spatial Outlier
+20261007,AWS,852,852,TA_MIN,13.3,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 8.5),Spatial Outlier
+20261007,AWS,872,872,TA_MIN,8.1,Differs from 5 nearest neighbors by 5.9 (Neighbor Mean: 7.8),Spatial Outlier
+20261007,AWS,933,933,TA_MIN,5.8,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 11.2),Spatial Outlier
+20261007,AWS,958,958,TA_MIN,19.3,Differs from 5 nearest neighbors by 6.0 (Neighbor Mean: 13.4),Spatial Outlier
+20261007,AWS,959,959,TA_MIN,19.4,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 11.9),Spatial Outlier
+20261007,AWS,961,961,TA_MIN,18.0,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 13.6),Spatial Outlier
+20261007,AWS,963,963,TA_MIN,17.6,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 13.1),Spatial Outlier
+20261007,AWS,967,967,TA_MIN,15.7,Differs from 5 nearest neighbors by 6.0 (Neighbor Mean: 10.1),Spatial Outlier
+20261007,RDA,026002D003,태백시 매봉산,TA_MIN,6.6,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 9.1),Spatial Outlier
+20261007,RDA,210913E001,강릉 안반덕이,TA_MIN,6.4,Differs from 5 nearest neighbors by 6.7 (Neighbor Mean: 6.8),Spatial Outlier
+20261007,RDA,245832A001,삼척시 근덕면,TA_MIN,0.0,Differs from 5 nearest neighbors by 9.4 (Neighbor Mean: 9.5),Spatial Outlier
+20261007,RDA,037506A003,포항시 죽장면,TA_MIN,7.2,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 5.4),Spatial Outlier
+20261007,RDA,409911A001,옹진군 백령면,TA_MIN,9.2,Differs from 5 nearest neighbors by 5.9 (Neighbor Mean: 15.2),Spatial Outlier
+20261007,RDA,689861A001,울주군 청량읍,TA_MIN,6.6,Differs from 5 nearest neighbors by 5.9 (Neighbor Mean: 12.9),Spatial Outlier
+20261007,RDA,409871A001,옹진군 영흥면,TA_MIN,8.8,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 13.9),Spatial Outlier
+20261007,RDA,026002D003,태백시 매봉산,HM_AVG,54.2,Differs from 5 nearest neighbors by 21.0 (Neighbor Mean: 75.2),Spatial Outlier
+20261007,RDA,540814A001,순천시 주암면,HM_AVG,78.4,Differs from 5 nearest neighbors by 20.1 (Neighbor Mean: 58.3),Spatial Outlier
+20261007,RDA,546804B001,보성군 보성읍,HM_AVG,76.5,Differs from 5 nearest neighbors by 20.6 (Neighbor Mean: 55.9),Spatial Outlier
+20261007,RDA,536806A001,해남군 삼산면,HM_AVG,73.5,Differs from 5 nearest neighbors by 20.2 (Neighbor Mean: 53.3),Spatial Outlier
+20261007,RDA,667831A001,하동군 적량면,HM_AVG,74.1,Differs from 5 nearest neighbors by 20.1 (Neighbor Mean: 54.0),Spatial Outlier
+20261007,ASOS,259,259,SI_DAY,8.59,Differs from 5 nearest neighbors by 9.5 (Neighbor Mean: 18.1),Spatial Outlier
+20261007,RDA,486831E011,연천군 신서면,SI_DAY,11.06,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 18.8),Spatial Outlier
+20261007,RDA,415743A001,김포시 월곶면,SI_DAY,8.33,Differs from 5 nearest neighbors by 9.0 (Neighbor Mean: 17.3),Spatial Outlier
+20261007,RDA,018544F032,화성시 마도면,SI_DAY,8.79,Differs from 5 nearest neighbors by 8.7 (Neighbor Mean: 17.5),Spatial Outlier
+20261007,RDA,017414F020,이천시 장호원,SI_DAY,7.53,Differs from 5 nearest neighbors by 11.4 (Neighbor Mean: 19.0),Spatial Outlier
+20261007,RDA,027486F033,충주시 안림동,SI_DAY,8.55,Differs from 5 nearest neighbors by 10.8 (Neighbor Mean: 19.3),Spatial Outlier
+20261007,RDA,588802A001,무주군 무주읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 18.7 (Neighbor Mean: 18.7),Spatial Outlier
+20261007,RDA,770270A001,영천시 오미동,SI_DAY,12.01,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 20.1),Spatial Outlier
+20261007,RDA,670807A001,거창군 거창읍,SI_DAY,9.79,Differs from 5 nearest neighbors by 9.9 (Neighbor Mean: 19.7),Spatial Outlier
+20261007,RDA,464030A001,광주시 목현동,SS_DAY,0.0,Differs from 5 nearest neighbors by 9.3 (Neighbor Mean: 9.3),Spatial Outlier
+20261007,RDA,716823A001,군위군 효령면,SS_DAY,0.0,Differs from 5 nearest neighbors by 10.0 (Neighbor Mean: 10.0),Spatial Outlier
