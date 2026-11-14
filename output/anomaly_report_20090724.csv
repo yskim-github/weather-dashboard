@@ -1,0 +1,20 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20090724,AWS,557,557,TA_MIN,12.8,"Exceeds 3.5 Sigma (Mean: 20.1, Std: 1.0)",Statistical Outlier
+20090724,AWS,753,753,TA_MIN,17.9,"Exceeds 3.5 Sigma (Mean: 20.1, Std: 1.0)",Statistical Outlier
+20090724,AWS,870,870,TA_MIN,14.2,"Exceeds 3.5 Sigma (Mean: 20.1, Std: 1.0)",Statistical Outlier
+20090724,AWS,871,871,TA_MIN,14.4,"Exceeds 3.5 Sigma (Mean: 20.1, Std: 1.0)",Statistical Outlier
+20090724,RDA,486803A001,연천군 연천읍,WS_AVG,19.37,"Exceeds 3.5 Sigma (Mean: 2.3, Std: 1.9)",Statistical Outlier
+20090724,RDA,380959A001,충주시 달천동,HM_AVG,22.0,"Exceeds 3.5 Sigma (Mean: 80.6, Std: 9.8)",Statistical Outlier
+20090724,RDA,590823A001,남원시 이백면,HM_AVG,97.7,Differs from 5 nearest neighbors by 20.3 (Neighbor Mean: 77.4),Spatial Outlier
+20090724,ASOS,101,101,SI_DAY,24.46,Differs from 5 nearest neighbors by 9.9 (Neighbor Mean: 14.5),Spatial Outlier
+20090724,RDA,467800A001,이천시 중리동,SI_DAY,28.3,Differs from 5 nearest neighbors by 8.9 (Neighbor Mean: 19.4),Spatial Outlier
+20090724,RDA,482841A001,양주시 은현면,SI_DAY,16.5,Differs from 5 nearest neighbors by 9.0 (Neighbor Mean: 25.5),Spatial Outlier
+20090724,RDA,469803A001,여주시 상거동,SI_DAY,30.1,Differs from 5 nearest neighbors by 16.9 (Neighbor Mean: 13.2),Spatial Outlier
+20090724,RDA,449872A001,용인시 처인구,SI_DAY,1.3,Differs from 5 nearest neighbors by 17.8 (Neighbor Mean: 19.1),Spatial Outlier
+20090724,RDA,429843A001,시흥시 하중동,SI_DAY,30.6,Differs from 5 nearest neighbors by 11.6 (Neighbor Mean: 19.0),Spatial Outlier
+20090724,RDA,365803A001,진천군 진천읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 17.0 (Neighbor Mean: 17.0),Spatial Outlier
+20090724,RDA,464030A001,광주시 목현동,SI_DAY,29.7,Differs from 5 nearest neighbors by 12.4 (Neighbor Mean: 17.3),Spatial Outlier
+20090724,RDA,220844A001,원주시 흥업면,SI_DAY,0.0,Differs from 5 nearest neighbors by 19.9 (Neighbor Mean: 19.9),Spatial Outlier
+20090724,RDA,225874A001,횡성군 공근면,SS_DAY,12.0,Differs from 5 nearest neighbors by 6.7 (Neighbor Mean: 5.3),Spatial Outlier
+20090724,RDA,590823A001,남원시 이백면,SS_DAY,5.8,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 0.4),Spatial Outlier
+20090724,AWS,303,303,RN_DAY,95.0,Differs from 5 nearest neighbors by 88.6 (Neighbor Mean: 6.4),Spatial Outlier
