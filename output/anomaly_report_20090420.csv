@@ -1,0 +1,33 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20090420,RDA,476801A001,양평군 양평읍,TA_AVG,16.9,Tavg not between Tmax(16.5) and Tmin(12.5),Range/Logic Error
+20090420,RDA,252805A001,인제군 인제읍,SI_DAY,140.0,Out of physical range (0~31.5),Range/Logic Error
+20090420,RDA,252805A001,인제군 인제읍,SS_DAY,17.3,Out of physical range (0~14.8),Range/Logic Error
+20090420,RDA,252805A001,인제군 인제읍,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090420,RDA,252805A001,인제군 인제읍,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090420,RDA,252805A001,인제군 인제읍,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090420,RDA,252805A001,인제군 인제읍,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090420,RDA,252805A001,인제군 인제읍,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090420,RDA,252805A001,인제군 인제읍,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090420,AWS,655,655,TA_MAX,10.5,"Exceeds 3.5 Sigma (Mean: 17.0, Std: 1.7)",Statistical Outlier
+20090420,AWS,782,782,TA_MAX,18.1,"Exceeds 3.5 Sigma (Mean: 17.0, Std: 1.7)",Statistical Outlier
+20090420,RDA,365803A001,진천군 진천읍,TA_MIN,43.9,"Exceeds 3.5 Sigma (Mean: 12.0, Std: 1.9)",Statistical Outlier
+20090420,ASOS,169,169,WS_AVG,11.6,"Exceeds 3.5 Sigma (Mean: 3.4, Std: 2.1)",Statistical Outlier
+20090420,ASOS,185,185,WS_AVG,13.0,"Exceeds 3.5 Sigma (Mean: 3.4, Std: 2.1)",Statistical Outlier
+20090420,RDA,365803A001,진천군 진천읍,HM_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 81.5, Std: 10.5)",Statistical Outlier
+20090420,AWS,370,370,TA_MAX,20.3,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 16.9),Spatial Outlier
+20090420,AWS,875,875,TA_MAX,10.1,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 12.8),Spatial Outlier
+20090420,AWS,232,232,TA_MIN,12.1,Differs from 5 nearest neighbors by 5.9 (Neighbor Mean: 18.5),Spatial Outlier
+20090420,AWS,602,602,TA_MIN,11.6,Differs from 5 nearest neighbors by 6.5 (Neighbor Mean: 18.7),Spatial Outlier
+20090420,AWS,623,623,TA_MIN,11.8,Differs from 5 nearest neighbors by 6.4 (Neighbor Mean: 18.8),Spatial Outlier
+20090420,RDA,590823A001,남원시 이백면,HM_AVG,100.0,Differs from 5 nearest neighbors by 21.7 (Neighbor Mean: 78.3),Spatial Outlier
+20090420,RDA,638802A001,고성군 고성읍,HM_AVG,47.1,Differs from 5 nearest neighbors by 39.8 (Neighbor Mean: 86.9),Spatial Outlier
+20090420,ASOS,100,100,SI_DAY,2.13,Differs from 5 nearest neighbors by 27.6 (Neighbor Mean: 29.7),Spatial Outlier
+20090420,ASOS,101,101,SI_DAY,2.88,Differs from 5 nearest neighbors by 27.3 (Neighbor Mean: 30.2),Spatial Outlier
+20090420,ASOS,104,104,SI_DAY,1.34,Differs from 5 nearest neighbors by 28.5 (Neighbor Mean: 29.9),Spatial Outlier
+20090420,ASOS,105,105,SI_DAY,1.52,Differs from 5 nearest neighbors by 28.3 (Neighbor Mean: 29.8),Spatial Outlier
+20090420,RDA,456871A001,안성시 보개면,SI_DAY,1.9,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 9.9),Spatial Outlier
+20090420,RDA,469803A001,여주시 상거동,SI_DAY,16.2,Differs from 5 nearest neighbors by 13.1 (Neighbor Mean: 3.1),Spatial Outlier
+20090420,RDA,449872A001,용인시 처인구,SI_DAY,0.5,Differs from 5 nearest neighbors by 9.7 (Neighbor Mean: 10.2),Spatial Outlier
+20090420,RDA,429843A001,시흥시 하중동,SI_DAY,17.7,Differs from 5 nearest neighbors by 13.8 (Neighbor Mean: 3.9),Spatial Outlier
+20090420,RDA,365803A001,진천군 진천읍,SI_DAY,22.2,Differs from 5 nearest neighbors by 16.3 (Neighbor Mean: 5.9),Spatial Outlier
+20090420,RDA,464030A001,광주시 목현동,SI_DAY,16.1,Differs from 5 nearest neighbors by 12.8 (Neighbor Mean: 3.3),Spatial Outlier
