@@ -1,0 +1,61 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20261022,RDA,482841A001,양주시 은현면,SI_DAY,39.97,Out of physical range (0~31.5),Range/Logic Error
+20261022,RDA,482841A001,양주시 은현면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261022,RDA,482841A001,양주시 은현면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261022,RDA,482841A001,양주시 은현면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261022,RDA,482841A001,양주시 은현면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261022,RDA,482841A001,양주시 은현면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261022,RDA,482841A001,양주시 은현면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261022,RDA,482841A001,양주시 은현면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261022,RDA,032528A001,공주시 우성면,SI_DAY,31.57,Out of physical range (0~31.5),Range/Logic Error
+20261022,RDA,513842A001,영광군 군서면,SI_DAY,35.41,Out of physical range (0~31.5),Range/Logic Error
+20261022,RDA,513842A001,영광군 군서면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261022,RDA,513842A001,영광군 군서면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261022,RDA,513842A001,영광군 군서면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261022,RDA,513842A001,영광군 군서면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261022,RDA,513842A001,영광군 군서면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261022,RDA,513842A001,영광군 군서면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261022,RDA,513842A001,영광군 군서면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261022,RDA,621100A001,김해시 전하동,SI_DAY,39.58,Out of physical range (0~31.5),Range/Logic Error
+20261022,RDA,621100A001,김해시 전하동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261022,RDA,621100A001,김해시 전하동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261022,RDA,621100A001,김해시 전하동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261022,RDA,621100A001,김해시 전하동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261022,RDA,621100A001,김해시 전하동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261022,RDA,621100A001,김해시 전하동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261022,RDA,621100A001,김해시 전하동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261022,AWS,867,867,TA_MAX,14.9,"Exceeds 3.5 Sigma (Mean: 17.3, Std: 1.7)",Statistical Outlier
+20261022,AWS,869,869,TA_MAX,15.5,"Exceeds 3.5 Sigma (Mean: 17.3, Std: 1.7)",Statistical Outlier
+20261022,AWS,871,871,TA_MAX,14.9,"Exceeds 3.5 Sigma (Mean: 17.3, Std: 1.7)",Statistical Outlier
+20261022,AWS,965,965,TA_MAX,16.0,"Exceeds 3.5 Sigma (Mean: 17.3, Std: 1.7)",Statistical Outlier
+20261022,RDA,409871A001,옹진군 영흥면,TA_MAX,4.9,"Exceeds 3.5 Sigma (Mean: 17.3, Std: 1.7)",Statistical Outlier
+20261022,AWS,965,965,TA_MIN,8.3,"Exceeds 3.5 Sigma (Mean: 5.1, Std: 3.7)",Statistical Outlier
+20261022,ASOS,169,169,WS_AVG,8.4,"Exceeds 3.5 Sigma (Mean: 1.4, Std: 1.1)",Statistical Outlier
+20261022,ASOS,185,185,WS_AVG,6.3,"Exceeds 3.5 Sigma (Mean: 1.4, Std: 1.1)",Statistical Outlier
+20261022,RDA,516821A001,곡성군 오곡면,WS_AVG,8.06,"Exceeds 3.5 Sigma (Mean: 1.4, Std: 1.1)",Statistical Outlier
+20261022,RDA,539823A001,진도군 군내면,WS_AVG,5.4,"Exceeds 3.5 Sigma (Mean: 1.4, Std: 1.1)",Statistical Outlier
+20261022,RDA,548912A001,고흥군 풍양면,HM_AVG,0.1,"Exceeds 3.5 Sigma (Mean: 63.8, Std: 9.5)",Statistical Outlier
+20261022,RDA,542805A001,구례군 구례읍,HM_AVG,3.0,"Exceeds 3.5 Sigma (Mean: 63.8, Std: 9.5)",Statistical Outlier
+20261022,RDA,052546F018,사천시 송포동,HM_AVG,19.0,"Exceeds 3.5 Sigma (Mean: 63.8, Std: 9.5)",Statistical Outlier
+20261022,RDA,409871A001,옹진군 영흥면,TA_AVG,3.0,Differs from 5 nearest neighbors by 6.9 (Neighbor Mean: 9.9),Spatial Outlier
+20261022,AWS,753,753,TA_MAX,12.8,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 24.6),Spatial Outlier
+20261022,AWS,377,377,TA_MIN,0.2,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 5.7),Spatial Outlier
+20261022,AWS,435,435,TA_MIN,6.6,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 1.6),Spatial Outlier
+20261022,AWS,682,682,TA_MIN,-1.8,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 0.3),Spatial Outlier
+20261022,AWS,695,695,TA_MIN,-2.9,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: -0.6),Spatial Outlier
+20261022,AWS,851,851,TA_MIN,0.4,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 5.6),Spatial Outlier
+20261022,AWS,967,967,TA_MIN,9.5,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 4.4),Spatial Outlier
+20261022,ASOS,108,108,HM_AVG,45.8,Differs from 5 nearest neighbors by 20.1 (Neighbor Mean: 65.9),Spatial Outlier
+20261022,RDA,027926A001,증평군 증평읍,HM_AVG,31.6,Differs from 5 nearest neighbors by 32.2 (Neighbor Mean: 63.8),Spatial Outlier
+20261022,RDA,536824B002,해남군 옥천면,HM_AVG,89.7,Differs from 5 nearest neighbors by 22.9 (Neighbor Mean: 66.8),Spatial Outlier
+20261022,RDA,667831A001,하동군 적량면,HM_AVG,75.4,Differs from 5 nearest neighbors by 23.7 (Neighbor Mean: 51.7),Spatial Outlier
+20261022,ASOS,115,115,SI_DAY,7.39,Differs from 5 nearest neighbors by 9.4 (Neighbor Mean: 16.8),Spatial Outlier
+20261022,RDA,415743A001,김포시 월곶면,SI_DAY,4.42,Differs from 5 nearest neighbors by 15.8 (Neighbor Mean: 20.3),Spatial Outlier
+20261022,RDA,017414F020,이천시 장호원,SI_DAY,7.82,Differs from 5 nearest neighbors by 9.6 (Neighbor Mean: 17.5),Spatial Outlier
+20261022,RDA,233852A001,정선군 정선읍,SI_DAY,5.18,Differs from 5 nearest neighbors by 9.2 (Neighbor Mean: 14.3),Spatial Outlier
+20261022,RDA,027486F033,충주시 안림동,SI_DAY,6.81,Differs from 5 nearest neighbors by 10.6 (Neighbor Mean: 17.4),Spatial Outlier
+20261022,RDA,769912A001,의성군 봉양면,SI_DAY,9.89,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 17.7),Spatial Outlier
+20261022,RDA,670807A001,거창군 거창읍,SI_DAY,7.1,Differs from 5 nearest neighbors by 10.8 (Neighbor Mean: 17.9),Spatial Outlier
+20261022,ASOS,115,115,SS_DAY,2.5,Differs from 5 nearest neighbors by 7.5 (Neighbor Mean: 10.0),Spatial Outlier
+20261022,RDA,415743A001,김포시 월곶면,SS_DAY,4.666666666666667,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 9.2),Spatial Outlier
+20261022,RDA,526821A001,영암군 덕진면,SS_DAY,4.183333333333334,Differs from 5 nearest neighbors by 5.8 (Neighbor Mean: 10.0),Spatial Outlier
