@@ -1,0 +1,42 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20261021,RDA,482841A001,양주시 은현면,SI_DAY,39.97,Out of physical range (0~31.5),Range/Logic Error
+20261021,RDA,482841A001,양주시 은현면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261021,RDA,482841A001,양주시 은현면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261021,RDA,482841A001,양주시 은현면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261021,RDA,482841A001,양주시 은현면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261021,RDA,482841A001,양주시 은현면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261021,RDA,482841A001,양주시 은현면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261021,RDA,482841A001,양주시 은현면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261021,RDA,621100A001,김해시 전하동,SI_DAY,39.91,Out of physical range (0~31.5),Range/Logic Error
+20261021,RDA,621100A001,김해시 전하동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261021,RDA,621100A001,김해시 전하동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261021,RDA,621100A001,김해시 전하동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261021,RDA,621100A001,김해시 전하동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261021,RDA,621100A001,김해시 전하동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261021,RDA,621100A001,김해시 전하동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261021,RDA,621100A001,김해시 전하동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261021,ASOS,102,102,WS_AVG,8.2,"Exceeds 3.5 Sigma (Mean: 2.4, Std: 1.6)",Statistical Outlier
+20261021,ASOS,169,169,WS_AVG,11.0,"Exceeds 3.5 Sigma (Mean: 2.4, Std: 1.6)",Statistical Outlier
+20261021,ASOS,185,185,WS_AVG,12.5,"Exceeds 3.5 Sigma (Mean: 2.4, Std: 1.6)",Statistical Outlier
+20261021,RDA,516821A001,곡성군 오곡면,WS_AVG,11.57,"Exceeds 3.5 Sigma (Mean: 2.4, Std: 1.6)",Statistical Outlier
+20261021,RDA,539823A001,진도군 군내면,WS_AVG,9.3,"Exceeds 3.5 Sigma (Mean: 2.4, Std: 1.6)",Statistical Outlier
+20261021,RDA,548912A001,고흥군 풍양면,HM_AVG,0.1,"Exceeds 3.5 Sigma (Mean: 67.4, Std: 10.3)",Statistical Outlier
+20261021,RDA,542805A001,구례군 구례읍,HM_AVG,3.0,"Exceeds 3.5 Sigma (Mean: 67.4, Std: 10.3)",Statistical Outlier
+20261021,RDA,052546F018,사천시 송포동,HM_AVG,19.0,"Exceeds 3.5 Sigma (Mean: 67.4, Std: 10.3)",Statistical Outlier
+20261021,AWS,377,377,TA_MIN,2.3,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 7.4),Spatial Outlier
+20261021,AWS,435,435,TA_MIN,8.8,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 4.4),Spatial Outlier
+20261021,AWS,656,656,TA_MIN,14.0,Differs from 5 nearest neighbors by 7.2 (Neighbor Mean: 7.1),Spatial Outlier
+20261021,AWS,904,904,TA_MIN,16.5,Differs from 5 nearest neighbors by 6.2 (Neighbor Mean: 10.3),Spatial Outlier
+20261021,RDA,767862A001,울진군 매화면,TA_MIN,0.0,Differs from 5 nearest neighbors by 9.2 (Neighbor Mean: 9.4),Spatial Outlier
+20261021,ASOS,105,105,HM_AVG,41.6,Differs from 5 nearest neighbors by 20.7 (Neighbor Mean: 62.3),Spatial Outlier
+20261021,RDA,343808A001,당진시 당진읍,HM_AVG,98.2,Differs from 5 nearest neighbors by 35.3 (Neighbor Mean: 62.9),Spatial Outlier
+20261021,RDA,546804B001,보성군 보성읍,HM_AVG,77.8,Differs from 5 nearest neighbors by 21.3 (Neighbor Mean: 56.5),Spatial Outlier
+20261021,RDA,063240F009,제주시 오등동,HM_AVG,46.1,Differs from 5 nearest neighbors by 29.1 (Neighbor Mean: 75.2),Spatial Outlier
+20261021,RDA,063501F011,서귀포 대정읍,HM_AVG,49.4,Differs from 5 nearest neighbors by 23.5 (Neighbor Mean: 72.9),Spatial Outlier
+20261021,RDA,063605F004,서귀포 신효동,HM_AVG,37.1,Differs from 5 nearest neighbors by 38.8 (Neighbor Mean: 75.9),Spatial Outlier
+20261021,ASOS,257,257,SI_DAY,10.36,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 18.0),Spatial Outlier
+20261021,RDA,415743A001,김포시 월곶면,SI_DAY,6.73,Differs from 5 nearest neighbors by 11.6 (Neighbor Mean: 18.3),Spatial Outlier
+20261021,RDA,032528A001,공주시 우성면,SI_DAY,20.83,Differs from 5 nearest neighbors by 9.8 (Neighbor Mean: 11.0),Spatial Outlier
+20261021,RDA,513842A001,영광군 군서면,SI_DAY,22.76,Differs from 5 nearest neighbors by 11.7 (Neighbor Mean: 11.1),Spatial Outlier
+20261021,RDA,730802A001,구미시 선산읍,SI_DAY,19.09,Differs from 5 nearest neighbors by 10.1 (Neighbor Mean: 9.0),Spatial Outlier
+20261021,RDA,730802A001,구미시 선산읍,SS_DAY,10.466666666666667,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 4.8),Spatial Outlier
