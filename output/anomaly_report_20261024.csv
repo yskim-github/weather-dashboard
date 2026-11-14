@@ -1,0 +1,37 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20261024,RDA,482841A001,양주시 은현면,SI_DAY,39.97,Out of physical range (0~31.5),Range/Logic Error
+20261024,RDA,482841A001,양주시 은현면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261024,RDA,482841A001,양주시 은현면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261024,RDA,482841A001,양주시 은현면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261024,RDA,482841A001,양주시 은현면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261024,RDA,482841A001,양주시 은현면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261024,RDA,482841A001,양주시 은현면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261024,RDA,482841A001,양주시 은현면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261024,AWS,869,869,TA_MAX,17.1,"Exceeds 3.5 Sigma (Mean: 18.0, Std: 1.4)",Statistical Outlier
+20261024,AWS,965,965,TA_MAX,15.5,"Exceeds 3.5 Sigma (Mean: 18.0, Std: 1.4)",Statistical Outlier
+20261024,RDA,757802A001,예천군 예천읍,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 14.8, Std: 1.9)",Statistical Outlier
+20261024,ASOS,168,168,WS_AVG,5.1,"Exceeds 3.5 Sigma (Mean: 0.9, Std: 1.0)",Statistical Outlier
+20261024,ASOS,169,169,WS_AVG,7.2,"Exceeds 3.5 Sigma (Mean: 0.9, Std: 1.0)",Statistical Outlier
+20261024,ASOS,185,185,WS_AVG,5.6,"Exceeds 3.5 Sigma (Mean: 0.9, Std: 1.0)",Statistical Outlier
+20261024,RDA,539823A001,진도군 군내면,WS_AVG,6.5,"Exceeds 3.5 Sigma (Mean: 0.9, Std: 1.0)",Statistical Outlier
+20261024,RDA,699946A001,서귀포 하례리,WS_AVG,5.33,"Exceeds 3.5 Sigma (Mean: 0.9, Std: 1.0)",Statistical Outlier
+20261024,RDA,390874A001,제천시 봉양읍,HM_AVG,36.9,"Exceeds 3.5 Sigma (Mean: 92.4, Std: 13.2)",Statistical Outlier
+20261024,RDA,548912A001,고흥군 풍양면,HM_AVG,0.1,"Exceeds 3.5 Sigma (Mean: 92.4, Std: 13.2)",Statistical Outlier
+20261024,RDA,542805A001,구례군 구례읍,HM_AVG,3.0,"Exceeds 3.5 Sigma (Mean: 92.4, Std: 13.2)",Statistical Outlier
+20261024,RDA,052546F018,사천시 송포동,HM_AVG,19.0,"Exceeds 3.5 Sigma (Mean: 92.4, Std: 13.2)",Statistical Outlier
+20261024,RDA,063240F009,제주시 오등동,HM_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 92.4, Std: 13.2)",Statistical Outlier
+20261024,RDA,063605F004,서귀포 신효동,HM_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 92.4, Std: 13.2)",Statistical Outlier
+20261024,AWS,314,314,TA_MIN,10.1,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 15.2),Spatial Outlier
+20261024,AWS,320,320,TA_MIN,9.3,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 12.3),Spatial Outlier
+20261024,AWS,682,682,TA_MIN,10.1,Differs from 5 nearest neighbors by 6.2 (Neighbor Mean: 10.8),Spatial Outlier
+20261024,AWS,695,695,TA_MIN,9.6,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 10.8),Spatial Outlier
+20261024,ASOS,258,258,HM_AVG,99.9,Differs from 5 nearest neighbors by 22.4 (Neighbor Mean: 77.5),Spatial Outlier
+20261024,RDA,516821A001,곡성군 오곡면,HM_AVG,99.5,Differs from 5 nearest neighbors by 20.1 (Neighbor Mean: 79.4),Spatial Outlier
+20261024,RDA,540814A001,순천시 주암면,HM_AVG,99.9,Differs from 5 nearest neighbors by 20.0 (Neighbor Mean: 79.9),Spatial Outlier
+20261024,RDA,546804B001,보성군 보성읍,HM_AVG,98.0,Differs from 5 nearest neighbors by 21.2 (Neighbor Mean: 76.8),Spatial Outlier
+20261024,RDA,063541F014,서귀포 하원동,HM_AVG,94.7,Differs from 5 nearest neighbors by 20.4 (Neighbor Mean: 74.3),Spatial Outlier
+20261024,RDA,063616F005,서귀포 신흥리,HM_AVG,95.6,Differs from 5 nearest neighbors by 20.4 (Neighbor Mean: 75.2),Spatial Outlier
+20261024,ASOS,98,98,SI_DAY,2.71,Differs from 5 nearest neighbors by 8.9 (Neighbor Mean: 11.6),Spatial Outlier
+20261024,ASOS,108,108,SI_DAY,2.06,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 10.6),Spatial Outlier
+20261024,RDA,621100A001,김해시 전하동,SI_DAY,18.98,Differs from 5 nearest neighbors by 17.3 (Neighbor Mean: 1.7),Spatial Outlier
+20261024,RDA,330846A001,천안시 목천읍,RN_DAY,105.0,Differs from 5 nearest neighbors by 103.2 (Neighbor Mean: 1.8),Spatial Outlier
