@@ -1,0 +1,18 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20090609,AWS,520,520,TA_MIN,11.1,"Exceeds 3.5 Sigma (Mean: 17.2, Std: 1.0)",Statistical Outlier
+20090609,ASOS,169,169,WS_AVG,10.2,"Exceeds 3.5 Sigma (Mean: 1.9, Std: 1.6)",Statistical Outlier
+20090609,ASOS,185,185,WS_AVG,8.2,"Exceeds 3.5 Sigma (Mean: 1.9, Std: 1.6)",Statistical Outlier
+20090609,RDA,365803A001,진천군 진천읍,HM_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 78.9, Std: 11.6)",Statistical Outlier
+20090609,RDA,380959A001,충주시 달천동,HM_AVG,20.3,"Exceeds 3.5 Sigma (Mean: 78.9, Std: 11.6)",Statistical Outlier
+20090609,AWS,593,593,TA_MAX,27.8,Differs from 5 nearest neighbors by 7.1 (Neighbor Mean: 21.7),Spatial Outlier
+20090609,ASOS,108,108,SI_DAY,4.84,Differs from 5 nearest neighbors by 8.7 (Neighbor Mean: 13.6),Spatial Outlier
+20090609,RDA,467800A001,이천시 중리동,SI_DAY,26.8,Differs from 5 nearest neighbors by 15.1 (Neighbor Mean: 11.7),Spatial Outlier
+20090609,RDA,456871A001,안성시 보개면,SI_DAY,7.0,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 14.9),Spatial Outlier
+20090609,RDA,469803A001,여주시 상거동,SI_DAY,23.4,Differs from 5 nearest neighbors by 13.6 (Neighbor Mean: 9.8),Spatial Outlier
+20090609,RDA,476801A001,양평군 양평읍,SI_DAY,5.8,Differs from 5 nearest neighbors by 9.8 (Neighbor Mean: 15.6),Spatial Outlier
+20090609,RDA,486803A001,연천군 연천읍,SI_DAY,19.7,Differs from 5 nearest neighbors by 12.2 (Neighbor Mean: 7.5),Spatial Outlier
+20090609,RDA,449872A001,용인시 처인구,SI_DAY,1.1,Differs from 5 nearest neighbors by 14.9 (Neighbor Mean: 16.0),Spatial Outlier
+20090609,RDA,429843A001,시흥시 하중동,SI_DAY,22.0,Differs from 5 nearest neighbors by 16.4 (Neighbor Mean: 5.5),Spatial Outlier
+20090609,RDA,464030A001,광주시 목현동,SI_DAY,21.2,Differs from 5 nearest neighbors by 12.3 (Neighbor Mean: 8.9),Spatial Outlier
+20090609,RDA,755851A001,봉화군 석포면,SI_DAY,0.0,Differs from 5 nearest neighbors by 9.3 (Neighbor Mean: 9.3),Spatial Outlier
+20090609,RDA,225874A001,횡성군 공근면,SS_DAY,10.7,Differs from 5 nearest neighbors by 10.6 (Neighbor Mean: 0.1),Spatial Outlier
