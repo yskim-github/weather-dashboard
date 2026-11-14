@@ -1,0 +1,58 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20090126,RDA,467800A001,이천시 중리동,SI_DAY,33.8,Out of physical range (0~31.5),Range/Logic Error
+20090126,RDA,467800A001,이천시 중리동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090126,RDA,467800A001,이천시 중리동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090126,RDA,467800A001,이천시 중리동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090126,RDA,467800A001,이천시 중리동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090126,RDA,467800A001,이천시 중리동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090126,RDA,467800A001,이천시 중리동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090126,RDA,467800A001,이천시 중리동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090126,RDA,449872A001,용인시 처인구,SI_DAY,98.9,Out of physical range (0~31.5),Range/Logic Error
+20090126,RDA,449872A001,용인시 처인구,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090126,RDA,449872A001,용인시 처인구,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090126,RDA,449872A001,용인시 처인구,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090126,RDA,449872A001,용인시 처인구,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090126,RDA,449872A001,용인시 처인구,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090126,RDA,449872A001,용인시 처인구,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090126,RDA,449872A001,용인시 처인구,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090126,RDA,365803A001,진천군 진천읍,TA_MIN,46.0,Out of physical range (-40~45),Range/Logic Error
+20090126,RDA,252805A001,인제군 인제읍,SI_DAY,75.3,Out of physical range (0~31.5),Range/Logic Error
+20090126,RDA,252805A001,인제군 인제읍,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090126,RDA,252805A001,인제군 인제읍,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090126,RDA,252805A001,인제군 인제읍,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090126,RDA,252805A001,인제군 인제읍,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090126,RDA,252805A001,인제군 인제읍,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090126,RDA,252805A001,인제군 인제읍,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090126,RDA,252805A001,인제군 인제읍,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090126,ASOS,185,185,WS_AVG,10.1,"Exceeds 3.5 Sigma (Mean: 2.1, Std: 1.5)",Statistical Outlier
+20090126,RDA,365803A001,진천군 진천읍,HM_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 66.0, Std: 13.9)",Statistical Outlier
+20090126,RDA,343808A001,당진시 당진읍,TA_MAX,7.0,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: 2.6),Spatial Outlier
+20090126,AWS,327,327,TA_MIN,-8.9,Differs from 5 nearest neighbors by 11.4 (Neighbor Mean: 3.4),Spatial Outlier
+20090126,AWS,566,566,TA_MIN,-8.8,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: -2.1),Spatial Outlier
+20090126,AWS,720,720,TA_MIN,2.1,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: -3.1),Spatial Outlier
+20090126,AWS,787,787,TA_MIN,-0.9,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: -4.7),Spatial Outlier
+20090126,AWS,799,799,TA_MIN,3.3,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: -1.3),Spatial Outlier
+20090126,AWS,911,911,TA_MIN,1.7,Differs from 5 nearest neighbors by 4.5 (Neighbor Mean: -2.5),Spatial Outlier
+20090126,AWS,923,923,TA_MIN,-7.6,Differs from 5 nearest neighbors by 5.9 (Neighbor Mean: -1.6),Spatial Outlier
+20090126,AWS,949,949,TA_MIN,-7.8,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: -2.6),Spatial Outlier
+20090126,RDA,456871A001,안성시 보개면,TA_MIN,-8.8,Differs from 5 nearest neighbors by 12.6 (Neighbor Mean: 4.3),Spatial Outlier
+20090126,ASOS,100,100,HM_AVG,70.4,Differs from 5 nearest neighbors by 27.2 (Neighbor Mean: 43.2),Spatial Outlier
+20090126,ASOS,169,169,HM_AVG,45.8,Differs from 5 nearest neighbors by 25.6 (Neighbor Mean: 71.4),Spatial Outlier
+20090126,ASOS,170,170,HM_AVG,53.5,Differs from 5 nearest neighbors by 20.1 (Neighbor Mean: 73.6),Spatial Outlier
+20090126,RDA,217060A001,속초시 대포동,HM_AVG,30.7,Differs from 5 nearest neighbors by 21.3 (Neighbor Mean: 52.0),Spatial Outlier
+20090126,ASOS,100,100,SI_DAY,9.79,Differs from 5 nearest neighbors by 10.8 (Neighbor Mean: 20.6),Spatial Outlier
+20090126,ASOS,101,101,SI_DAY,9.22,Differs from 5 nearest neighbors by 13.3 (Neighbor Mean: 22.5),Spatial Outlier
+20090126,ASOS,104,104,SI_DAY,11.45,Differs from 5 nearest neighbors by 8.8 (Neighbor Mean: 20.3),Spatial Outlier
+20090126,ASOS,105,105,SI_DAY,10.13,Differs from 5 nearest neighbors by 10.4 (Neighbor Mean: 20.5),Spatial Outlier
+20090126,ASOS,119,119,SI_DAY,10.51,Differs from 5 nearest neighbors by 20.3 (Neighbor Mean: 30.8),Spatial Outlier
+20090126,ASOS,131,131,SI_DAY,7.79,Differs from 5 nearest neighbors by 21.0 (Neighbor Mean: 28.8),Spatial Outlier
+20090126,RDA,456871A001,안성시 보개면,SI_DAY,9.3,Differs from 5 nearest neighbors by 29.2 (Neighbor Mean: 38.5),Spatial Outlier
+20090126,RDA,469803A001,여주시 상거동,SI_DAY,0.6,Differs from 5 nearest neighbors by 31.2 (Neighbor Mean: 31.9),Spatial Outlier
+20090126,RDA,476801A001,양평군 양평읍,SI_DAY,9.0,Differs from 5 nearest neighbors by 24.2 (Neighbor Mean: 33.2),Spatial Outlier
+20090126,RDA,429843A001,시흥시 하중동,SI_DAY,2.4,Differs from 5 nearest neighbors by 11.2 (Neighbor Mean: 13.6),Spatial Outlier
+20090126,RDA,445891A001,화성시 장안면,SI_DAY,17.2,Differs from 5 nearest neighbors by 9.5 (Neighbor Mean: 26.7),Spatial Outlier
+20090126,RDA,513842A001,영광군 군서면,SI_DAY,0.0,Differs from 5 nearest neighbors by 9.7 (Neighbor Mean: 9.7),Spatial Outlier
+20090126,RDA,755851A001,봉화군 석포면,SI_DAY,0.0,Differs from 5 nearest neighbors by 8.9 (Neighbor Mean: 8.9),Spatial Outlier
+20090126,RDA,486803A001,연천군 연천읍,SS_DAY,9.6,Differs from 5 nearest neighbors by 4.4 (Neighbor Mean: 5.2),Spatial Outlier
+20090126,RDA,225874A001,횡성군 공근면,SS_DAY,9.3,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 3.8),Spatial Outlier
+20090126,RDA,755851A001,봉화군 석포면,SS_DAY,0.0,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 5.5),Spatial Outlier
