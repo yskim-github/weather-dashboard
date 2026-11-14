@@ -1,0 +1,37 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20260815,RDA,520853A003,나주시 봉황면,SS_DAY,17.633333333333333,Out of physical range (0~14.8),Range/Logic Error
+20260815,RDA,520892A001,나주시 공산면,SS_DAY,17.733333333333334,Out of physical range (0~14.8),Range/Logic Error
+20260815,AWS,826,826,TA_MAX,35.6,"Exceeds 3.5 Sigma (Mean: 29.8, Std: 1.9)",Statistical Outlier
+20260815,AWS,439,439,TA_MIN,26.9,"Exceeds 3.5 Sigma (Mean: 23.6, Std: 1.0)",Statistical Outlier
+20260815,ASOS,169,169,WS_AVG,3.6,"Exceeds 3.5 Sigma (Mean: 0.9, Std: 0.7)",Statistical Outlier
+20260815,ASOS,185,185,WS_AVG,4.6,"Exceeds 3.5 Sigma (Mean: 0.9, Std: 0.7)",Statistical Outlier
+20260815,ASOS,188,188,WS_AVG,4.3,"Exceeds 3.5 Sigma (Mean: 0.9, Std: 0.7)",Statistical Outlier
+20260815,RDA,516821A001,곡성군 오곡면,WS_AVG,5.72,"Exceeds 3.5 Sigma (Mean: 0.9, Std: 0.7)",Statistical Outlier
+20260815,RDA,017421F029,이천시 진암리,HM_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 82.9, Std: 13.0)",Statistical Outlier
+20260815,RDA,357903A001,태안군 태안읍,HM_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 82.9, Std: 13.0)",Statistical Outlier
+20260815,RDA,542805A001,구례군 구례읍,HM_AVG,3.0,"Exceeds 3.5 Sigma (Mean: 82.9, Std: 13.0)",Statistical Outlier
+20260815,RDA,536824B002,해남군 옥천면,HM_AVG,2.8,"Exceeds 3.5 Sigma (Mean: 82.9, Std: 13.0)",Statistical Outlier
+20260815,RDA,052546F018,사천시 송포동,HM_AVG,19.0,"Exceeds 3.5 Sigma (Mean: 82.9, Std: 13.0)",Statistical Outlier
+20260815,RDA,063240F009,제주시 오등동,HM_AVG,26.5,"Exceeds 3.5 Sigma (Mean: 82.9, Std: 13.0)",Statistical Outlier
+20260815,RDA,063605F004,서귀포 신효동,HM_AVG,14.9,"Exceeds 3.5 Sigma (Mean: 82.9, Std: 13.0)",Statistical Outlier
+20260815,AWS,309,309,TA_MAX,34.0,Differs from 5 nearest neighbors by 7.2 (Neighbor Mean: 27.0),Spatial Outlier
+20260815,AWS,412,412,TA_MAX,23.7,Differs from 5 nearest neighbors by 5.5 (Neighbor Mean: 29.9),Spatial Outlier
+20260815,ASOS,129,129,HM_AVG,89.0,Differs from 5 nearest neighbors by 20.2 (Neighbor Mean: 68.8),Spatial Outlier
+20260815,ASOS,203,203,HM_AVG,91.3,Differs from 5 nearest neighbors by 23.4 (Neighbor Mean: 67.9),Spatial Outlier
+20260815,RDA,269804A001,음성군 소이면,HM_AVG,88.8,Differs from 5 nearest neighbors by 23.3 (Neighbor Mean: 65.5),Spatial Outlier
+20260815,ASOS,102,102,SI_DAY,22.35,Differs from 5 nearest neighbors by 12.8 (Neighbor Mean: 9.5),Spatial Outlier
+20260815,ASOS,156,156,SI_DAY,26.97,Differs from 5 nearest neighbors by 16.5 (Neighbor Mean: 10.5),Spatial Outlier
+20260815,RDA,467800A001,이천시 중리동,SI_DAY,15.74,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 7.5),Spatial Outlier
+20260815,RDA,409911A001,옹진군 백령면,SI_DAY,21.33,Differs from 5 nearest neighbors by 11.6 (Neighbor Mean: 9.7),Spatial Outlier
+20260815,ASOS,102,102,SS_DAY,6.4,Differs from 5 nearest neighbors by 6.4 (Neighbor Mean: 0.0),Spatial Outlier
+20260815,RDA,451873A001,평택시 오성면,SS_DAY,6.333333333333333,Differs from 5 nearest neighbors by 6.2 (Neighbor Mean: 0.1),Spatial Outlier
+20260815,RDA,269804A001,음성군 소이면,SS_DAY,10.883333333333333,Differs from 5 nearest neighbors by 10.3 (Neighbor Mean: 0.6),Spatial Outlier
+20260815,RDA,312831A001,금산군 금성면,SS_DAY,9.15,Differs from 5 nearest neighbors by 8.7 (Neighbor Mean: 0.5),Spatial Outlier
+20260815,RDA,350808A001,홍성군 홍성읍,SS_DAY,8.383333333333333,Differs from 5 nearest neighbors by 8.3 (Neighbor Mean: 0.1),Spatial Outlier
+20260815,RDA,542805A001,구례군 구례읍,SS_DAY,6.416666666666667,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 1.8),Spatial Outlier
+20260815,RDA,520943A002,나주시 문평면,SS_DAY,0.03333333333333333,Differs from 5 nearest neighbors by 7.5 (Neighbor Mean: 7.5),Spatial Outlier
+20260815,RDA,526821A001,영암군 덕진면,SS_DAY,0.0,Differs from 5 nearest neighbors by 7.5 (Neighbor Mean: 7.5),Spatial Outlier
+20260815,RDA,535873B003,나주시 산포면,SS_DAY,1.8333333333333333,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 7.1),Spatial Outlier
+20260815,RDA,525811A001,함평군 학교면,SS_DAY,0.5,Differs from 5 nearest neighbors by 6.6 (Neighbor Mean: 7.1),Spatial Outlier
+20260815,RDA,719862A001,성주군 대가면,SS_DAY,10.833333333333334,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 2.3),Spatial Outlier
+20260815,RDA,050124D004,거창군 동변리,SS_DAY,9.633333333333333,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 1.4),Spatial Outlier
