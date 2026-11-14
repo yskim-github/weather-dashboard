@@ -1,0 +1,43 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20260929,RDA,513842A001,영광군 군서면,SI_DAY,31.95,Out of physical range (0~31.5),Range/Logic Error
+20260929,RDA,513842A001,영광군 군서면,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20260929,RDA,513842A001,영광군 군서면,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20260929,RDA,513842A001,영광군 군서면,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20260929,RDA,513842A001,영광군 군서면,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20260929,RDA,513842A001,영광군 군서면,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20260929,RDA,513842A001,영광군 군서면,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20260929,RDA,513842A001,영광군 군서면,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20260929,RDA,409871A001,옹진군 영흥면,TA_AVG,13.9,"Exceeds 3.5 Sigma (Mean: 20.4, Std: 1.4)",Statistical Outlier
+20260929,AWS,343,343,TA_MAX,17.0,"Exceeds 3.5 Sigma (Mean: 26.5, Std: 1.8)",Statistical Outlier
+20260929,AWS,500,500,TA_MAX,16.6,"Exceeds 3.5 Sigma (Mean: 26.5, Std: 1.8)",Statistical Outlier
+20260929,ASOS,169,169,WS_AVG,5.4,"Exceeds 3.5 Sigma (Mean: 1.1, Std: 0.8)",Statistical Outlier
+20260929,ASOS,185,185,WS_AVG,5.4,"Exceeds 3.5 Sigma (Mean: 1.1, Std: 0.8)",Statistical Outlier
+20260929,RDA,516821A001,곡성군 오곡면,WS_AVG,5.2,"Exceeds 3.5 Sigma (Mean: 1.1, Std: 0.8)",Statistical Outlier
+20260929,RDA,730802A001,구미시 선산읍,WS_AVG,7.41,"Exceeds 3.5 Sigma (Mean: 1.1, Std: 0.8)",Statistical Outlier
+20260929,RDA,548912A001,고흥군 풍양면,HM_AVG,0.1,"Exceeds 3.5 Sigma (Mean: 77.8, Std: 10.8)",Statistical Outlier
+20260929,RDA,542805A001,구례군 구례읍,HM_AVG,3.0,"Exceeds 3.5 Sigma (Mean: 77.8, Std: 10.8)",Statistical Outlier
+20260929,RDA,536824B002,해남군 옥천면,HM_AVG,6.2,"Exceeds 3.5 Sigma (Mean: 77.8, Std: 10.8)",Statistical Outlier
+20260929,RDA,052546F018,사천시 송포동,HM_AVG,19.0,"Exceeds 3.5 Sigma (Mean: 77.8, Std: 10.8)",Statistical Outlier
+20260929,RDA,520853A003,나주시 봉황면,TA_MAX,30.9,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 26.4),Spatial Outlier
+20260929,RDA,555130A001,여수시 주삼동,TA_MAX,31.8,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 26.9),Spatial Outlier
+20260929,AWS,116,116,TA_MIN,14.7,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 14.0),Spatial Outlier
+20260929,AWS,320,320,TA_MIN,9.3,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 12.3),Spatial Outlier
+20260929,AWS,377,377,TA_MIN,10.6,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 15.6),Spatial Outlier
+20260929,AWS,659,659,TA_MIN,13.8,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 14.6),Spatial Outlier
+20260929,AWS,694,694,TA_MIN,13.7,Differs from 5 nearest neighbors by 4.7 (Neighbor Mean: 13.4),Spatial Outlier
+20260929,AWS,695,695,TA_MIN,11.0,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 9.7),Spatial Outlier
+20260929,RDA,027926A001,증평군 증평읍,HM_AVG,46.1,Differs from 5 nearest neighbors by 28.3 (Neighbor Mean: 74.4),Spatial Outlier
+20260929,RDA,390874A001,제천시 봉양읍,HM_AVG,49.0,Differs from 5 nearest neighbors by 28.1 (Neighbor Mean: 77.1),Spatial Outlier
+20260929,RDA,540814A001,순천시 주암면,HM_AVG,86.8,Differs from 5 nearest neighbors by 21.2 (Neighbor Mean: 65.6),Spatial Outlier
+20260929,RDA,546804B001,보성군 보성읍,HM_AVG,85.4,Differs from 5 nearest neighbors by 21.1 (Neighbor Mean: 64.3),Spatial Outlier
+20260929,RDA,018544F032,화성시 마도면,SI_DAY,9.1,Differs from 5 nearest neighbors by 9.1 (Neighbor Mean: 18.2),Spatial Outlier
+20260929,RDA,017414F020,이천시 장호원,SI_DAY,9.89,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 17.5),Spatial Outlier
+20260929,RDA,027486F033,충주시 안림동,SI_DAY,7.83,Differs from 5 nearest neighbors by 9.2 (Neighbor Mean: 17.0),Spatial Outlier
+20260929,RDA,032528A001,공주시 우성면,SI_DAY,28.98,Differs from 5 nearest neighbors by 13.3 (Neighbor Mean: 15.7),Spatial Outlier
+20260929,ASOS,115,115,SS_DAY,7.7,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 2.6),Spatial Outlier
+20260929,RDA,464030A001,광주시 목현동,SS_DAY,0.0,Differs from 5 nearest neighbors by 8.7 (Neighbor Mean: 8.7),Spatial Outlier
+20260929,RDA,041404B001,대구시 북구,SS_DAY,7.2,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 2.6),Spatial Outlier
+20260929,RDA,716823A001,군위군 효령면,SS_DAY,0.0,Differs from 5 nearest neighbors by 4.4 (Neighbor Mean: 4.4),Spatial Outlier
+20260929,RDA,050124D004,거창군 동변리,SS_DAY,8.083333333333334,Differs from 5 nearest neighbors by 4.3 (Neighbor Mean: 3.8),Spatial Outlier
+20260929,AWS,852,852,RN_DAY,36.0,Differs from 5 nearest neighbors by 34.4 (Neighbor Mean: 1.6),Spatial Outlier
+20260929,RDA,330846A001,천안시 목천읍,RN_DAY,236.0,Differs from 5 nearest neighbors by 236.0 (Neighbor Mean: 0.0),Spatial Outlier
