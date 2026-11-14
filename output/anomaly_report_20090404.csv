@@ -1,0 +1,37 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20090404,RDA,252805A001,인제군 인제읍,SI_DAY,56.4,Out of physical range (0~31.5),Range/Logic Error
+20090404,RDA,252805A001,인제군 인제읍,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090404,RDA,252805A001,인제군 인제읍,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090404,RDA,252805A001,인제군 인제읍,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090404,RDA,252805A001,인제군 인제읍,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090404,RDA,252805A001,인제군 인제읍,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090404,RDA,252805A001,인제군 인제읍,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090404,RDA,252805A001,인제군 인제읍,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090404,RDA,365803A001,진천군 진천읍,TA_MIN,42.1,"Exceeds 3.5 Sigma (Mean: 6.4, Std: 2.8)",Statistical Outlier
+20090404,RDA,486803A001,연천군 연천읍,WS_AVG,15.6,"Exceeds 3.5 Sigma (Mean: 2.8, Std: 3.2)",Statistical Outlier
+20090404,RDA,760380A001,안동시 송천동,WS_AVG,32.63,"Exceeds 3.5 Sigma (Mean: 2.8, Std: 3.2)",Statistical Outlier
+20090404,RDA,476801A001,양평군 양평읍,TA_AVG,12.7,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 8.9),Spatial Outlier
+20090404,AWS,306,306,TA_MAX,14.4,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 19.1),Spatial Outlier
+20090404,AWS,699,699,TA_MAX,9.8,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 14.6),Spatial Outlier
+20090404,RDA,217060A001,속초시 대포동,TA_MAX,9.9,Differs from 5 nearest neighbors by 6.7 (Neighbor Mean: 17.0),Spatial Outlier
+20090404,AWS,113,113,TA_MIN,0.0,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 5.0),Spatial Outlier
+20090404,AWS,232,232,TA_MIN,3.8,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 12.0),Spatial Outlier
+20090404,AWS,602,602,TA_MIN,3.5,Differs from 5 nearest neighbors by 7.5 (Neighbor Mean: 11.6),Spatial Outlier
+20090404,AWS,623,623,TA_MIN,2.2,Differs from 5 nearest neighbors by 8.6 (Neighbor Mean: 11.4),Spatial Outlier
+20090404,RDA,365803A001,진천군 진천읍,HM_AVG,0.0,Differs from 5 nearest neighbors by 57.7 (Neighbor Mean: 57.7),Spatial Outlier
+20090404,RDA,590823A001,남원시 이백면,HM_AVG,97.5,Differs from 5 nearest neighbors by 51.0 (Neighbor Mean: 46.5),Spatial Outlier
+20090404,RDA,638802A001,고성군 고성읍,HM_AVG,10.0,Differs from 5 nearest neighbors by 23.5 (Neighbor Mean: 33.5),Spatial Outlier
+20090404,ASOS,101,101,SI_DAY,13.35,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 21.4),Spatial Outlier
+20090404,ASOS,119,119,SI_DAY,17.52,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 9.9),Spatial Outlier
+20090404,ASOS,184,184,SI_DAY,9.47,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 17.6),Spatial Outlier
+20090404,ASOS,185,185,SI_DAY,7.41,Differs from 5 nearest neighbors by 11.2 (Neighbor Mean: 18.6),Spatial Outlier
+20090404,ASOS,252,252,SI_DAY,25.92,Differs from 5 nearest neighbors by 8.7 (Neighbor Mean: 17.3),Spatial Outlier
+20090404,RDA,467800A001,이천시 중리동,SI_DAY,30.1,Differs from 5 nearest neighbors by 20.6 (Neighbor Mean: 9.5),Spatial Outlier
+20090404,RDA,456871A001,안성시 보개면,SI_DAY,9.3,Differs from 5 nearest neighbors by 8.2 (Neighbor Mean: 17.5),Spatial Outlier
+20090404,RDA,482841A001,양주시 은현면,SI_DAY,1.6,Differs from 5 nearest neighbors by 11.5 (Neighbor Mean: 13.1),Spatial Outlier
+20090404,RDA,449872A001,용인시 처인구,SI_DAY,0.6,Differs from 5 nearest neighbors by 18.6 (Neighbor Mean: 19.2),Spatial Outlier
+20090404,RDA,415743A001,김포시 월곶면,SI_DAY,20.6,Differs from 5 nearest neighbors by 8.4 (Neighbor Mean: 12.2),Spatial Outlier
+20090404,RDA,365803A001,진천군 진천읍,SI_DAY,26.6,Differs from 5 nearest neighbors by 12.6 (Neighbor Mean: 14.0),Spatial Outlier
+20090404,RDA,513842A001,영광군 군서면,SI_DAY,0.0,Differs from 5 nearest neighbors by 22.4 (Neighbor Mean: 22.4),Spatial Outlier
+20090404,RDA,656933A001,거제시 거제면,SS_DAY,0.4,Differs from 5 nearest neighbors by 7.2 (Neighbor Mean: 7.6),Spatial Outlier
+20090404,RDA,365803A001,진천군 진천읍,RN_DAY,26.8,Differs from 5 nearest neighbors by 26.8 (Neighbor Mean: 0.0),Spatial Outlier
