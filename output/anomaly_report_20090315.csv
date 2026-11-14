@@ -1,0 +1,59 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20090315,RDA,252805A001,인제군 인제읍,SI_DAY,54.5,Out of physical range (0~31.5),Range/Logic Error
+20090315,RDA,252805A001,인제군 인제읍,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090315,RDA,252805A001,인제군 인제읍,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090315,RDA,252805A001,인제군 인제읍,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090315,RDA,252805A001,인제군 인제읍,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090315,RDA,252805A001,인제군 인제읍,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090315,RDA,252805A001,인제군 인제읍,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090315,RDA,252805A001,인제군 인제읍,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090315,RDA,390874A001,제천시 봉양읍,SI_DAY,42.2,Out of physical range (0~31.5),Range/Logic Error
+20090315,RDA,390874A001,제천시 봉양읍,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090315,RDA,390874A001,제천시 봉양읍,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090315,RDA,390874A001,제천시 봉양읍,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090315,RDA,390874A001,제천시 봉양읍,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090315,RDA,390874A001,제천시 봉양읍,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090315,RDA,390874A001,제천시 봉양읍,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090315,RDA,390874A001,제천시 봉양읍,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20090315,RDA,486803A001,연천군 연천읍,TA_AVG,-0.5,"Exceeds 3.5 Sigma (Mean: 5.9, Std: 1.7)",Statistical Outlier
+20090315,RDA,656933A001,거제시 거제면,TA_MAX,24.2,"Exceeds 3.5 Sigma (Mean: 11.8, Std: 2.1)",Statistical Outlier
+20090315,RDA,365803A001,진천군 진천읍,TA_MIN,37.8,"Exceeds 3.5 Sigma (Mean: -2.0, Std: 3.3)",Statistical Outlier
+20090315,RDA,486803A001,연천군 연천읍,WS_AVG,15.08,"Exceeds 3.5 Sigma (Mean: 3.1, Std: 2.0)",Statistical Outlier
+20090315,RDA,365803A001,진천군 진천읍,HM_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 56.2, Std: 13.7)",Statistical Outlier
+20090315,RDA,476801A001,양평군 양평읍,TA_AVG,10.0,Differs from 5 nearest neighbors by 7.1 (Neighbor Mean: 4.2),Spatial Outlier
+20090315,RDA,638802A001,고성군 고성읍,TA_MAX,17.8,Differs from 5 nearest neighbors by 6.2 (Neighbor Mean: 11.8),Spatial Outlier
+20090315,AWS,175,175,TA_MIN,-1.3,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: -3.3),Spatial Outlier
+20090315,AWS,232,232,TA_MIN,-3.5,Differs from 5 nearest neighbors by 7.4 (Neighbor Mean: 4.5),Spatial Outlier
+20090315,AWS,306,306,TA_MIN,3.0,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: -1.5),Spatial Outlier
+20090315,AWS,370,370,TA_MIN,-1.0,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: -4.4),Spatial Outlier
+20090315,AWS,475,475,TA_MIN,0.9,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: -3.3),Spatial Outlier
+20090315,AWS,521,521,TA_MIN,-2.4,Differs from 5 nearest neighbors by 5.2 (Neighbor Mean: 2.9),Spatial Outlier
+20090315,AWS,602,602,TA_MIN,-5.3,Differs from 5 nearest neighbors by 9.3 (Neighbor Mean: 4.6),Spatial Outlier
+20090315,AWS,623,623,TA_MIN,-6.2,Differs from 5 nearest neighbors by 9.0 (Neighbor Mean: 3.5),Spatial Outlier
+20090315,AWS,854,854,TA_MIN,-5.7,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: -0.4),Spatial Outlier
+20090315,AWS,858,858,TA_MIN,2.3,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: -1.6),Spatial Outlier
+20090315,AWS,875,875,TA_MIN,-4.4,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 1.4),Spatial Outlier
+20090315,AWS,959,959,TA_MIN,5.4,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 0.4),Spatial Outlier
+20090315,AWS,960,960,TA_MIN,5.6,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 0.9),Spatial Outlier
+20090315,RDA,217060A001,속초시 대포동,TA_MIN,7.5,Differs from 5 nearest neighbors by 6.9 (Neighbor Mean: 1.0),Spatial Outlier
+20090315,RDA,638802A001,고성군 고성읍,TA_MIN,4.8,Differs from 5 nearest neighbors by 6.2 (Neighbor Mean: -1.3),Spatial Outlier
+20090315,ASOS,90,90,HM_AVG,31.9,Differs from 5 nearest neighbors by 20.6 (Neighbor Mean: 52.5),Spatial Outlier
+20090315,ASOS,184,184,HM_AVG,37.6,Differs from 5 nearest neighbors by 20.4 (Neighbor Mean: 58.0),Spatial Outlier
+20090315,RDA,590823A001,남원시 이백면,HM_AVG,96.5,Differs from 5 nearest neighbors by 37.5 (Neighbor Mean: 59.0),Spatial Outlier
+20090315,RDA,323814A001,부여군 규암면,HM_AVG,88.6,Differs from 5 nearest neighbors by 22.5 (Neighbor Mean: 66.1),Spatial Outlier
+20090315,RDA,638802A001,고성군 고성읍,HM_AVG,20.9,Differs from 5 nearest neighbors by 28.0 (Neighbor Mean: 48.9),Spatial Outlier
+20090315,ASOS,100,100,SI_DAY,19.04,Differs from 5 nearest neighbors by 10.3 (Neighbor Mean: 29.4),Spatial Outlier
+20090315,ASOS,101,101,SI_DAY,12.26,Differs from 5 nearest neighbors by 9.4 (Neighbor Mean: 21.7),Spatial Outlier
+20090315,ASOS,104,104,SI_DAY,15.73,Differs from 5 nearest neighbors by 14.3 (Neighbor Mean: 30.0),Spatial Outlier
+20090315,ASOS,105,105,SI_DAY,15.85,Differs from 5 nearest neighbors by 14.1 (Neighbor Mean: 30.0),Spatial Outlier
+20090315,RDA,467800A001,이천시 중리동,SI_DAY,29.8,Differs from 5 nearest neighbors by 19.8 (Neighbor Mean: 10.0),Spatial Outlier
+20090315,RDA,656933A001,거제시 거제면,SI_DAY,13.5,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 21.2),Spatial Outlier
+20090315,RDA,486803A001,연천군 연천읍,SI_DAY,5.1,Differs from 5 nearest neighbors by 8.7 (Neighbor Mean: 13.8),Spatial Outlier
+20090315,RDA,449872A001,용인시 처인구,SI_DAY,0.7,Differs from 5 nearest neighbors by 18.1 (Neighbor Mean: 18.8),Spatial Outlier
+20090315,RDA,415743A001,김포시 월곶면,SI_DAY,21.0,Differs from 5 nearest neighbors by 11.0 (Neighbor Mean: 10.0),Spatial Outlier
+20090315,RDA,365803A001,진천군 진천읍,SI_DAY,27.9,Differs from 5 nearest neighbors by 13.8 (Neighbor Mean: 14.1),Spatial Outlier
+20090315,RDA,513842A001,영광군 군서면,SI_DAY,0.0,Differs from 5 nearest neighbors by 19.5 (Neighbor Mean: 19.5),Spatial Outlier
+20090315,RDA,539823A001,진도군 군내면,SI_DAY,25.6,Differs from 5 nearest neighbors by 9.3 (Neighbor Mean: 16.3),Spatial Outlier
+20090315,ASOS,102,102,SS_DAY,8.6,Differs from 5 nearest neighbors by 4.4 (Neighbor Mean: 4.2),Spatial Outlier
+20090315,RDA,656933A001,거제시 거제면,SS_DAY,0.4,Differs from 5 nearest neighbors by 10.1 (Neighbor Mean: 10.5),Spatial Outlier
+20090315,RDA,365803A001,진천군 진천읍,RN_DAY,28.1,Differs from 5 nearest neighbors by 28.1 (Neighbor Mean: 0.0),Spatial Outlier
