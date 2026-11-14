@@ -1,0 +1,46 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20260902,RDA,520853A003,나주시 봉황면,SS_DAY,16.25,Out of physical range (0~14.8),Range/Logic Error
+20260902,RDA,621100A001,김해시 전하동,SI_DAY,32.29,Out of physical range (0~31.5),Range/Logic Error
+20260902,RDA,621100A001,김해시 전하동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20260902,RDA,621100A001,김해시 전하동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20260902,RDA,621100A001,김해시 전하동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20260902,RDA,621100A001,김해시 전하동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20260902,RDA,621100A001,김해시 전하동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20260902,RDA,621100A001,김해시 전하동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20260902,RDA,621100A001,김해시 전하동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20260902,RDA,063352B012,제주시 세화리,TA_MAX,38.2,"Exceeds 3.5 Sigma (Mean: 30.2, Std: 2.3)",Statistical Outlier
+20260902,RDA,695923A001,제주시 한림읍,TA_MAX,41.2,"Exceeds 3.5 Sigma (Mean: 30.2, Std: 2.3)",Statistical Outlier
+20260902,RDA,032528A001,공주시 우성면,TA_MIN,0.0,"Exceeds 3.5 Sigma (Mean: 22.9, Std: 1.5)",Statistical Outlier
+20260902,ASOS,102,102,WS_AVG,3.7,"Exceeds 3.5 Sigma (Mean: 0.8, Std: 0.6)",Statistical Outlier
+20260902,ASOS,169,169,WS_AVG,3.6,"Exceeds 3.5 Sigma (Mean: 0.8, Std: 0.6)",Statistical Outlier
+20260902,ASOS,185,185,WS_AVG,3.0,"Exceeds 3.5 Sigma (Mean: 0.8, Std: 0.6)",Statistical Outlier
+20260902,RDA,516821A001,곡성군 오곡면,WS_AVG,4.03,"Exceeds 3.5 Sigma (Mean: 0.8, Std: 0.6)",Statistical Outlier
+20260902,RDA,764803A001,영양군 영양읍,WS_AVG,3.25,"Exceeds 3.5 Sigma (Mean: 0.8, Std: 0.6)",Statistical Outlier
+20260902,RDA,763803A001,청송군 청송읍,WS_AVG,3.0,"Exceeds 3.5 Sigma (Mean: 0.8, Std: 0.6)",Statistical Outlier
+20260902,RDA,409911A001,옹진군 백령면,WS_AVG,3.0,"Exceeds 3.5 Sigma (Mean: 0.8, Std: 0.6)",Statistical Outlier
+20260902,RDA,017421F029,이천시 진암리,HM_AVG,0.1,"Exceeds 3.5 Sigma (Mean: 85.4, Std: 12.0)",Statistical Outlier
+20260902,RDA,482841A001,양주시 은현면,HM_AVG,24.2,"Exceeds 3.5 Sigma (Mean: 85.4, Std: 12.0)",Statistical Outlier
+20260902,RDA,390874A001,제천시 봉양읍,HM_AVG,36.7,"Exceeds 3.5 Sigma (Mean: 85.4, Std: 12.0)",Statistical Outlier
+20260902,RDA,542805A001,구례군 구례읍,HM_AVG,3.0,"Exceeds 3.5 Sigma (Mean: 85.4, Std: 12.0)",Statistical Outlier
+20260902,RDA,536824B002,해남군 옥천면,HM_AVG,4.8,"Exceeds 3.5 Sigma (Mean: 85.4, Std: 12.0)",Statistical Outlier
+20260902,RDA,052546F018,사천시 송포동,HM_AVG,19.0,"Exceeds 3.5 Sigma (Mean: 85.4, Std: 12.0)",Statistical Outlier
+20260902,RDA,063240F009,제주시 오등동,HM_AVG,31.9,"Exceeds 3.5 Sigma (Mean: 85.4, Std: 12.0)",Statistical Outlier
+20260902,AWS,500,500,TA_MAX,24.0,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 29.6),Spatial Outlier
+20260902,AWS,774,774,TA_MAX,25.1,Differs from 5 nearest neighbors by 6.4 (Neighbor Mean: 31.6),Spatial Outlier
+20260902,AWS,778,778,TA_MAX,23.7,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 32.3),Spatial Outlier
+20260902,AWS,633,633,TA_MIN,22.5,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 18.2),Spatial Outlier
+20260902,ASOS,203,203,HM_AVG,93.0,Differs from 5 nearest neighbors by 20.6 (Neighbor Mean: 72.4),Spatial Outlier
+20260902,RDA,540814A001,순천시 주암면,HM_AVG,92.1,Differs from 5 nearest neighbors by 22.0 (Neighbor Mean: 70.1),Spatial Outlier
+20260902,RDA,063605F004,서귀포 신효동,HM_AVG,53.1,Differs from 5 nearest neighbors by 27.4 (Neighbor Mean: 80.5),Spatial Outlier
+20260902,RDA,486803A001,연천군 연천읍,SI_DAY,0.0,Differs from 5 nearest neighbors by 17.5 (Neighbor Mean: 17.5),Spatial Outlier
+20260902,RDA,415743A001,김포시 월곶면,SI_DAY,23.08,Differs from 5 nearest neighbors by 7.7 (Neighbor Mean: 15.4),Spatial Outlier
+20260902,RDA,032528A001,공주시 우성면,SI_DAY,26.36,Differs from 5 nearest neighbors by 17.8 (Neighbor Mean: 8.5),Spatial Outlier
+20260902,RDA,513842A001,영광군 군서면,SI_DAY,19.07,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 10.6),Spatial Outlier
+20260902,RDA,525811A001,함평군 학교면,SI_DAY,5.39,Differs from 5 nearest neighbors by 9.1 (Neighbor Mean: 14.5),Spatial Outlier
+20260902,ASOS,102,102,SS_DAY,11.8,Differs from 5 nearest neighbors by 6.7 (Neighbor Mean: 5.1),Spatial Outlier
+20260902,RDA,451873A001,평택시 오성면,SS_DAY,9.65,Differs from 5 nearest neighbors by 8.1 (Neighbor Mean: 1.6),Spatial Outlier
+20260902,RDA,269804A001,음성군 소이면,SS_DAY,8.966666666666667,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 0.5),Spatial Outlier
+20260902,RDA,312831A001,금산군 금성면,SS_DAY,7.283333333333333,Differs from 5 nearest neighbors by 6.8 (Neighbor Mean: 0.5),Spatial Outlier
+20260902,RDA,350808A001,홍성군 홍성읍,SS_DAY,8.75,Differs from 5 nearest neighbors by 7.9 (Neighbor Mean: 0.8),Spatial Outlier
+20260902,RDA,526821A001,영암군 덕진면,SS_DAY,0.31666666666666665,Differs from 5 nearest neighbors by 5.8 (Neighbor Mean: 6.1),Spatial Outlier
+20260902,RDA,050124D004,거창군 동변리,SS_DAY,8.633333333333333,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 3.5),Spatial Outlier
