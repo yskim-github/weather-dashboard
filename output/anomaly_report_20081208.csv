@@ -1,0 +1,60 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20081208,RDA,476801A001,양평군 양평읍,TA_AVG,6.9,Tavg not between Tmax(6.6) and Tmin(0.3),Range/Logic Error
+20081208,RDA,449872A001,용인시 처인구,SI_DAY,60.7,Out of physical range (0~31.5),Range/Logic Error
+20081208,RDA,449872A001,용인시 처인구,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20081208,RDA,449872A001,용인시 처인구,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20081208,RDA,449872A001,용인시 처인구,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20081208,RDA,449872A001,용인시 처인구,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20081208,RDA,449872A001,용인시 처인구,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20081208,RDA,449872A001,용인시 처인구,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20081208,RDA,449872A001,용인시 처인구,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20081208,RDA,365803A001,진천군 진천읍,TA_MIN,49.0,Out of physical range (-40~45),Range/Logic Error
+20081208,RDA,252805A001,인제군 인제읍,SI_DAY,607.0,Out of physical range (0~31.5),Range/Logic Error
+20081208,RDA,252805A001,인제군 인제읍,SS_DAY,18.0,Out of physical range (0~14.8),Range/Logic Error
+20081208,RDA,252805A001,인제군 인제읍,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20081208,RDA,252805A001,인제군 인제읍,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20081208,RDA,252805A001,인제군 인제읍,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20081208,RDA,252805A001,인제군 인제읍,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20081208,RDA,252805A001,인제군 인제읍,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20081208,RDA,252805A001,인제군 인제읍,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20081208,ASOS,115,115,WS_AVG,7.3,"Exceeds 3.5 Sigma (Mean: 1.7, Std: 1.5)",Statistical Outlier
+20081208,ASOS,185,185,WS_AVG,9.1,"Exceeds 3.5 Sigma (Mean: 1.7, Std: 1.5)",Statistical Outlier
+20081208,RDA,365803A001,진천군 진천읍,HM_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 75.7, Std: 13.8)",Statistical Outlier
+20081208,ASOS,169,169,TA_AVG,11.4,Differs from 5 nearest neighbors by 5.0 (Neighbor Mean: 6.9),Spatial Outlier
+20081208,AWS,320,320,TA_MAX,-5.9,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 7.6),Spatial Outlier
+20081208,AWS,851,851,TA_MAX,6.7,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 12.3),Spatial Outlier
+20081208,AWS,854,854,TA_MAX,6.0,Differs from 5 nearest neighbors by 7.6 (Neighbor Mean: 14.0),Spatial Outlier
+20081208,AWS,232,232,TA_MIN,2.5,Differs from 5 nearest neighbors by 8.5 (Neighbor Mean: 11.6),Spatial Outlier
+20081208,AWS,306,306,TA_MIN,5.9,Differs from 5 nearest neighbors by 5.7 (Neighbor Mean: 0.2),Spatial Outlier
+20081208,AWS,314,314,TA_MIN,-5.8,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: -1.1),Spatial Outlier
+20081208,AWS,315,315,TA_MIN,-0.6,Differs from 5 nearest neighbors by 6.6 (Neighbor Mean: -0.1),Spatial Outlier
+20081208,AWS,366,366,TA_MIN,-7.8,Differs from 5 nearest neighbors by 10.4 (Neighbor Mean: 3.3),Spatial Outlier
+20081208,AWS,370,370,TA_MIN,4.4,Differs from 5 nearest neighbors by 6.1 (Neighbor Mean: -0.1),Spatial Outlier
+20081208,AWS,602,602,TA_MIN,0.8,Differs from 5 nearest neighbors by 10.4 (Neighbor Mean: 11.8),Spatial Outlier
+20081208,AWS,623,623,TA_MIN,-1.5,Differs from 5 nearest neighbors by 10.6 (Neighbor Mean: 9.8),Spatial Outlier
+20081208,AWS,746,746,TA_MIN,6.7,Differs from 5 nearest neighbors by 4.6 (Neighbor Mean: 2.2),Spatial Outlier
+20081208,AWS,800,800,TA_MIN,2.1,Differs from 5 nearest neighbors by 7.0 (Neighbor Mean: -4.5),Spatial Outlier
+20081208,AWS,816,816,TA_MIN,-5.7,Differs from 5 nearest neighbors by 6.9 (Neighbor Mean: 1.4),Spatial Outlier
+20081208,AWS,851,851,TA_MIN,-6.3,Differs from 5 nearest neighbors by 6.1 (Neighbor Mean: 0.2),Spatial Outlier
+20081208,AWS,859,859,TA_MIN,1.2,Differs from 5 nearest neighbors by 6.6 (Neighbor Mean: -3.1),Spatial Outlier
+20081208,AWS,872,872,TA_MIN,0.6,Differs from 5 nearest neighbors by 5.8 (Neighbor Mean: 0.4),Spatial Outlier
+20081208,AWS,901,901,TA_MIN,4.2,Differs from 5 nearest neighbors by 6.6 (Neighbor Mean: -2.2),Spatial Outlier
+20081208,AWS,909,909,TA_MIN,5.5,Differs from 5 nearest neighbors by 5.1 (Neighbor Mean: 1.1),Spatial Outlier
+20081208,AWS,911,911,TA_MIN,7.9,Differs from 5 nearest neighbors by 6.9 (Neighbor Mean: 1.3),Spatial Outlier
+20081208,AWS,961,961,TA_MIN,9.8,Differs from 5 nearest neighbors by 5.3 (Neighbor Mean: 4.7),Spatial Outlier
+20081208,ASOS,102,102,HM_AVG,53.9,Differs from 5 nearest neighbors by 23.4 (Neighbor Mean: 77.3),Spatial Outlier
+20081208,ASOS,169,169,HM_AVG,52.5,Differs from 5 nearest neighbors by 23.0 (Neighbor Mean: 75.5),Spatial Outlier
+20081208,RDA,590823A001,남원시 이백면,HM_AVG,100.0,Differs from 5 nearest neighbors by 23.5 (Neighbor Mean: 76.5),Spatial Outlier
+20081208,ASOS,100,100,SI_DAY,3.6,Differs from 5 nearest neighbors by 122.8 (Neighbor Mean: 126.4),Spatial Outlier
+20081208,ASOS,101,101,SI_DAY,2.56,Differs from 5 nearest neighbors by 122.0 (Neighbor Mean: 124.5),Spatial Outlier
+20081208,ASOS,104,104,SI_DAY,7.18,Differs from 5 nearest neighbors by 118.5 (Neighbor Mean: 125.6),Spatial Outlier
+20081208,ASOS,108,108,SI_DAY,3.24,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 11.0),Spatial Outlier
+20081208,ASOS,119,119,SI_DAY,5.42,Differs from 5 nearest neighbors by 15.3 (Neighbor Mean: 20.7),Spatial Outlier
+20081208,ASOS,131,131,SI_DAY,6.69,Differs from 5 nearest neighbors by 13.9 (Neighbor Mean: 20.6),Spatial Outlier
+20081208,RDA,456871A001,안성시 보개면,SI_DAY,4.6,Differs from 5 nearest neighbors by 21.2 (Neighbor Mean: 25.8),Spatial Outlier
+20081208,RDA,469803A001,여주시 상거동,SI_DAY,9.5,Differs from 5 nearest neighbors by 8.8 (Neighbor Mean: 18.3),Spatial Outlier
+20081208,RDA,476801A001,양평군 양평읍,SI_DAY,3.2,Differs from 5 nearest neighbors by 19.5 (Neighbor Mean: 22.7),Spatial Outlier
+20081208,RDA,445891A001,화성시 장안면,SI_DAY,7.4,Differs from 5 nearest neighbors by 10.2 (Neighbor Mean: 17.6),Spatial Outlier
+20081208,RDA,513842A001,영광군 군서면,SI_DAY,0.0,Differs from 5 nearest neighbors by 8.3 (Neighbor Mean: 8.3),Spatial Outlier
+20081208,ASOS,211,211,SS_DAY,0.0,Differs from 5 nearest neighbors by 5.4 (Neighbor Mean: 5.4),Spatial Outlier
+20081208,RDA,486803A001,연천군 연천읍,SS_DAY,8.0,Differs from 5 nearest neighbors by 6.6 (Neighbor Mean: 1.4),Spatial Outlier
