@@ -1,0 +1,18 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20090523,AWS,955,955,TA_MAX,13.4,"Exceeds 3.5 Sigma (Mean: 21.0, Std: 2.1)",Statistical Outlier
+20090523,RDA,486803A001,연천군 연천읍,WS_AVG,15.86,"Exceeds 3.5 Sigma (Mean: 1.8, Std: 1.6)",Statistical Outlier
+20090523,RDA,365803A001,진천군 진천읍,HM_AVG,0.0,"Exceeds 3.5 Sigma (Mean: 76.3, Std: 12.1)",Statistical Outlier
+20090523,RDA,380959A001,충주시 달천동,HM_AVG,16.4,"Exceeds 3.5 Sigma (Mean: 76.3, Std: 12.1)",Statistical Outlier
+20090523,ASOS,108,108,SI_DAY,9.0,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 16.8),Spatial Outlier
+20090523,ASOS,114,114,SI_DAY,5.94,Differs from 5 nearest neighbors by 8.0 (Neighbor Mean: 14.0),Spatial Outlier
+20090523,ASOS,169,169,SI_DAY,20.91,Differs from 5 nearest neighbors by 10.1 (Neighbor Mean: 10.8),Spatial Outlier
+20090523,RDA,467800A001,이천시 중리동,SI_DAY,28.8,Differs from 5 nearest neighbors by 17.5 (Neighbor Mean: 11.3),Spatial Outlier
+20090523,RDA,456871A001,안성시 보개면,SI_DAY,5.7,Differs from 5 nearest neighbors by 13.2 (Neighbor Mean: 18.9),Spatial Outlier
+20090523,RDA,469803A001,여주시 상거동,SI_DAY,21.5,Differs from 5 nearest neighbors by 11.5 (Neighbor Mean: 10.0),Spatial Outlier
+20090523,RDA,449872A001,용인시 처인구,SI_DAY,0.2,Differs from 5 nearest neighbors by 19.8 (Neighbor Mean: 20.0),Spatial Outlier
+20090523,RDA,429843A001,시흥시 하중동,SI_DAY,19.4,Differs from 5 nearest neighbors by 7.8 (Neighbor Mean: 11.6),Spatial Outlier
+20090523,RDA,365803A001,진천군 진천읍,SI_DAY,29.5,Differs from 5 nearest neighbors by 16.3 (Neighbor Mean: 13.2),Spatial Outlier
+20090523,RDA,513842A001,영광군 군서면,SI_DAY,0.0,Differs from 5 nearest neighbors by 14.9 (Neighbor Mean: 14.9),Spatial Outlier
+20090523,ASOS,102,102,SS_DAY,8.0,Differs from 5 nearest neighbors by 4.9 (Neighbor Mean: 3.1),Spatial Outlier
+20090523,RDA,225874A001,횡성군 공근면,SS_DAY,9.5,Differs from 5 nearest neighbors by 9.4 (Neighbor Mean: 0.1),Spatial Outlier
+20090523,RDA,365803A001,진천군 진천읍,RN_DAY,30.1,Differs from 5 nearest neighbors by 29.9 (Neighbor Mean: 0.2),Spatial Outlier
