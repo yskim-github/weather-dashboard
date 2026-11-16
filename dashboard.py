@@ -188,8 +188,56 @@ def get_available_dates():
         d = os.path.basename(f).replace("anomaly_report_", "").replace(".csv", "")
         if d.isdigit() and len(d) == 8:
             dates.add(d)
+
+    # 5. 오후 5시(17시) 생성된 당일 기준 270m 예보 격자 기준일 포함
+    for f in glob.glob(os.path.join(FORECAST_DIR, "Tmax", "*", "Tmax_forecast_*_D1.*")):
+        fname = os.path.basename(f)
+        d = fname.replace("Tmax_forecast_", "").replace("_D1.tiff", "").replace("_D1.png", "")
+        if d.isdigit() and len(d) == 8:
+            dates.add(d)
             
     return sorted(list(dates), reverse=True)
+
+
+@st.cache_data(ttl=2)
+def get_forecast_frost_dates():
+    """수치예보 및 서리예측 탭 전용 날짜 목록 (2026년 자료부터 표출)"""
+    dates = set()
+    for pattern, prefix in [
+        (os.path.join(FORECAST_DIR, "Tmin", "*", "Tmin_forecast_*_D*.*"), "Tmin_forecast_"),
+        (os.path.join(FORECAST_DIR, "Tmax", "*", "Tmax_forecast_*_D*.*"), "Tmax_forecast_"),
+        (os.path.join(FORECAST_DIR, "stats", "*", "forecast_stats_*.json"), "forecast_stats_"),
+        (os.path.join(FROST_DIR, "*", "XGB_Frost_Risk_*_D*.png"), "XGB_Frost_Risk_"),
+        (os.path.join(FROST_DIR, "*", "XGB_Frost_Grade_*_D*.tiff"), "XGB_Frost_Grade_"),
+    ]:
+        for f in glob.glob(pattern):
+            stem = os.path.splitext(os.path.basename(f))[0]
+            if stem.startswith(prefix):
+                d_part = stem[len(prefix):].split("_D")[0]
+                if d_part.isdigit() and len(d_part) == 8 and d_part >= "20260101":
+                    dates.add(d_part)
+
+    # 관측 완료된 2026년 일자도 포함
+    for d in get_available_dates():
+        if d >= "20260101":
+            dates.add(d)
+
+    res = sorted(list(dates), reverse=True)
+    return res if res else [d for d in get_available_dates() if d >= "20260101"]
+
+
+@st.cache_data(ttl=10)
+def load_forecast_stats_json(target_date: str):
+    import json
+    year = target_date[:4]
+    stats_path = os.path.join(FORECAST_DIR, "stats", year, f"forecast_stats_{target_date}.json")
+    if os.path.exists(stats_path):
+        try:
+            with open(stats_path, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception:
+            return None
+    return None
 
 @st.cache_data(ttl=2)
 def load_daily_summary():
@@ -287,7 +335,7 @@ TARGET_POINTS = [
 
 @st.cache_data(ttl=10)
 def get_point_frost_weather_data(target_date: str):
-    """지정된 3개 주요 농업 거점의 D+1~D+3 (3일간) 270m 기상 예보 및 서리 판별값 일괄 추출 (농가대응수칙 제외)"""
+    """지정된 3개 주요 농업 거점의 D+1~D+4 (4일간) 270m 기상 예보 및 서리 판별값 일괄 추출 (JSON 우선 + 로컬 TIFF 폴백)"""
     import datetime
     year = target_date[:4]
     try:
@@ -295,13 +343,38 @@ def get_point_frost_weather_data(target_date: str):
     except Exception:
         return None
         
-    lead_names = {1: 'D+1 (내일)', 2: 'D+2 (모레)', 3: 'D+3 (글피)'}
+    lead_names = {1: 'D+1 (내일)', 2: 'D+2 (모레)', 3: 'D+3 (글피)', 4: 'D+4 (나흘후)'}
     frost_badge_map = {
         0: '✅ 안전 (Safe)',
         1: '⚠️ 주의 (Watch)',
         2: '🚨 경고 (Warning)',
         255: '결측'
     }
+
+    stats_json = load_forecast_stats_json(target_date)
+    if stats_json and stats_json.get('points'):
+        records = []
+        for lead_day in [1, 2, 3, 4]:
+            pts = stats_json['points'].get(f'D{lead_day}', [])
+            for p in pts:
+                records.append({
+                    '지점명': p['name'],
+                    '예보시점': lead_names.get(lead_day, f'D+{lead_day}'),
+                    '예보일자': p['target_date'],
+                    '표고(고도)': f"{p['alt']:.0f} m",
+                    '서리 판별': frost_badge_map.get(p['frost_code'], str(p['frost_code'])),
+                    '모형 A': p.get('pred_a', '-'),
+                    '모형 B': p.get('pred_b', '-'),
+                    '최저기온': f"{p['tmin']:.2f} °C" if p.get('tmin') is not None else '-',
+                    '최고기온': f"{p['tmax']:.2f} °C" if p.get('tmax') is not None else '-',
+                    '강수량': f"{p['precip']:.2f} mm" if p.get('precip') is not None else '-',
+                    '풍속': f"{p['wind']:.2f} m/s" if p.get('wind') is not None else '-',
+                    '상대습도': f"{p['humidity']:.1f} %" if p.get('humidity') is not None else '-',
+                    '대기운량': f"{p['cloud']:.1f} / 10" if p.get('cloud') is not None else '-',
+                })
+        if records:
+            df_res = pd.DataFrame(records)
+            return df_res.sort_values(by=['지점명', '예보시점'])
     
     try:
         from xgb_frost_predictor import get_5km_cloud_cover_0_10, load_xgb_models
@@ -312,7 +385,7 @@ def get_point_frost_weather_data(target_date: str):
     records = []
     import tifffile as tiff
     
-    for lead_day in [1, 2, 3]:
+    for lead_day in [1, 2, 3, 4]:
         target_dt = base_dt + datetime.timedelta(days=lead_day)
         target_date_str = target_dt.strftime('%Y-%m-%d')
         
@@ -398,9 +471,14 @@ st.sidebar.markdown("""
 """, unsafe_allow_html=True)
 
 dates = get_available_dates()
-if not dates:
+forecast_frost_dates = get_forecast_frost_dates()
+if not dates and not forecast_frost_dates:
     st.error(f"{OUTPUT_DIR} 에 계산 완료된 데이터가 없습니다.")
     st.stop()
+if not dates:
+    dates = forecast_frost_dates
+if not forecast_frost_dates:
+    forecast_frost_dates = dates
 
 # 1열: 즉시 새로고침 버튼 & 실시간 자동 감지 토글 (가로 2단 배치)
 col_btn, col_tog = st.sidebar.columns([1.1, 1.0])
@@ -843,23 +921,32 @@ with tab_frost:
     
     fcol1, fcol2, fcol3 = st.columns([1.5, 1, 1.5])
     with fcol1:
-        sel_frost_date = st.selectbox("📅 서리 예보 기준일 선택", dates, key="frost_date_sel", index=0)
+        sel_frost_date = st.selectbox(
+            f"📅 서리 예보 기준일 선택 (2026년~ · {len(forecast_frost_dates):,}일)",
+            forecast_frost_dates,
+            key="frost_date_sel",
+            index=0,
+            format_func=lambda x: f"{x[:4]}-{x[4:6]}-{x[6:]}",
+        )
     with fcol2:
-        sel_lead_day = st.selectbox("🗺️ 전국 지도 표출 시점", [1, 2, 3], format_func=lambda x: f"D+{x} ({'내일' if x==1 else '모레' if x==2 else '글피'})", key="frost_lead_sel")
+        sel_lead_day = st.selectbox("🗺️ 전국 지도 표출 시점", [1, 2, 3, 4], format_func=lambda x: f"D+{x} ({'내일' if x==1 else '모레' if x==2 else '글피' if x==3 else '나흘후'})", key="frost_lead_sel")
     with fcol3:
         st.write("")
         st.write("")
-        btn_run = st.button("⚡ 3일간(D+1~D+3) 서리 예측 일괄 생성", use_container_width=True, key="btn_run_frost")
+        btn_run = st.button("⚡ 4일간(D+1~D+4) 서리 예측 일괄 생성", use_container_width=True, key="btn_run_frost")
         
     if btn_run:
-        with st.spinner(f"{sel_frost_date} 기준 D+1 ~ D+3 (3일간) 서리 예측 연산 실행 중..."):
-            import subprocess
-            _xgb_script = os.path.join(os.path.dirname(os.path.abspath(__file__)), "xgb_frost_predictor.py")
-            for l_day in [1, 2, 3]:
-                cmd = [sys.executable, _xgb_script, sel_frost_date, str(l_day)]
-                subprocess.run(cmd, capture_output=True, text=True)
-            st.success("3일간(D+1~D+3) 서리 예측 및 지도가 모두 생성되었습니다!")
-            st.cache_data.clear()
+        _xgb_script = os.path.join(os.path.dirname(os.path.abspath(__file__)), "xgb_frost_predictor.py")
+        if os.path.exists(_xgb_script):
+            with st.spinner(f"{sel_frost_date} 기준 D+1 ~ D+4 (4일간) 서리 예측 연산 실행 중..."):
+                import subprocess
+                for l_day in [1, 2, 3, 4]:
+                    cmd = [sys.executable, _xgb_script, sel_frost_date, str(l_day)]
+                    subprocess.run(cmd, capture_output=True, text=True)
+                st.success("4일간(D+1~D+4) 서리 예측 및 지도가 모두 생성되었습니다!")
+                st.cache_data.clear()
+        else:
+            st.info("클라우드 배포 대시보드에서는 로컬 연산 서버에서 매일 오후 5시 자동 생성·동기화된 자료를 조회합니다.")
                 
     year_f = sel_frost_date[:4]
     png_f_path = os.path.join(FROST_DIR, year_f, f"XGB_Frost_Risk_{sel_frost_date}_D{sel_lead_day}.png")
@@ -898,7 +985,17 @@ with tab_frost:
         </div>
         """, unsafe_allow_html=True)
         
-        if os.path.exists(tiff_f_path):
+        frost_stats_json = load_forecast_stats_json(sel_frost_date)
+        frost_d_stat = (frost_stats_json or {}).get('frost', {}).get(f'D{sel_lead_day}')
+        if frost_d_stat:
+            n_tot = frost_d_stat.get('total', 0)
+            n_safe = frost_d_stat.get('safe', 0)
+            n_watch = frost_d_stat.get('watch', 0)
+            n_warn = frost_d_stat.get('warning', 0)
+            p_safe = (n_safe / n_tot) * 100 if n_tot else 0
+            p_watch = (n_watch / n_tot) * 100 if n_tot else 0
+            p_warn = (n_warn / n_tot) * 100 if n_tot else 0
+        elif os.path.exists(tiff_f_path):
             import tifffile as tiff
             arr = tiff.imread(tiff_f_path)
             valid_arr = arr[arr != 255]
@@ -963,10 +1060,10 @@ with tab_frost:
     st.markdown("---")
     st.markdown("""
     <div style="font-size: 1.05rem; font-weight: 700; color: #f1f5f9; height: 32px; display: flex; align-items: center; margin-top: 8px; margin-bottom: 4px;">
-        📍 주요 거점별 3일간(D+1~D+3) 서리 판별 & 270m 기상 예보 표출
+        📍 주요 거점별 서리 판별 & 270m 기상 예보 표출
     </div>
     <div style="font-size: 0.84rem; color: #94a3b8; margin-bottom: 10px;">
-        청주시 상당구 미원면, 국립농업과학원, 익산시 월성동 3개 지점의 <b>D+1(내일), D+2(모레), D+3(글피)</b> 270m 고해상도 수치예보 기상장 및 서리 예측 결과입니다.
+        청주시 상당구 미원면, 국립농업과학원, 익산시 월성동 3개 지점의 <b>D+1(내일) ~ D+4(나흘후)</b> 270m 고해상도 수치예보 기상장 및 서리 예측 결과입니다. (과거자료는 D+1, 최근 예보는 D+1~D+4 표출)
     </div>
     """, unsafe_allow_html=True)
     
@@ -976,7 +1073,7 @@ with tab_frost:
         st.caption("💡 표 헤더(지점명, 예보시점, 예보일자, 최저기온 등)를 클릭하여 원하는 기준으로 오름차순/내림차순 정렬할 수 있습니다.")
     else:
         st.warning(f"선택하신 {sel_frost_date} 기준의 서리 및 기상 예보 격자가 아직 생성되지 않았습니다.")
-        st.info("우측 상단의 [⚡ 3일간(D+1~D+3) 서리 예측 일괄 생성] 버튼을 누르면 10~15초 내에 3일치 연산 후 표가 즉시 채워집니다.")
+        st.info("우측 상단의 [⚡ 4일간(D+1~D+4) 서리 예측 일괄 생성] 버튼을 누르거나 오후 5시 자동 생성 완료 후 조회하실 수 있습니다.")
 
 # -------------------------------------------------------------
 # TAB 3: 270m 미세지형 수치예보 기상장 (GNN 다운스케일링)
@@ -1000,29 +1097,42 @@ with tab_forecast:
     
     fc1, fc2, fc3, fc4 = st.columns([1.2, 1, 1.2, 1.2])
     with fc1:
-        sel_fc_date = st.selectbox("📅 예보 기준일 (Base Date)", dates, key="fc_date_sel", index=0)
+        sel_fc_date = st.selectbox(
+            f"📅 예보 기준일 (2026년~ · {len(forecast_frost_dates):,}일)",
+            forecast_frost_dates,
+            key="fc_date_sel",
+            index=0,
+            format_func=lambda x: f"{x[:4]}-{x[4:6]}-{x[6:]}",
+        )
     with fc2:
-        sel_fc_lead = st.selectbox("⏱️ 예보 시점", [1, 2, 3], format_func=lambda x: f"D+{x} ({'내일' if x==1 else '모레' if x==2 else '글피'})", key="fc_lead_sel")
+        sel_fc_lead = st.selectbox("⏱️ 예보 시점", [1, 2, 3, 4], format_func=lambda x: f"D+{x} ({'내일' if x==1 else '모레' if x==2 else '글피' if x==3 else '나흘후'})", key="fc_lead_sel")
     with fc3:
         sel_fc_var = st.selectbox("🌡️ 예보 기상 변수", fc_vars, format_func=lambda x: VAR_LABELS.get(x, x), key="fc_var_sel")
     with fc4:
         st.write("")
         st.write("")
-        btn_run_gnn = st.button("⚡ 270m 예보장 즉시 생성 (GNN)", use_container_width=True, key="btn_run_gnn")
+        btn_run_gnn = st.button("⚡ 4일간(D+1~D+4) 270m 예보장 생성", use_container_width=True, key="btn_run_gnn")
         
     if btn_run_gnn:
-        with st.spinner(f"{sel_fc_date} (D+{sel_fc_lead}) 270m 전 기상변수 GNN 다운스케일링 실행 중..."):
-            import subprocess
-            cmd = [sys.executable, "-c", f"from downscale_pipeline import predict_and_generate_grid; predict_and_generate_grid('{sel_fc_date}', lead_day={sel_fc_lead})"]
-            res = subprocess.run(cmd, capture_output=True, text=True)
-            if res.returncode == 0:
-                st.success("270m 미세지형 수치예보 격자장 생성이 완료되었습니다!")
-                st.cache_data.clear()
-            else:
-                st.error(f"예측 실패: {res.stderr}")
+        _down_script = os.path.join(os.path.dirname(os.path.abspath(__file__)), "downscale_pipeline.py")
+        if os.path.exists(_down_script):
+            with st.spinner(f"{sel_fc_date} 기준 D+1~D+4 (4일간) 270m 전 기상변수 V5 GNN 상세화 실행 중..."):
+                import subprocess
+                cmd = [sys.executable, "-c", f"from downscale_pipeline import run_4day_downscale_forecast; run_4day_downscale_forecast('{sel_fc_date}', max_lead_days=4, include_frost=True)"]
+                res = subprocess.run(cmd, capture_output=True, text=True)
+                if res.returncode == 0:
+                    st.success("향후 4일간(D+1~D+4) 270m 미세지형 수치예보 격자장 생성이 완료되었습니다!")
+                    st.cache_data.clear()
+                else:
+                    st.error(f"예측 실패: {res.stderr}")
+        else:
+            st.info("클라우드 배포 대시보드에서는 로컬 GPU 서버에서 매일 오후 5시 자동 생성·동기화된 자료를 표출합니다.")
                 
     fc_year = sel_fc_date[:4]
+    fc_png_path = os.path.join(FORECAST_DIR, sel_fc_var, fc_year, f"{sel_fc_var}_forecast_{sel_fc_date}_D{sel_fc_lead}.png")
     fc_tiff_path = os.path.join(FORECAST_DIR, sel_fc_var, fc_year, f"{sel_fc_var}_forecast_{sel_fc_date}_D{sel_fc_lead}.tiff")
+    fc_stats_json = load_forecast_stats_json(sel_fc_date)
+    fc_var_stats = (fc_stats_json or {}).get('vars', {}).get(f'D{sel_fc_lead}', {}).get(sel_fc_var)
     
     col_fc_map, col_fc_info = st.columns([1.2, 1])
     
@@ -1032,11 +1142,15 @@ with tab_forecast:
             🗺️ 270m 예보 격자도:&nbsp;<span style="color: #a855f7;">{VAR_LABELS.get(sel_fc_var, sel_fc_var)}</span>&nbsp;<span style="font-size: 0.85rem; font-weight: 600; color: #94a3b8; margin-left: 4px;">(D+{sel_fc_lead})</span>
         </div>
         """, unsafe_allow_html=True)
-        if os.path.exists(fc_tiff_path):
-            img_bytes, stats = render_forecast_map(fc_tiff_path, sel_fc_var)
+        rendered_stats = None
+        if os.path.exists(fc_png_path):
+            st.image(Image.open(fc_png_path), use_container_width=True)
+        elif os.path.exists(fc_tiff_path):
+            img_bytes, rendered_stats = render_forecast_map(fc_tiff_path, sel_fc_var)
             if img_bytes:
                 st.image(img_bytes, use_container_width=True)
-                
+
+        if os.path.exists(fc_tiff_path):
             fc_size_mb = os.path.getsize(fc_tiff_path) / (1024 * 1024)
             with open(fc_tiff_path, "rb") as fp:
                 st.download_button(
@@ -1046,9 +1160,18 @@ with tab_forecast:
                     mime="image/tiff",
                     use_container_width=True
                 )
+        elif os.path.exists(fc_png_path):
+            with open(fc_png_path, "rb") as fp:
+                st.download_button(
+                    label=f"🖼️ {sel_fc_var} 270m 예보 PNG 이미지 다운로드",
+                    data=fp,
+                    file_name=f"{sel_fc_var}_forecast_{sel_fc_date}_D{sel_fc_lead}.png",
+                    mime="image/png",
+                    use_container_width=True
+                )
         else:
             st.warning(f"{sel_fc_date} (D+{sel_fc_lead}) {sel_fc_var} 270m 예보 격자가 아직 생성되지 않았습니다.")
-            st.info("우측 상단의 [⚡ 270m 예보장 즉시 생성 (GNN)] 버튼을 누르면 5~10초 내에 8개 전 기상변수 예보 격자가 일괄 생성됩니다.")
+            st.info("과거 일자는 D+1(내일), 최근 기준일은 D+1~D+4 예보장을 지원합니다.")
             
     with col_fc_info:
         st.markdown("""
@@ -1056,8 +1179,10 @@ with tab_forecast:
             📊 270m 전국 통계 지표 <span style="font-size: 0.82rem; font-weight: 500; color: #94a3b8; margin-left: 6px;">(전국 134만 격자 필지)</span>
         </div>
         """, unsafe_allow_html=True)
-        if os.path.exists(fc_tiff_path):
+        stats = fc_var_stats or rendered_stats
+        if stats is None and os.path.exists(fc_tiff_path):
             _, stats = render_forecast_map(fc_tiff_path, sel_fc_var)
+        if stats or os.path.exists(fc_png_path):
             unit_s = VAR_UNITS.get(sel_fc_var, '')
             if stats:
                 f1, f2, f3 = st.columns(3)
