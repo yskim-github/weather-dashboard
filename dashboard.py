@@ -11,6 +11,14 @@ import plotly.graph_objects as go
 import matplotlib.pyplot as plt
 from PIL import Image
 
+from matplotlib import font_manager
+_avail_fonts = {f.name for f in font_manager.fontManager.ttflist}
+for _cand in ('Malgun Gothic', 'NanumGothic', 'AppleGothic'):
+    if _cand in _avail_fonts:
+        plt.rcParams['font.family'] = _cand
+        break
+plt.rcParams['axes.unicode_minus'] = False
+
 # ==========================================
 # 1. Page Configuration & Custom CSS
 # ==========================================
