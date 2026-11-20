@@ -1,0 +1,24 @@
+﻿Date,Source,STN,Name,Variable,Value,Reason,Type
+20261120,RDA,520943A002,나주시 문평면,SS_DAY,14.983333333333333,Out of physical range (0~14.8),Range/Logic Error
+20261120,RDA,621100A001,김해시 전하동,SI_DAY,39.86,Out of physical range (0~31.5),Range/Logic Error
+20261120,RDA,621100A001,김해시 전하동,TA_MAX,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261120,RDA,621100A001,김해시 전하동,TA_MIN,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261120,RDA,621100A001,김해시 전하동,TA_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261120,RDA,621100A001,김해시 전하동,HM_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261120,RDA,621100A001,김해시 전하동,SS_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261120,RDA,621100A001,김해시 전하동,WS_AVG,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261120,RDA,621100A001,김해시 전하동,RN_DAY,-999.0,Logger ADC board voltage fault,Range/Logic Error
+20261120,RDA,516821A001,곡성군 오곡면,WS_AVG,9.49,"Exceeds 3.5 Sigma (Mean: 2.3, Std: 1.5)",Statistical Outlier
+20261120,RDA,539823A001,진도군 군내면,WS_AVG,9.7,"Exceeds 3.5 Sigma (Mean: 2.3, Std: 1.5)",Statistical Outlier
+20261120,RDA,540814A001,순천시 주암면,TA_MAX,-0.2,Differs from 5 nearest neighbors by 6.2 (Neighbor Mean: 6.1),Spatial Outlier
+20261120,RDA,548912A001,고흥군 풍양면,HM_AVG,0.1,Differs from 5 nearest neighbors by 78.6 (Neighbor Mean: 78.7),Spatial Outlier
+20261120,RDA,516821A001,곡성군 오곡면,HM_AVG,88.9,Differs from 5 nearest neighbors by 22.0 (Neighbor Mean: 66.9),Spatial Outlier
+20261120,RDA,542805A001,구례군 구례읍,HM_AVG,3.1,Differs from 5 nearest neighbors by 77.5 (Neighbor Mean: 80.6),Spatial Outlier
+20261120,RDA,540814A001,순천시 주암면,HM_AVG,86.4,Differs from 5 nearest neighbors by 23.8 (Neighbor Mean: 62.6),Spatial Outlier
+20261120,RDA,526821A001,영암군 덕진면,HM_AVG,88.4,Differs from 5 nearest neighbors by 21.1 (Neighbor Mean: 67.3),Spatial Outlier
+20261120,RDA,536824B002,해남군 옥천면,HM_AVG,10.8,Differs from 5 nearest neighbors by 71.9 (Neighbor Mean: 82.7),Spatial Outlier
+20261120,RDA,546804B001,보성군 보성읍,HM_AVG,89.7,Differs from 5 nearest neighbors by 25.0 (Neighbor Mean: 64.7),Spatial Outlier
+20261120,RDA,052546F018,사천시 송포동,HM_AVG,19.0,Differs from 5 nearest neighbors by 50.7 (Neighbor Mean: 69.7),Spatial Outlier
+20261120,RDA,667831A001,하동군 적량면,HM_AVG,77.1,Differs from 5 nearest neighbors by 20.6 (Neighbor Mean: 56.5),Spatial Outlier
+20261120,RDA,526821A001,영암군 덕진면,SS_DAY,0.13333333333333333,Differs from 5 nearest neighbors by 4.8 (Neighbor Mean: 4.9),Spatial Outlier
+20261120,RDA,699946A001,서귀포 하례리,SS_DAY,7.55,Differs from 5 nearest neighbors by 5.6 (Neighbor Mean: 1.9),Spatial Outlier
